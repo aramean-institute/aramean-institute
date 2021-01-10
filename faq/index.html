@@ -1,4 +1,4 @@
-<script src="https://3el.github.io/front/dist/front.js" title="Frequently Asked Questions​" template="true"></script>
+<script src="https://3el.github.io/front/dist/front.js" title="Frequently Asked Questions​" template="../"></script>
 
 <template>
     <aside index="0"></aside>
@@ -11,28 +11,11 @@
 
 <article class="pauto">
     <section>
-        <nav class="tabs accordions">
-
-            <input type="radio" name="panel" id="tab1">
-            <label for="tab1">Are the Syriacs and the Arameans the same people?</label>
+        <nav class="tabs accordions" json="true" iterate="faq" datasource="assets/json/faq.json">
+            <input type="radio" name="panel" id="tab{{ jsonget:id }}">
+            <label for="tab{{ jsonget:id }}" jsonget="question"></label>
             <section>
-                <p>Yes, Native Syrians are the direct descendant of the Arameans. "Syriac; Syrian" is a Greek term meaning Aramean.</p>
-            </section>
-            
-            <input type="radio" name="panel" id="tab2">
-            <label for="tab2">What happened to the Aramean homeland?</label>
-            <section>
-                <p>The Aramean homeland (Aram & Aram Naharaim) was conquered by many non-indigenous people such as Assyrians, Persians, Romans, Arabs, Ottomans, Kurds, etc., however, Syria (Aram) is considered the modern homeland of the Arameans, but under Arab rule.</p>
-            </section>
-            
-            <input type="radio" name="panel" id="tab3">
-            <label for="tab3">Why do Arameans call themselves Chaldeans or Assyrians?</label>
-            <section>
-                During the Colonization of the Middle East, groups of Arameans pledged alliances to Westerners and accepted the Middle East plan, in the hope of being independent, safe, and protected.
-                <br><br>
-                The terms Assyrian and Chaldean were chosen accordingly to the geographical location of the Assyrian and Babylonian provinces.
-                <br><br>
-                The Syriac Churches of the East and the national separatist movements propagated the new identities amongst the people and created bogus ethnologies.
+                <p jsonget="answer"></p>
             </section>
         </nav>
     </section>
