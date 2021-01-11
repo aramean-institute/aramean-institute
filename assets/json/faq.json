@@ -19,6 +19,11 @@
             "id": 4,
             "question": "Is Aramaic the language of Jesus?",
             "answer": "Yes, Jesus and his disciples primarly spoke Aramaic."
+        },
+        {
+            "id": 5,
+            "question": "How old is the Aramaic language?",
+            "answer": "Aramaic has been around for more than 3,000 years"
         }
     ]
 }
