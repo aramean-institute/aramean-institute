@@ -38,9 +38,18 @@
     
 </section>
 
-<section class="hm100 light">
-    <section class="hm100 w100">
-    </section>
+<section class="light">
+    <article class="pauto wm70">
+        <div class="box cards m1- p1- br05- bcwhite- border- bo0- tac" json="true" iterate="articles" datasource="assets/json/articles.json">
+            <a href="#" jsonget="link">
+                <figure class="shade0 p1">
+                    <img jsonget="thumbnail" class="w100">
+                    <p class="fwb pt1" jsonget="title">...</p>
+                    <figcaption jsonget="summary">...</figcaption>
+                </figure>
+            </a>
+        </div>
+    </article>
 </section>
 
 <section include="footer.html" class="bcred white white- p1"></section>
