@@ -24,6 +24,11 @@
             "id": 5,
             "question": "How old is the Aramaic language?",
             "answer": "Aramaic has been around for more than 3,000 years."
+        },
+        {
+            "id": 6,
+            "question": "What is the difference between Armenian and Aramean?",
+            "answer": "Aramaeans are Semites while Armenians are Japhites."
         }
     ]
 }
