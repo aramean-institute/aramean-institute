@@ -5,14 +5,21 @@
             "title": "Aram and Israel relations",
             "summary": "Arameans and the Hebrew Patriarchs have shared origins and marriage ties existed between the peoples.",
             "thumbnail": "assets/img/slide1.jpg",
-            "link": "article/aram-israel.html"
+            "link": "article/aram-israel-relations.html"
         },
         {
             "id": 2,
-            "title": "Kaldu-Arameans in Babylon",
+            "title": "The Kaldu-Arameans in Babylon",
             "summary": "Chaldeans are Arameans from the tribe of Kaldu or (Kasdu) conquering and destroying the Assyrian Empire.",
             "thumbnail": "assets/img/slide2.jpg",
-            "link": "#"
+            "link": "article/kaldu-arameans-in-babylon.html"
+        },
+        {
+            "id": 3,
+            "title": "Misstakes made in The Chronicles of Michael Rabo interpretation",
+            "summary": "Theologian Jean Baptist Chabot releases the first edition of his interpretation of The Chronicles of Michael Rabo with misstakes.",
+            "thumbnail": "",
+            "link": "article/mor-michael-rabo-missing-comma-word.html"
         }
     ]
 }
