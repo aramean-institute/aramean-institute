@@ -1,41 +1,21 @@
 <section class="hm100 bcred white dac">
-
-    <nav class="slider tshade1 dc gap05-" iterate="" datasource="assets/json/articles.json">
+    <nav class="slider tshade1 dc gap05-" json="true" iterate="articles" datasource="assets/json/articles.json">
         <div class="sl" skip><a onclick="alert('c')"><i class="icon64 bcblack02 d0">&#706;</i></a></div>
-        <input type="radio" name="slidernewdemo" id="sliderdemo1" checked>
-        <label for="sliderdemo1" class="footer icon24 pb1">&#9679;</label>
+        <input type="radio" name="slider" id="slide{{ jsonget:id }}" if="{{ jsonget:id }};1;checked">
+        <label for="slide{{ jsonget:id }}" class="footer icon24 pb1">&#9679;</label>
         <section>
-            
             <article class="white w70">
-                <h1 class="fs17">Aram and Israel relations</h1>
-                <h3 class="beige tshade1">"Arameans and the Hebrew Patriarchs have shared origins and marriage ties existed between the peoples."</h3>
-                <a href="article/aram-israel-relations.html" class="button p1 bcyellow red mt2 br05">Read more</a>
+                <h1 class="fs17" jsonget="title"></h1>
+                <h3 class="beige tshade1" jsonget="summary"></h3>
+                <a href="#" jsonget="link" class="button p1 bcyellow red mt2 br05">Read more</a>
             </article>
 
             <figure>
-                <img src="assets/img/slide1.jpg">
+                <img src="assets/img/slide{{ jsonget:id }}.jpg">
             </figure>
         </section>
-
-        <input type="radio" name="slidernewdemo" id="sliderdemo2">
-        <label for="sliderdemo2" class="footer icon24 pb1">&#9679;</label>
-        <section>
-
-            <article class="white w70">
-                <h1 class="fs17">Kaldu-Arameans</h1>
-                <h3 class="beige">"Chaldeans are Arameans from the tribe of Kaldu or (Kasdu) conquering and destroying the Assyrian Empire."</h3>
-                <a href="article/kaldu-arameans-in-babylon.html" class="button p1 bcyellow red mt2 br05">Read more</a>
-            </article>
-
-            <figure>
-                <img src="assets/img/slide2.jpg">
-            </figure>
-        </section>
-
         <div class="sr" skip><a onclick="alert('c')"><i class="icon64 bcblack02 d0">&#707;</i></a></div>
     </nav>
-
-    
 </section>
 
 <section class="light">
