@@ -11,7 +11,7 @@
             </article>
 
             <figure>
-                <img src="assets/img/slide{{ jsonget:id }}.jpg">
+                <img if="{{ jsonget:thumbnail }};;src" src="assets/img/slide{{ jsonget:id }}.jpg">
             </figure>
         </section>
         <div class="sr" skip><a onclick="alert('c')"><i class="icon64 bcblack02 d0">&#707;</i></a></div>
