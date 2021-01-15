@@ -1,7 +1,7 @@
 <script src="https://3el.github.io/front/dist/front.js" title="Software Technology" template="../../"></script>
 
-<article class="pauto">
-    <h1>Technology</h1>
+<section class="pauto">
+    <h1>Software Technology</h1>
     <nav class="crumbs pointer pt05">
         <ol>
             <li><a href="#">Development</a></li>
@@ -10,20 +10,16 @@
         </ol>
     </nav>
 
-    <section class="mt2">
-        
-    </section>
+    <article class="mt2 mb2">
+        More action and less talk. We produce important software technology that impacts the society.
+    </article>
 
-    <section class="mt2">
-        <h4>Aramaic Keyboard</h4>
-        <h6>Keyboard for MacOS</h6>
-        <i class="icon">🔗</i><a href="https://aramean.github.io/aramaic-keyboard" target="_blank">https://aramean.github.io/aramaic-keyboard</a>
-    </section>
-    
-    <section class="mt2">
-        <h4>The Slide Of Testimonies</h4>
-        <h6>Aramean & Syriac synonym</h6>
-        <i class="icon">🔗</i><a href="https://aramean.github.io/arameans/" target="_blank">https://aramean.github.io/arameans</a>
-    <section>
+    <div json="true" iterate="projects" datasource="../../../assets/json/projects.json" class="box cards gut3- br05- bcwhite- border- tac">
+        <figure class="p1">
+            <h5 jsonget="title"></h5>
+            <h7 jsonget="summary"></h7>
+            <i class="icon">🔗</i><a jsonget="link" target="_blank" href="#">Go to project</a>
+        </figure>
+    </div>
 
-</article>
+</section>
