@@ -3,8 +3,14 @@
         {
             "id": 1,
             "title": "The Aramean flag, or Syriac-Aramean flag",
-            "summary": "Ethnic flag designated for the Arameans,",
+            "summary": "Ethnic flag designated for the Arameans",
             "image": "assets/img/syriac_aramean_ethnic_flag.svg"
+        },
+        {
+            "id": 2,
+            "title": "The original Aramean flag of Tell Halaf",
+            "summary": "Tell Halaf Flag designated by the Aramean Institute",
+            "image": "assets/img/syriac_aramean_tell_halaf_flag.svg"
         }
     ]
 }
