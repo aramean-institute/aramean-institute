@@ -18,7 +18,7 @@
         {
             "id": 4,
             "question": "Is Aramaic the language of Jesus?",
-            "answer": "Yes, Jesus and his disciples primarly spoke Aramaic."
+            "answer": "Yes, Jesus and his disciples primarily spoke Aramaic."
         },
         {
             "id": 5,
@@ -29,6 +29,16 @@
             "id": 6,
             "question": "What is the difference between Armenian and Aramean?",
             "answer": "Armenians are Indo-European-speaking population descendants of Japheth, while Arameans are Semitic-speaking population descendants of Sem."
+        },
+        {
+            "id": 7,
+            "question": "Is Ashurit or Ktav Ashuri the same as Aramaic?",
+            "answer": "Yes, Ashurit is a geographical term, meaning the Aramaic from ancient Assyria. The Hebrew language is called Ashurit, and it's often mistaken for being Assyrian amongst non-Hebrew speakers."
+        },
+        {
+            "id": 8,
+            "question": "Are Syriac and Aramaic the same?",
+            "answer": "Yes, Syriac is a geographical term, meaning the Aramaic from Syria. Syriac or Syrian is the modern Aramaic used today by Arameans all around the world."
         }
     ]
 }
