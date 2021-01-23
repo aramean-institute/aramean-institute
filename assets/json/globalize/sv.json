@@ -1,5 +1,7 @@
 {
     "religion": "Religion",
     "message": "Meddelande",
-    "vision": "Vision"
+    "vision": "Vision",
+    "history": "Historia",
+    "statistics": "Statistik"
 }
