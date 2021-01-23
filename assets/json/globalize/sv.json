@@ -1,12 +1,13 @@
 {
-    "religion": "Religion",
-    "message": "Meddelande",
-    "vision": "Vision",
-    "history": "Historia",
-    "statistics": "Statistik",
-    "art": "Konst",
-    "technology": "Teknologi",
     "about": "Om",
+    "art": "Konst",
+    "contact": "Kontakt",
     "faq": "FAQ",
-    "contact": "Kontakt"
+    "history": "Historia",
+    "message": "Meddelande",
+    "overview": "Översikt",
+    "religion": "Religion",
+    "statistics": "Statistik",
+    "technology": "Teknologi",
+    "vision": "Vision"
 }
