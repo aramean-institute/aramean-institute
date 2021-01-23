@@ -3,5 +3,10 @@
     "message": "Meddelande",
     "vision": "Vision",
     "history": "Historia",
-    "statistics": "Statistik"
+    "statistics": "Statistik",
+    "art": "Konst",
+    "technology": "Teknologi",
+    "about": "Om",
+    "faq": "FAQ",
+    "contact": "Kontakt"
 }
