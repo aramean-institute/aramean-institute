@@ -6,11 +6,11 @@
 </template>
 
 <div class="alert banner shade1 br0 pauto bcred white-">
-    <h1 globalize="art">Art</h1>
+    <h1 globalize="art" globalize="art">Art</h1>
     <nav class="crumbs pointer pt05">
         <ol>
-            <li><a href="#">Development</a></li>
-            <li><a href="#">Art</a></li>
+            <li><a href="#" globalize="development">Development</a></li>
+            <li><a href="#" globalize="art">Art</a></li>
         </ol>
     </nav>
 </div>
@@ -18,8 +18,8 @@
 <section class="pauto">
 
     <div json="true" iterate="arts" datasource="../../../assets/json/arts.json" class="box cards gut3- br05- bcwhite- border- tac">
-        <figure class="p1">
-            <img class="w100" src="" jsonbefore="../../../" jsonget="image">
+        <figure class="p2">
+            <img class="w100 pb1" src="" jsonbefore="../../../" jsonget="image">
             <h5 jsonget="title"></h5>
             <h7 jsonget="summary"></h7>
         </figure>
