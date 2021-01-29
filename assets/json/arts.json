@@ -2,15 +2,19 @@
     "arts":[
         {
             "id": 1,
-            "title": "The Aramean flag, or Syriac-Aramean flag",
+            "title": "The modern Aramean flag",
             "summary": "Ethnic flag designated for the Arameans",
-            "image": "assets/img/syriac_aramean_ethnic_flag.svg"
+            "image": "assets/img/syriac_aramean_ethnic_flag.svg",
+            "designer": "Bahro Suryoyo",
+            "adopted": "1980"
         },
         {
             "id": 2,
             "title": "The original Aramean flag of Tell Halaf",
             "summary": "Tell Halaf Flag designated by the Aramean Institute",
-            "image": "assets/img/syriac_aramean_tell_halaf_flag.svg"
+            "image": "assets/img/syriac_aramean_tell_halaf_flag.svg",
+            "designer": "Josef Gabrielsson",
+            "adopted": "2020"
         }
     ]
 }
