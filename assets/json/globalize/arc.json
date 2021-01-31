@@ -1,6 +1,8 @@
 {
     "arts": "ܐܘܡܢܘܬܐ",
     "about_us": "ܡܢ ܐܝܬܝܢ؟",
+    "about": "ܥܠ",
+    "contact": "ܡܘܛܝܐ",
     "contact_us": "ܡܘܛܝܐ",
     "cookie": "ܚܚܘܪܬܐ",
     "language": "ܠܫܢܐ",
@@ -8,6 +10,7 @@
     "religion": "ܗܝܡܢܘܬܐ",
     "research": "ܥܘܩܒܐ",
     "reset": "ܢܗܪ",
+    "privacy": "ܚܠܡܘܬܐ",
     "send_message": "ܫܕܪܐ ܙܓܕܘܬܐ",
     "message": "ܐܝܙܓܕܐ",
     "technology": "ܛܩܢܘܠܘܓܝܐ",
