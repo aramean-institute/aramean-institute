@@ -1,0 +1,34 @@
+{
+    "name": "English",
+    "nativeName": "English",
+    "code": "en",
+    "translations":
+        {
+            "about": "About",
+            "about_us": "About us",
+            "article": "Article",
+            "arts": "Arts",
+            "cookie": "Cookie",
+            "contact": "Contact",
+            "contact_us": "Contact Us",
+            "contribute": "Contribute",
+            "development": "Development",
+            "ethnology": "Etnology",
+            "faq": "FAQ",
+            "financing": "Financing",
+            "history": "History",
+            "language": "Language",
+            "message": "Message",
+            "overview": "Overview",
+            "principles": "Principles",
+            "privacy": "Privacy",
+            "read_more": "Read more",
+            "research": "Research",
+            "reset": "Reset",
+            "religion": "Religion",
+            "statistics": "Statistics",
+            "send_message": "Send message",
+            "technology": "Technology",
+            "vision": "Vision"
+        }
+}
