@@ -36,6 +36,21 @@
 		</url>
 
 		<url>
+			<loc>https://www.aramean.institute/research/ethnology</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://www.aramean.institute/research/ethnology/language</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://www.aramean.institute/research/ethnology/religion</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
 			<loc>https://www.aramean.institute/collection/statistics</loc>
 			<changefreq>weekly</changefreq>
 		</url>
