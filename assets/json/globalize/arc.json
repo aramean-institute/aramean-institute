@@ -2,6 +2,7 @@
     "name": "Aramaic",
     "nativeName": "ܐܪܡܝܐ",
     "code": "arc",
+    "direction": "rtl",
     "translations":
         {
             "arts": "ܐܘܡܢܘܬܐ",

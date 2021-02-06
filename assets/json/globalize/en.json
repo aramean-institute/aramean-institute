@@ -2,6 +2,7 @@
     "name": "English",
     "nativeName": "English",
     "code": "en",
+    "direction": "ltr",
     "translations":
         {
             "about": "About",
