@@ -3,15 +3,15 @@
         {
             "id": 1,
             "title": "The modern Aramean flag",
-            "summary": "Ethnic flag designated for the Arameans",
+            "summary": "Ethnic flag designated for the Arameans and accepted by its people",
             "image": "assets/img/syriac_aramean_ethnic_flag.svg",
             "designer": "Bahro Suryoyo",
             "adopted": "1980"
         },
         {
             "id": 2,
-            "title": "The original Aramean flag of Tell Halaf",
-            "summary": "Tell Halaf Flag designated by the Aramean Institute",
+            "title": "The original Aramean flag of Gozan (Tell Halaf)",
+            "summary": "Gozan (Tell Halaf) flag designated by the Aramean Institute",
             "image": "assets/img/syriac_aramean_tell_halaf_flag.svg",
             "designer": "Josef Gabrielsson",
             "adopted": "2020"
