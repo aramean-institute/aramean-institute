@@ -19,11 +19,12 @@
 
     <div json="true" iterate="arts" datasource="../../../assets/json/arts.json" class="box cards gut3- br05- bcwhite- border- tac md_gtc1 xl_gtc2">
         <figure class="p2">
-            <img class="w100 pb1" src="" jsonbefore="../../../" jsonget="image">
-            <h5 jsonget="title"></h5>
+            <h5 jsonget="title" class="mb1"></h5>
+            <img class="w90 pb1" src="" jsonbefore="../../../" jsonget="image">
             <h7 jsonget="summary"></h7>
             <small jsonget="designer" jsonbefore="Designed by: "></small>
             <small jsonget="adopted" jsonbefore="Adopted: "></small>
+            <a target="_blank" class="button mt2 bcred" href="{{ jsonget:image }}" download>Download</a>
         </figure>
     </div>
 
