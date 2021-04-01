@@ -13,6 +13,7 @@
             "contact": "Contact",
             "contact_us": "Contact Us",
             "contribute": "Contribute",
+            "culture": "Culture",
             "development": "Development",
             "download": "Download",
             "ethnology": "Etnology",
@@ -36,6 +37,7 @@
             "religion": "Religion",
             "statistics": "Statistics",
             "send_message": "Send message",
+            "summary": "Summary",
             "technology": "Technology",
             "vision": "Vision"
         }
