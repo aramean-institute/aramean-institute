@@ -1,0 +1,32 @@
+{
+    "name": "Hebrew",
+    "nativeName": "עברית",
+    "code": "he",
+    "direction": "rtl",
+    "translations":
+        {
+            "arts": "אומנות",
+            "about_us": "עלינו؟",
+            "about": "על אודות",
+            "christianity": "נַצְרוּת",
+            "contact": "ܡܘܛܝܐ",
+            "contact_us": "צור קשר",
+            "cookie": "ܚܚܘܪܬܐ",
+            "contribute": "לתרום",
+            "culture": "תַרְבּוּת",
+            "development": "התפתחות",
+            "language": "שפה",
+            "history": "הִיסטוֹרִיָה",
+            "religion": "דָת",
+            "research": "מחקר",
+            "reset": "ܢܗܪ",
+            "paganism": "עֲבוֹדַת אֵלִילִים",
+            "privacy": "פְּרָטִיוּת",
+            "send_message": "ܫܕܪܐ ܙܓܕܘܬܐ",
+            "statistics": "סטָטִיסטִיקָה",
+            "message": "ܐܝܙܓܕܐ",
+            "mission": "משימה",
+            "technology": "טֶכנוֹלוֹגִיָה",
+            "vision": "חָזוֹן"
+        }
+}
