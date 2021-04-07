@@ -9,9 +9,8 @@
                 <h3 class="beige tshade1" jsonget="summary"></h3>
                 <a href="#" jsonget="link" class="button p1 bcblack white mt2 br05 xm_w100p" globalize="read_more">Read more</a>
             </article>
-
             <figure>
-                <img if="{{ jsonget:thumbnail }};;src" src="assets/img/slide{{ jsonget:id }}.jpg">
+                <img if="!{{ jsonget:thumbnail }};;src:assets/img/slide{{ jsonget:id }}.jpg">
             </figure>
         </section>
         <div class="sr" skip><a onclick="alert('c')"><i class="icon64 bcblack02 d0">&#707;</i></a></div>
@@ -23,7 +22,7 @@
         <div class="box cards m1- p1- br05- bcwhite- border- bo0- tac md_gtc2 xl_gtc3 xxl_gtc3 xxxl_gtc4" json="true" iterate="articles" datasource="assets/json/articles.json">
             <figure class="shade0 p1">
                 <a href="#" jsonget="link">
-                    <img jsonget="thumbnail" class="w100">
+                    <img if="{{ jsonget:thumbnail }};;src:assets/img/placeholder_article.png" jsonget="thumbnail" class="w100" src="">
                     <p class="fwb pt1" jsonget="title">...</p>
                     <figcaption jsonget="summary">...</figcaption>
                 </a>
