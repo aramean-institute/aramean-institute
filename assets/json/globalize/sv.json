@@ -43,6 +43,10 @@
             "send_message": "Skicka meddelande",
             "summary": "Sammanfattning",
             "technology": "Teknologi",
-            "vision": "Vision"
+            "vision": "Vision",
+
+            "page_contribute_text1": "Ditt bidrag och stöd gör skillnad!",
+            "page_contribute_text2": "Överväg att stödja Aramean Institutes värdefulla arbete genom att donera eller dela med andra som vill hjälpa oss.",
+            "page_contribute_text3": "Jag vill donera"
         }
 }

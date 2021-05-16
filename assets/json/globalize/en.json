@@ -43,6 +43,10 @@
             "send_message": "Send message",
             "summary": "Summary",
             "technology": "Technology",
-            "vision": "Vision"
+            "vision": "Vision",
+
+            "page_contribute_text1": "Your contribution and support make a difference!",
+            "page_contribute_text2": "Consider supporting the Aramean Institute's valuable work by donating or sharing with others who want to help us.",
+            "page_contribute_text3": "I want to donate"
         }
 }
