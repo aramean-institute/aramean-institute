@@ -23,10 +23,17 @@
         },
         {
             "id": 4,
-            "title": "The language of Turabdin",
-            "summary": "The Aramaic of Turabdin (Turabdium) is the Aramaic of Urhoy (Edessa). Aramaya became Suryaya and Suryaya became Suryoyo",
+            "title": "The holy language of Tur Abdin",
+            "summary": "The Aramaic of Tur Abdin (Turabdium) is the Aramaic of Urhoy (Edessa). \"Aramaya\" became \"Suryaya\" and \"Suryaya\" became \"Suryoyo\".",
             "thumbnail": "",
-            "link": "article/aramaya-arhaya-suryaya-suryoyo-urhoyo.html"
+            "link": "article/aramaya-arhaya-suryaya-suryoyo-urhoyo-turabdin.html"
+        },
+        {
+            "id": 5,
+            "title": "Israel recognizes the Arameans as separate nationality",
+            "summary": "The State of Israel recognizes the Arameans as separate nationality in Israel.",
+            "thumbnail": "",
+            "link": "article/israel-recognizes-aramean-nationality.html"
         }
     ]
 }
