@@ -14,20 +14,20 @@
         <h4 class="tac" globalize="page_contact_text1">For all inquiries, please email us using the form below.</h4>
     </section>
     <section>
-        <form class="gaph2- mt2">
+        <form method="post" datasource="https://tmqmoxcasyhxxxqknevp.supabase.co/rest/v1/emails" dataheader="apikey:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlhdCI6MTYyNTM0NjM2MSwiZXhwIjoxOTQwOTIyMzYxfQ.3PDCNsUHb4gVwtRi_GTDA93sk3l9Usmd6YdA2OHxbY0" class="gaph2- mt2" ondone="alert('Your message was sent successfully.')">
                 <div class="group">
-                <input class="outlined" type="text" globalize="full_name" placeholder="Full name">
+                <input name="name" class="outlined" type="text" globalize="full_name" placeholder="Full name" required>
                 </div>
                 <div class="group">
-                <select class="outlined">
-                     <option>Subject</option>
-                     <option>Membership</option>
-                     <option>Other</option>
+                <select name="subject" class="outlined">
+                    <option value="1">Membership</option>
+                    <option value="2">Cooperation</option>
+                    <option value="0" selected>Other</option>
                 </select>
                 </div>
 
-                <div class="group">
-                    <textarea id="message" class="w100 h10r outlined" globalize="message" placeholder="Message"></textarea>
+                <div class="group" required>
+                    <textarea name="message" class="w100 h10r outlined" globalize="message" placeholder="Message"></textarea>
                 </div>
 
                 <div class="gap1-">
