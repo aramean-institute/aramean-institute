@@ -6,6 +6,7 @@
             "summary": "Ethnic flag designated for the Arameans and accepted by its people",
             "image": "assets/img/syriac_aramean_ethnic_flag.svg",
             "designer": "Bahro Suryoyo",
+            "license": "FAL",
             "adopted": "1980"
         },
         {
@@ -14,6 +15,7 @@
             "summary": "Gozan (Tell Halaf) flag designated by the Aramean Institute",
             "image": "assets/img/syriac_aramean_tell_halaf_flag.svg",
             "designer": "Josef Gabrielsson",
+            "license": "FAL",
             "adopted": "2020"
         }
     ]
