@@ -10,7 +10,7 @@
                 <a href="#" jsonget="link" class="button p1 bcblack white mt2 br05 xm_w100p" globalize="read_more">Read more</a>
             </article>
             <figure>
-                <img if="!{{ jsonget:thumbnail }};;src:assets/img/slide{{ jsonget:id }}.jpg">
+                <img if="!{{ jsonget:image }};;src:{{ jsonget:image }}">
                 <span class="bcblack04 pa hm100 w100"></span>
             </figure>
         </section>

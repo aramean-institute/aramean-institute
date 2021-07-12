@@ -5,6 +5,7 @@
             "title": "Aram and Israel relations",
             "summary": "Arameans and the Hebrew Patriarchs have shared origins and marriage ties existed between the peoples.",
             "thumbnail": "assets/img/slide1.jpg",
+            "image": "assets/img/slide1.jpg",
             "link": "article/aram-israel-relations.html"
         },
         {
@@ -12,6 +13,7 @@
             "title": "The Kaldu-Arameans in Babylon",
             "summary": "Chaldeans are Arameans from the tribe of Kaldu or (Kasdu) conquering and destroying the Assyrian Empire.",
             "thumbnail": "assets/img/slide2.jpg",
+            "image": "assets/img/slide2.jpg",
             "link": "article/kaldu-arameans-in-babylon.html"
         },
         {
@@ -19,6 +21,7 @@
             "title": "Interpretation mistakes made in The Chronicle of Michael the Great",
             "summary": "Theologian Jean Baptist Chabot releases the first edition of his interpretation of The Chronicle of Michael the Great with misstakes.",
             "thumbnail": "",
+            "image": "assets/img/slide3.jpg",
             "link": "article/mor-michael-rabo-missing-comma-word.html"
         },
         {
@@ -26,6 +29,7 @@
             "title": "The holy language of Tur Abdin",
             "summary": "The Aramaic of Tur Abdin (Turabdium) is the Aramaic of Urhoy (Edessa). \"Aramaya\" became \"Suryaya\" and \"Suryaya\" became \"Suryoyo\".",
             "thumbnail": "",
+            "image": "assets/img/slide4.jpg",
             "link": "article/aramaya-arhaya-suryaya-suryoyo-urhoyo-turabdin.html"
         },
         {
@@ -33,6 +37,7 @@
             "title": "Israel recognizes the Arameans as separate nationality",
             "summary": "The State of Israel recognizes the Arameans as separate nationality in Israel.",
             "thumbnail": "assets/img/israel_flag_knesset.jpg",
+            "image": "assets/img/israel_flag_knesset.jpg",
             "link": "article/israel-recognizes-aramean-nationality.html"
         },
         {
@@ -40,6 +45,7 @@
             "title": "The Aramean Genocide (Sayfo)",
             "summary": "Turks and Kurds kills over 500 thousand Arameans between 1915 and 1917.",
             "thumbnail": "",
+            "image": "",
             "link": "article/aramean-genocide-sayfo-seyfo.html"
         },
         {
@@ -47,6 +53,7 @@
             "title": "Kurdish heroes saves Arameans during the Genocide (Sayfo)",
             "summary": "Kurdish heroes saves thousands of Arameans during the Genocide.",
             "thumbnail": "",
+            "image": "",
             "link": ""
         }
     ]
