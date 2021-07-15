@@ -1,6 +1,5 @@
-<script src="https://3el.github.io/front/dist/front.js" template="../index"></script>
 
-<title>Contribute</title>
+<script src="https://3el.github.io/front/dist/front.js" title="Contribute" template="../index"></script>
 
 <template>
     <aside index="0"></aside>
@@ -8,39 +7,20 @@
 </template>
 
 <div class="alert banner shade1 br0 pauto pt2 pb2 bcred white-">
-    <h1 globalize="contribute">Contribute</h1>
+    <h1 globalize="contribute"></h1>
 </div>
 
-<article class="pauto wc_xxl">
-    <section>
-        <h4 class="tac" globalize="page_contact_text1">For all inquiries, please email us using the form below.</h4>
-    </section>
-    <section>
-        <form method="post" class="gaph2- mt2">
-                <div class="group">
-                    <input name="name" class="outlined phdark" type="text" globalize="full_name" placeholder="Full name" required>
-                </div>
-                <div class="group">
-                    <input name="email" class="outlined phdark" type="text" globalize="email" placeholder="Email" required>
-                </div>
-                <div class="group">
-                <select name="subject" class="outlined phdark">
-                    <option value="1" globalize="membership">Membership</option>
-                    <option value="2" globalize="cooperation">Cooperation</option>
-                    <option value="0" globalize="other" selected>Other</option>
-                </select>
-                </div>
-
-                <div class="group" required>
-                    <textarea name="message" class="w100 h10r outlined phdark" globalize="message" placeholder="Message"></textarea>
-                </div>
-
-                <div class="gap1-">
-                    <button type="submit" globalize="send_message">Send message</button>
-                </div>
-        
+<section class="pauto wc_xxl">
+    <article>
+        <h4 class="fs16 mb1" globalize="page_contribute_text1"></h4>
+        <p globalize="page_contribute_text2"></p>
+        <br>
+        <form action="https://www.paypal.com/donate" target="_blank">
+            <input type="hidden" name="hosted_button_id" value="BAQWBFGZ83FVC" />
+            <input type="submit" class="button bcred yellow" globalize="page_contribute_text3">
         </form>
-    </section>
-</article>
+
+    </article>
+</section>
 
 <section include="./footer.html" class="bcred white white- p1"></section>
