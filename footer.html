@@ -1,10 +1,10 @@
 <section class="wc_xxl db tac">
     <a class="pt2" href="about/" globalize="about">About</a> &middot; <a href="policy/privacy/" globalize="privacy">Privacy</a> &middot; <a href="policy/cookie/" globalize="cookie">Cookie</a>
     &nbsp;<select onchange="globalizeChangeLanguage((this.options[this.selectedIndex].value))">
-        <option value="en" if="{% trans.code %};en;selected">English</option>
-        <option value="sv" if="{% trans.code %};sv;selected">Svenska</option>
-        <option value="arc" if="{% trans.code %};arc;selected">ܐܪܡܝܐ</option>
-        <option value="he" if="{% trans.code %};he;selected">עברית</option>
+        <option value="en" if="{% localeCode %};eng;selected">English</option>
+        <option value="sv" if="{% localeCode %};swe;selected">Svenska</option>
+        <option value="arc" if="{% localeCode %};arc;selected">ܐܪܡܝܐ</option>
+        <option value="he" if="{% localeCode %};heb;selected">עברית</option>
     </select>
     <hr class="mt1 bcred shade1">
     <a href="https://www.facebook.com/aramean.institute" target="_blank" alt="facebook"><i class="icon48 white">&#9429;</i></a>
