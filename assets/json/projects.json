@@ -1,22 +1,22 @@
 {
-    "projects":[
-        {
-            "id": 1,
-            "title": "Aramaic Keyboard",
-            "summary": "Keyboard for MacOS.",
-            "link": "https://aramean.github.io/aramaic-keyboard"
-        },
-        {
-            "id": 2,
-            "title": "The Slide Of Testimonies",
-            "summary": "Aramean; Syriac synonym used by various authors.",
-            "link": "https://aramean.github.io/arameans"
-        },
-        {
-            "id": 3,
-            "title": "Gif Animations",
-            "summary": "Aramean GIF animations.",
-            "link": "https://aramean.github.io/gif"
-        }
-    ]
+  "projects": [
+    {
+      "id": 1,
+      "title": "Aramaic Keyboard",
+      "summary": "Keyboard for MacOS.",
+      "link": "https://aramean.github.io/aramaic-keyboard"
+    },
+    {
+      "id": 2,
+      "title": "The Slide Of Testimonies",
+      "summary": "Aramean; Syriac synonym used by various authors.",
+      "link": "https://aramean.github.io/arameans"
+    },
+    {
+      "id": 3,
+      "title": "Gif Animations",
+      "summary": "Aramean GIF animations.",
+      "link": "https://aramean.github.io/gif"
+    }
+  ]
 }

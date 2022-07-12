@@ -1,22 +1,22 @@
 {
-    "arts":[
-        {
-            "id": 1,
-            "title": "The modern Aramean flag",
-            "summary": "Primary ethnic flag designated by the Aramean people",
-            "image": "assets/img/syriac_aramean_ethnic_flag.svg",
-            "designer": "Bahro Suryoyo",
-            "license": "FAL",
-            "adopted": "1980"
-        },
-        {
-            "id": 2,
-            "title": "The Aramean flag of Gozan",
-            "summary": "Gozan (Tell Halaf) flag designated by the Aramean Institute",
-            "image": "assets/img/syriac_aramean_tell_halaf_flag.svg",
-            "designer": "Josef Gabrielsson",
-            "license": "FAL",
-            "adopted": "2020"
-        }
-    ]
+  "arts": [
+    {
+      "id": 1,
+      "title": "The modern Aramean flag",
+      "summary": "Primary ethnic flag designated by the Aramean people",
+      "image": "assets/img/syriac_aramean_ethnic_flag.svg",
+      "designer": "Bahro Suryoyo",
+      "license": "FAL",
+      "adopted": "1980"
+    },
+    {
+      "id": 2,
+      "title": "The Aramean flag of Gozan",
+      "summary": "Gozan (Tell Halaf) flag designated by the Aramean Institute",
+      "image": "assets/img/syriac_aramean_tell_halaf_flag.svg",
+      "designer": "Josef Gabrielsson",
+      "license": "FAL",
+      "adopted": "2020"
+    }
+  ]
 }
