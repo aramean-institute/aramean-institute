@@ -1,35 +1,37 @@
 <script src="https://cdn.front.nu/dist/front.js" template="index"></script>
 
-<title globalize="software_technology">Software Technology</title>
+<title globalize="technology">Technology</title>
 
 <template>
-    <aside index="0"></aside>
-    <aside index="1"></aside>
+  <aside index="0"></aside>
+  <aside index="1"></aside>
 </template>
 
 <div class="alert banner shade1 br0 pauto pt2 pb2 bcred white-">
-    <h1 globalize="software_technology">Software Technology</h1>
-    <nav class="crumbs pointer pt05">
-        <ol>
-            <li><a href="#" globalize="development">Development</a></li>
-            <li><a href="#" globalize="software_technology">Software Technology</a></li>
-            <li globalize="overview">Overview</li>
-        </ol>
-    </nav>
+  <h1 globalize="technology">Technology</h1>
+  <nav class="crumbs pointer pt05">
+    <ol>
+      <li><a href="#" globalize="development">Development</a></li>
+      <li><a href="development/technology" globalize="technology">Technology</a></li>
+      <li globalize="overview">Overview</li>
+    </ol>
+  </nav>
 </div>
 
 <section class="pauto">
-    <article class="mb2">
-        An important part of the Aramean Institute's mission is developing software that benefits Arameans and society alike.
-    </article>
+  <article class="mb2">
+    Developing technology for the benefit of both Arameans and society is an important part of the Aramean Institute's mission.
+  </article>
 
-    <div json="true" iterate="projects" datasource="./assets/json/projects.json" class="box cards list gut3- br05- border- tac p2-">
-        <figure>
-            <h5 jsonget="title"></h5>
-            <h7 jsonget="summary"></h7>
-            <div><a class="button bcred fr" jsonget="link" target="_blank" href="#" globalize="go_to_project"><i class="icon">🔗</i>Go to project</a></div>
-        </figure>
-    </div>
+  <h2 globalize="software_technology" class="mb1">Software Technology</h2>
+  <div json="true" iterate="projects" datasource="./assets/json/projects.json"
+    class="box cards list gut3- br05- border- tac p2-">
+    <figure>
+      <h5 jsonget="title"></h5>
+      <h7 jsonget="summary"></h7>
+      <div><a class="button bcred fr" jsonget="link" target="_blank" href="#" globalize="go_to_project"><i class="icon">🔗</i>Go to project</a></div>
+    </figure>
+  </div>
 
 </section>
 
