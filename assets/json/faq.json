@@ -12,31 +12,41 @@
     },
     {
       "id": 3,
-      "question": "Why do Arameans call themselves Chaldeans or Assyrians?",
-      "answer": "Aramean groups adopted the names Chaldean and Assyrian starting in the 16th century to gain political protection from the Catholic Church and Britain. These titles were based on the ancient geographical provinces where they lived. Over time, church and nationalist propaganda turned these labels into modern identities, hiding the original Aramean heritage."
+      "question": "Why do Arameans call themselves Chaldeans?",
+      "answer": "Arameans began calling themselves Chaldeans in the 16th century after uniting with the Catholic Church. They adopted the name from the ancient Chaldean region where they lived, mainly to gain protection and support from the Church."
     },
     {
       "id": 4,
+      "question": "Why do Arameans call themselves Assyrians?",
+      "answer": "Arameans began calling themselves Assyrians in the 19th-20th centuries under the influence of Western missionaries and nationalism. They adopted the name from the ancient Assyrian region to gain political protection and build a national identity."
+    },
+    {
+      "id": 5,
+      "question": "Why do Mhallamis call themselves Arameans?",
+      "answer": "Mhallamis traditionally call themselves Arabs. Many Aramean sources claim they are originally Aramean/Syriac Christians who converted to Islam in the 17th-18th centuries and gradually adopted Arab identity. Some Mhallamis today are returning to their Aramean roots."
+    },
+    {
+      "id": 6,
       "question": "Is Aramaic the language of Jesus?",
       "answer": "Yes, Jesus and his disciples primarily spoke Aramaic."
     },
     {
-      "id": 5,
+      "id": 7,
       "question": "How old is the Aramaic language?",
       "answer": "Aramaic has been around for more than 3,000 years."
     },
     {
-      "id": 6,
+      "id": 8,
       "question": "What is the difference between Armenian and Aramean?",
       "answer": "Armenians are Indo-European-speaking population descendants of Japheth, while Arameans are Semitic-speaking population descendants of Sem."
     },
     {
-      "id": 7,
+      "id": 9,
       "question": "Is Ashurit or Ktav Ashuri the same as Aramaic?",
       "answer": "Yes, Ashurit is a geographical term, meaning the Aramaic from ancient Assyria. The Hebrew language is called Ashurit, and it's often mistaken for being Assyrian amongst non-Hebrew speakers."
     },
     {
-      "id": 8,
+      "id": 10,
       "question": "Are Syriac and Aramaic the same?",
       "answer": "Yes, Syriac is a geographical term, meaning the Aramaic from Syria. Syriac or Syrian is the modern Aramaic used today by Arameans all around the world."
     }
