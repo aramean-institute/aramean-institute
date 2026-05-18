@@ -1,29 +1,24 @@
-<script src="https://cdn.front.nu/dist/front.js" template="index"></script>
-
-<title globalize="contribute">Contribute</title>
-
-<template>
-    <aside index="0"></aside>
-    <aside index="1"></aside>
-</template>
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../index" src="../_templates/default"></template>
+<title globalize-get="contribute">Contribute</title>
 
 <div class="alert banner shade1 br0 pauto pt2 pb2 bcred white-">
-    <h1 globalize="contribute"></h1>
+	<h1 bindglobal="title:title">{title}</h1>
 </div>
 
 <section class="pauto wc_xl">
-    <article>
-        <h4 class="fs16 mb1" globalize="page_contribute_text1"></h4>
-        <p globalize="page_contribute_text2"></p>
-        <br>
-        <form action="https://www.paypal.com/donate" target="_blank">
-            <input type="hidden" name="hosted_button_id" value="BAQWBFGZ83FVC" />
-            <div class="group">
-                <input type="submit" class="button bcred yellow" globalize="page_contribute_text3">
-            </div>
-        </form>
-
-    </article>
+	<article>
+		<h4 class="fs16 mb1" globalize-get>Your contribution and support make a difference!</h4>
+		<p globalize-get>Consider supporting the Aramean Institute's valuable work by donating or sharing with others who
+			want to help us.</p>
+		<br>
+		<form action="https://www.paypal.com/donate" target="_blank" data-ignore="true">
+			<input type="hidden" name="hosted_button_id" value="BAQWBFGZ83FVC" />
+			<div class="group">
+				<input type="submit" class="button" color="yellow" bgcolor="red" uppercase value="I want to donate">
+			</div>
+		</form>
+	</article>
 </section>
 
-<section include="./footer.html" class="bcred white white- p1"></section>
+<section include="./_includes/footer.html" class="bcred white white- p1"></section>

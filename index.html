@@ -1,79 +1,110 @@
 <!doctype html>
 <html lang="en" cache="no">
+
 <head>
-    <title>Aramean Institute</title>
-    <meta http-equiv="X-UA-Compatible" content="ie=edge;ie=10;chrome=1"/>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta property="og:url" content="https://www.aramean.institute"/>
-    <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Aramean Institute"/>
-    <meta property="og:description" content="The Aramean Institute is a worldwide multi-institute."/>
-    <meta property="og:image" content="https://www.aramean.institute/assets/img/logo_fb.png"/>
-    <base env="local:/;prod:/">
-    <link type="image/x-icon" href="favicon.ico" rel="shortcut icon">
-    <link type="text/css" href="https://cdn.front.nu/dist/front.css" rel="stylesheet">
-    <!--<link type="text/css" href="http://localhost:8888/dist/front.css" rel="stylesheet">-->
-    <link type="text/css" href="https://cdn.front.nu/dist/design/front/theme/front.css" rel="stylesheet">
-    <script src="https://cdn.front.nu/dist/front.js" lib="popup;nav;json;globalize"></script>
-    <!--<script src="http://localhost:8888/dist/front.js" lib="popup;nav;json;globalize"></script>-->
-    <script src="https://www.googletagmanager.com/gtag/js?id=G-4Z8JXR2XX0" async></script>
-    <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-4Z8JXR2XX0')</script>
+  <title>Aramean Institute</title>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge;ie=10;chrome=1" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta property="og:url" content="https://www.aramean.institute" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Aramean Institute" />
+  <meta property="og:description" content="The Aramean Institute is a worldwide multi-institute." />
+  <meta property="og:image" content="https://www.aramean.institute/assets/img/logo_fb.png" />
+  <base hrefhost="/" href="/">
+  <link type="image/x-icon" href="favicon.ico" rel="shortcut icon">
+  <link type="text/css" href="https://cdn.front.nu/dist/front.css" rel="stylesheet">
+  <link type="text/css" href="https://cdn.front.nu/dist/design/front/theme/front.css" rel="stylesheet">
+  <script src="https://cdn.front.nu/nightly/front.js" module="navigate;data;screen;globalize;form;chronotize"
+    var="api;enum" conf="debug:false;debugLocalhost:true;varsDir:assets/json/vars;storageKey:aramean_institute"
+    navigate-conf="startpage:/;startpageLocal:/" globalize-conf="folder:assets/json/locales;ttl:3600000"></script>
+  <script src="https://www.googletagmanager.com/gtag/js?id=G-4Z8JXR2XX0" async></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-4Z8JXR2XX0')</script>
 </head>
-<body class="bg">
-    <header>
-        <div id="navloader" class="navloader pa t0 w100 bcwhite02 d0"><div id="navprogress" class="bcwhite04"></div></div>
-        <nav class="topbar dark shade05 h2_5 gap2- z08 xl_dn fwb pr2" selective="true">
-            <a class="fr bcred p1" href="contribute/" globalize="contribute"><i class="icon yellow">&#9829;</i>Contribute</a>
-            <a href="contact/" globalize-get>Contact</a>
-            <!--<a href="press/">Press</a>-->
-            <a href="faq/" globalize-get>FAQ</a>
-            <a href="about/" globalize-get>About</a>
-        </nav>
-    </header>
 
-    <nav class="topbar bcwhite shade1 h4_5 lg_fs0- gap2- sred-" selective="true">
-        <a href="#menu" class="button xl_du bc0 red br0 shade1"><i class="icon32">≡</i></a>
-        <figure><a class="b0" href="" target="_self"><img src="assets/img/logo.png"></a></figure>
-        <a class="xl_dn" href="research/publications" globalize-get>Publications</a>
-        <a class="xl_dn" href="research/ethnology" globalize-get>Ethnology</a>
-        <a class="xl_dn" href="research/statistics" globalize-get>Statistics</a>
-        <a class="xl_dn" href="development/technology" globalize-get>Technology</a>
-        <a class="xl_dn" href="development/arts" globalize-get>Arts</a>
+<body navigate-onloaded="hide:*header[1];hide:*main[1];show:*nav[1]">
 
-        <div id="menu" class="modal menu bcred br0">
-            <nav class="topbar flc0 shade h4_5 bcblack01 sblack-">
-                <a href="#" class="button xl_du bc0 yellow- br0 shade1"><i class="icon32">&#10060;</i></a>
-                <figure><img src="assets/img/logo_white.png"></figure>
-            </nav>
-            <section class="white-">
-                <nav class="sidebar pt2 pb2 w100 fs13 gaph2- bcred- bcred pointer afr">
-                    <a href="research/publications" key="0" globalize-get>Publications</a>
-                    <hr class="p0">                    
-                    <a href="research/ethnology" key="2" globalize-get>Ethnology</a>
-                    <hr class="p0">
-                    <a href="collection/statistics" key="1" globalize-get>Statistics</a>
-                    <hr class="p0">
-                    <a href="development/technology" key="3" globalize-get>Technology</a>
-                    <hr class="p0">
-                    <a href="development/arts" key="3" globalize-get>Arts</a>
-                    <hr class="p0">
-                </nav>
-                <nav class="sidebar gaph2-">
-                    <a href="contribute/" key="2" globalize-get>Contribute</a>
-                    <a class="pr2" href="contact/" key="3" globalize-get>Contact</a>
-                    <a class="pr2" href="faq/" key="3" globalize-get>FAQ</a>
-                    <a class="pr2" href="about/" key="3" globalize-get>About</a>
-                </nav>
-            </section>
-        </div>
+  <div id="navloader" class="navloader pa t0 bcwhite02" width="100%" height="2" hide>
+    <div bgcolor="white04" height="2"></div>
+  </div>
+
+  <header bgcolor="black" class="topbar dark shade05 fwb">
+    <nav class="gap2- z08" width="100%" height="2.5rem" screen-xxs="hide" screen-xl="show" paddingright="2rem">
+      <a flex="1" class="fr bcred p1" href="contribute/" globalize-get="contribute"><i
+          class="icon yellow">&#9829;</i>Contribute</a>
+      <a href="contact/" globalize-get>Contact</a>
+      <a href="faq/" globalize-get>FAQ</a>
+      <a href="about/" globalize-get>About</a>
     </nav>
-    <aside class="xl_dn"></aside>
-    <main include="home.html"></main>
-    <aside class="lg_dn"></aside>
-    <footer>
-        <div eventlistener="offline" eventaction="dom.create('div', ['id=offline', 'className=alert pf b1 l1 bcred white snack', 'innerHTML=<i class=icon>⚠</i> Connection lost...'], 'footer')"></div>
-        <div eventlistener="online" eventaction="dom.hide('offline')"></div>
-    </footer>
+  </header>
+
+  <nav class="topbar bcwhite shade1 gap2- sred-" height="4.5rem">
+    <button color="red" height="100%" click="show:*main[1]" onclicked="hide:*nav[1];show:*header[1]" class="xl_du bc0"
+      radius="0"><i class="icon32">≡</i></button>
+    <figure>
+      <a href="./" target="_self"><img src="assets/img/logo.png"></a>
+    </figure>
+    <a class="xl_dn" href="research/ethnology" bindglobal="href:href" onbindglobalchange="rerun:if"
+      if="([{href}]~[/research/ethnology])/color:[red]?color:[inherit]" globalize-get>Ethnology</a>
+    <a class="xl_dn" href="research/archaeology" bindglobal="href:href" onbindglobalchange="rerun:if"
+      if="([{href}]~[/research/archaeology])/color:[red]?color:[inherit]" globalize-get>Archaelogy</a>
+    <a class="xl_dn" href="research/statistics" bindglobal="href:href" onbindglobalchange="rerun:if"
+      if="([{href}]~[/research/statistics])/color:[red]?color:[inherit]" globalize-get>Statistics</a>
+    <a class="xl_dn" href="research/publications" bindglobal="href:href" onbindglobalchange="rerun:if"
+      if="([{href}]~[/research/publications])/color:[red]?color:[inherit]" globalize-get>Publications</a>
+    <a class="xl_dn" href="development/technology" bindglobal="href:href" onbindglobalchange="rerun:if"
+      if="([{href}]~[/development/technology])/color:[red]?color:[inherit]" globalize-get>Technology</a>
+    <a class="xl_dn" href="development/arts" bindglobal="href:href" onbindglobalchange="rerun:if"
+      if="([{href}]~[/development/arts])/color:[red]?color:[inherit]" globalize-get>Arts</a>
+  </nav>
+
+  <aside class="xl_dn"></aside>
+  <main bgcolor="snow" include="_includes/home.html"></main>
+  <aside class="lg_dn"></aside>
+
+  <!-- header for menu -->
+  <header class="topbar shade1 sblack-" bgcolor="darkred" height="4.5rem" zindex="1000" hide>
+    <button click="show:*main[0];show:*nav[1]" onclicked="hide:*header[1];hide:*main[1]" class="xl_du bc0 yellow-"
+      radius="0" height="100%"><i class="icon32">&#10060;</i></button>
+    <figure>
+      <img src="assets/img/logo_white.png">
+    </figure>
+  </header>
+  <!---->
+
+  <!-- main for menu -->
+  <main bgcolor="red" padding="0" zindex="20" lineheight="2" hide>
+    <section class="white-">
+      <nav lineheight="2.5" class="sidebar pt2 pb2 w100 fs11 bcred- afr" width="100%" height="unset">
+        <hr padding="0" margin="0">
+        <a flexdirection="row" href="research/publications" globalize-get paddingleft="2rem">Publications</a>
+        <hr padding="0" margin="0">
+        <a flexdirection="row" href="research/ethnology" globalize-get paddingleft="2rem">Ethnology</a>
+        <hr padding="0" margin="0">
+        <a flexdirection="row" href="research/statistics" globalize-get paddingleft="2rem">Statistics</a>
+        <hr padding="0" margin="0">
+        <a flexdirection="row" href="development/technology" globalize-get paddingleft="2rem">Technology</a>
+        <hr padding="0" margin="0">
+        <a flexdirection="row" href="development/arts" globalize-get paddingleft="2rem">Arts</a>
+        <hr padding="0" margin="0">
+      </nav>
+
+      <nav lineheight="2" class="sidebar" height="unset" marginbottom="3rem">
+        <hr padding="0" margin="0">
+        <a href="contribute/" globalize-get paddingleft="2rem">Contribute</a>
+        <hr padding="0" margin="0">
+        <a href="contact/" globalize-get paddingleft="2rem">Contact</a>
+        <hr padding="0" margin="0">
+        <a href="faq/" globalize-get paddingleft="2rem">FAQ</a>
+        <hr padding="0" margin="0">
+        <a href="about/" globalize-get paddingleft="2rem">About</a>
+        <hr padding="0" margin="0">
+      </nav>
+    </section>
+  </main>
+  <!---->
+
+  <footer></footer>
 </body>
+
 </html>

@@ -1,53 +1,14 @@
-<script src="https://cdn.front.nu/dist/front.js" template="index"></script>
-
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../../index" src="../../_templates/ethnology"></template>
 <title globalize-get>Ethnology</title>
 
-<template>
-  <aside index="1">
-    <nav class="sidebar bcred yellow- w15 pt105" selective="true">
-
-      <details open>
-        <summary class="white" globalize="overview">Overview</summary>
-        <a href="./research/ethnology" globalize="summary" title="Summary">1. Summary</a>
-        <a href="./research/ethnology/language.html" globalize="language" title="Language">2. Language</a>
-        <a href="./research/ethnology/religion.html" globalize="religion" title="Religion">3. Religion</a>
-      </details>
-
-      <details open>
-        <summary class="white" globalize="culture">Culture</summary>
-        <details>
-          <summary class="white" globalize="language">Language</summary>
-          <a href="./research/ethnology/linguistics/old_aramaic.html" globalize="old_aramaic" title="Old Aramaic">Old
-            Aramaic</a>
-          <a href="./research/ethnology/linguistics/official_aramaic.html" globalize="official_aramaic"
-            title="Official Aramaic">Official Aramaic</a>
-          <a href="./research/ethnology/linguistics/middle_aramaic.html" globalize="middle_aramaic"
-            title="Middle Aramaic">Middle Aramaic</a>
-          <a href="./research/ethnology/linguistics/late_aramaic.html" globalize="late_aramaic"
-            title="Late Aramaic">Late Aramaic</a>
-          <a href="./research/ethnology/linguistics/modern_aramaic.html" globalize="modern_aramaic"
-            title="Modern Aramaic">Modern Aramaic</a>
-        </details>
-        <details>
-          <summary class="white" globalize="religion" title="Religion">Religion</summary>
-          <a href="#" globalize="paganism" title="Paganism">Paganism</a>
-          <a href="#" globalize="christianity" title="Christianity">Christianity</a>
-        </details>
-
-      </details>
-
-      <hr>
-    </nav>
-  </aside>
-</template>
-
 <section class="pauto">
-  <h1 globalize="overview">Overview</h1>
+  <h1 globalize-get="overview">Overview</h1>
   <nav class="crumbs pointer pt05">
     <ol>
-      <li><a href="#" globalize="research" title="Research">Research</a></li>
-      <li><a href="research/ethnology" globalize="ethnology" title="Ethnology">Ethnology</a></li>
-      <li globalize="overview">Overview</li>
+      <li><a href="#" globalize-get="research">Research</a></li>
+      <li><a href="research/ethnology" globalize-get="ethnology">Ethnology</a></li>
+      <li globalize-get="overview">Overview</li>
     </ol>
   </nav>
 

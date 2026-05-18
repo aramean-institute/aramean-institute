@@ -1,47 +1,64 @@
-<script src="https://cdn.front.nu/dist/front.js" template="index"></script>
-
-<title globalize="contact_us">Contact Us</title>
-
-<template>
-    <aside index="0"></aside>
-    <aside index="1"></aside>
-</template>
-
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../index" src="../_templates/default"></template>
+<title globalize-get="contact_us">Contact Us</title>
 <div class="alert banner shade1 br0 pauto pt2 pb2 bcred white-">
-    <h1 globalize="contact_us">Contact Us</h1>
+	<h1 bindglobal="title:title">{title}</h1>
 </div>
 
 <article class="pauto wc_xl">
-    <section>
-        <h4 globalize="page_contact_text1">For all inquiries, please email us using the form below.</h4>
-    </section>
-    <section>
-        <form method="post" datasource="https://api.aleptra.com/organizology/?table=protected.organization_contact_form" dataheader="apikey:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt4YmRhdnlhd2dtaG93a2phcXRqIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjI1NDg1OTgsImV4cCI6MTk3ODEyNDU5OH0.fktNrLOpFwt4qFhbTeSvRRJqgsfs8K0nY2iaJBzvU6c" class="gaph2- mt2" ondone="alert('Your message was sent successfully.')">
-                <div class="group">
-                    <input name="name" class="outlined phdark" type="text" globalize="full_name" placeholder="Full name" required>
-                </div>
-                <div class="group">
-                    <input name="email" class="outlined phdark" type="text" globalize="email" placeholder="Email" required>
-                </div>
-                <div class="group">
-                <select name="subject" class="outlined phdark">
-                    <option value="1" globalize="membership">Membership</option>
-                    <option value="2" globalize="cooperation">Cooperation</option>
-                    <option value="0" globalize="other" selected>Other</option>
-                </select>
-                </div>
+	<section id="contact" class="pauto">
+		<h1 globalize-get="contact_us">Send Us a Message</h1>
+		<h6 margintop="1rem" marginbottom="2rem" globalize-get="page_contact_text1">For all inquiries, please us the form
+			below.</h6>
 
-                <div class="group" required>
-                    <textarea name="message" class="w100 h10r outlined phdark" globalize="message" placeholder="Message"></textarea>
-                </div>
+		<form class="gaph2-" method="post" action="https://aramean-institute.admin-86a.workers.dev"
+			data-onsuccess="hide:#contact;show:#complete" data-onerror="show:#error">
 
-                <div class="gap1-">
-                    <button class="outlined" type="reset" globalize="reset">Reset</button>
-                    <button type="submit" globalize="send_message">Send message</button>
-                </div>
-        
-        </form>
-    </section>
+			<div class="group">
+				<input name="name" type="text" class="phdark f1 bw1 bos8 bocblack02" placeholder="Full name"
+					globalize-get="full_name" form-invalid="#name_tip:[Please enter your name]" required>
+				<small id="name_tip" color="red"></small>
+			</div>
+
+			<div class="group">
+				<input name="email" type="text" class="phdark f1 bw1 bos8 bocblack02" placeholder="Email" globalize-get="email"
+					form-invalid="#email_tip:[Please enter your email]" required>
+				<small id="email_tip" color="red"></small>
+			</div>
+
+			<div class="group">
+				<select name="subject" class="phdark bw1 bos8 bocblack02">
+					<option value="1" globalize-get="membership">Membership</option>
+					<option value="2" globalize-get="cooperation">Cooperation</option>
+					<option value="0" globalize-get="other" selected>Other</option>
+				</select>
+			</div>
+
+			<div class="group">
+				<textarea name="message" class="w100 h10r phdark bw1 bos8 bocblack02" placeholder="Message"
+					globalize-get="message" globalize-target="placeholder" form-invalid="#message_tip:[Please enter a message]"
+					required></textarea>
+				<small id="message_tip" color="red"></small>
+			</div>
+
+			<div id="error" bgcolor="red" color="yellow" margintop="1rem" marginbottom="2rem" padding="1rem" hide>
+				Something went wrong. Please try again.
+			</div>
+
+			<div class="group mt1 gap1-">
+				<button class="button outlined" type="reset" globalize-get="reset">Reset</button>
+				<button class="button bcred" type="submit" globalize-get="send_message">Send message</button>
+			</div>
+
+		</form>
+	</section>
+
+	<section id="complete" class="pauto tac" hide>
+		<h1 globalize-get="thank_you">Thank you!</h1>
+		<p globalize-get="page_contact_complete">Your message was sent successfully.</p>
+		<i class="icon mt2">&#8962;</i>
+		<a href="/" globalize-get="go_to_startpage">Go to startpage</a>
+	</section>
 </article>
 
-<section include="./footer.html" class="bcred white white- p1"></section>
+<section include="./_includes/footer.html" class="bcred white white- p1"></section>

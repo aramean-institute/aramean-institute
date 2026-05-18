@@ -1,0 +1,12 @@
+{
+  "persons": {
+    "population": "https://api.aleptra.com/humanology/?function=human_population_ethnicity(1)",
+    "headers": "Prefer:count=exact"
+  },
+  "place": {
+    "building": "https://api.aleptra.com/geography/?table=geography_building_summary"
+  },
+  "lexicon": {
+    "word": "https://api.aleptra.com/humanology/?function=human_language_word_count([syr,syt,syh,amw,syc,arc,oar])"
+  }
+}
