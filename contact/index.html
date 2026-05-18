@@ -5,11 +5,11 @@
 	<h1 bindglobal="title:title">{title}</h1>
 </div>
 
-<article class="pauto wc_xl">
+<article class="wc_xl" screen-xxs="padding:[1rem]" screen-xs="padding:[inherit]">
 	<section id="contact" class="pauto">
-		<h1 globalize-get="contact_us">Send Us a Message</h1>
-		<h6 margintop="1rem" marginbottom="2rem" globalize-get="page_contact_text1">For all inquiries, please us the form
-			below.</h6>
+		<h1 globalize-get>Send Us a Message</h1>
+		<h6 margintop="1rem" marginbottom="2rem" globalize-get>We typically respond within 48
+			hours. For all inquiries, please us the form below.</h6>
 
 		<form class="gaph2-" method="post" action="https://aramean-institute.admin-86a.workers.dev"
 			data-onsuccess="hide:#contact;show:#complete" data-onerror="show:#error">
@@ -30,6 +30,9 @@
 				<select name="subject" class="phdark bw1 bos8 bocblack02">
 					<option value="1" globalize-get="membership">Membership</option>
 					<option value="2" globalize-get="cooperation">Cooperation</option>
+					<option value="3" globalize-get="research">Research</option>
+					<option value="4" globalize-get="media">Media/Press</option>
+					<option value="5" globalize-get="volunteering">Volunteering</option>
 					<option value="0" globalize-get="other" selected>Other</option>
 				</select>
 			</div>
@@ -49,6 +52,8 @@
 				<button class="button outlined" type="reset" globalize-get="reset">Reset</button>
 				<button class="button bcred" type="submit" globalize-get="send_message">Send message</button>
 			</div>
+
+			<small color="gray" margintop="1rem">Your information will not be shared with third parties.</small>
 
 		</form>
 	</section>
