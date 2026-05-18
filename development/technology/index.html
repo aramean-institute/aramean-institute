@@ -6,9 +6,9 @@
   <h1 globalize-get="technology">Technology</h1>
   <nav class="crumbs pointer pt05">
     <ol>
-      <li><a href="#" globalize-get="development">Development</a></li>
-      <li><a href="development/technology" globalize-get="technology">Technology</a></li>
-      <li globalize-get="overview">Overview</li>
+      <li><a href="#" globalize-get>Development</a></li>
+      <li><a href="development/technology" globalize-get>Technology</a></li>
+      <li globalize-get>Overview</li>
     </ol>
   </nav>
 </div>
@@ -20,7 +20,7 @@
   <h2 globalize-get="software_technology" class="mb1">Software Technology</h2>
   <div data-iterate="projects" data-src="./assets/json/projects.json"
     class="box cards list gut3- br05- border- tac p2-">
-    <figure>
+    <figure gap="1rem" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
       <h5 data-get="title"></h5>
       <h7 data-get="summary"></h7>
       <div><a class="button bcred fr" data-set="link:link" target="_blank" href="{link}"><i class="icon">🔗</i>Go to
