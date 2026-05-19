@@ -1,0 +1,36 @@
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../index" src="../_templates/default"></template>
+<title>Figures</title>
+
+<section class="pauto">
+  <h1 bindglobal="title:title">{title}</h1>
+
+  <article>
+    <p paddingtop="2rem">Notable Aramean figures throughout history - kings, saints, scholars, writers, and
+      activists who shaped Aramean civilization and its legacy.</p>
+  </article>
+
+  <table class="mt2 bocred bos5 bw1 z08 w100" data-src="assets/json/figures.json">
+    <caption class="tal fwb mb1 mt1">
+      <img src="./favicon.ico" class="di" height="24">Notable Aramean Figures
+    </caption>
+    <thead class="bcred yellow p1">
+      <tr>
+        <th>Name</th>
+        <th>Period</th>
+        <th>Category</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody data-iterate="figures">
+      <tr>
+        <td data-get="name"></td>
+        <td data-get="period"></td>
+        <td data-get="category"></td>
+        <td data-get="description"></td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<section include="./_includes/footer.html" bgcolor="red" color="white" padding="1rem" class="white-"></section>

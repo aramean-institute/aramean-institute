@@ -1,0 +1,41 @@
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../../../index" src="../../../_templates/archaelogy"></template>
+<title>Artifacts</title>
+
+<article class="pauto">
+  <h1>Artifacts</h1>
+
+  <section class="mt2">
+    <p>Aramean artifacts including stelae, statues, sculptures, and orthostats provide some of the most important
+      evidence for the history, language, and political organization of the ancient Aramean kingdoms.</p>
+
+    <table class="mt1 bocred bos5 bw1 z08 w100">
+      <caption class="tal fwb mb1 mt1">
+        <img src="./favicon.ico" class="di" height="24">Archaeological Finds
+      </caption>
+      <thead class="bcred yellow p1">
+        <tr>
+          <th>Artifact</th>
+          <th>Period</th>
+          <th>Polity</th>
+          <th>Location</th>
+          <th>Museum</th>
+        </tr>
+      </thead>
+      <tbody data-iterate="artifacts" data-src="assets/json/archaeology.json">
+        <tr>
+          <td data-get="title"></td>
+          <td data-get="period"></td>
+          <td data-get="polity"></td>
+          <td data-get="location"></td>
+          <td data-get="museum"></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <hr margintop="2rem" bgcolor="gray">
+    <small color="gray">Published:&nbsp;<i color="initial">2025-05-19</i></small>
+  </section>
+</article>
+
+<section include="./_includes/footer.html" bgcolor="red" color="white" padding="1rem" class="white-"></section>

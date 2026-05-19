@@ -1,0 +1,124 @@
+{
+  "figures": [
+    {
+      "id": 1,
+      "name": "Mor Aphrem (Ephrem the Syrian)",
+      "period": "306-373 AD",
+      "category": "Saint",
+      "description": "Theologian, poet, and hymnographer. Wrote extensively in Syriac and is considered one of the greatest Aramean literary figures.",
+      "birthplace": "Nusaybin (Nisibis), Turkey"
+    },
+    {
+      "id": 2,
+      "name": "Mor Yaqub of Serugh",
+      "period": "451-521 AD",
+      "category": "Saint",
+      "description": "Prolific Syriac poet and bishop, known for his metrical homilies. Wrote over 760 verse homilies in Syriac.",
+      "birthplace": "Serugh (Suruç), Turkey"
+    },
+    {
+      "id": 3,
+      "name": "Bar Hebraeus (Mor Gregorios Abu al-Faraj)",
+      "period": "1226-1286 AD",
+      "category": "Scholar",
+      "description": "Maphrian of the Syriac Orthodox Church, polymath, historian, and theologian. Wrote in Syriac and Arabic on theology, philosophy, grammar, and history.",
+      "birthplace": "Malatya, Turkey"
+    },
+    {
+      "id": 4,
+      "name": "Hazael",
+      "period": "c. 842-800 BC",
+      "category": "King",
+      "description": "King of Aram-Damascus who expanded the kingdom to its greatest territorial extent, defeating Israel and Judah.",
+      "birthplace": "Damascus, Syria"
+    },
+    {
+      "id": 5,
+      "name": "Abgar V Ukama",
+      "period": "4 BC - 50 AD",
+      "category": "King",
+      "description": "Aramean king of Osroene (Edessa/Urhoy). According to tradition, corresponded with Jesus and was healed by the Apostle Thaddeus.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 6,
+      "name": "Mor Michael Rabo (Michael the Great)",
+      "period": "1126-1199 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch of Antioch and author of the largest surviving Syriac historical work, the Chronicle.",
+      "birthplace": "Melitene (Malatya), Turkey"
+    },
+    {
+      "id": 7,
+      "name": "Nabopolassar",
+      "period": "c. 658-605 BC",
+      "category": "King",
+      "description": "Chaldean (Kaldu-Aramean) general who founded the Neo-Babylonian Empire and destroyed the Assyrian Empire.",
+      "birthplace": "Babylonia, Iraq"
+    },
+    {
+      "id": 8,
+      "name": "Nebuchadnezzar II",
+      "period": "c. 634-562 BC",
+      "category": "King",
+      "description": "King of the Neo-Babylonian (Chaldean) Empire. Built the Hanging Gardens and expanded the empire to its greatest extent.",
+      "birthplace": "Babylon, Iraq"
+    },
+    {
+      "id": 9,
+      "name": "Mor Yaqub Burd'ono (Jacob Baradaeus)",
+      "period": "c. 500-578 AD",
+      "category": "Saint",
+      "description": "Bishop who revived the Syriac Orthodox Church by secretly ordaining clergy across the region. The church was sometimes called 'Jacobite' after him.",
+      "birthplace": "Tella (Viranşehir), Turkey"
+    },
+    {
+      "id": 10,
+      "name": "Bardaisan (Bar Daysan)",
+      "period": "154-222 AD",
+      "category": "Scholar",
+      "description": "Philosopher, scientist, and poet from Edessa. One of the earliest Syriac writers, known for his hymns and cosmological works.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 11,
+      "name": "Tatian the Assyrian",
+      "period": "c. 120-180 AD",
+      "category": "Scholar",
+      "description": "Aramean theologian who composed the Diatessaron, a harmony of the four Gospels in Syriac that was widely used in the Syriac-speaking church.",
+      "birthplace": "Adiabene, Iraq"
+    },
+    {
+      "id": 12,
+      "name": "Zenobia",
+      "period": "c. 240-274 AD",
+      "category": "Queen",
+      "description": "Queen of the Palmyrene Empire who briefly conquered Egypt and much of the Roman East. Ruled from the Aramean city of Palmyra.",
+      "birthplace": "Palmyra, Syria"
+    },
+    {
+      "id": 13,
+      "name": "Mor Aphrem Barsoum",
+      "period": "1887-1957 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch of Antioch and scholar. Authored 'The Scattered Pearls', a history of Syriac literature and sciences.",
+      "birthplace": "Mosul, Iraq"
+    },
+    {
+      "id": 14,
+      "name": "Naim Faiq",
+      "period": "1868-1930 AD",
+      "category": "Activist",
+      "description": "Aramean journalist and activist who advocated for Aramean national identity. Published the newspaper 'Kawkab Madnho' (Star of the East).",
+      "birthplace": "Diyarbakır, Turkey"
+    },
+    {
+      "id": 15,
+      "name": "Lucian of Samosata",
+      "period": "c. 125-180 AD",
+      "category": "Writer",
+      "description": "Satirist and rhetorician from Samosata (Commagene). Wrote in Greek but identified himself as an Aramean ('Syrian barbarian').",
+      "birthplace": "Samosata, Turkey"
+    }
+  ]
+}
