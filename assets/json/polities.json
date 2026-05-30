@@ -1,0 +1,302 @@
+{
+  "Aram-Damascus": {
+    "name": "Aram-Damascus",
+    "region": "Aram Taḥtāyā",
+    "capital": "Damascus",
+    "modern_location": "Syria",
+    "period": "10th-8th century BC",
+    "peak": "9th century BC (under Hazael)",
+    "fall": "732 BC (conquered by Tiglath-Pileser III)",
+    "description": "Aram-Damascus was the most powerful and best-documented Aramean kingdom, centered on the ancient city of Damascus in modern Syria. It rose to prominence in the 10th century BC and reached its peak under King Hazael in the second half of the 9th century BC, dominating much of the southern Levant before its conquest by the Neo-Assyrian Empire under Tiglath-Pileser III in 732 BC."
+  },
+  "Zobah": {
+    "name": "Aram-Zobah",
+    "region": "Aram Taḥtāyā",
+    "capital": "Unknown (possibly in the Beqaa Valley)",
+    "modern_location": "Lebanon/Syria",
+    "period": "11th-10th century BC",
+    "peak": "10th century BC (under Hadadezer)",
+    "fall": "Defeated by David of Israel, later absorbed by Aram-Damascus",
+    "description": "Aram-Zobah was an important Aramean kingdom in the 10th century BC, located in the Beqaa Valley region between the Lebanon and Anti-Lebanon mountains. Under King Hadadezer, it was the dominant Aramean power before being defeated by King David of Israel and subsequently eclipsed by Aram-Damascus."
+  },
+  "Beth-Rehob": {
+    "name": "Aram-Beth Rehob",
+    "region": "Aram Taḥtāyā",
+    "capital": "Beth Rehob (location debated)",
+    "modern_location": "Southern Lebanon / Northern Israel",
+    "period": "11th-10th century BC",
+    "peak": "10th century BC",
+    "fall": "Absorbed by Aram-Damascus",
+    "description": "Aram-Beth Rehob was a small Aramean kingdom in the upper Jordan Valley or southern Beqaa region. It allied with the Ammonites against David of Israel and was later absorbed into the expanding kingdom of Aram-Damascus."
+  },
+  "Maacah": {
+    "name": "Aram-Maacah",
+    "region": "Aram Taḥtāyā",
+    "capital": "Abel-Beth-Maacah (possibly)",
+    "modern_location": "Golan Heights / Southern Lebanon",
+    "period": "11th-10th century BC",
+    "peak": "10th century BC",
+    "fall": "Absorbed by Aram-Damascus or Israel",
+    "description": "Aram-Maacah was a small Aramean kingdom located in the area of the Golan Heights and Mount Hermon. It is mentioned in the Bible as an ally of the Ammonites against David. It was eventually absorbed by larger neighboring powers."
+  },
+  "Geshur": {
+    "name": "Geshur",
+    "region": "Aram Taḥtāyā",
+    "capital": "Et-Tell (possibly)",
+    "modern_location": "Golan Heights, Israel/Syria",
+    "period": "11th-9th century BC",
+    "peak": "10th century BC",
+    "fall": "Absorbed by Aram-Damascus",
+    "description": "Geshur was an Aramean kingdom in the Golan Heights region, east of the Sea of Galilee. It maintained diplomatic ties with Israel through marriage - King David married Maacah, daughter of Talmai king of Geshur. The kingdom was eventually absorbed by Aram-Damascus."
+  },
+  "Tob": {
+    "name": "Tob",
+    "region": "Aram Taḥtāyā",
+    "capital": "Unknown",
+    "modern_location": "Northern Jordan / Southern Syria",
+    "period": "11th-10th century BC",
+    "peak": "11th century BC",
+    "fall": "Unknown",
+    "description": "Tob was a small Aramean polity in Transjordan, mentioned in the Bible as the place where Jephthah fled and as an ally of the Ammonites against Israel. Its exact location and extent remain debated."
+  },
+  "Hamath": {
+    "name": "Hamath",
+    "region": "Aram ʿElyā",
+    "capital": "Hama (modern Hama, Syria)",
+    "modern_location": "Syria",
+    "period": "12th-8th century BC",
+    "peak": "9th-8th century BC",
+    "fall": "720 BC (conquered by Sargon II of Assyria)",
+    "description": "Hamath was a major kingdom on the Orontes River in central Syria. Originally a Neo-Hittite/Luwian state, it became increasingly Aramaeanized from the 9th century BC. Under King Zakkur, it expanded to include Lu'ash. It participated in anti-Assyrian coalitions before its final conquest by Sargon II."
+  },
+  "Luash": {
+    "name": "Lu'ash",
+    "region": "Aram ʿElyā",
+    "capital": "Hazrek (Tell Afis)",
+    "modern_location": "Syria (Idlib region)",
+    "period": "9th-8th century BC",
+    "peak": "9th century BC",
+    "fall": "United with Hamath under Zakkur, then conquered by Assyria",
+    "description": "Lu'ash was an Aramean kingdom in northern Syria, centered on the city of Hazrek (modern Tell Afis). It was eventually united with Hamath under King Zakkur in the early 8th century BC."
+  },
+  "Bit-Agusi": {
+    "name": "Bit-Agusi",
+    "region": "Aram ʿElyā",
+    "capital": "Arpad (Tell Rifaat)",
+    "modern_location": "Syria (north of Aleppo)",
+    "period": "10th-8th century BC",
+    "peak": "Mid-8th century BC (under Mati'el)",
+    "fall": "740 BC (conquered by Tiglath-Pileser III)",
+    "description": "Bit-Agusi was a major Aramean kingdom in northern Syria, founded by Gusi of Yakhan. Its capital was Arpad (modern Tell Rifaat). At its height it controlled territory from A'zaz to Aleppo. The Sefire treaty stelae document its diplomatic relations. It fell to Assyria after a three-year siege."
+  },
+  "Bit-Adini": {
+    "name": "Bit-Adini",
+    "region": "Aram ʿElyā",
+    "capital": "Til Barsip (Tell Ahmar)",
+    "modern_location": "Syria (Euphrates region)",
+    "period": "10th-9th century BC",
+    "peak": "Early 9th century BC",
+    "fall": "856 BC (conquered by Shalmaneser III)",
+    "description": "Bit-Adini was an Aramean kingdom straddling both banks of the Euphrates below Carchemish. Its capital was Til Barsip (modern Tell Ahmar). It was one of the first Aramean states conquered by the Neo-Assyrian Empire, falling to Shalmaneser III after its king Ahuni was defeated and deported."
+  },
+  "Bit-Gabbar": {
+    "name": "Bit-Gabbar / Sam'al",
+    "region": "Aram ʿElyā",
+    "capital": "Sam'al (Zincirli)",
+    "modern_location": "Turkey (Gaziantep Province)",
+    "period": "10th-8th century BC",
+    "peak": "9th-8th century BC",
+    "fall": "Became Assyrian vassal, then province (c. 713 BC)",
+    "description": "Bit-Gabbar was the Aramean dynasty that ruled the city of Sam'al (modern Zincirli) in southeastern Anatolia. The site has yielded some of the richest Aramean archaeological finds, including the Kilamuwa Stele, Panamuwa inscriptions, Bar-Rakib inscriptions, and the Katumuwa Stele."
+  },
+  "Pattin-Unqi": {
+    "name": "Pattin/Unqi",
+    "region": "Aram ʿElyā",
+    "capital": "Kunulua (Tell Tayinat)",
+    "modern_location": "Turkey (Hatay Province)",
+    "period": "11th-8th century BC",
+    "peak": "9th century BC",
+    "fall": "738 BC (conquered by Tiglath-Pileser III)",
+    "description": "Pattin (also called Unqi) was a Neo-Hittite/Aramean kingdom in the Amuq Plain of southeastern Turkey. Its capital was Kunulua (Tell Tayinat). The kingdom shows a blend of Luwian and Aramean cultural elements."
+  },
+  "Hatallu": {
+    "name": "Hatallu",
+    "region": "Aram ʿElyā",
+    "capital": "Unknown",
+    "modern_location": "Turkey (southeastern Anatolia)",
+    "period": "9th-8th century BC",
+    "peak": "Unknown",
+    "fall": "Conquered by Assyria",
+    "description": "Hatallu was a small Aramean polity in southeastern Anatolia. It is poorly attested and known primarily from Assyrian conquest records."
+  },
+  "Bit-Bahiani": {
+    "name": "Bit-Bahiani",
+    "region": "Aram Nahrin",
+    "capital": "Guzana (Tell Halaf)",
+    "modern_location": "Syria (Al-Hasakah)",
+    "period": "10th-9th century BC",
+    "peak": "10th-9th century BC (under Kapara)",
+    "fall": "Late 9th century BC (became Assyrian province)",
+    "description": "Bit-Bahiani was one of the earliest Aramean kingdoms in upper Mesopotamia, centered on Guzana (Tell Halaf) on the Khabur River. It produced some of the finest examples of Aramean monumental art, including the famous Tell Halaf sculptures and the bit-hilani palace of Kapara."
+  },
+  "Bit-Zamani": {
+    "name": "Bit-Zamani",
+    "region": "Aram Nahrin",
+    "capital": "Amida (modern Diyarbakır, possibly)",
+    "modern_location": "Turkey (Diyarbakır region)",
+    "period": "11th-9th century BC",
+    "peak": "10th century BC",
+    "fall": "Late 9th century BC (conquered by Assyria)",
+    "description": "Bit-Zamani was an Aramean kingdom in the upper Tigris region, near modern Diyarbakır in southeastern Turkey. It was one of the northernmost Aramean polities and frequently clashed with both Assyria and Urartu."
+  },
+  "Bit-Halupe": {
+    "name": "Bit-Halupe",
+    "region": "Aram Nahrin",
+    "capital": "Unknown (on the Khabur River)",
+    "modern_location": "Syria (Khabur region)",
+    "period": "11th-9th century BC",
+    "peak": "10th century BC",
+    "fall": "Conquered by Assyria",
+    "description": "Bit-Halupe was an Aramean tribal territory along the Khabur River in northeastern Syria. It was one of the Aramean groups that Assyrian kings repeatedly campaigned against during the early Neo-Assyrian period."
+  },
+  "Bit-Hadipe": {
+    "name": "Bit-Hadipe",
+    "region": "Aram Nahrin",
+    "capital": "Unknown",
+    "modern_location": "Syria/Turkey (upper Mesopotamia)",
+    "period": "10th-9th century BC",
+    "peak": "Unknown",
+    "fall": "Conquered by Assyria",
+    "description": "Bit-Hadipe was an Aramean tribal polity in upper Mesopotamia, known primarily from Assyrian royal inscriptions documenting campaigns against Aramean groups in the region."
+  },
+  "Laqe": {
+    "name": "Laqe",
+    "region": "Aram Nahrin",
+    "capital": "Unknown (Middle Euphrates)",
+    "modern_location": "Syria (Middle Euphrates)",
+    "period": "11th-8th century BC",
+    "peak": "10th-9th century BC",
+    "fall": "Conquered by Assyria",
+    "description": "Laqe was an Aramean tribal region along the Middle Euphrates. It is described in Assyrian sources as both a tribe and a geographic area, frequently raided by Assyrian kings."
+  },
+  "Suhu": {
+    "name": "Suhu",
+    "region": "Aram Nahrin",
+    "capital": "Unknown (Middle Euphrates)",
+    "modern_location": "Iraq/Syria (Middle Euphrates)",
+    "period": "11th-8th century BC",
+    "peak": "9th century BC",
+    "fall": "Absorbed into Assyrian provincial system",
+    "description": "Suhu was a region along the Middle Euphrates with a mixed population including Aramean tribal groups. Local rulers left inscriptions documenting conflicts with nomadic Aramean tribes passing through their territory."
+  },
+  "Hindanu": {
+    "name": "Hindanu",
+    "region": "Aram Nahrin",
+    "capital": "Hindanu (on the Middle Euphrates)",
+    "modern_location": "Iraq (Middle Euphrates)",
+    "period": "11th-9th century BC",
+    "peak": "10th century BC",
+    "fall": "Conquered by Assyria",
+    "description": "Hindanu was a small polity on the Middle Euphrates with an Aramean population. It is attested in Assyrian sources as a waypoint on the route between Assyria and the Levant."
+  },
+  "Bit-Yakini": {
+    "name": "Bit-Yakini",
+    "region": "Bet Aramaye",
+    "capital": "Dur-Yakini (location uncertain)",
+    "modern_location": "Iraq (southern marshlands)",
+    "period": "9th-7th century BC",
+    "peak": "8th century BC (under Merodach-Baladan)",
+    "fall": "Defeated by Sennacherib (c. 700 BC)",
+    "description": "Bit-Yakini was the most powerful of the Chaldean/Aramean tribal confederations in southern Babylonia. Under Merodach-Baladan II, it twice seized the throne of Babylon and challenged Assyrian hegemony over the region."
+  },
+  "Bit-Dakkuri": {
+    "name": "Bit-Dakkuri",
+    "region": "Bet Aramaye",
+    "capital": "Unknown (near Borsippa)",
+    "modern_location": "Iraq (central Babylonia)",
+    "period": "9th-7th century BC",
+    "peak": "8th century BC",
+    "fall": "Subdued by Assyria",
+    "description": "Bit-Dakkuri was a major Chaldean/Aramean tribe in central Babylonia, located near the city of Borsippa. They frequently allied with or against Bit-Yakini in the power struggles over Babylon."
+  },
+  "Bit-Amukani": {
+    "name": "Bit-Amukani",
+    "region": "Bet Aramaye",
+    "capital": "Unknown (between Nippur and Uruk)",
+    "modern_location": "Iraq (central-southern Babylonia)",
+    "period": "9th-7th century BC",
+    "peak": "8th century BC",
+    "fall": "Subdued by Assyria",
+    "description": "Bit-Amukani was a major Chaldean/Aramean tribe in southern Babylonia, occupying territory between Nippur and Uruk. They were one of the three principal Chaldean tribal confederations alongside Bit-Yakini and Bit-Dakkuri."
+  },
+  "Bit-Shilani": {
+    "name": "Bit-Shilani",
+    "region": "Bet Aramaye",
+    "capital": "Unknown",
+    "modern_location": "Iraq (Babylonia)",
+    "period": "9th-7th century BC",
+    "peak": "Unknown",
+    "fall": "Subdued by Assyria",
+    "description": "Bit-Shilani was a smaller Aramean/Chaldean tribe in Babylonia, attested in Neo-Assyrian sources alongside the major tribal confederations."
+  },
+  "Bit-Saalli": {
+    "name": "Bit-Sa'alli",
+    "region": "Bet Aramaye",
+    "capital": "Unknown",
+    "modern_location": "Iraq (Babylonia)",
+    "period": "9th-7th century BC",
+    "peak": "Unknown",
+    "fall": "Subdued by Assyria",
+    "description": "Bit-Sa'alli was an Aramean tribe in Babylonia, mentioned in Neo-Assyrian inscriptions. Little is known about its internal structure or history beyond its attestation in conquest records."
+  },
+  "Gambulu": {
+    "name": "Gambulu",
+    "region": "Bet Aramaye",
+    "capital": "Unknown (eastern Babylonia)",
+    "modern_location": "Iraq (eastern Babylonia, near Elam)",
+    "period": "8th-7th century BC",
+    "peak": "7th century BC",
+    "fall": "Defeated by Ashurbanipal",
+    "description": "Gambulu was an Aramean tribal confederation in eastern Babylonia, near the Elamite border. They frequently allied with Elam against Assyria and were involved in the major conflicts of the 7th century BC."
+  },
+  "Litau": {
+    "name": "Litau",
+    "region": "Bet Aramaye",
+    "capital": "Unknown",
+    "modern_location": "Iraq (Babylonia)",
+    "period": "8th-7th century BC",
+    "peak": "Unknown",
+    "fall": "Subdued by Assyria",
+    "description": "Litau was an Aramean tribal group in Babylonia, attested in Neo-Assyrian royal inscriptions as one of the Aramean confederations in the region."
+  },
+  "Puqudu": {
+    "name": "Puqudu",
+    "region": "Bet Aramaye",
+    "capital": "Unknown (near Uruk and the Tigris)",
+    "modern_location": "Iraq (eastern/southern Babylonia)",
+    "period": "8th-7th century BC",
+    "peak": "8th century BC",
+    "fall": "Subdued by Assyria",
+    "description": "Puqudu (biblical Pekod) was a prominent Aramean tribe in eastern Babylonia, living along the Tigris near Uruk and the Elamite border. They are mentioned in both Assyrian inscriptions and the Bible (Jeremiah 50:21, Ezekiel 23:23)."
+  },
+  "Itua": {
+    "name": "Itu'a",
+    "region": "Bet Aramaye",
+    "capital": "Unknown",
+    "modern_location": "Iraq (Babylonia)",
+    "period": "8th-7th century BC",
+    "peak": "Unknown",
+    "fall": "Subdued by Assyria",
+    "description": "Itu'a was an Aramean tribal group in Babylonia, attested in Neo-Assyrian inscriptions. Their exact territory and political structure remain poorly understood."
+  },
+  "Railu": {
+    "name": "Ra'ilu",
+    "region": "Bet Aramaye",
+    "capital": "Unknown",
+    "modern_location": "Iraq (Babylonia)",
+    "period": "8th-7th century BC",
+    "peak": "Unknown",
+    "fall": "Subdued by Assyria",
+    "description": "Ra'ilu was an Aramean tribal group in Babylonia, mentioned in the inscriptions of Tiglath-Pileser III. Little is known beyond their attestation in Assyrian conquest records."
+  }
+}
