@@ -1,74 +1,81 @@
 <template>
   <aside></aside>
-  <main inherit="false"></main>
+  <main inherit="false" content="prepend">
+    <button absolute top="1rem" right="1rem" screen-xxs="show" screen-xl="hide" color="red" absolute top="20px"
+      right="20px" click="toggledisplay:#submenu" class="bc0" radius="500px" zindex="100"><i
+        class="icon16">≣</i></button>
+    <nav id="submenu" clone="#submenuitems" bgcolor="red" color="yellow" flex flexdirection="column" class="sidebar"
+      height="100%" overflow="visible" paddingtop="1rem" hide>
+    </nav>
+  </main>
   <aside screen-xxs="hide" screen-md="hide" screen-lg="hide;width:[15rem]" screen-xl="show;width:[15rem]"
     screen-xxxl="width:[20rem]">
-    <nav id="submenuitems" bgcolor="red" class="sidebar yellow- pt105">
+    <nav id="submenuitems" bgcolor="red" class="sidebar pt105">
       <details open>
-        <summary class="white">Overview</summary>
-        <a href="./research/archaeology/index.html">Summary</a>
-        <a href="./research/archaeology/artifacts.html">Artifacts</a>
+        <summary color="white">Overview</summary>
+        <a color="yellow" href="./research/archaeology/index.html">Summary</a>
+        <a color="yellow" href="./research/archaeology/artifacts.html">Artifacts</a>
       </details>
 
       <details open>
-        <summary class="white">Polities</summary>
+        <summary color="white">Polities</summary>
         <details open>
-          <summary class="white">Aram Taḥtāyā</summary>
-          <a href="./research/archaeology/polity.html?name=Beth-Rehob">Beth Rehob</a>
-          <a href="./research/archaeology/polity.html?name=Aram-Damascus">Damascus</a>
-          <a href="./research/archaeology/polity.html?name=Geshur">Geshur</a>
-          <a href="./research/archaeology/polity.html?name=Maacah">Maacah</a>
-          <a href="./research/archaeology/polity.html?name=Tob">Tob</a>
-          <a href="./research/archaeology/polity.html?name=Zobah">Zobah</a>
+          <summary color="white">Aram Taḥtāyā</summary>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Beth-Rehob">Beth Rehob</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Aram-Damascus">Damascus</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Geshur">Geshur</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Maacah">Maacah</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Tob">Tob</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Zobah">Zobah</a>
         </details>
 
         <details open>
-          <summary class="white">Aram ʿElyā</summary>
-          <a href="./research/archaeology/polity.html?name=Bit-Adini">Bit-Adini</a>
-          <a href="./research/archaeology/polity.html?name=Bit-Agusi">Bit-Agusi</a>
-          <a href="./research/archaeology/polity.html?name=Bit-Gabbar">Bit-Gabbar</a>
-          <a href="./research/archaeology/polity.html?name=Hamath">Hamath</a>
-          <a href="./research/archaeology/polity.html?name=Hatallu">Hatallu</a>
-          <a href="./research/archaeology/polity.html?name=Luash">Lu'ash</a>
-          <a href="./research/archaeology/polity.html?name=Pattin-Unqi">Pattin/Unqi</a>
+          <summary color="white">Aram ʿElyā</summary>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Adini">Bit-Adini</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Agusi">Bit-Agusi</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Gabbar">Bit-Gabbar</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Hamath">Hamath</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Hatallu">Hatallu</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Luash">Lu'ash</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Pattin-Unqi">Pattin/Unqi</a>
         </details>
 
         <details open>
-          <summary class="white">Aram Nahrin</summary>
-          <a href="./research/archaeology/polity.html?name=Bit-Bahiani">Bit-Bahiani</a>
-          <a href="./research/archaeology/polity.html?name=Bit-Hadipe">Bit-Hadipe</a>
-          <a href="./research/archaeology/polity.html?name=Bit-Halupe">Bit-Halupe</a>
-          <a href="./research/archaeology/polity.html?name=Bit-Zamani">Bit-Zamani</a>
-          <a href="./research/archaeology/polity.html?name=Hindanu">Hindanu</a>
-          <a href="./research/archaeology/polity.html?name=Laqe">Laqe</a>
-          <a href="./research/archaeology/polity.html?name=Suhu">Suhu</a>
+          <summary color="white">Aram Nahrin</summary>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Bahiani">Bit-Bahiani</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Hadipe">Bit-Hadipe</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Halupe">Bit-Halupe</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Zamani">Bit-Zamani</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Hindanu">Hindanu</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Laqe">Laqe</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Suhu">Suhu</a>
         </details>
 
         <details open>
-          <summary class="white">Bet Aramaye</summary>
-          <a href="./research/archaeology/polity.html?name=Bit-Amukani">Bit-Amukani</a>
-          <a href="./research/archaeology/polity.html?name=Bit-Dakkuri">Bit-Dakkuri</a>
-          <a href="./research/archaeology/polity.html?name=Bit-Saalli">Bit-Sa'alli</a>
-          <a href="./research/archaeology/polity.html?name=Bit-Shilani">Bit-Shilani</a>
-          <a href="./research/archaeology/polity.html?name=Bit-Yakini">Bit-Yakini</a>
-          <a href="./research/archaeology/polity.html?name=Gambulu">Gambulu</a>
-          <a href="./research/archaeology/polity.html?name=Itua">Itu'a</a>
-          <a href="./research/archaeology/polity.html?name=Litau">Litau</a>
-          <a href="./research/archaeology/polity.html?name=Puqudu">Puqudu</a>
-          <a href="./research/archaeology/polity.html?name=Railu">Ra'ilu</a>
+          <summary color="white">Bet Aramaye</summary>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Amukani">Bit-Amukani</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Dakkuri">Bit-Dakkuri</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Saalli">Bit-Sa'alli</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Shilani">Bit-Shilani</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Yakini">Bit-Yakini</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Gambulu">Gambulu</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Itua">Itu'a</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Litau">Litau</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Puqudu">Puqudu</a>
+          <a color="yellow" href="./research/archaeology/polity.html?name=Railu">Ra'ilu</a>
         </details>
       </details>
 
       <details>
-        <summary class="white">Tribes (disputed)</summary>
-        <a href="./research/archaeology/polity.html?name=Adile">Adilê</a>
-        <a href="./research/archaeology/polity.html?name=Bit-Kapsi">Bit-Kapsi</a>
-        <a href="./research/archaeology/polity.html?name=Gibre">Gibrê</a>
-        <a href="./research/archaeology/polity.html?name=Gurumu">Gurumu</a>
-        <a href="./research/archaeology/polity.html?name=Hagaranu">Hagaranu</a>
-        <a href="./research/archaeology/polity.html?name=Nabatu">Nabatu</a>
-        <a href="./research/archaeology/polity.html?name=Ruua">Ru'ua</a>
-        <a href="./research/archaeology/polity.html?name=Ubidu">Ubūdu</a>
+        <summary color="white">Tribes (disputed)</summary>
+        <a color="yellow" href="./research/archaeology/polity.html?name=Adile">Adilê</a>
+        <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Kapsi">Bit-Kapsi</a>
+        <a color="yellow" href="./research/archaeology/polity.html?name=Gibre">Gibrê</a>
+        <a color="yellow" href="./research/archaeology/polity.html?name=Gurumu">Gurumu</a>
+        <a color="yellow" href="./research/archaeology/polity.html?name=Hagaranu">Hagaranu</a>
+        <a color="yellow" href="./research/archaeology/polity.html?name=Nabatu">Nabatu</a>
+        <a color="yellow" href="./research/archaeology/polity.html?name=Ruua">Ru'ua</a>
+        <a color="yellow" href="./research/archaeology/polity.html?name=Ubidu">Ubūdu</a>
       </details>
 
       <hr>
