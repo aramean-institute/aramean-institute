@@ -6,12 +6,16 @@
   <h1>Artifacts</h1>
 
   <section class="mt2">
-    <p>Aramean artifacts including stelae, statues, sculptures, and orthostats provide some of the most important
-      evidence for the history, language, and political organization of the ancient Aramean kingdoms.</p>
+    <p>Aramaic artifacts - including stelae, sculptures, orthostats, papyri, ostraca, and seals - provide key evidence
+      for the Aramean kingdoms, the spread of the Aramaic language, and the civilizations that adopted it across the
+      ancient Near East and beyond.</p>
 
+    <h2 class="mt2">Aramean Artifacts</h2>
+    <p class="mt05">Artifacts produced by or directly associated with the Aramean kingdoms and tribal polities of the
+      Iron Age.</p>
     <table class="mt1 bocred bos5 bw1 z08 w100">
       <caption class="tal fwb mb1 mt1">
-        <img src="./favicon.ico" class="di" height="24">Archaeological Finds
+        <img src="./favicon.ico" class="di" height="24" style="height: 24px;">Aramean Artifacts
       </caption>
       <thead class="bcred yellow p1">
         <tr>
@@ -22,7 +26,8 @@
           <th>Museum</th>
         </tr>
       </thead>
-      <tbody data-iterate="artifacts" data-src="assets/json/archaeology.json">
+      <tbody data-iterate="artifacts" data-src="assets/json/archaeology.json" data-filterkey="artifacts"
+        data-filteritem="origin:'aramean'">
         <tr>
           <td data-get="title"></td>
           <td data-get="period"></td>
@@ -33,8 +38,31 @@
       </tbody>
     </table>
 
-    <hr margintop="2rem" bgcolor="gray">
-    <small color="gray">Published:&nbsp;<i color="initial">2025-05-19</i></small>
+    <h2 class="mt2">Aramaic Artifacts</h2>
+    <p class="mt05">Artifacts bearing Aramaic script or language from non-Aramean contexts, documenting the spread of
+      Aramaic as a lingua franca across the ancient world.</p>
+    <table class="mt1 bocred bos5 bw1 z08 w100">
+      <caption class="tal fwb mb1 mt1">
+        <img src="./favicon.ico" class="di" height="24" style="height: 24px;">Aramaic Artifacts
+      </caption>
+      <thead class="bcred yellow p1">
+        <tr>
+          <th>Artifact</th>
+          <th>Period</th>
+          <th>Location</th>
+          <th>Museum</th>
+        </tr>
+      </thead>
+      <tbody data-iterate="artifacts" data-src="assets/json/archaeology.json" data-filterkey="artifacts"
+        data-filteritem="origin:'aramaic'">
+        <tr>
+          <td data-get="title"></td>
+          <td data-get="period"></td>
+          <td data-get="location"></td>
+          <td data-get="museum"></td>
+        </tr>
+      </tbody>
+    </table>
   </section>
 </article>
 

@@ -9,7 +9,8 @@
       "description": "Aramaic inscription by an Aramean king (likely Hazael of Damascus) mentioning the 'House of David' and the 'King of Israel'.",
       "significance": "Earliest known reference to the House of David outside the Bible.",
       "polity": "Aram-Damascus",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Tel_dan_inscription.JPG/400px-Tel_dan_inscription.JPG"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Tel_dan_inscription.JPG/400px-Tel_dan_inscription.JPG",
+      "origin": "aramean"
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "description": "Royal inscription of King Zakkur of Hamath and Lu'ash, describing his victory over a coalition led by Bar-Hadad of Aram-Damascus.",
       "significance": "Important source for Aramean political history and the Aramaic language.",
       "polity": "Hamath",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
       "description": "Three basalt stelae containing an Aramaic treaty between Mati'el of Arpad (Bit-Agusi) and Bar-Ga'yah of KTK.",
       "significance": "Longest known Old Aramaic inscription. Key source for Aramaic treaty language and diplomacy.",
       "polity": "Bit-Agusi",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 4,
@@ -42,7 +45,8 @@
       "description": "Monumental stone sculptures including lions, sphinxes, and relief orthostats from the palace of Kapara, ruler of Bit-Bahiani.",
       "significance": "Major example of Aramean monumental art blending Syro-Hittite and Mesopotamian styles.",
       "polity": "Bit-Bahiani",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Statue_TellHalaf_01.jpg/400px-Statue_TellHalaf_01.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Statue_TellHalaf_01.jpg/400px-Statue_TellHalaf_01.jpg",
+      "origin": "aramean"
     },
     {
       "id": 5,
@@ -53,7 +57,8 @@
       "description": "Bilingual Assyrian-Aramaic inscription on a statue dedicated to the storm god Hadad by an Aramean governor of Guzana.",
       "significance": "One of the earliest known Aramaic inscriptions and key evidence for early Aramaic script development.",
       "polity": "Bit-Bahiani",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 6,
@@ -64,7 +69,8 @@
       "description": "Royal stele of King Kilamuwa of Bit-Gabbar depicting the king in royal attire with a Phoenician inscription describing his achievements.",
       "significance": "Documents the political history of Bit-Gabbar and its relations with Assyria.",
       "polity": "Bit-Gabbar",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 7,
@@ -75,7 +81,8 @@
       "description": "Inscription in Samalian Aramaic on a statue of the storm god Hadad, erected by King Panamuwa I of Bit-Gabbar.",
       "significance": "Key source for the Samalian dialect and Aramean religious practices.",
       "polity": "Bit-Gabbar",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 8,
@@ -86,7 +93,8 @@
       "description": "Funerary inscription in Samalian Aramaic erected by Bar-Rakib to honor his father Panamuwa II, who died during Tiglath-Pileser III's campaign against Damascus.",
       "significance": "Key source for the Samalian dialect and the political history of Bit-Gabbar.",
       "polity": "Bit-Gabbar",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 9,
@@ -97,7 +105,8 @@
       "description": "Multiple inscriptions of King Bar-Rakib of Bit-Gabbar, written in Imperial Aramaic rather than the local Samalian dialect.",
       "significance": "Among the earliest records using Imperial Aramaic, showing the spread of standardized Aramaic.",
       "polity": "Bit-Gabbar",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 10,
@@ -108,7 +117,8 @@
       "description": "Funerary stele of a royal official named Katumuwa, with an Aramaic inscription describing mortuary rituals and the soul's dwelling in the stele.",
       "significance": "Unique evidence for Aramean beliefs about the afterlife and soul.",
       "polity": "Bit-Gabbar",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 11,
@@ -119,7 +129,8 @@
       "description": "Inscribed scepter belonging to King Kilamuwa of Bit-Gabbar.",
       "significance": "Royal artifact demonstrating the material culture of Aramean kingship.",
       "polity": "Bit-Gabbar",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 12,
@@ -130,7 +141,8 @@
       "description": "Ivory pieces inscribed with the name of Hazael, king of Aram-Damascus, found at the Assyrian provincial capital of Arslan Tash.",
       "significance": "Evidence of the wealth and reach of Aram-Damascus under Hazael.",
       "polity": "Aram-Damascus",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 13,
@@ -141,7 +153,8 @@
       "description": "Bronze horse frontlet inscribed with the name of Hazael, king of Aram-Damascus, found at the Heraion of Samos.",
       "significance": "Evidence of Aramean diplomatic or trade connections reaching the Aegean world.",
       "polity": "Aram-Damascus",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 14,
@@ -152,7 +165,8 @@
       "description": "Basalt stele erected by Bar-Hadad, king of Aram, dedicated to the god Melqart. Contains an Aramaic inscription.",
       "significance": "Important evidence for Aramean royal dedications and religious practices.",
       "polity": "Aram-Damascus",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 15,
@@ -163,7 +177,8 @@
       "description": "Small limestone amulets with Aramaic incantation texts against demons and evil spirits.",
       "significance": "Rare evidence of Aramean magical and religious practices.",
       "polity": "Bit-Adini",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 16,
@@ -174,7 +189,8 @@
       "description": "Inscribed ivory piece found at Arslan Tash (ancient Hadatu), capital of Bit-Adini after Assyrian conquest.",
       "significance": "Evidence of Aramean artistic production and luxury goods.",
       "polity": "Bit-Adini",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 17,
@@ -185,7 +201,8 @@
       "description": "Polychrome wall paintings from the palace at Til Barsip, capital of Bit-Adini, showing military scenes and court life.",
       "significance": "Rare surviving examples of ancient Near Eastern wall painting from an Aramean capital.",
       "polity": "Bit-Adini",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 18,
@@ -196,7 +213,8 @@
       "description": "Multiple stone inscriptions in Luwian hieroglyphs and Aramaic from the kingdom of Hamath, documenting its rulers.",
       "significance": "Shows the bilingual nature of the Hamath kingdom and Aramean cultural influence.",
       "polity": "Hamath",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 19,
@@ -207,7 +225,8 @@
       "description": "Aramaic graffiti found during excavations at Hama (ancient Hamath), including short texts and names.",
       "significance": "Evidence of everyday Aramaic use in the kingdom of Hamath.",
       "polity": "Hamath",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 20,
@@ -218,7 +237,8 @@
       "description": "Remains of a monumental bit-hilani palace with carved basalt orthostats, caryatid figures, and a scorpion gate.",
       "significance": "Best-preserved example of Aramean palatial architecture.",
       "polity": "Bit-Bahiani",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 21,
@@ -229,7 +249,8 @@
       "description": "Aramaic inscription from Tell Halaf, destroyed during World War II bombing of Berlin.",
       "significance": "Lost artifact documenting Aramean presence at Guzana.",
       "polity": "Bit-Bahiani",
-      "image": ""
+      "image": "",
+      "origin": "aramean"
     },
     {
       "id": 22,
@@ -240,7 +261,8 @@
       "description": "Aramaic inscription found in western Iran, one of the easternmost Old Aramaic texts discovered.",
       "significance": "Demonstrates the spread of Aramaic language and culture far beyond the Levant.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 23,
@@ -251,7 +273,8 @@
       "description": "Two funerary steles with Aramaic inscriptions from the village of Neirab near Aleppo, depicting priests of the moon god.",
       "significance": "Important evidence for Aramean funerary practices and religious beliefs.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 24,
@@ -262,7 +285,8 @@
       "description": "Aramaic inscriptions found at the oasis of Tayma in northwestern Arabia, dating to the Persian period.",
       "significance": "Evidence of Aramaic use in the Arabian Peninsula during the Achaemenid period.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 25,
@@ -273,7 +297,8 @@
       "description": "Aramaic ostraca and clay tablets found at the ancient Assyrian capital of Assur, showing administrative use of Aramaic.",
       "significance": "Evidence that Aramaic was used alongside Akkadian in Assyrian administration.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 26,
@@ -284,7 +309,8 @@
       "description": "Aramaic funerary stele found at Saqqara in Egypt, dating to the Persian period.",
       "significance": "Evidence of Aramean presence in Egypt during the Achaemenid period.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 27,
@@ -295,7 +321,8 @@
       "description": "Large collection of Aramaic papyri from a Jewish-Aramean military colony on Elephantine island in the Nile.",
       "significance": "Major source for Imperial Aramaic and daily life in the Persian Empire.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 28,
@@ -306,7 +333,8 @@
       "description": "Eight Aramaic letters found at Hermopolis in Egypt, containing personal correspondence.",
       "significance": "Evidence of Aramaic-speaking communities in Egypt and their social networks.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 29,
@@ -317,7 +345,8 @@
       "description": "Aramaic rock inscription in Cilicia (southern Turkey), dating to the Persian period.",
       "significance": "Evidence of Aramaic use in Anatolia during the Achaemenid period.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 30,
@@ -328,7 +357,8 @@
       "description": "Aramaic funerary steles found at Daskyleion, the satrapal capital of Hellespontine Phrygia.",
       "significance": "Evidence of Aramaic as the administrative language of the Persian Empire in western Anatolia.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 31,
@@ -339,7 +369,8 @@
       "description": "Aramaic inscriptions found in the Luristan region of western Iran.",
       "significance": "Evidence of Aramaic penetration into the Iranian highlands.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 32,
@@ -350,7 +381,8 @@
       "description": "Bilingual Greek-Aramaic rock inscription of the Mauryan emperor Ashoka, proclaiming Buddhist principles.",
       "significance": "Demonstrates Aramaic as a language of international communication reaching Central Asia.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 33,
@@ -361,7 +393,8 @@
       "description": "Aramaic inscription found at the ancient city of Taxila in modern Pakistan.",
       "significance": "Easternmost known Aramaic inscription, showing the language's reach to the Indian subcontinent.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 34,
@@ -372,7 +405,8 @@
       "description": "Aramaic rock inscription of Ashoka found near Jalalabad in Afghanistan.",
       "significance": "Further evidence of Aramaic use in the Mauryan Empire's western provinces.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 35,
@@ -383,7 +417,8 @@
       "description": "Collection of Aramaic administrative documents from Bactria, dating to the late Achaemenid period.",
       "significance": "Shows Aramaic functioning as the bureaucratic language of the Persian Empire in Central Asia.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 36,
@@ -394,7 +429,8 @@
       "description": "Aramaic rock inscription of Ashoka found in the Laghman valley of Afghanistan.",
       "significance": "Part of the Ashokan edicts demonstrating Aramaic's role as a lingua franca in the East.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     },
     {
       "id": 37,
@@ -405,7 +441,8 @@
       "description": "Over 3,500 inscriptions in Palmyrene Aramaic from the ancient city of Palmyra, covering trade, religion, and civic life.",
       "significance": "Largest corpus of Aramaic inscriptions from a single site. Documents Aramean culture in the Roman period.",
       "polity": "",
-      "image": ""
+      "image": "",
+      "origin": "aramaic"
     }
   ]
 }
