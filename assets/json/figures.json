@@ -6,7 +6,8 @@
       "period": "306-373 AD",
       "category": "Saint",
       "description": "Theologian, poet, and hymnographer. Wrote extensively in Syriac and is considered one of the greatest Aramean literary figures.",
-      "birthplace": "Nusaybin (Nisibis), Turkey"
+      "birthplace": "Nusaybin (Nisibis), Turkey",
+      "polity": ""
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "period": "451-521 AD",
       "category": "Saint",
       "description": "Prolific Syriac poet and bishop, known for his metrical homilies. Wrote over 760 verse homilies in Syriac.",
-      "birthplace": "Serugh (Suruç), Turkey"
+      "birthplace": "Serugh (Suruç), Turkey",
+      "polity": ""
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "period": "1226-1286 AD",
       "category": "Scholar",
       "description": "Maphrian of the Syriac Orthodox Church, polymath, historian, and theologian. Wrote in Syriac and Arabic on theology, philosophy, grammar, and history.",
-      "birthplace": "Malatya, Turkey"
+      "birthplace": "Malatya, Turkey",
+      "polity": ""
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "period": "c. 842-800 BC",
       "category": "King",
       "description": "King of Aram-Damascus who expanded the kingdom to its greatest territorial extent, defeating Israel and Judah.",
-      "birthplace": "Damascus, Syria"
+      "birthplace": "Damascus, Syria",
+      "polity": "Aram-Damascus"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "period": "4 BC - 50 AD",
       "category": "King",
       "description": "Aramean king of Osroene (Edessa/Urhoy). According to tradition, corresponded with Jesus and was healed by the Apostle Thaddeus.",
-      "birthplace": "Urhoy (Edessa), Turkey"
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": "Osroene"
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "period": "1126-1199 AD",
       "category": "Patriarch",
       "description": "Syriac Orthodox Patriarch of Antioch and author of the largest surviving Syriac historical work, the Chronicle.",
-      "birthplace": "Melitene (Malatya), Turkey"
+      "birthplace": "Melitene (Malatya), Turkey",
+      "polity": ""
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "period": "c. 658-605 BC",
       "category": "King",
       "description": "Chaldean (Kaldu-Aramean) general who founded the Neo-Babylonian Empire and destroyed the Assyrian Empire.",
-      "birthplace": "Babylonia, Iraq"
+      "birthplace": "Babylonia, Iraq",
+      "polity": "Bit-Yakini"
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "period": "c. 634-562 BC",
       "category": "King",
       "description": "King of the Neo-Babylonian (Chaldean) Empire. Built the Hanging Gardens and expanded the empire to its greatest extent.",
-      "birthplace": "Babylon, Iraq"
+      "birthplace": "Babylon, Iraq",
+      "polity": "Bit-Yakini"
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "period": "c. 500-578 AD",
       "category": "Saint",
       "description": "Bishop who revived the Syriac Orthodox Church by secretly ordaining clergy across the region. The church was sometimes called 'Jacobite' after him.",
-      "birthplace": "Tella (Viranşehir), Turkey"
+      "birthplace": "Tella (Viranşehir), Turkey",
+      "polity": ""
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "period": "154-222 AD",
       "category": "Scholar",
       "description": "Philosopher, scientist, and poet from Edessa. One of the earliest Syriac writers, known for his hymns and cosmological works.",
-      "birthplace": "Urhoy (Edessa), Turkey"
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "period": "c. 120-180 AD",
       "category": "Scholar",
       "description": "Aramean theologian who composed the Diatessaron, a harmony of the four Gospels in Syriac that was widely used in the Syriac-speaking church.",
-      "birthplace": "Adiabene, Iraq"
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
     },
     {
       "id": 12,
@@ -94,7 +105,8 @@
       "period": "c. 240-274 AD",
       "category": "Queen",
       "description": "Queen of the Palmyrene Empire who briefly conquered Egypt and much of the Roman East. Ruled from the Aramean city of Palmyra.",
-      "birthplace": "Palmyra, Syria"
+      "birthplace": "Palmyra, Syria",
+      "polity": "Palmyra"
     },
     {
       "id": 13,
@@ -102,7 +114,8 @@
       "period": "1887-1957 AD",
       "category": "Patriarch",
       "description": "Syriac Orthodox Patriarch of Antioch and scholar. Authored 'The Scattered Pearls', a history of Syriac literature and sciences.",
-      "birthplace": "Mosul, Iraq"
+      "birthplace": "Mosul, Iraq",
+      "polity": ""
     },
     {
       "id": 14,
@@ -110,7 +123,8 @@
       "period": "1868-1930 AD",
       "category": "Activist",
       "description": "Aramean journalist and activist who advocated for Aramean national identity. Published the newspaper 'Kawkab Madnho' (Star of the East).",
-      "birthplace": "Diyarbakır, Turkey"
+      "birthplace": "Diyarbakır, Turkey",
+      "polity": ""
     },
     {
       "id": 15,
@@ -118,7 +132,224 @@
       "period": "c. 125-180 AD",
       "category": "Writer",
       "description": "Satirist and rhetorician from Samosata (Commagene). Wrote in Greek but identified himself as an Aramean ('Syrian barbarian').",
-      "birthplace": "Samosata, Turkey"
+      "birthplace": "Samosata, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 16,
+      "name": "Hezion",
+      "period": "c. 930-915 BC",
+      "category": "King",
+      "polity": "Aram-Damascus",
+      "description": "Founder of the Aram-Damascus dynasty (biblical).",
+      "birthplace": "Damascus, Syria"
+    },
+    {
+      "id": 17,
+      "name": "Tabrimmon",
+      "period": "c. 915-900 BC",
+      "category": "King",
+      "polity": "Aram-Damascus",
+      "description": "Son of Hezion, king of Aram-Damascus.",
+      "birthplace": "Damascus, Syria"
+    },
+    {
+      "id": 18,
+      "name": "Ben-Hadad I",
+      "period": "c. 900-860 BC",
+      "category": "King",
+      "polity": "Aram-Damascus",
+      "description": "King of Aram-Damascus who allied with Asa of Judah against Israel.",
+      "birthplace": "Damascus, Syria"
+    },
+    {
+      "id": 19,
+      "name": "Hadadezer",
+      "period": "c. 860-843 BC",
+      "category": "King",
+      "polity": "Aram-Damascus",
+      "description": "King of Aram-Damascus who led the anti-Assyrian coalition at the Battle of Qarqar (853 BC).",
+      "birthplace": "Damascus, Syria"
+    },
+    {
+      "id": 20,
+      "name": "Ben-Hadad III",
+      "period": "c. 796-770 BC",
+      "category": "King",
+      "polity": "Aram-Damascus",
+      "description": "Son of Hazael. Under his reign, Aram-Damascus declined in power.",
+      "birthplace": "Damascus, Syria"
+    },
+    {
+      "id": 21,
+      "name": "Rezin",
+      "period": "c. 750-732 BC",
+      "category": "King",
+      "polity": "Aram-Damascus",
+      "description": "Last king of Aram-Damascus. Conquered by Tiglath-Pileser III in 732 BC.",
+      "birthplace": "Damascus, Syria"
+    },
+    {
+      "id": 22,
+      "name": "Hadadezer of Zobah",
+      "period": "c. 1000-970 BC",
+      "category": "King",
+      "polity": "Zobah",
+      "description": "King of Aram-Zobah, defeated by David of Israel (2 Samuel 8).",
+      "birthplace": "Beqaa Valley, Lebanon/Syria"
+    },
+    {
+      "id": 23,
+      "name": "Talmai",
+      "period": "c. 1000 BC",
+      "category": "King",
+      "polity": "Geshur",
+      "description": "King of Geshur and father-in-law of David (2 Samuel 3:3).",
+      "birthplace": "Golan Heights"
+    },
+    {
+      "id": 24,
+      "name": "Toi (Tou)",
+      "period": "c. 1000 BC",
+      "category": "King",
+      "polity": "Hamath",
+      "description": "King of Hamath, contemporary of David. Sent gifts after the defeat of Hadadezer of Zobah.",
+      "birthplace": "Hama, Syria"
+    },
+    {
+      "id": 25,
+      "name": "Irhuleni",
+      "period": "c. 853 BC",
+      "category": "King",
+      "polity": "Hamath",
+      "description": "King of Hamath who fought against Assyria at the Battle of Qarqar.",
+      "birthplace": "Hama, Syria"
+    },
+    {
+      "id": 26,
+      "name": "Zakkur",
+      "period": "c. 785 BC",
+      "category": "King",
+      "polity": "Hamath",
+      "description": "King of Hamath and Lu'ash. Erected the Zakkur Stele commemorating his victory over a coalition led by Bar-Hadad.",
+      "birthplace": "Hama, Syria"
+    },
+    {
+      "id": 27,
+      "name": "Gusi",
+      "period": "c. 890 BC",
+      "category": "King",
+      "polity": "Bit-Agusi",
+      "description": "Founder of the Bit-Agusi dynasty.",
+      "birthplace": "Arpad, Syria"
+    },
+    {
+      "id": 28,
+      "name": "Arame",
+      "period": "c. 858 BC",
+      "category": "King",
+      "polity": "Bit-Agusi",
+      "description": "Second king of Bit-Agusi who submitted to Assyria.",
+      "birthplace": "Arpad, Syria"
+    },
+    {
+      "id": 29,
+      "name": "Attarsumki",
+      "period": "c. 805-770 BC",
+      "category": "King",
+      "polity": "Bit-Agusi",
+      "description": "King of Bit-Agusi, vassal of Adad-nirari III.",
+      "birthplace": "Arpad, Syria"
+    },
+    {
+      "id": 30,
+      "name": "Mati'el",
+      "period": "c. 754-740 BC",
+      "category": "King",
+      "polity": "Bit-Agusi",
+      "description": "Last independent king of Bit-Agusi. Party to the Sefire treaties. Defeated by Tiglath-Pileser III after a three-year siege.",
+      "birthplace": "Arpad, Syria"
+    },
+    {
+      "id": 31,
+      "name": "Ahuni",
+      "period": "c. 870-856 BC",
+      "category": "King",
+      "polity": "Bit-Adini",
+      "description": "Last king of Bit-Adini. Defeated and deported by Shalmaneser III.",
+      "birthplace": "Til Barsip, Syria"
+    },
+    {
+      "id": 32,
+      "name": "Gabbar",
+      "period": "c. 950 BC",
+      "category": "King",
+      "polity": "Bit-Gabbar",
+      "description": "Founder of the Bit-Gabbar dynasty at Sam'al.",
+      "birthplace": "Zincirli, Turkey"
+    },
+    {
+      "id": 33,
+      "name": "Kilamuwa",
+      "period": "c. 830 BC",
+      "category": "King",
+      "polity": "Bit-Gabbar",
+      "description": "King of Bit-Gabbar who erected the Kilamuwa Stele.",
+      "birthplace": "Zincirli, Turkey"
+    },
+    {
+      "id": 34,
+      "name": "Panamuwa I",
+      "period": "c. 790-750 BC",
+      "category": "King",
+      "polity": "Bit-Gabbar",
+      "description": "King of Bit-Gabbar who erected the Hadad statue inscription in Samalian Aramaic.",
+      "birthplace": "Zincirli, Turkey"
+    },
+    {
+      "id": 35,
+      "name": "Bar-Sur",
+      "period": "c. 750-745 BC",
+      "category": "King",
+      "polity": "Bit-Gabbar",
+      "description": "Usurper who seized the throne of Bit-Gabbar.",
+      "birthplace": "Zincirli, Turkey"
+    },
+    {
+      "id": 36,
+      "name": "Panamuwa II",
+      "period": "c. 745-733 BC",
+      "category": "King",
+      "polity": "Bit-Gabbar",
+      "description": "Restored to the throne by Tiglath-Pileser III. Died during the Assyrian campaign against Damascus.",
+      "birthplace": "Zincirli, Turkey"
+    },
+    {
+      "id": 37,
+      "name": "Bar-Rakib",
+      "period": "c. 733-713 BC",
+      "category": "King",
+      "polity": "Bit-Gabbar",
+      "description": "Last king of Bit-Gabbar. Loyal Assyrian vassal who left multiple inscriptions.",
+      "birthplace": "Zincirli, Turkey"
+    },
+    {
+      "id": 38,
+      "name": "Kapara",
+      "period": "c. 10th-9th century BC",
+      "category": "King",
+      "polity": "Bit-Bahiani",
+      "description": "Ruler of Bit-Bahiani who built the famous palace at Tell Halaf (Guzana).",
+      "birthplace": "Tell Halaf, Syria"
+    },
+    {
+      "id": 39,
+      "name": "Merodach-Baladan II",
+      "period": "722-710 BC, 703-702 BC",
+      "category": "King",
+      "polity": "Bit-Yakini",
+      "description": "Chaldean/Aramean leader who twice seized the throne of Babylon and allied with Elam against Assyria.",
+      "birthplace": "Southern Babylonia, Iraq"
     }
   ]
 }

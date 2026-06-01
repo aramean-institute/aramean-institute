@@ -1,91 +1,64 @@
 <script src="https://cdn.front.nu/nightly/front.js"></script>
 <template srcdoc="../../../index" src="../../../_templates/archaelogy"></template>
-<title bindquery="region:textContent">Polity</title>
+<title>Polity</title>
 
-<nav id="submenu" clone="#submenuitems" bgcolor="red" color="yellow" flex flexdirection="column" class="sidebar"
-  height="100%" overflow="visible" paddingtop="1rem" hide>
-</nav>
 <section class="pauto">
   <h1 bindquery="name:name">{name}</h1>
   <nav class="crumbs pointer pt05">
     <ol>
       <li><a href="#">Research</a></li>
       <li><a href="research/archaeology">Archaeology</a></li>
-      <li bindquery="region:textContent">Polity</li>
+      <li>Polity</li>
     </ol>
   </nav>
 
   <article class="mt2" data-src="assets/json/polities.json">
-    <p bindquery="name:name" data-get="{name}.description"></p>
-    <br>
-
-    <h2>Key Archaeological Finds</h2>
-    <br>
-
-    <div data-iterate="artifacts" data-src="assets/json/archaeology.json" bindquery="name:name"
-      data-filterkey="artifacts" data-filteritem="polity:'{name}'">
-      <article class="mb2">
-        <h3 data-get="title"></h3>
-        <p data-get="description"></p>
-        <p class="mt05">
-          <b>Period:</b> <span data-get="period"></span><br>
-          <b>Location:</b> <span data-get="location"></span><br>
-          <b>Museum:</b> <span data-get="museum"></span><br>
-          <b>Significance:</b> <span data-get="significance"></span>
-        </p>
-      </article>
-    </div>
-    <br>
-
-    <h2>Known Rulers</h2>
-    <table class="mt1 bocred bos5 bw1 z08 w100">
-      <thead class="bcred yellow p1">
-        <tr>
-          <th>Ruler</th>
-          <th>Approximate Reign</th>
-          <th>Notes</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Hezion</td>
-          <td>c. 930-915 BC</td>
-          <td>Founder of the dynasty (biblical)</td>
-        </tr>
-        <tr>
-          <td>Tabrimmon</td>
-          <td>c. 915-900 BC</td>
-          <td>Son of Hezion</td>
-        </tr>
-        <tr>
-          <td>Ben-Hadad I</td>
-          <td>c. 900-860 BC</td>
-          <td>Allied with Asa of Judah against Israel</td>
-        </tr>
-        <tr>
-          <td>Hadadezer</td>
-          <td>c. 860-843 BC</td>
-          <td>Led coalition against Assyria at Qarqar (853 BC)</td>
-        </tr>
-        <tr>
-          <td>Hazael</td>
-          <td>c. 843-796 BC</td>
-          <td>Usurper; expanded Damascus to its greatest extent</td>
-        </tr>
-        <tr>
-          <td>Ben-Hadad III</td>
-          <td>c. 796-770 BC</td>
-          <td>Son of Hazael; kingdom declined</td>
-        </tr>
-        <tr>
-          <td>Rezin</td>
-          <td>c. 750-732 BC</td>
-          <td>Last king; conquered by Tiglath-Pileser III</td>
-        </tr>
-      </tbody>
-    </table>
-
-    <hr class="mt2 bcblack">
-    <small class="gray">Published: 2025-05-29, Last update: 2025-05-29</small>
+    <p data-get="{name}.description" bindquery="name:name"></p>
+    <p class="mt1">
+      <b>Region:</b> <span data-get="{name}.region" bindquery="name:name"></span><br>
+      <b>Capital:</b> <span data-get="{name}.capital" bindquery="name:name"></span><br>
+      <b>Modern location:</b> <span data-get="{name}.modern_location" bindquery="name:name"></span><br>
+      <b>Period:</b> <span data-get="{name}.period" bindquery="name:name"></span><br>
+      <b>Peak:</b> <span data-get="{name}.peak" bindquery="name:name"></span><br>
+      <b>Fall:</b> <span data-get="{name}.fall" bindquery="name:name"></span>
+    </p>
   </article>
+
+  <h2 margintop="2rem">Key Archaeological Finds</h2>
+  <div data-iterate="artifacts" data-src="assets/json/archaeology.json" bindquery="name:name" data-filterkey="artifacts"
+    data-filteritem="polity:'{name}'" data-onempty="#no-finds">
+    <article margintop="1rem">
+      <h4 data-get="title">
+      </h4>
+      <p data-get="description"></p>
+      <p class="mt05">
+        <b>Period:</b> <span data-get="period"></span><br>
+        <b>Location:</b> <span data-get="location"></span><br>
+        <b>Museum:</b> <span data-get="museum"></span><br>
+        <b>Significance:</b> <span data-get="significance"></span>
+      </p>
+    </article>
+  </div>
+
+  <div id="no-finds" class="gray" hide>
+    <p>No archaeological finds registered for this polity yet.</p>
+  </div>
+
+  <h3 margintop="2rem">Known Rulers</h3>
+  <div data-iterate="figures" data-src="assets/json/figures.json" bindquery="name:name" data-filterkey="figures"
+    data-filteritem="polity:'{name}';category:'King'" data-onempty="#no-rulers">
+    <article margintop="1rem">
+      <h4 data-get="name">
+      </h4>
+      <p data-get="description"></p>
+      <p class="mt05">
+        <b>Period:</b> <span data-get="period"></span><br>
+        <b>Birthplace:</b> <span data-get="birthplace"></span>
+      </p>
+    </article>
+  </div>
+
+  <div id="no-rulers" class="gray" hide>
+    <p>No known rulers registered for this polity yet.</p>
+  </div>
 </section>
