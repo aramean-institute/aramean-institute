@@ -443,6 +443,39 @@
       "polity": "",
       "image": "",
       "origin": "aramaic"
+    },
+    {
+      "id": 38,
+      "title": "Aftuha Family Mosaic",
+      "period": "3rd century AD",
+      "location": "Edessa (Urhay), Turkey",
+      "museum": "Şanlıurfa Museum",
+      "description": "Funerary mosaic depicting Aftuha and his family with a Syriac inscription.",
+      "significance": "One of the earliest and best-preserved examples of Edessan Syriac art and epigraphy.",
+      "polity": "Bet-Urhay",
+      "origin": "aramean"
+    },
+    {
+      "id": 39,
+      "title": "Orpheus Mosaic",
+      "period": "194 AD",
+      "location": "Edessa (Urhay), Turkey",
+      "museum": "Şanlıurfa Museum",
+      "description": "Mosaic depicting Orpheus with a Syriac inscription naming the tomb owner and artist.",
+      "significance": "Contains one of the earliest dated Syriac inscriptions known.",
+      "polity": "Bet-Urhay",
+      "origin": "aramean"
+    },
+    {
+      "id": 40,
+      "title": "Funerary Inscriptions",
+      "period": "2nd-3rd century AD",
+      "location": "Edessa (Urhay), Turkey",
+      "museum": "Şanlıurfa Museum",
+      "description": "Collection of Syriac funerary inscriptions from tombs around Edessa.",
+      "significance": "Primary archaeological evidence for the language and culture of ancient Urhay.",
+      "polity": "Bet-Urhay",
+      "origin": "aramean"
     }
   ]
 }
