@@ -43,7 +43,7 @@
       "category": "King",
       "description": "Aramean king of Osroene (Edessa/Urhoy). According to tradition, corresponded with Jesus and was healed by the Apostle Thaddeus.",
       "birthplace": "Urhoy (Edessa), Turkey",
-      "polity": "Osroene"
+      "polity": "Bet-Urhay"
     },
     {
       "id": 6,
@@ -350,6 +350,276 @@
       "polity": "Bit-Yakini",
       "description": "Chaldean/Aramean leader who twice seized the throne of Babylon and allied with Elam against Assyria.",
       "birthplace": "Southern Babylonia, Iraq"
+    },
+    {
+      "id": 40,
+      "name": "Aryu",
+      "period": "132 - 127 BC",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "The founding ruler of the Abgarid dynasty of Osroene.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 41,
+      "name": "Abdu",
+      "period": "127 - 120 BC",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Maz'ur; second king of the dynasty.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 42,
+      "name": "Fradasht",
+      "period": "120 - 115 BC",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Gebar'u; early ruler of the kingdom.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 43,
+      "name": "Bakru I",
+      "period": "115 - 112 BC",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Fradasht; ruled during the early formative years of Osroene.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 44,
+      "name": "Bakru II",
+      "period": "112 - 94 BC",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Bakru I; ruled independently before sharing power with co-regents.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 45,
+      "name": "Ma'nu I",
+      "period": "94 BC",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Ruled jointly alongside Bakru II for a brief period.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 46,
+      "name": "Abgar I Piqa",
+      "period": "94 - 68 BC",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Surnamed 'The Dumb'. Initially co-ruled with Bakru II before reigning alone. The first historical king to bear the name Abgar.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 47,
+      "name": "Abgar II",
+      "period": "68 - 53 BC",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Abgar I. Dealt extensively with the Romans under Pompey and Crassus during his reign.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 48,
+      "name": "Ma'nu II",
+      "period": "52 - 34 BC",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Surnamed 'Aloho' (The God). Took the throne following a brief one-year interregnum.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 49,
+      "name": "Paqor",
+      "period": "34 - 29 BC",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Ruled Osroene during a period heavily influenced by regional Roman-Parthian conflicts.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 50,
+      "name": "Abgar III",
+      "period": "29 - 26 BC",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Third ruler to bear the dynastic name Abgar.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 51,
+      "name": "Abgar IV Sumaqa",
+      "period": "26 - 23 BC",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Surnamed 'The Red'; held a brief three-year reign over the city-state.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 52,
+      "name": "Ma'nu III Saflul",
+      "period": "23 - 4 BC",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Maintained a stable multi-decade rule prior to the dawn of the common era.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 5,
+      "name": "Abgar V Ukama (1st Tenure)",
+      "period": "4 BC - 7 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Aramean king of Osroene (Edessa/Urhoy). Surnamed 'The Black'. His first period on the throne.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 53,
+      "name": "Ma'nu IV",
+      "period": "7-13 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Ma'nu III; briefly interrupted the rule of Abgar V.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 54,
+      "name": "Abgar V Ukama (2nd Tenure)",
+      "period": "13-50 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Returned to power for a highly celebrated second reign. Famous in Christian tradition for his legendary correspondence with Jesus.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 55,
+      "name": "Ma'nu V",
+      "period": "50-57 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Abgar V; succeeded his father following his death.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 56,
+      "name": "Ma'nu VI",
+      "period": "57-71 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Another son of Abgar V who succeeded his brother Ma'nu V.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 57,
+      "name": "Abgar VI",
+      "period": "71-91 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Ma'nu VI; his death led to a long multi-decade interregnum in the kingdom.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 58,
+      "name": "Abgar VII",
+      "period": "109-116 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Ezad. Ruled during Roman Emperor Trajan’s campaigns in Mesopotamia and was eventually deposed by Rome.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 59,
+      "name": "Yalur",
+      "period": "118-122 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Ruled jointly alongside the Roman puppet king Parthamaspates following a period of chaos.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 60,
+      "name": "Parthamaspates",
+      "period": "118-123 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "A Parthian prince placed on the throne by Rome. Co-ruled at first, then ruled alone from 122–123 AD.",
+      "birthplace": "Parthian Empire"
+    },
+    {
+      "id": 61,
+      "name": "Ma'nu VII",
+      "period": "123-139 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Ezad; restored the native Abgarid dynastic line to power with Roman approval.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 62,
+      "name": "Ma'nu VIII (1st Tenure)",
+      "period": "139-163 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Ma'nu VII. His first reign ended when he was temporarily driven out by the Parthians.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 63,
+      "name": "Wa'el",
+      "period": "163-165 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Sahru. A rival king placed on the throne of Edessa as a proxy for the Parthian Empire.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 64,
+      "name": "Ma'nu VIII (2nd Tenure)",
+      "period": "165-177 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Restored to his throne by the Romans after they drove the Parthians out of Upper Mesopotamia.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 65,
+      "name": "Abgar VIII the Great",
+      "period": "177-212 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Ma'nu VIII. One of the most famous rulers of Edessa; oversaw a massive cultural flourishing of Syriac literature and art.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 66,
+      "name": "Abgar IX Severus",
+      "period": "212-214 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Abgar VIII. Summoned and deposed by Roman Emperor Caracalla, effectively ending Osroene's true independence.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 67,
+      "name": "Ma'nu IX",
+      "period": "214-240 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Ruled primarily in name only under direct Roman oversight and provincial administrative status.",
+      "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 68,
+      "name": "Abgar X Frahad",
+      "period": "240-242 AD",
+      "category": "King",
+      "polity": "Bet-Urhay",
+      "description": "Son of Ma'nu IX; the final nominal ruler of the historic Abgarid dynasty before complete Roman provincial integration.",
+      "birthplace": "Urhoy (Edessa), Turkey"
     }
   ]
 }

@@ -298,5 +298,15 @@
     "peak": "Unknown",
     "fall": "Subdued by Assyria",
     "description": "Ra'ilu was an Aramean tribal group in Babylonia, mentioned in the inscriptions of Tiglath-Pileser III. Little is known beyond their attestation in Assyrian conquest records."
+  },
+  "Bet-Urhay": {
+    "name": "Bet-Urhay",
+    "region": "Aram Nahrin",
+    "capital": "Urhay (Edessa)",
+    "modern_location": "Turkey (Şanlıurfa)",
+    "period": "1st century BC - 3rd century AD (as Osroene kingdom)",
+    "peak": "2nd century AD (under Abgar dynasty)",
+    "fall": "244 AD (absorbed into Roman Empire as province)",
+    "description": "Beth-Urhay (Urhay / Edessa) was the Aramean Syriac name for the city of Edessa, capital of the kingdom of Osroene in Upper Mesopotamia. It became a major center of Aramean/Syriac culture and early Christianity. In Syriac tradition, it is associated with King Abgar V and the earliest Christian narratives in Mesopotamia."
   }
 }
