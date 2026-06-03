@@ -476,6 +476,18 @@
       "significance": "Primary archaeological evidence for the language and culture of ancient Urhay.",
       "polity": "Bet-Urhay",
       "origin": "aramean"
+    },
+    {
+      "id": 41,
+      "title": "Bethsaida Cultic Stele",
+      "period": "9th-8th century BC",
+      "location": "Bethsaida (et-Tell), Israel",
+      "museum": "Israel Museum, Jerusalem",
+      "description": "A basalt monument depicting a stylized horned bull's head with a dagger, representing an Aramean deity (likely the storm god Hadad or a moon god). It was discovered broken near the monumental city gate complex.",
+      "significance": "Provides vivid physical evidence of Aramean religious iconography, cultic practices, and political influence within the kingdom of Geshur.",
+      "polity": "Geshur",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Israel_Museum_P1060383_%284042893808%29.jpg/400px-Israel_Museum_P1060383_%284042893808%29.jpg",
+      "origin": "aramean"
     }
   ]
 }
