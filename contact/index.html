@@ -11,23 +11,23 @@
 		<h6 margintop="1rem" marginbottom="2rem" globalize-get>We typically respond within 48
 			hours. For all inquiries, please us the form below.</h6>
 
-		<form class="gaph2-" method="post" action="https://aramean-institute.admin-86a.workers.dev"
-			data-onsuccess="hide:#contact;show:#complete" data-onerror="show:#error">
+		<form class="gaph2-" method="post" action="https://mail.aramean.institute"
+			data-onsuccess="hide:#contact;show:#complete" form-throttle="2000" data-onerror="show:#error">
 
 			<div class="group">
-				<input name="name" type="text" class="phdark f1 bw1 bos8 bocblack02" placeholder="Full name"
-					globalize-get="full_name" form-invalid="#name_tip:[Please enter your name]" required>
+				<input name="name" type="text" class="f1 bw1 bos8 bocblack02" placeholder="Full name" placeholdercolor="silver"
+					form-invalid="#name_tip:[Please enter your name]" required>
 				<small id="name_tip" color="red"></small>
 			</div>
 
 			<div class="group">
-				<input name="email" type="text" class="phdark f1 bw1 bos8 bocblack02" placeholder="Email" globalize-get="email"
+				<input name="email" type="text" class="f1 bw1 bos8 bocblack02" placeholder="Email" placeholdercolor="silver"
 					form-invalid="#email_tip:[Please enter your email]" required>
 				<small id="email_tip" color="red"></small>
 			</div>
 
 			<div class="group">
-				<select name="subject" class="phdark bw1 bos8 bocblack02">
+				<select name="subject" class="bw1 bos8 bocblack02">
 					<option value="1" globalize-get="membership">Membership</option>
 					<option value="2" globalize-get="cooperation">Cooperation</option>
 					<option value="3" globalize-get="research">Research</option>
@@ -38,9 +38,8 @@
 			</div>
 
 			<div class="group">
-				<textarea name="message" class="w100 h10r phdark bw1 bos8 bocblack02" placeholder="Message"
-					globalize-get="message" globalize-target="placeholder" form-invalid="#message_tip:[Please enter a message]"
-					required></textarea>
+				<textarea name="message" class="w100 h10r bw1 bos8 bocblack02" placeholder="Message" placeholdercolor="silver"
+					globalize-target="placeholder" form-invalid="#message_tip:[Please enter a message]" required></textarea>
 				<small id="message_tip" color="red"></small>
 			</div>
 
