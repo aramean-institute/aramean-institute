@@ -174,10 +174,19 @@
     {
       "id": 20,
       "name": "Ben-Hadad III",
-      "period": "c. 796-770 BC",
+      "period": "c. 805-780 BC",
       "category": "King",
       "polity": "Aram-Damascus",
       "description": "Son of Hazael. Under his reign, Aram-Damascus declined in power.",
+      "birthplace": "Damascus, Syria"
+    },
+    {
+      "id": 77,
+      "name": "Hadianu",
+      "period": "c. 780-754 BC",
+      "category": "King",
+      "polity": "Aram-Damascus",
+      "description": "King of Aram-Damascus known from Assyrian sources. Shamshi-ilu reports taking booty from his palace.",
       "birthplace": "Damascus, Syria"
     },
     {
@@ -217,12 +226,48 @@
       "birthplace": "Hama, Syria"
     },
     {
+      "id": 86,
+      "name": "Hadoram",
+      "period": "c. 10th century BC",
+      "category": "King",
+      "polity": "Hamath",
+      "description": "Son of Toi; sent by his father to congratulate David on his victory over Hadadezer (2 Samuel 8:10).",
+      "birthplace": "Hama, Syria"
+    },
+    {
+      "id": 87,
+      "name": "Paratas",
+      "period": "c. 9th century BC",
+      "category": "King",
+      "polity": "Hamath",
+      "description": "King of Hamath; attested in the period between Toi's dynasty and Urhilina.",
+      "birthplace": "Hama, Syria"
+    },
+    {
+      "id": 73,
+      "name": "Urhilina",
+      "period": "c. 870-848 BC",
+      "category": "King",
+      "polity": "Hamath",
+      "description": "King of Hamath and father of Irhuleni. Known from Assyrian sources.",
+      "birthplace": "Hama, Syria"
+    },
+    {
       "id": 25,
       "name": "Irhuleni",
       "period": "c. 853 BC",
       "category": "King",
       "polity": "Hamath",
-      "description": "King of Hamath who fought against Assyria at the Battle of Qarqar.",
+      "description": "King of Hamath who led a coalition against Assyria at the Battle of Qarqar.",
+      "birthplace": "Hama, Syria"
+    },
+    {
+      "id": 88,
+      "name": "Uratamis",
+      "period": "c. 9th-8th century BC",
+      "category": "King",
+      "polity": "Hamath",
+      "description": "King of Hamath attested between Irhuleni and Zakkur.",
       "birthplace": "Hama, Syria"
     },
     {
@@ -232,6 +277,24 @@
       "category": "King",
       "polity": "Hamath",
       "description": "King of Hamath and Lu'ash. Erected the Zakkur Stele commemorating his victory over a coalition led by Bar-Hadad.",
+      "birthplace": "Hama, Syria"
+    },
+    {
+      "id": 89,
+      "name": "Eni-Ilu",
+      "period": "c. 8th century BC",
+      "category": "King",
+      "polity": "Hamath",
+      "description": "King of Hamath attested between Zakkur and Yaubi'di.",
+      "birthplace": "Hama, Syria"
+    },
+    {
+      "id": 74,
+      "name": "Yaubi'di",
+      "period": "c. 720 BC",
+      "category": "King",
+      "polity": "Hamath",
+      "description": "Last king of Hamath who led a revolt against Assyria. Defeated and executed by Sargon II.",
       "birthplace": "Hama, Syria"
     },
     {
@@ -245,20 +308,38 @@
     },
     {
       "id": 28,
-      "name": "Arame",
-      "period": "c. 858 BC",
+      "name": "Hadram",
+      "period": "c. 860-830 BC",
       "category": "King",
       "polity": "Bit-Agusi",
-      "description": "Second king of Bit-Agusi who submitted to Assyria.",
+      "description": "Son of Gusi, also known as Arame in Assyrian sources.",
       "birthplace": "Arpad, Syria"
     },
     {
       "id": 29,
-      "name": "Attarsumki",
-      "period": "c. 805-770 BC",
+      "name": "Attar-šumki I",
+      "period": "c. 830-800 BC",
       "category": "King",
       "polity": "Bit-Agusi",
-      "description": "King of Bit-Agusi, vassal of Adad-nirari III.",
+      "description": "Son of Hadram, also known as Bar-Guš. Vassal of Adad-nirari III.",
+      "birthplace": "Arpad, Syria"
+    },
+    {
+      "id": 76,
+      "name": "Bar-Hadad",
+      "period": "c. 800 BC",
+      "category": "King",
+      "polity": "Bit-Agusi",
+      "description": "Son of Attar-šumki I; brief reign.",
+      "birthplace": "Arpad, Syria"
+    },
+    {
+      "id": 78,
+      "name": "Attar-šumki II",
+      "period": "c. 1st half 8th century BC",
+      "category": "King",
+      "polity": "Bit-Agusi",
+      "description": "Son of Bar-Hadad; ruled Bit-Agusi before Mati'el.",
       "birthplace": "Arpad, Syria"
     },
     {
@@ -271,30 +352,75 @@
       "birthplace": "Arpad, Syria"
     },
     {
-      "id": 31,
-      "name": "Ahuni",
-      "period": "c. 870-856 BC",
+      "id": 79,
+      "name": "Adin",
+      "period": "c. 883-876 BC",
       "category": "King",
       "polity": "Bit-Adini",
-      "description": "Last king of Bit-Adini. Defeated and deported by Shalmaneser III.",
+      "description": "Founder of Bit-Adini, after whom the kingdom was named.",
+      "birthplace": "Til Barsip, Syria"
+    },
+    {
+      "id": 31,
+      "name": "Ahuni",
+      "period": "c. 876-856 BC",
+      "category": "King",
+      "polity": "Bit-Adini",
+      "description": "Son of Adin. Last king of Bit-Adini. Defeated and deported by Shalmaneser III.",
       "birthplace": "Til Barsip, Syria"
     },
     {
       "id": 32,
       "name": "Gabbar",
-      "period": "c. 950 BC",
+      "period": "c. 920-880 BC",
       "category": "King",
       "polity": "Bit-Gabbar",
       "description": "Founder of the Bit-Gabbar dynasty at Sam'al.",
       "birthplace": "Zincirli, Turkey"
     },
     {
-      "id": 33,
-      "name": "Kilamuwa",
-      "period": "c. 830 BC",
+      "id": 80,
+      "name": "Bamah",
+      "period": "c. 880-865 BC",
       "category": "King",
       "polity": "Bit-Gabbar",
-      "description": "King of Bit-Gabbar who erected the Kilamuwa Stele.",
+      "description": "Son of Gabbar; second ruler of the dynasty at Sam'al.",
+      "birthplace": "Zincirli, Turkey"
+    },
+    {
+      "id": 70,
+      "name": "Hayya",
+      "period": "c. 865-840 BC",
+      "category": "King",
+      "polity": "Bit-Gabbar",
+      "description": "Son of Bamah; ruler of Sam'al.",
+      "birthplace": "Zincirli, Turkey"
+    },
+    {
+      "id": 71,
+      "name": "Sha'il",
+      "period": "c. 840-830 BC",
+      "category": "King",
+      "polity": "Bit-Gabbar",
+      "description": "Son of Hayya; listed in the Kilamuwa inscription.",
+      "birthplace": "Zincirli, Turkey"
+    },
+    {
+      "id": 33,
+      "name": "Kilamuwa",
+      "period": "c. 830-820 BC",
+      "category": "King",
+      "polity": "Bit-Gabbar",
+      "description": "Brother of Sha'il. King of Bit-Gabbar who erected the Kilamuwa Stele.",
+      "birthplace": "Zincirli, Turkey"
+    },
+    {
+      "id": 72,
+      "name": "Qarli",
+      "period": "c. 820-790 BC",
+      "category": "King",
+      "polity": "Bit-Gabbar",
+      "description": "Unified Sam'al and Y'DY. Father of Panamuwa I.",
       "birthplace": "Zincirli, Turkey"
     },
     {
@@ -303,7 +429,7 @@
       "period": "c. 790-750 BC",
       "category": "King",
       "polity": "Bit-Gabbar",
-      "description": "King of Bit-Gabbar who erected the Hadad statue inscription in Samalian Aramaic.",
+      "description": "Son of Qarli. King of Bit-Gabbar who erected the Hadad statue inscription in Samalian Aramaic.",
       "birthplace": "Zincirli, Turkey"
     },
     {
@@ -334,13 +460,67 @@
       "birthplace": "Zincirli, Turkey"
     },
     {
+      "id": 81,
+      "name": "Bahianu",
+      "period": "c. 10th century BC",
+      "category": "King",
+      "polity": "Bit-Bahiani",
+      "description": "Dynasty founder of Bit-Bahiani, the nomadic Aramean tribe chief after whom the kingdom was named.",
+      "birthplace": "Tell Halaf, Syria"
+    },
+    {
+      "id": 82,
+      "name": "Abisalmu",
+      "period": "c. 10th century BC",
+      "category": "King",
+      "polity": "Bit-Bahiani",
+      "description": "Successor of Bahianu; early ruler of Bit-Bahiani at Guzana.",
+      "birthplace": "Tell Halaf, Syria"
+    },
+    {
       "id": 38,
       "name": "Kapara",
-      "period": "c. 10th-9th century BC",
+      "period": "c. 950-875 BC",
       "category": "King",
       "polity": "Bit-Bahiani",
       "description": "Ruler of Bit-Bahiani who built the famous palace at Tell Halaf (Guzana).",
       "birthplace": "Tell Halaf, Syria"
+    },
+    {
+      "id": 75,
+      "name": "Hadad-yis'i",
+      "period": "c. 9th century BC",
+      "category": "King",
+      "polity": "Bit-Bahiani",
+      "description": "Aramean governor of Guzana known from the Tell Fekheriye bilingual inscription dedicated to the storm god Hadad.",
+      "birthplace": "Tell Halaf, Syria"
+    },
+    {
+      "id": 83,
+      "name": "Ammi-Ba'al",
+      "period": "c. 900-879 BC",
+      "category": "King",
+      "polity": "Bit-Zamani",
+      "description": "King of Bit-Zamani, known for his conflicts with Tukulti-Ninurta II of Assyria.",
+      "birthplace": "Diyarbakır region, Turkey"
+    },
+    {
+      "id": 84,
+      "name": "Bur-Ramman",
+      "period": "c. 879-866 BC",
+      "category": "King",
+      "polity": "Bit-Zamani",
+      "description": "Successor of Ammi-Ba'al as king of Bit-Zamani.",
+      "birthplace": "Diyarbakır region, Turkey"
+    },
+    {
+      "id": 85,
+      "name": "Ilan",
+      "period": "c. 866 BC",
+      "category": "King",
+      "polity": "Bit-Zamani",
+      "description": "Brother of Bur-Ramman; last known king of Bit-Zamani before Assyrian conquest.",
+      "birthplace": "Diyarbakır region, Turkey"
     },
     {
       "id": 39,
@@ -469,7 +649,7 @@
       "birthplace": "Urhoy (Edessa), Turkey"
     },
     {
-      "id": 5,
+      "id": 69,
       "name": "Abgar V Ukama (1st Tenure)",
       "period": "4 BC - 7 AD",
       "category": "King",

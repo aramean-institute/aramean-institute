@@ -24,12 +24,13 @@
     </p>
   </article>
 
-  <h3 margintop="2rem">Key Archaeological Finds</h3>
+  <hr bgcolor="red" height="1px" margin="2rem 0">
+
+  <h3 margintop="2rem">Archaeological Finds</h3>
   <div data-iterate="artifacts" data-src="assets/json/archaeology.json" bindquery="name:name" data-filterkey="artifacts"
-    data-filteritem="polity:'{name}'" data-onempty="#no-finds">
-    <article margintop="1rem">
-      <h4 data-get="title">
-      </h4>
+    data-filteritem="polity:'{name}'" data-onempty="show:#no-finds">
+    <article margintop="1rem" overflow="hidden">
+      <h4 data-get="title"></h4>
       <p data-get="description"></p>
       <p class="mt05">
         <b>Period:</b> <span data-get="period"></span><br>
@@ -44,9 +45,11 @@
     <p>No archaeological finds registered for this polity yet.</p>
   </div>
 
+  <hr bgcolor="red" height="1px" margin="2rem 0">
+
   <h3 margintop="2rem">Known Rulers</h3>
   <div data-iterate="figures" data-src="assets/json/figures.json" bindquery="name:name" data-filterkey="figures"
-    data-filteritem="polity:'{name}';category:'King'" data-onempty="#no-rulers">
+    data-filteritem="polity:'{name}';category:'King'" data-onempty="show:#no-rulers">
     <article margintop="1rem">
       <h4 data-get="name">
       </h4>
@@ -61,4 +64,6 @@
   <div id="no-rulers" class="gray" hide>
     <p>No known rulers registered for this polity yet.</p>
   </div>
+
+  <hr bgcolor="red" height="1px" margin="2rem 0">
 </section>

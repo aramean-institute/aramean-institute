@@ -21,7 +21,7 @@
       "description": "Royal inscription of King Zakkur of Hamath and Lu'ash, describing his victory over a coalition led by Bar-Hadad of Aram-Damascus.",
       "significance": "Important source for Aramean political history and the Aramaic language.",
       "polity": "Hamath",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zakkur_Stele_0157b.jpg/400px-Zakkur_Stele_0157b.jpg",
       "origin": "aramean"
     },
     {
@@ -50,14 +50,14 @@
     },
     {
       "id": 5,
-      "title": "Hadad-yith'i Bilingual (Tell Fekheriye)",
+      "title": "Hadad-yis'i Bilingual (Tell Fekheriye)",
       "period": "9th century BC",
       "location": "Tell Fekheriye, Syria",
       "museum": "Damascus National Museum",
       "description": "Bilingual Assyrian-Aramaic inscription on a statue dedicated to the storm god Hadad by an Aramean governor of Guzana.",
       "significance": "One of the earliest known Aramaic inscriptions and key evidence for early Aramaic script development.",
       "polity": "Bit-Bahiani",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tell_Fekheriyeh_statue.jpg/400px-Tell_Fekheriyeh_statue.jpg",
       "origin": "aramean"
     },
     {
@@ -69,7 +69,7 @@
       "description": "Royal stele of King Kilamuwa of Bit-Gabbar depicting the king in royal attire with a Phoenician inscription describing his achievements.",
       "significance": "Documents the political history of Bit-Gabbar and its relations with Assyria.",
       "polity": "Bit-Gabbar",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Samal_Text.jpg/400px-Samal_Text.jpg",
       "origin": "aramean"
     },
     {
@@ -81,7 +81,7 @@
       "description": "Inscription in Samalian Aramaic on a statue of the storm god Hadad, erected by King Panamuwa I of Bit-Gabbar.",
       "significance": "Key source for the Samalian dialect and Aramean religious practices.",
       "polity": "Bit-Gabbar",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sam%27al_Hadad_statue.jpg/400px-Sam%27al_Hadad_statue.jpg",
       "origin": "aramean"
     },
     {
@@ -105,7 +105,7 @@
       "description": "Multiple inscriptions of King Bar-Rakib of Bit-Gabbar, written in Imperial Aramaic rather than the local Samalian dialect.",
       "significance": "Among the earliest records using Imperial Aramaic, showing the spread of standardized Aramaic.",
       "polity": "Bit-Gabbar",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/20131205_Istanbul_067.jpg/400px-20131205_Istanbul_067.jpg",
       "origin": "aramean"
     },
     {
@@ -117,7 +117,7 @@
       "description": "Funerary stele of a royal official named Katumuwa, with an Aramaic inscription describing mortuary rituals and the soul's dwelling in the stele.",
       "significance": "Unique evidence for Aramean beliefs about the afterlife and soul.",
       "polity": "Bit-Gabbar",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kuttamuwa_stele.jpg/400px-Kuttamuwa_stele.jpg",
       "origin": "aramean"
     },
     {
@@ -174,11 +174,11 @@
       "period": "7th century BC",
       "location": "Arslan Tash, Syria",
       "museum": "Aleppo National Museum",
-      "description": "Small limestone amulets with Aramaic incantation texts against demons and evil spirits.",
-      "significance": "Rare evidence of Aramean magical and religious practices.",
-      "polity": "Bit-Adini",
+      "description": "Small limestone amulets with Aramaic incantation texts against demons and evil spirits. Found at the former Bit-Adini capital, then under Assyrian rule. Authenticity debated by scholars.",
+      "significance": "If authentic, rare evidence of Aramaic magical and religious practices.",
+      "polity": "",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramaic"
     },
     {
       "id": 16,
@@ -198,11 +198,11 @@
       "period": "8th century BC",
       "location": "Tell Ahmar (Til Barsip), Syria",
       "museum": "Louvre Museum, Paris / Aleppo Museum",
-      "description": "Polychrome wall paintings from the palace at Til Barsip, capital of Bit-Adini, showing military scenes and court life.",
-      "significance": "Rare surviving examples of ancient Near Eastern wall painting from an Aramean capital.",
-      "polity": "Bit-Adini",
+      "description": "Polychrome wall paintings from the Assyrian-period palace at Til Barsip, former capital of Bit-Adini, showing military scenes and court life.",
+      "significance": "Rare surviving examples of ancient Near Eastern wall painting from a site with Aramean heritage.",
+      "polity": "",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramaic"
     },
     {
       "id": 18,
@@ -273,7 +273,7 @@
       "description": "Two funerary steles with Aramaic inscriptions from the village of Neirab near Aleppo, depicting priests of the moon god.",
       "significance": "Important evidence for Aramean funerary practices and religious beliefs.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Funerary_stele_-_Neirab_-_Louvre_AO_3027.JPG/400px-Funerary_stele_-_Neirab_-_Louvre_AO_3027.JPG",
       "origin": "aramaic"
     },
     {
@@ -453,6 +453,7 @@
       "description": "Funerary mosaic depicting Aftuha and his family with a Syriac inscription.",
       "significance": "One of the earliest and best-preserved examples of Edessan Syriac art and epigraphy.",
       "polity": "Bet-Urhay",
+      "image": "",
       "origin": "aramean"
     },
     {
@@ -464,6 +465,7 @@
       "description": "Mosaic depicting Orpheus with a Syriac inscription naming the tomb owner and artist.",
       "significance": "Contains one of the earliest dated Syriac inscriptions known.",
       "polity": "Bet-Urhay",
+      "image": "",
       "origin": "aramean"
     },
     {
@@ -475,6 +477,7 @@
       "description": "Collection of Syriac funerary inscriptions from tombs around Edessa.",
       "significance": "Primary archaeological evidence for the language and culture of ancient Urhay.",
       "polity": "Bet-Urhay",
+      "image": "",
       "origin": "aramean"
     },
     {
@@ -488,6 +491,162 @@
       "polity": "Geshur",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Israel_Museum_P1060383_%284042893808%29.jpg/400px-Israel_Museum_P1060383_%284042893808%29.jpg",
       "origin": "aramean"
+    },
+    {
+      "id": 42,
+      "title": "Hazael Ivory Bed (Nimrud)",
+      "period": "c. 840 BC",
+      "location": "Nimrud, Iraq",
+      "museum": "British Museum, London",
+      "description": "Inscribed ivory bed-head fragment bearing the name of Hazael, king of Aram-Damascus, found among the Nimrud ivories.",
+      "significance": "Evidence of Aramean luxury goods reaching Assyria, likely as tribute or war booty.",
+      "polity": "Aram-Damascus",
+      "image": "",
+      "origin": "aramean"
+    },
+    {
+      "id": 43,
+      "title": "Sam'al Citadel Gate Lions",
+      "period": "9th century BC",
+      "location": "Zincirli, Turkey",
+      "museum": "Pergamon Museum, Berlin",
+      "description": "Monumental basalt guardian lion sculptures flanking the citadel gate at Sam'al, capital of Bit-Gabbar.",
+      "significance": "Major examples of Aramean monumental sculpture combining local and Syro-Hittite traditions.",
+      "polity": "Bit-Gabbar",
+      "image": "",
+      "origin": "aramean"
+    },
+    {
+      "id": 44,
+      "title": "Bar-Rakib Relief",
+      "period": "c. 730 BC",
+      "location": "Zincirli, Turkey",
+      "museum": "Pergamon Museum, Berlin",
+      "description": "Orthostat relief showing King Bar-Rakib of Bit-Gabbar seated on his throne before a scribe, with an Aramaic inscription.",
+      "significance": "One of the best-known depictions of an Aramean king, showing court life and royal iconography.",
+      "polity": "Bit-Gabbar",
+      "image": "",
+      "origin": "aramean"
+    },
+    {
+      "id": 45,
+      "title": "Tell Fekheriye Statue",
+      "period": "9th century BC",
+      "location": "Tell Fekheriye, Syria",
+      "museum": "Damascus National Museum",
+      "description": "Full-size basalt royal statue of Hadad-yis'i, governor of Guzana, bearing the earliest known bilingual Assyrian-Aramaic inscription.",
+      "significance": "Rare complete Aramean royal sculpture; key artifact for understanding early Aramaic script.",
+      "polity": "Bit-Bahiani",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tell_Fekheriyeh_statue.jpg/400px-Tell_Fekheriyeh_statue.jpg",
+      "origin": "aramean"
+    },
+    {
+      "id": 46,
+      "title": "Bethsaida City Gate",
+      "period": "10th-9th century BC",
+      "location": "Bethsaida (et-Tell), Israel",
+      "museum": "In situ",
+      "description": "Monumental four-chambered city gate complex from the Aramean kingdom of Geshur, with a high place and cultic installations.",
+      "significance": "Best-preserved example of Aramean urban architecture in the southern Levant.",
+      "polity": "Geshur",
+      "image": "",
+      "origin": "aramean"
+    },
+    {
+      "id": 47,
+      "title": "Ein Gev Inscription",
+      "period": "9th century BC",
+      "location": "Ein Gev, Israel",
+      "museum": "Israel Antiquities Authority",
+      "description": "Aramaic inscription found at the Sea of Galilee shore site of Ein Gev, within the territory of Aram-Damascus.",
+      "significance": "Evidence of Aramean administrative presence in the Galilee region.",
+      "polity": "Aram-Damascus",
+      "image": "",
+      "origin": "aramean"
+    },
+    {
+      "id": 48,
+      "title": "Behistun Aramaic Inscription",
+      "period": "c. 520 BC",
+      "location": "Behistun, Iran",
+      "museum": "In situ",
+      "description": "Aramaic version of the famous trilingual inscription of Darius I carved into the rock face at Behistun.",
+      "significance": "Key Imperial Aramaic text demonstrating the language's official status in the Achaemenid Empire.",
+      "polity": "",
+      "image": "",
+      "origin": "aramaic"
+    },
+    {
+      "id": 49,
+      "title": "Wadi Daliyeh Papyri",
+      "period": "4th century BC",
+      "location": "Wadi Daliyeh, Palestine",
+      "museum": "Rockefeller Museum, Jerusalem",
+      "description": "Collection of Aramaic legal and administrative papyri from a cave in Wadi Daliyeh, left by refugees from Samaria.",
+      "significance": "Important source for Aramaic legal language and Persian-period administration in the Levant.",
+      "polity": "",
+      "image": "",
+      "origin": "aramaic"
+    },
+    {
+      "id": 50,
+      "title": "Nabataean Inscriptions",
+      "period": "2nd century BC - 4th century AD",
+      "location": "Petra, Jordan / Sinai, Egypt",
+      "museum": "Various",
+      "description": "Thousands of inscriptions in Nabataean Aramaic from the Nabataean kingdom, covering trade, religion, and dedications.",
+      "significance": "Major corpus documenting a late Aramaic dialect that evolved into early Arabic script.",
+      "polity": "",
+      "image": "",
+      "origin": "aramaic"
+    },
+    {
+      "id": 51,
+      "title": "Hatran Inscriptions",
+      "period": "1st-3rd century AD",
+      "location": "Hatra, Iraq",
+      "museum": "Iraq Museum, Baghdad",
+      "description": "Hundreds of inscriptions in Hatran Aramaic from the ancient city of Hatra in northern Mesopotamia.",
+      "significance": "Documents a distinct Eastern Aramaic dialect and the culture of a major Aramaic-speaking city in Parthian Mesopotamia.",
+      "polity": "",
+      "image": "",
+      "origin": "aramaic"
+    },
+    {
+      "id": 52,
+      "title": "Dura-Europos Aramaic Texts",
+      "period": "1st-3rd century AD",
+      "location": "Dura-Europos, Syria",
+      "museum": "Yale University Art Gallery / Damascus National Museum",
+      "description": "Various Aramaic parchments, papyri, and inscriptions from the Roman-Parthian fortress city on the Euphrates.",
+      "significance": "Evidence of multilingual Aramaic use in a diverse frontier community.",
+      "polity": "",
+      "image": "",
+      "origin": "aramaic"
+    },
+    {
+      "id": 53,
+      "title": "Dead Sea Scrolls (Aramaic texts)",
+      "period": "3rd century BC - 1st century AD",
+      "location": "Qumran, Palestine",
+      "museum": "Shrine of the Book, Israel Museum, Jerusalem",
+      "description": "Aramaic literary texts including the Genesis Apocryphon, the Book of Enoch, the Targum of Job, and the Testament of Levi.",
+      "significance": "Major corpus of Jewish Aramaic literature preserving religious and literary traditions.",
+      "polity": "",
+      "image": "",
+      "origin": "aramaic"
+    },
+    {
+      "id": 54,
+      "title": "Samaria Papyri",
+      "period": "4th century BC",
+      "location": "Samaria, Palestine",
+      "museum": "Various",
+      "description": "Administrative Aramaic papyri from Persian-period Samaria, documenting sales, loans, and legal transactions.",
+      "significance": "Evidence of Aramaic as the administrative language of the Persian province of Samaria.",
+      "polity": "",
+      "image": "",
+      "origin": "aramaic"
     }
   ]
 }
