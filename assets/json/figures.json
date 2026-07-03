@@ -77,7 +77,7 @@
       "name": "Mor Yaqub Burd'ono (Jacob Baradaeus)",
       "period": "c. 500-578 AD",
       "category": "Saint",
-      "description": "Bishop who revived the Syriac Orthodox Church by secretly ordaining clergy across the region. The church was sometimes called 'Jacobite' after him.",
+      "description": "Syriac Orthodox bishop who revived the Miaphysite church by ordaining clergy across the Near East. The Syriac Orthodox Church is sometimes called 'Jacobite' after him.",
       "birthplace": "Tella (Viranşehir), Turkey",
       "polity": ""
     },
@@ -905,7 +905,7 @@
       "name": "Israel Audo",
       "period": "1859-1941 AD",
       "category": "Bishop",
-      "description": "Chaldean Catholic Archbishop of Mardin. Documented the Sayfo genocide and worked to protect his community during World War I.",
+      "description": "Chaldean Catholic Bishop of Mardin. Documented the Sayfo genocide and worked to protect his community during World War I.",
       "birthplace": "Alqosh, Iraq",
       "polity": ""
     },
@@ -1384,6 +1384,4227 @@
       "category": "Bishop",
       "description": "Syrian Syriac Orthodox bishop ordained by Jacob Baradaeus. Participated alongside his namesake in the creation of Peter as patriarch of Alexandria in 575.",
       "birthplace": "Syria",
+      "polity": ""
+    },
+    {
+      "id": 161,
+      "name": "Bar Nbyl",
+      "period": "c. 6th century AD",
+      "category": "Saint",
+      "description": "Monastic head of the monastery of Fytr. Teacher of the saint Habib.",
+      "birthplace": "Mesopotamia",
+      "polity": ""
+    },
+    {
+      "id": 162,
+      "name": "Theophilus Bar Ma'nu",
+      "period": "c. 5th-6th century AD",
+      "category": "Priest",
+      "description": "Aramean presbyter from Tella and father of Jacob Baradaeus, the reviver of the Syriac Orthodox Church.",
+      "birthplace": "Tella (Viranşehir), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 163,
+      "name": "Hassan Bar Bahlul",
+      "period": "c. 10th century AD",
+      "category": "Scholar",
+      "description": "Syriac Orthodox lexicographer who compiled the Lexicon Syriacum, the most comprehensive Syriac-Arabic dictionary of the medieval period. A landmark of Syriac scholarship.",
+      "birthplace": "Awana (near Tikrit), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 164,
+      "name": "Clemens Joseph David",
+      "period": "1829-1890 AD",
+      "category": "Bishop",
+      "description": "Syriac Catholic Archbishop of Damascus (1879-1890). Scholar who collected Syriac manuscripts and published works on Syriac literature and church history.",
+      "birthplace": "Damascus, Syria",
+      "polity": ""
+    },
+    {
+      "id": 165,
+      "name": "Abraham Yohannan",
+      "period": "1853-1925 AD",
+      "category": "Scholar",
+      "description": "Syriac philologist, historian, and the first Oriental to teach Oriental languages at Columbia University. Identified Syriacs as originally Aramean (Armoye) and published on Syriac language and literature.",
+      "birthplace": "Urmia, Iran",
+      "polity": ""
+    },
+    {
+      "id": 166,
+      "name": "Paul Al-Khoury Al-Kfarnissy",
+      "period": "1888-1963 AD",
+      "category": "Scholar",
+      "description": "Maronite scholar and professor of Syriac at the Lebanese Maronite Order. Authored a grammar of the Aramaic Syriac language and a history of Syriac literature.",
+      "birthplace": "Kfarniss, Lebanon",
+      "polity": ""
+    },
+    {
+      "id": 167,
+      "name": "Abd al-Masih Nu'man Qarabashi",
+      "period": "1903-1983 AD",
+      "category": "Scholar",
+      "description": "Syriac Orthodox educator and writer from Tur Abdin. Authored works on Syriac grammar and documented the massacres of Syriac Christians in Turkey in 1895 and 1914-1918.",
+      "birthplace": "Midyat, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 168,
+      "name": "Timotheos Isaac bar ʿBed Hayyo",
+      "period": "17th century AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Maphrian (head of the eastern branch of the Syriac Orthodox Church).",
+      "birthplace": "Mesopotamia",
+      "polity": ""
+    },
+    {
+      "id": 169,
+      "name": "Jacob bar Shakko",
+      "period": "d. 1241 AD",
+      "category": "Scholar",
+      "description": "Syriac Orthodox scholar from Bartella. Authored works on philosophy, theology, dialectics, and Syriac grammar. A leading figure of the Syriac Renaissance.",
+      "birthplace": "Bartella, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 170,
+      "name": "Gabriel ibn al-Qila'i",
+      "period": "d. 1516 AD",
+      "category": "Writer",
+      "description": "Maronite poet and historian from Lebanon. Wrote in Syriac (Garshuni) and Arabic, defending Maronite identity and composing historical and religious verse.",
+      "birthplace": "Lehfed, Lebanon",
+      "polity": ""
+    },
+    {
+      "id": 171,
+      "name": "Yuhannon of Dara",
+      "period": "d. 578 AD",
+      "category": "Bishop",
+      "description": "Syriac Orthodox archimandrite of the monastery of Qartmin in Tur Abdin and bishop of Dara. Close companion of Jacob Baradaeus on his final journey to Egypt.",
+      "birthplace": "Qartmin, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 172,
+      "name": "Sabrisho of Beth Garmai",
+      "period": "c. 6th-7th century AD",
+      "category": "Bishop",
+      "description": "East Syriac metropolitan of Beth Garmai who established the Fast of Nineveh (Ba'uta d-Ninwaye), a three-day fast still observed in Syriac Christian tradition today.",
+      "birthplace": "Beth Garmai, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 173,
+      "name": "Sa'id bar Sabouni",
+      "period": "d. 1095 AD",
+      "category": "Bishop",
+      "description": "Syriac Orthodox metropolitan of Melitene. Authored theological and polemical works in Syriac during the period of the Syriac Renaissance.",
+      "birthplace": "Melitene (Malatya), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 174,
+      "name": "Habib Abu Ra'ita of Tagrit",
+      "period": "fl. 828 AD",
+      "category": "Scholar",
+      "description": "Syriac Orthodox theologian from Tagrit and one of the earliest Arabic-writing Christian apologists. Defended Miaphysite Christology against Muslims and rival Christian denominations.",
+      "birthplace": "Tagrit, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 175,
+      "name": "Constantine of Edessa",
+      "period": "d. 735 AD",
+      "category": "Bishop",
+      "description": "Disciple of Jacob of Edessa and Syriac Orthodox bishop of Emesa and later Edessa. Participated in the Synod of Manazgirt (726) and was a monk at the Monastery of Eusebona.",
+      "birthplace": "Edessa region, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 176,
+      "name": "Yuhannon the Stylite of Litarba",
+      "period": "d. 737 AD",
+      "category": "Writer",
+      "description": "Monk, stylite, and author from Litarba near Aleppo. One of the Syriac literary figures of the 8th century.",
+      "birthplace": "Litarba (near Aleppo), Syria",
+      "polity": ""
+    },
+    {
+      "id": 177,
+      "name": "Aba of Kashkar",
+      "period": "c. 6th-7th century AD",
+      "category": "Scholar",
+      "description": "East Syriac polymath, author, and diplomat active during the reigns of Shah Khusrau II of Persia and Emperor Maurice of Byzantium.",
+      "birthplace": "Kashkar, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 178,
+      "name": "Sergius al-Rizzi",
+      "period": "1572-1638 AD",
+      "category": "Bishop",
+      "description": "Maronite bishop of Damascus, author, and scholar involved in the printing of Syriac and Arabic texts in Rome. From an influential family — two uncles and a brother were Maronite patriarchs.",
+      "birthplace": "Baqufa, Lebanon",
+      "polity": ""
+    },
+    {
+      "id": 179,
+      "name": "Peter Makhluf",
+      "period": "d. 1707 AD",
+      "category": "Bishop",
+      "description": "Maronite cleric, scholar, and bishop of Cyprus. Secretary to Patriarch al-Duwayhi, involved in the printing, revision, and translation of the Maronite breviary in Rome.",
+      "birthplace": "Lebanon",
+      "polity": ""
+    },
+    {
+      "id": 180,
+      "name": "Abd al-Masih Liban",
+      "period": "d. 1742 AD",
+      "category": "Writer",
+      "description": "Maronite author and scholar who studied at the Maronite school in Aleppo. Composed Syriac memre (verse homilies).",
+      "birthplace": "Lebanon",
+      "polity": ""
+    },
+    {
+      "id": 181,
+      "name": "Habash bar Jam'a",
+      "period": "c. 18th century AD",
+      "category": "Writer",
+      "description": "East Syriac author who wrote a chronicle describing the Persian siege against Mosul in 1743.",
+      "birthplace": "Mosul, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 182,
+      "name": "Peter of Matush",
+      "period": "1569-1625 AD",
+      "category": "Scholar",
+      "description": "Maronite cleric and scholar born in Cyprus. Studied and taught at the Maronite College in Rome, became a Jesuit, and authored an Arabic grammar (Institutiones linguae arabicae).",
+      "birthplace": "Cyprus",
+      "polity": ""
+    },
+    {
+      "id": 183,
+      "name": "Shemsha of Beth Saidaya",
+      "period": "fl. 1500 AD",
+      "category": "Writer",
+      "description": "East Syriac priest and author of liturgical poetry, including a work about the cross. A representative of later Syriac literary tradition.",
+      "birthplace": "Beth Saidaya, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 184,
+      "name": "Severus Sebokht",
+      "period": "d. 666 AD",
+      "category": "Scholar",
+      "description": "Scholar, astronomer, philosopher, and mathematician. Bishop of the Monastery of Qenneshre. One of the first to mention Hindu-Arabic numerals and wrote on astronomy, astrolabes, and Aristotelian logic in Syriac.",
+      "birthplace": "Nisibis (Nusaybin), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 185,
+      "name": "Eusebius of Samosata",
+      "period": "d. 380 AD",
+      "category": "Saint",
+      "description": "Bishop of Samosata and defender of Nicene orthodoxy against Arianism. Friend and ally of the Cappadocian Fathers. Ordained priests and bishops during the Arian controversy. Martyred by an Arian.",
+      "birthplace": "Samosata, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 186,
+      "name": "Harmonius",
+      "period": "c. late 2nd-early 3rd century AD",
+      "category": "Writer",
+      "description": "Son of Bardaisan of Edessa. Composed Syriac hymns that were widely popular until Ephrem adapted their meters for orthodox Christian use.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 187,
+      "name": "Marutha of Tagrit",
+      "period": "d. 649 AD",
+      "category": "Patriarch",
+      "description": "First Maphrian of the Syriac Orthodox Church in the Sasanian Empire. Born near Balad, became a monk at the monasteries of Mar Zakkay and Mor Matay before establishing the Maphrianate of the East.",
+      "birthplace": "Balad, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 188,
+      "name": "Simeon bar Sabba'e",
+      "period": "d. 341 AD",
+      "category": "Saint",
+      "description": "Bishop of Seleucia-Ctesiphon and one of the most famous Persian martyrs. From Susa, he succeeded Catholicos Papa bar 'Aggai. Arrested and decapitated during the persecution of Shapur II.",
+      "birthplace": "Susa, Iran",
+      "polity": ""
+    },
+    {
+      "id": 189,
+      "name": "Thomas of Harqel",
+      "period": "555-640 AD",
+      "category": "Scholar",
+      "description": "Bishop of Mabbug (Hierapolis), diplomat, and Bible translator. Produced the Harklean version of the Syriac New Testament, one of the most important Syriac biblical translations.",
+      "birthplace": "Mabbug (Hierapolis), Syria",
+      "polity": ""
+    },
+    {
+      "id": 190,
+      "name": "Jacob of Nisibis",
+      "period": "d. 337 AD",
+      "category": "Saint",
+      "description": "First recorded bishop of Nisibis. Built the great church of Nisibis, was Ephrem's bishop, participated in the Council of Nicaea, and is credited with saving Nisibis from Shapur's siege through prayer.",
+      "birthplace": "Nisibis (Nusaybin), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 191,
+      "name": "Julian Saba",
+      "period": "d. 377 AD",
+      "category": "Saint",
+      "description": "Famous ascetic who lived near Edessa. Had many disciples and fought against the Arians for orthodoxy in Antioch. Ephrem wrote a hymn cycle celebrating his life.",
+      "birthplace": "Edessa region, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 192,
+      "name": "Paul of Tella",
+      "period": "fl. 600-650 AD",
+      "category": "Scholar",
+      "description": "Syriac Orthodox bishop and translator who produced the Syro-Hexapla, a Syriac translation of Origen's Hexapla Old Testament — a landmark of Syriac biblical scholarship.",
+      "birthplace": "Tella, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 193,
+      "name": "Paul of Nisibis",
+      "period": "d. 573 AD",
+      "category": "Bishop",
+      "description": "East Syriac theologian, biblical commentator, and metropolitan of Nisibis. Disciple of Mar Aba I, served as diplomatic intermediary between Persia and Byzantium.",
+      "birthplace": "Prat Mayshan, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 194,
+      "name": "Job of Edessa",
+      "period": "fl. 760-835 AD",
+      "category": "Scholar",
+      "description": "Natural philosopher, translator, and physician from Edessa. Active in the early Abbasid period, contributing to the transmission of Greek scientific knowledge through Syriac.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 195,
+      "name": "Mor Maron",
+      "period": "fl. 300-350 AD",
+      "category": "Saint",
+      "description": "Charismatic hermit who lived in the Orontes River valley. Venerated as the founding father of the Maronite Church and Syriac monastic tradition in Lebanon and Syria.",
+      "birthplace": "Orontes Valley, Syria",
+      "polity": ""
+    },
+    {
+      "id": 196,
+      "name": "Israel of Alqosh",
+      "period": "fl. 1575-1630 AD",
+      "category": "Writer",
+      "description": "East Syriac priest, poet, scholar, and scribe from Alqosh. Founder of the Shikwana family of scribes who preserved Syriac manuscripts for generations.",
+      "birthplace": "Alqosh, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 197,
+      "name": "Yuhannon bar Aphtonia",
+      "period": "475-538 AD",
+      "category": "Saint",
+      "description": "Monastic founder from Edessa. Founded the monastery of Qenneshre on the Euphrates, which became the most important center of Greek-Syriac learning. Author of a Life of Severus of Antioch.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 198,
+      "name": "Dadisho I the Aramean",
+      "period": "d. 456 AD",
+      "category": "Patriarch",
+      "description": "Catholicos of the Church of the East, explicitly called 'Dadisho the Aramean' in Syriac sources. Led the church as Bishop of Seleucia-Ctesiphon.",
+      "birthplace": "Mesopotamia, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 199,
+      "name": "Dadisho Qatraya",
+      "period": "fl. 650-700 AD",
+      "category": "Scholar",
+      "description": "East Syriac monastic author from Beth Qatraye (Persian Gulf region). Wrote on asceticism and the spiritual life.",
+      "birthplace": "Beth Qatraye (Qatar/Bahrain)",
+      "polity": ""
+    },
+    {
+      "id": 200,
+      "name": "Enanisho",
+      "period": "fl. 600-700 AD",
+      "category": "Scholar",
+      "description": "East Syriac monk of Beth 'Abe who compiled the Syriac Paradise of the Fathers, a translation and expansion of Palladius's Lausiac History.",
+      "birthplace": "Beth Abe, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 201,
+      "name": "Daniel bar Maryam",
+      "period": "fl. 600-700 AD",
+      "category": "Writer",
+      "description": "Syriac author of an Ecclesiastical History.",
+      "birthplace": "Mesopotamia",
+      "polity": ""
+    },
+    {
+      "id": 202,
+      "name": "Elisha bar Quzbaye",
+      "period": "fl. 500-550 AD",
+      "category": "Scholar",
+      "description": "Teacher of biblical interpretation and director of the School of Nisibis. Known as 'the Interpreter' for his exegetical work.",
+      "birthplace": "Nisibis (Nusaybin), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 203,
+      "name": "Emmanuel bar Shahhare",
+      "period": "d. 980 AD",
+      "category": "Scholar",
+      "description": "East Syriac monk and author of a Hexaemeron (commentary on the six days of creation). Based at the Upper Monastery near Mosul.",
+      "birthplace": "Mosul, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 204,
+      "name": "Elijah of Qartmin",
+      "period": "fl. 1150-1350 AD",
+      "category": "Writer",
+      "description": "Monastic author at the monastery of Qartmin in Tur Abdin. Wrote a verse biography of Philoxenos of Mabbug.",
+      "birthplace": "Qartmin, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 205,
+      "name": "Gabriel Qatraya",
+      "period": "fl. 500-700 AD",
+      "category": "Scholar",
+      "description": "East Syriac author of an important Commentary on the Liturgy from Beth Qatraye.",
+      "birthplace": "Beth Qatraye (Qatar/Bahrain)",
+      "polity": ""
+    },
+    {
+      "id": 206,
+      "name": "Elijah of Anbar",
+      "period": "fl. 900-950 AD",
+      "category": "Bishop",
+      "description": "Bishop of al-Anbar and composer of didactic poetry in Syriac.",
+      "birthplace": "al-Anbar, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 207,
+      "name": "Habib of Edessa",
+      "period": "fl. 500-600 AD",
+      "category": "Writer",
+      "description": "Syriac author from Edessa.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 208,
+      "name": "Michael Badoqa",
+      "period": "fl. 500-700 AD",
+      "category": "Scholar",
+      "description": "Syriac author and exegete. Scholar and teacher at the School of Nisibis during Henana's tenure as its head (572-610).",
+      "birthplace": "Nisibis (Nusaybin), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 209,
+      "name": "Henana of Adiabene",
+      "period": "d. 595 AD",
+      "category": "Scholar",
+      "description": "Controversial director of the School of Nisibis who introduced new exegetical methods influenced by Greek patristic thought, causing a major split in the Church of the East.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 210,
+      "name": "Hiba of Edessa",
+      "period": "d. 457 AD",
+      "category": "Bishop",
+      "description": "Bishop of Edessa and translator. Central figure in the Christological controversies of the 5th century, whose letter to Mari the Persian became one of the Three Chapters.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 211,
+      "name": "Sergius bar Wahle",
+      "period": "fl. 1485-1515 AD",
+      "category": "Writer",
+      "description": "East Syriac monk and poet from Azerbaijan.",
+      "birthplace": "Azerbaijan",
+      "polity": ""
+    },
+    {
+      "id": 212,
+      "name": "Proba of Antioch",
+      "period": "fl. 450-650 AD",
+      "category": "Scholar",
+      "description": "Syriac commentator on Aristotle's writings on logic. Archdeacon of Antioch who helped transmit Greek philosophical thought into Syriac.",
+      "birthplace": "Antioch, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 213,
+      "name": "Cyrus of Edessa",
+      "period": "fl. 500-600 AD",
+      "category": "Writer",
+      "description": "Syriac author from Edessa, associated with the School of Edessa tradition.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 214,
+      "name": "Stephan al-Duwayhi",
+      "period": "1630-1704 AD",
+      "category": "Patriarch",
+      "description": "Maronite Patriarch (1670-1704) and scholar. Authored major historical and liturgical works on the Maronite Church.",
+      "birthplace": "Ehden, Lebanon",
+      "polity": ""
+    },
+    {
+      "id": 215,
+      "name": "John Naqar",
+      "period": "fl. 800 AD",
+      "category": "Writer",
+      "description": "Syriac Orthodox ascetic and author on the Holy Mountain near Edessa.",
+      "birthplace": "Edessa region, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 216,
+      "name": "Moses of Aggel",
+      "period": "fl. 500-600 AD",
+      "category": "Scholar",
+      "description": "Translator of Cyril of Alexandria's Glaphyra and of the History of Joseph and Aseneth into Syriac.",
+      "birthplace": "Inghilene, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 217,
+      "name": "George of al-Bsheriyyeh",
+      "period": "d. 1748 AD",
+      "category": "Bishop",
+      "description": "Syriac Orthodox scribe and bishop of al-Bsheriyyeh (1707-1748). Son of Abraham Abd al-Nur of Aleppo.",
+      "birthplace": "Aleppo, Syria",
+      "polity": ""
+    },
+    {
+      "id": 218,
+      "name": "Paul Bedjan",
+      "period": "1838-1920 AD",
+      "category": "Scholar",
+      "description": "Chaldean Catholic priest and prolific publisher of Syriac texts. Edited and published massive collections of Syriac hagiography, history, and literature that remain standard references.",
+      "birthplace": "Khosrowa, Iran",
+      "polity": ""
+    },
+    {
+      "id": 219,
+      "name": "Gabriel Cardahi",
+      "period": "1845-1931 AD",
+      "category": "Scholar",
+      "description": "Lebanese Maronite priest and scholar. Published important collections of Syriac poetry and literature including Liber Thesauri de Arte Poetica Syrorum.",
+      "birthplace": "Lebanon",
+      "polity": ""
+    },
+    {
+      "id": 220,
+      "name": "Josephus Simonius Assemani",
+      "period": "1687-1768 AD",
+      "category": "Scholar",
+      "description": "Maronite polymath and Custodian of the Vatican Library. Author of the monumental Bibliotheca Orientalis, the foundational reference work for Syriac studies. Titular bishop of Tyre.",
+      "birthplace": "Hasroun, Lebanon",
+      "polity": ""
+    },
+    {
+      "id": 221,
+      "name": "Polycarp of Mabbug",
+      "period": "fl. 475-525 AD",
+      "category": "Deacon",
+      "description": "Chorepiscopus of Mabbug commissioned by Philoxenos to produce the Philoxenian version of the New Testament, one of the landmark Syriac biblical translations.",
+      "birthplace": "Mabbug (Hierapolis), Syria",
+      "polity": ""
+    },
+    {
+      "id": 222,
+      "name": "Stephen bar Sudayli",
+      "period": "fl. 500-600 AD",
+      "category": "Writer",
+      "description": "Syriac monk from Edessa to whom pantheist ideas were attributed. Likely author of the mystical Book of the Holy Hierotheos.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 223,
+      "name": "Barhadbshabba Arbaya",
+      "period": "fl. 550-650 AD",
+      "category": "Scholar",
+      "description": "Member of the School of Nisibis who authored the Ecclesiastical History and the Cause of the Foundation of the Schools — key sources for the history of Syriac education.",
+      "birthplace": "Beth Arabaye, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 224,
+      "name": "Rabban bar Idta",
+      "period": "d. 621 AD",
+      "category": "Saint",
+      "description": "Disciple of Abraham of Kashkar and important monastic founder who built a monastery in the region of Marga in northern Iraq.",
+      "birthplace": "Iraq",
+      "polity": ""
+    },
+    {
+      "id": 225,
+      "name": "Abraham of Kashkar",
+      "period": "475-588 AD",
+      "category": "Saint",
+      "description": "Founder and abbot of the Great Monastery on Mount Izla near Nisibis. Called 'Father of the Monks of the Orient,' he led a major reform of East Syriac monasticism.",
+      "birthplace": "Kashkar, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 226,
+      "name": "Abraham of Beth Rabban",
+      "period": "fl. 500-600 AD",
+      "category": "Scholar",
+      "description": "Teacher of biblical interpretation and director of the School of Nisibis, the most important academic institution of the Syriac tradition.",
+      "birthplace": "Nisibis (Nusaybin), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 227,
+      "name": "Abraham of Nathpar",
+      "period": "fl. 500-650 AD",
+      "category": "Scholar",
+      "description": "East Syriac ascetic author from Adiabene who wrote treatises on monasticism and contemplative theology. Some of his works circulated under the name of Evagrius of Pontus.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 228,
+      "name": "Aitalaha of Edessa",
+      "period": "fl. 300-350 AD",
+      "category": "Bishop",
+      "description": "Bishop of Edessa (324/5-345/6), one of the early bishops of the Syriac heartland.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 229,
+      "name": "Jirjis Amira",
+      "period": "d. 1644 AD",
+      "category": "Patriarch",
+      "description": "Maronite Patriarch and Syriac grammarian. Authored an important grammar of the Syriac language.",
+      "birthplace": "Lebanon",
+      "polity": ""
+    },
+    {
+      "id": 230,
+      "name": "Aba II of Kashkar",
+      "period": "641-751 AD",
+      "category": "Patriarch",
+      "description": "Scholar, bishop of Kashkar, and Catholicos of the Church of the East (741-751).",
+      "birthplace": "Kashkar, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 231,
+      "name": "Aba, disciple of Ephrem",
+      "period": "fl. 350-450 AD",
+      "category": "Scholar",
+      "description": "Disciple of Ephrem the Syrian, author, and biblical commentator in the Edessa tradition.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 232,
+      "name": "Abdisho bar Bahriz",
+      "period": "fl. 750-875 AD",
+      "category": "Bishop",
+      "description": "East Syriac logician, theologian, legal scholar, and translator. Metropolitan first of Harran, then of Mosul and Hazza.",
+      "birthplace": "Iraq",
+      "polity": ""
+    },
+    {
+      "id": 233,
+      "name": "Abdullah I bar Stephanos",
+      "period": "d. 1557 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch (1521-57) and advocate for printing the first Syriac New Testament.",
+      "birthplace": "Turkey",
+      "polity": ""
+    },
+    {
+      "id": 234,
+      "name": "Abgar the Hagiographer",
+      "period": "fl. 350-450 AD",
+      "category": "Writer",
+      "description": "Syriac hagiographer from Beth Garmai. Author of the martyrdom of Hormizd and his nine companions who died during the reign of Yazdgard.",
+      "birthplace": "Beth Garmai, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 235,
+      "name": "Cosmas, priest of Edessa",
+      "period": "fl. 472 AD",
+      "category": "Priest",
+      "description": "Disciple, correspondent, and biographer of Simeon the Stylite. One of the primary sources for Simeon's life.",
+      "birthplace": "Syria",
+      "polity": ""
+    },
+    {
+      "id": 236,
+      "name": "Abraham Zabaya",
+      "period": "fl. 600-1150 AD",
+      "category": "Writer",
+      "description": "East Syriac priest and author of a metrical life of Rabban Bar 'Edta.",
+      "birthplace": "Mesopotamia, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 237,
+      "name": "Sliba of Hah",
+      "period": "fl. 1286-1400 AD",
+      "category": "Writer",
+      "description": "Syriac monastic author from Hah in Tur Abdin who composed a martyrology after the time of Bar Hebraeus.",
+      "birthplace": "Hah, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 238,
+      "name": "Ni'matullah Ignatius",
+      "period": "1500-1562 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox scholar, astronomer, Maphrian (1555-1557) and Patriarch of Antioch (1557-1562).",
+      "birthplace": "Turkey",
+      "polity": ""
+    },
+    {
+      "id": 239,
+      "name": "Simeon II, Maphrian of Tur Abdin",
+      "period": "1655-1740 AD",
+      "category": "Patriarch",
+      "description": "Writer and Maphrian of Tur Abdin (1710-1740). Martyred for his faith.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 240,
+      "name": "Bar Sahde of Karka",
+      "period": "c. 7th-8th century AD",
+      "category": "Writer",
+      "description": "East Syriac author from Karka de Beth Slokh (Kirkuk). Wrote a Book of Ecclesiastical History on the Himyarite Martyrs.",
+      "birthplace": "Karka de Beth Slokh (Kirkuk), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 241,
+      "name": "Yahb Metkarkana",
+      "period": "c. medieval",
+      "category": "Writer",
+      "description": "Syriac author who wrote a work about Rabban Sargis.",
+      "birthplace": "Mesopotamia",
+      "polity": ""
+    },
+    {
+      "id": 242,
+      "name": "Thomais",
+      "period": "c. 6th century AD",
+      "category": "Writer",
+      "description": "Possibly the only documented female Syriac author whose work survives. A nun who authored a Life of Febronia, claiming to have been a fellow nun with her.",
+      "birthplace": "Nisibis (Nusaybin), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 243,
+      "name": "Isaiah of Arzun",
+      "period": "fl. 300-400 AD",
+      "category": "Writer",
+      "description": "Eyewitness from Arzun and author of a hagiographic text commemorating martyrs under Shapur II of Persia.",
+      "birthplace": "Arzun, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 244,
+      "name": "Jesse, priest and doctor",
+      "period": "fl. 500-600 AD",
+      "category": "Scholar",
+      "description": "Doctor of the Church of the East and interpreter at the School of Seleucia-Ctesiphon. Disciple of Mar Aba I and author of a treatise On the Commemoration of the Holy Martyrs.",
+      "birthplace": "Iraq",
+      "polity": ""
+    },
+    {
+      "id": 245,
+      "name": "Peter the Solitary",
+      "period": "fl. 550-650 AD",
+      "category": "Writer",
+      "description": "East Syriac monk and author of a life of Catholicos Sabrisho I.",
+      "birthplace": "Iraq",
+      "polity": ""
+    },
+    {
+      "id": 246,
+      "name": "Paul, disciple of Aaron of Serugh",
+      "period": "fl. 275-375 AD",
+      "category": "Writer",
+      "description": "Syriac author of the Life of Aaron of Serugh, a disciple of the monastic tradition of Serugh.",
+      "birthplace": "Serugh (Suruç), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 247,
+      "name": "John the Prefect",
+      "period": "fl. 300-450 AD",
+      "category": "Writer",
+      "description": "Syriac author of a hagiographical work about the martyr Dodo.",
+      "birthplace": "Mesopotamia",
+      "polity": ""
+    },
+    {
+      "id": 248,
+      "name": "David Puniqoyo",
+      "period": "1416-1485 AD",
+      "category": "Writer",
+      "description": "Syriac Orthodox priest, author, and poet from Homs (Emesa).",
+      "birthplace": "Homs, Syria",
+      "polity": ""
+    },
+    {
+      "id": 249,
+      "name": "Nuh the Lebanese",
+      "period": "1451-1509 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox author, Maphrian (1489-1493) and Patriarch of Antioch (1493-1509).",
+      "birthplace": "Lebanon",
+      "polity": ""
+    },
+    {
+      "id": 250,
+      "name": "Masud of Tur Abdin",
+      "period": "1415-1496 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox monk, author, and church leader from Tur Abdin. Served as abbot, bishop, and Patriarch of Antioch.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 251,
+      "name": "George of Resh'ayna",
+      "period": "fl. 7th century AD",
+      "category": "Bishop",
+      "description": "Syriac Orthodox bishop and author of an early Syriac Life of Maximus the Confessor. From Resh'ayna (Ras al-Ayn) in northern Syria.",
+      "birthplace": "Resh'ayna (Ras al-Ayn), Syria",
+      "polity": ""
+    },
+    {
+      "id": 252,
+      "name": "John the Monk",
+      "period": "fl. 1250-1350 AD",
+      "category": "Writer",
+      "description": "Syriac monk and author of a historical text about Catholicos Denha I, possibly his secretary.",
+      "birthplace": "Iraq",
+      "polity": ""
+    },
+    {
+      "id": 253,
+      "name": "John bar Shayullah",
+      "period": "d. 1493 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch born at Mardin. Composed a hagiography of David of Homs and was himself the subject of a hagiography.",
+      "birthplace": "Mardin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 254,
+      "name": "Prosdocia",
+      "period": "fl. 300-350 AD",
+      "category": "Saint",
+      "description": "Syriac martyr from the Euphrates region who threw herself into the Euphrates rather than recant her Christian faith during a persecution.",
+      "birthplace": "Euphrates region, Syria",
+      "polity": ""
+    },
+    {
+      "id": 255,
+      "name": "Berenice",
+      "period": "fl. 300-350 AD",
+      "category": "Saint",
+      "description": "Syriac martyr who threw herself into the Euphrates together with Prosdocia and Domnina rather than recant her Christian faith.",
+      "birthplace": "Euphrates region, Syria",
+      "polity": ""
+    },
+    {
+      "id": 256,
+      "name": "Domnina",
+      "period": "fl. 300-350 AD",
+      "category": "Saint",
+      "description": "Syriac martyr who threw herself into the Euphrates together with Berenice and Prosdocia rather than recant her Christian faith.",
+      "birthplace": "Euphrates region, Syria",
+      "polity": ""
+    },
+    {
+      "id": 257,
+      "name": "Behnam Hadloyo",
+      "period": "d. 1454 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch and liturgical composer.",
+      "birthplace": "Hidl, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 258,
+      "name": "Daniel of Edessa",
+      "period": "fl. 699 AD",
+      "category": "Bishop",
+      "description": "Bishop of Edessa who commissioned the Syriac translation of the letters of Severus of Antioch, preserving a major body of Syriac theological correspondence.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 259,
+      "name": "Barsoum Safi",
+      "period": "d. 1307 AD",
+      "category": "Patriarch",
+      "description": "Younger brother of Bar Hebraeus and his successor as Maphrian of the Syriac Orthodox Church (1288-1307/8).",
+      "birthplace": "Malatya, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 260,
+      "name": "Yeshu' bar Khayrun",
+      "period": "1275-1335 AD",
+      "category": "Writer",
+      "description": "Syriac author born in Hah, Tur Abdin. Son of the priest Slibo bar Khayrun.",
+      "birthplace": "Hah, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 261,
+      "name": "Isaiah of Beth Sbirino",
+      "period": "d. 1425 AD",
+      "category": "Writer",
+      "description": "Syriac priest and author from Tur Abdin. Composed two poems documenting the devastation caused by Tamerlane's invasions of Tur Abdin.",
+      "birthplace": "Beth Sbirino, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 262,
+      "name": "Daniel of Mardin",
+      "period": "1327-1382 AD",
+      "category": "Writer",
+      "description": "Syriac Orthodox monk and author from Mardin.",
+      "birthplace": "Mardin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 263,
+      "name": "Abraham II Gharib",
+      "period": "d. 1412 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox liturgical writer and Patriarch of Antioch (1382-1412).",
+      "birthplace": "Turkey",
+      "polity": ""
+    },
+    {
+      "id": 264,
+      "name": "John of Mardin",
+      "period": "d. 1165 AD",
+      "category": "Bishop",
+      "description": "Metropolitan of Mardin, author, and restorer of 25 monasteries and churches including the monastery of Mar Hananya (Deir al-Za'faran).",
+      "birthplace": "Mardin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 265,
+      "name": "Theodore of Antioch, the Philosopher",
+      "period": "d. 1235 AD",
+      "category": "Scholar",
+      "description": "Syriac philosopher from Antioch active in the 13th century.",
+      "birthplace": "Antioch, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 266,
+      "name": "Metropolitan Gabriel of Bartella",
+      "period": "d. 1300 AD",
+      "category": "Bishop",
+      "description": "Syriac Orthodox bishop and author from Bartella (near Mosul).",
+      "birthplace": "Bartella, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 267,
+      "name": "Athanasius VII",
+      "period": "d. 1129 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch, monk, and author.",
+      "birthplace": "Turkey",
+      "polity": ""
+    },
+    {
+      "id": 268,
+      "name": "Isa b. Zur'a",
+      "period": "fl. 1007 AD",
+      "category": "Scholar",
+      "description": "Syriac Christian philosopher and translator from Baghdad who translated Greek philosophical texts into Arabic.",
+      "birthplace": "Baghdad, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 269,
+      "name": "Seven Children of Beth Zabdai",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Seven Aramean martyrs from Beth Zabdai (Tur Abdin region) who were imprisoned and martyred for their faith.",
+      "birthplace": "Beth Zabdai, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 270,
+      "name": "Seven Martyrs of Samosata",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Seven Aramean martyrs from Samosata — Hyperechius, Philotheus, Jacob, Paragros, Habib, Romanus, and Lollian — commemorated together in Syriac hagiography.",
+      "birthplace": "Samosata, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 271,
+      "name": "Yahya b. Adi",
+      "period": "893-974 AD",
+      "category": "Scholar",
+      "description": "Syriac Christian translator, philosopher, logician, and theologian from Baghdad. Translated Greek philosophical texts into Arabic and wrote original works on logic and theology.",
+      "birthplace": "Tikrit, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 272,
+      "name": "al-Hasan b. Suwar Ibn al-Khammar",
+      "period": "fl. 900-1000 AD",
+      "category": "Scholar",
+      "description": "Syriac Christian philosopher and translator from Baghdad. Student of Yahya b. Adi, known for his work on Aristotelian logic.",
+      "birthplace": "Baghdad, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 273,
+      "name": "Rupil the Monk",
+      "period": "d. 925 AD",
+      "category": "Scholar",
+      "description": "Syriac Christian logician and likely professor in Baghdad. Part of the Syriac philosophical tradition of the Abbasid period.",
+      "birthplace": "Iraq",
+      "polity": ""
+    },
+    {
+      "id": 274,
+      "name": "Denha the Philosopher",
+      "period": "fl. 925 AD",
+      "category": "Scholar",
+      "description": "Syriac Christian philosopher and logician active in the 10th century.",
+      "birthplace": "Iraq",
+      "polity": ""
+    },
+    {
+      "id": 275,
+      "name": "Habib of Samosata",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Aramean martyr from Samosata, commemorated in Syriac hagiography.",
+      "birthplace": "Samosata, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 276,
+      "name": "Habib",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Syriac Christian martyr commemorated alongside Zebinas, Lazarus, Maroutha, Narses, Elijah, Mahri, Saba, Berikhicho, Jonas, and Chembaiteh in Syriac hagiography.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 277,
+      "name": "Hasho",
+      "period": "d. 420 AD",
+      "category": "Saint",
+      "description": "Syriac Christian martyr killed under Shah Yazdegerd I alongside companions Afrem, Abda, Jacob, Papa, Daduq, and Durtan the learned.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 278,
+      "name": "Hala",
+      "period": "c. 4th-5th century AD",
+      "category": "Saint",
+      "description": "Syriac martyr commemorated in hagiographic texts preserved in the British Library (Add. 14647 and Add. 14735).",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 279,
+      "name": "Hapsai",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Aramean Christian martyr from Arbela (Adiabene) who was decapitated alongside Aitalaha, a former pagan priest who converted to Christianity.",
+      "birthplace": "Arbela (Adiabene), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 280,
+      "name": "Harphat",
+      "period": "c. 4th-5th century AD",
+      "category": "Saint",
+      "description": "Syriac martyr commemorated in hagiographic texts preserved in the British Library (Add. 14647, Add. 7190, Add. 14730, Add. 14650).",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 281,
+      "name": "Hiran of Adiabene",
+      "period": "c. 4th-5th century AD",
+      "category": "Saint",
+      "description": "Aramean Christian martyr from Adiabene, commemorated in Syriac hagiography.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 282,
+      "name": "Simeon of Nisibis",
+      "period": "fl. 950 AD",
+      "category": "Deacon",
+      "description": "Syriac deacon from Nisibis active in the 10th century.",
+      "birthplace": "Nisibis, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 283,
+      "name": "Ignatius (Patriarch)",
+      "period": "c. medieval",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox patriarch and maphrian commemorated in Syriac hagiographic literature.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 284,
+      "name": "Ignatius XVIII David Shah",
+      "period": "c. 19th century AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch commemorated in a panegyric preserved in Syriac manuscripts.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 285,
+      "name": "Ina",
+      "period": "c. 4th-5th century AD",
+      "category": "Saint",
+      "description": "Syriac Christian martyr commemorated in hagiographic literature.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 286,
+      "name": "Innocent",
+      "period": "c. 4th-5th century AD",
+      "category": "Saint",
+      "description": "Syriac Christian martyr commemorated in at least four Syriac manuscripts including ms Lady Meux 6.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 287,
+      "name": "Irene of Nisibis",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Noble-born Christian convert who worked as a miracle-worker in the cities of Megedo, Kallinikos, Tella, and Nisibis, and was ultimately martyred for refusing to renounce her faith.",
+      "birthplace": "Nisibis, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 288,
+      "name": "Isaac (martyr)",
+      "period": "c. 4th-5th century AD",
+      "category": "Saint",
+      "description": "Syriac Christian martyr commemorated in hagiographic texts preserved in the British Library (Add. 14647).",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 289,
+      "name": "Isaac (companion of Hasho)",
+      "period": "d. 420 AD",
+      "category": "Saint",
+      "description": "Syriac Christian martyr killed under Shah Yazdegerd I alongside companions Afrem, Abda, Jacob, Papa, Daduq, Durtan, and Hasho.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 290,
+      "name": "Isaac (Syriac martyr)",
+      "period": "c. 4th-5th century AD",
+      "category": "Saint",
+      "description": "Syriac Christian martyr commemorated in Isaac and Dada, a hagiographic text preserved in British Library Add. 17202.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 291,
+      "name": "Isaac, Bishop of Karka",
+      "period": "fl. 379 AD",
+      "category": "Bishop",
+      "description": "Bishop of Karka d-Beth Slokh martyred under Shapor II alongside Shapor, bishop of Niqator. Their names were later associated with a group of martyrs killed under Yazdgerd II.",
+      "birthplace": "Karka d-Beth Slokh, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 292,
+      "name": "Isaac of Adiabene",
+      "period": "c. 4th-5th century AD",
+      "category": "Saint",
+      "description": "Aramean Christian martyr from Adiabene, commemorated in Syriac hagiographic manuscripts.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 293,
+      "name": "Isaiah of Palestine",
+      "period": "fl. 450 AD",
+      "category": "Scholar",
+      "description": "Monk of Scetis whose writings on asceticism and the mystical life were foundational for the Syriac monastic tradition, transmitted via the Syriac translation of the Paradise of the Fathers.",
+      "birthplace": "Palestine",
+      "polity": ""
+    },
+    {
+      "id": 294,
+      "name": "ʿAbdishoʿ (teacher of Mar Qardagh)",
+      "period": "c. 4th century AD",
+      "category": "Scholar",
+      "description": "Syriac Christian teacher of Mar Qardagh, the Assyrian martyr-king, in the East Syriac hagiographic tradition.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 295,
+      "name": "Zaytun of Anhil",
+      "period": "d. 1855 AD",
+      "category": "Bishop",
+      "description": "Syriac Orthodox Metropolitan of Anhil who died in 1855.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 296,
+      "name": "Theodosius the Patriarch",
+      "period": "d. 896 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch of Antioch (887–896), author, and physician. Also known as Romanos the physician.",
+      "birthplace": "Antioch, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 297,
+      "name": "Dourtan",
+      "period": "d. 420 AD",
+      "category": "Saint",
+      "description": "Syriac Christian martyr killed under Shah Yazdegerd I alongside companions Afrem, Abda, Jacob, Papa, Daduq, Hasho, and Isaac.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 298,
+      "name": "ʿEbed-Mshiha of Adiabene",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Aramean Christian martyr from Adiabene, commemorated in Syriac hagiographic manuscripts.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 299,
+      "name": "Isaac of Amid",
+      "period": "fl. 300–450 AD",
+      "category": "Writer",
+      "description": "Syriac priest and writer from Amid (Diyarbakir). Known also as Isaac of Antioch. A prolific author of Syriac verse and prose homilies.",
+      "birthplace": "Amid (Diyarbakir), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 300,
+      "name": "Zʿura of Nisibis",
+      "period": "fl. 750–1050 AD",
+      "category": "Deacon",
+      "description": "Syriac deacon from Nisibis active in the medieval period.",
+      "birthplace": "Nisibis, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 301,
+      "name": "Elijah of Dara",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Syriac martyr from Dara, an Aramean city in the Tur Abdin region, commemorated in hagiographic texts preserved in the British Library (Add. 14647).",
+      "birthplace": "Dara, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 302,
+      "name": "Garshun the Stranger",
+      "period": "fl. 935–1015 AD",
+      "category": "Scholar",
+      "description": "Syriac author active in the late 10th and early 11th century.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 303,
+      "name": "Job of Manʿem",
+      "period": "fl. 800–900 AD",
+      "category": "Scholar",
+      "description": "Syriac scholar active in the 9th century.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 304,
+      "name": "Euphemia of Edessa",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Aramean woman from Edessa (Urhoy) whose story is set in the Syriac tradition. Enslaved by a Goth after being given to him in marriage, she was miraculously rescued and returned to Edessa through the intercession of the Syriac martyrs Shmona, Guria, and Habib.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 305,
+      "name": "Eustathius, Bishop of Antioch",
+      "period": "c. 4th century AD",
+      "category": "Bishop",
+      "description": "Bishop of Antioch who fiercely opposed Arianism at the Council of Nicaea and was a staunch defender of Nicene Christianity.",
+      "birthplace": "Antioch, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 306,
+      "name": "Moses bar Kipho",
+      "period": "823–903 AD",
+      "category": "Bishop",
+      "description": "Syriac Orthodox Bishop of Beth Raman on the Tigris, prolific theologian and author. Monk of the monastery of Saint Sergius near Balad. Wrote on many theological and scientific topics and was influential in the Maphrianate of Tagrit.",
+      "birthplace": "Iraq",
+      "polity": ""
+    },
+    {
+      "id": 307,
+      "name": "Gaddai",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Syriac martyr commemorated in at least five manuscripts including ms Lady Meux 6.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 308,
+      "name": "Dionysios II",
+      "period": "d. 909 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch who died in 909.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 309,
+      "name": "Aaron of Serugh",
+      "period": "d. 337 AD",
+      "category": "Saint",
+      "description": "Disciple of Mar Awgin and founder of two monasteries near Melitene. From Serugh (Suruç) in the Aramean heartland.",
+      "birthplace": "Serugh (Suruç), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 310,
+      "name": "Aba of Nineveh",
+      "period": "fl. 585–590 AD",
+      "category": "Bishop",
+      "description": "Bishop of Nineveh martyred under Shah Shapur II.",
+      "birthplace": "Nineveh, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 311,
+      "name": "Abai of Hah",
+      "period": "fl. 400–500 AD",
+      "category": "Saint",
+      "description": "Monk, miracle-worker, and disciple of Simeon of Qartmin from Hah in Tur Abdin. Became abbot of the monastery of Qartmin and helped end a plague through his prayers.",
+      "birthplace": "Hah, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 312,
+      "name": "ʿAbda of Edessa",
+      "period": "c. early centuries AD",
+      "category": "Bishop",
+      "description": "Bishop of Edessa (Urhoy), the Aramean city that was a major center of early Syriac Christianity.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 313,
+      "name": "ʿAbda of Hormizd Ardashir",
+      "period": "d. 420 AD",
+      "category": "Bishop",
+      "description": "Bishop of Hormizd Ardashir martyred under Yazdegerd I alongside companions Afrem, Jacob, Papa, Daduq, and Durtan the learned.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 314,
+      "name": "Ephrem the Scribe",
+      "period": "d. 420 AD",
+      "category": "Saint",
+      "description": "Syriac Christian scribe and martyr killed under Shah Yazdegerd I alongside companions ʿAbda, Jacob, Papa the deacon, Daduq, and Durtan the learned.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 315,
+      "name": "ʿAbdā Alaha",
+      "period": "d. 376 AD",
+      "category": "Priest",
+      "description": "Syriac Christian priest tortured alongside ʿAbdishoʿ of Kashkar by Ardashir, brother of Shapur. Arrested with seven friends and seven virgins and martyred with 38 companions.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 316,
+      "name": "Basil of Emesa",
+      "period": "c. early centuries AD",
+      "category": "Bishop",
+      "description": "Bishop of Emesa (Homs), an ancient Aramean city in Syria.",
+      "birthplace": "Emesa (Homs), Syria",
+      "polity": ""
+    },
+    {
+      "id": 317,
+      "name": "ʿAbdishoʿ of Kashkar",
+      "period": "d. 376 AD",
+      "category": "Saint",
+      "description": "Syriac Christian martyr from Kashkar, martyred alongside the priest ʿAbdā Alaha by Ardashir, brother of Shapur. Executed with 38 companions.",
+      "birthplace": "Kashkar, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 318,
+      "name": "ʿAbdelmasih of Sinjar",
+      "period": "d. 390 AD",
+      "category": "Saint",
+      "description": "A Jewish shepherd boy near Sinjar who converted to Christianity and was martyred by his own father for his faith.",
+      "birthplace": "Sinjar, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 319,
+      "name": "Abel of Qartmin",
+      "period": "fl. 500 AD",
+      "category": "Saint",
+      "description": "First stylite saint of the monastery of Qartmin in Tur Abdin. Patron against eye disease and paralysis. Philoxenus of Mabbug sought his benediction.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 320,
+      "name": "Abhai",
+      "period": "fl. 400–500 AD",
+      "category": "Bishop",
+      "description": "Ascetic featured in John of Ephesus' Lives of the Eastern Saints. Ordained Bishop of Nicaea and founder of the Monastery of the Oaks.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 321,
+      "name": "Abimelech of Nisibis",
+      "period": "fl. 552–581 AD",
+      "category": "Scholar",
+      "description": "Theologian of the School of Balad who became founder of the martyrion, a secondary institution of the School of Nisibis.",
+      "birthplace": "Nisibis, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 322,
+      "name": "Abraham, Bishop of Arbela",
+      "period": "d. 345 AD",
+      "category": "Bishop",
+      "description": "Bishop of Arbela in Adiabene martyred under Shah Shapur II.",
+      "birthplace": "Arbela (Adiabene), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 323,
+      "name": "Abraham of the High Mountain",
+      "period": "d. 399 AD",
+      "category": "Saint",
+      "description": "Monk and miracle-worker of the monastery of the High Mountain north of Mount Izla. Teacher of Bar Sauma and founder of the monastery of Mor Gabriel near Midyat in Tur Abdin.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 324,
+      "name": "Abraham of Beth Sayyare",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Monk from the family of Mar Awgin and Abraham the Great. Founded a monastery at Zawitha, west of Bamarne, in the Aramean monastic tradition.",
+      "birthplace": "Iraq",
+      "polity": ""
+    },
+    {
+      "id": 325,
+      "name": "Abraham the Scribe",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Monk of the monastery of Qartmin in Tur Abdin known for curing lepers. Also known as Abraham of Shawur.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 326,
+      "name": "Abraham Qidounaya",
+      "period": "fl. 300–400 AD",
+      "category": "Saint",
+      "description": "Syriac anchorite whose niece Mary fell from the ascetic life but was redeemed through his love. A beloved figure in Syriac hagiographic tradition.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 327,
+      "name": "Abshelama of Edessa",
+      "period": "c. 1st–2nd century AD",
+      "category": "Bishop",
+      "description": "Early bishop of Edessa and copyist for the Apostle Addai. According to the Teaching of Addai, he was among the first Christian leaders of the Aramean city of Edessa.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 328,
+      "name": "Addai the Chorepiscos",
+      "period": "fl. 400–500 AD",
+      "category": "Saint",
+      "description": "Monk and chorepiscopus commemorated in John of Ephesus' Lives of the Eastern Saints.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 329,
+      "name": "Addai the Monk",
+      "period": "fl. 400–500 AD",
+      "category": "Saint",
+      "description": "Syriac monk commemorated by John of Ephesus in his Lives of the Eastern Saints. Built twelve monasteries together with his brother Abraham.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 330,
+      "name": "Addai the Apostle",
+      "period": "c. 1st century AD",
+      "category": "Saint",
+      "description": "One of the 72 apostles, sent as a missionary to Edessa (Urhoy). Healed King Abgar V and converted the Aramean city of Edessa to Christianity, as recorded in the Teaching of Addai. Foundational figure of Syriac Christianity.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": "Bet-Urhay"
+    },
+    {
+      "id": 331,
+      "name": "Simeon of Qenneshre",
+      "period": "fl. 600–700 AD",
+      "category": "Priest",
+      "description": "Presbyter of the monastery of Qenneshrin, one of the great centers of Aramean Syriac learning and scholarship.",
+      "birthplace": "Qenneshrin, Syria",
+      "polity": ""
+    },
+    {
+      "id": 332,
+      "name": "Adorparwa",
+      "period": "d. 319 AD",
+      "category": "Saint",
+      "description": "Aramean martyr of Tur Berʿain in Beth Garmai, commemorated with his brother Mirnarsai and sister Sultan Mahduk.",
+      "birthplace": "Tur Berʿain, Beth Garmai, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 333,
+      "name": "Aggai, Bishop of Edessa",
+      "period": "fl. 100 AD",
+      "category": "Bishop",
+      "description": "Ordained by the Apostle Addai to be bishop of Edessa. Martyred by the son of King Abgar, becoming one of the earliest martyrs of Syriac Christianity.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": "Bet-Urhay"
+    },
+    {
+      "id": 334,
+      "name": "Aha of Arzun",
+      "period": "fl. 500 AD",
+      "category": "Bishop",
+      "description": "Bishop of Arzun and Miaphysite missionary saint among the Armenians.",
+      "birthplace": "Arzun, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 335,
+      "name": "Aha the Solitary",
+      "period": "fl. 573 AD",
+      "category": "Saint",
+      "description": "Former soldier from Resh ʿAyna (an Aramean city) who founded a monastery near Nisibis, undertook extensive pilgrimages, and returned with a piece of the True Cross. Converted a village of pagan Armenians.",
+      "birthplace": "Resh ʿAyna, Syria",
+      "polity": ""
+    },
+    {
+      "id": 336,
+      "name": "Amai of Adiabene",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Daughter of the covenant from Adiabene, martyred alongside Thecla and other daughters of the covenant.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 337,
+      "name": "ʿAmmi of Hah",
+      "period": "fl. 400–500 AD",
+      "category": "Bishop",
+      "description": "First bishop of Tur ʿAbdin. Disciple of Simeon of Qartmin, from Hah in Tur Abdin. Martyred in Tanzi.",
+      "birthplace": "Hah, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 338,
+      "name": "Jacob of Edessa",
+      "period": "615–708 AD",
+      "category": "Bishop",
+      "description": "Bishop of Edessa (684–708), greatest Syriac Orthodox biblical scholar and polymath. Joined the monastery of Qenneshre, studied in Alexandria and Edessa, and wrote commentaries on scripture, grammar, and philosophy. Died at the monastery of Tell ʿAda.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 339,
+      "name": "ʿAqebshma of Adiabene",
+      "period": "d. 379 AD",
+      "category": "Bishop",
+      "description": "Bishop from Adiabene martyred with Joseph and Ithalaha during the persecution of Shapur II. Buried by an Armenian princess.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 340,
+      "name": "Archelaus of Harran",
+      "period": "d. 270 AD",
+      "category": "Bishop",
+      "description": "Bishop of Harran, the ancient Aramean city. Known for his debate with the Manichaean founder Mani.",
+      "birthplace": "Harran, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 341,
+      "name": "Athanasius of Tur Abdin",
+      "period": "fl. 630–640 AD",
+      "category": "Saint",
+      "description": "Monk of Tur ʿAbdin in the Aramean heartland, also known as Rabban Sliba.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 342,
+      "name": "Euthalius the Bishop",
+      "period": "fl. 700–800 AD",
+      "category": "Bishop",
+      "description": "Syriac Orthodox bishop active in the 8th century.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 343,
+      "name": "Athanasius of Qenneshrin",
+      "period": "d. 644 AD",
+      "category": "Bishop",
+      "description": "Bishop from Qenneshrin, the renowned Aramean Syriac monastery and seat of learning.",
+      "birthplace": "Qenneshrin, Syria",
+      "polity": ""
+    },
+    {
+      "id": 344,
+      "name": "Athanasius Sandalaya",
+      "period": "fl. 744–750 AD",
+      "category": "Bishop",
+      "description": "West Syriac Metropolitan of Maypherqat who constructed a monastery at Tel Besme, west of Mardin.",
+      "birthplace": "Turkey",
+      "polity": ""
+    },
+    {
+      "id": 345,
+      "name": "Athqen of Sis",
+      "period": "fl. 600–700 AD",
+      "category": "Saint",
+      "description": "Monk from Sis (Iraq) who came northward to Mount Izla and became the third superior of the monastery of Rabban Saliba.",
+      "birthplace": "Sis, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 346,
+      "name": "ʿAbdishoʿ of Arbela",
+      "period": "fl. 300–400 AD",
+      "category": "Saint",
+      "description": "Anchorite monk from near Arbela (Adiabene) who converted the soldier-saint Mar Qardagh to Christianity.",
+      "birthplace": "Arbela, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 347,
+      "name": "ʿAbdishoʿ of Kashkar (bishop)",
+      "period": "c. 4th century AD",
+      "category": "Bishop",
+      "description": "Bishop and martyr of Kashkar, an Aramean city in Iraq.",
+      "birthplace": "Kashkar, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 348,
+      "name": "Azad of Adiabene",
+      "period": "d. 371 AD",
+      "category": "Deacon",
+      "description": "Deacon of Beth Naggare in Adiabene martyred with the priest Jacob during the persecution of Shapur II.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 349,
+      "name": "Azad (eunuch of Shapur II)",
+      "period": "d. 341 AD",
+      "category": "Saint",
+      "description": "Eunuch at the court of Shapur II who converted to Christianity and was martyred at the gate of the palace of Karka d-Ledan, a week after Simeon Bar Sabbaʿe.",
+      "birthplace": "Karka d-Ledan, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 350,
+      "name": "Babai of Edessa",
+      "period": "c. 2nd century AD",
+      "category": "Saint",
+      "description": "Sister of the Edessan martyr Sharbel and a convert from paganism. Martyred in Edessa during the reign of Emperor Trajan.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": "Bet-Urhay"
+    },
+    {
+      "id": 351,
+      "name": "Babylas of Antioch",
+      "period": "d. 250 AD",
+      "category": "Bishop",
+      "description": "Bishop of Antioch (237–250) who famously demanded that Emperor Philip the Arab make public penance. Died from mistreatment in prison and venerated as a martyr.",
+      "birthplace": "Antioch, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 352,
+      "name": "Badai the Priest",
+      "period": "fl. 359 AD",
+      "category": "Priest",
+      "description": "Syriac Christian priest and martyr who was flagellated with pomegranate branches at the command of Mihrnarsai.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 353,
+      "name": "Barbaʿshmin of Seleucia-Ctesiphon",
+      "period": "d. 346 AD",
+      "category": "Bishop",
+      "description": "Bishop and martyr of Seleucia-Ctesiphon. Arrested at Karka d-Ledan and martyred during the persecution of Shapur II.",
+      "birthplace": "Seleucia-Ctesiphon, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 354,
+      "name": "Barbʿashmin (Patriarch)",
+      "period": "c. medieval",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch commemorated in the Syriac hagiographic tradition.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 355,
+      "name": "Barhadbshabba of Arbela",
+      "period": "d. 354 AD",
+      "category": "Deacon",
+      "description": "Deacon of Arbela (Adiabene) condemned to death and martyred during the persecution of Shapur II.",
+      "birthplace": "Arbela, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 356,
+      "name": "Simeon of Samosata",
+      "period": "fl. 700–800 AD",
+      "category": "Priest",
+      "description": "Presbyter of Samosata, the ancient Aramean city on the Euphrates.",
+      "birthplace": "Samosata, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 357,
+      "name": "Barhadbshabba of Qartmin",
+      "period": "fl. 400–500 AD",
+      "category": "Saint",
+      "description": "Monk and disciple of Samuel of Qartmin at the monastery of Qartmin in Tur Abdin.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 358,
+      "name": "Barsai of Harran",
+      "period": "fl. 361–378 AD",
+      "category": "Bishop",
+      "description": "Bishop of Harran and then Edessa during the time of Ephrem the Syrian. Built the Grand Baptistery in Edessa.",
+      "birthplace": "Harran, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 359,
+      "name": "Barsamya of Edessa",
+      "period": "d. 105 AD",
+      "category": "Bishop",
+      "description": "Early Bishop of Edessa during the reign of Emperor Trajan. Contemporary of the Edessan martyrs Sharbel and Babai.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": "Bet-Urhay"
+    },
+    {
+      "id": 360,
+      "name": "Barsauma of Hashrai",
+      "period": "c. 4th–5th century AD",
+      "category": "Bishop",
+      "description": "Bishop and martyr of the monastery of Hashrai in Tur ʿAbdin.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 361,
+      "name": "Bassus",
+      "period": "fl. 379 AD",
+      "category": "Saint",
+      "description": "Son of a Zoroastrian governor who converted to Christianity with his twin sister Susan through a Christian slave. Martyred by their father. A monastery commemorating Mar Bassus was founded near Apamea in Aramean Syria.",
+      "birthplace": "Syria",
+      "polity": ""
+    },
+    {
+      "id": 362,
+      "name": "Susan",
+      "period": "fl. 379 AD",
+      "category": "Saint",
+      "description": "Twin sister of Bassus. Daughter of a Zoroastrian governor who converted to Christianity with her brother and was martyred by their father.",
+      "birthplace": "Syria",
+      "polity": ""
+    },
+    {
+      "id": 363,
+      "name": "Bawai the Catholicos",
+      "period": "d. 484 AD",
+      "category": "Patriarch",
+      "description": "Zoroastrian convert who became Catholicos of the Church of the East. Born in Tella (Aramean city), he became a monk and was elected patriarch. Killed, reportedly due to accusations by his rival Barsauma.",
+      "birthplace": "Tella, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 364,
+      "name": "David of Germanicea",
+      "period": "fl. 700–800 AD",
+      "category": "Bishop",
+      "description": "Bishop of Germanicea (Marʿash/Kahramanmaraş), a city in the Aramean region of northern Syria.",
+      "birthplace": "Germanicea (Marʿash), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 365,
+      "name": "Behnam of Kirkuk",
+      "period": "fl. 379 AD",
+      "category": "Saint",
+      "description": "Son of the covenant from the Kirkuk region martyred under Shah Ardashir II.",
+      "birthplace": "Kirkuk, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 366,
+      "name": "Behnam of Mosul",
+      "period": "fl. 300–400 AD",
+      "category": "Saint",
+      "description": "High-born Christian martyr, son of Sennacherib, who converted to Christianity through the monk Mattai and was martyred by his father near Mosul. His father later repented and built monasteries for Mar Mattai and Abraham near Mosul.",
+      "birthplace": "Mosul, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 367,
+      "name": "Benjamin the Deacon",
+      "period": "d. 422 AD",
+      "category": "Deacon",
+      "description": "Syriac Christian deacon and martyr under Vahram V.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 368,
+      "name": "Benjamin of Dara",
+      "period": "d. 371 AD",
+      "category": "Priest",
+      "description": "Hermit and priest from Dara in Tur Abdin, ordained by Barsai of Edessa. Travelled to Mount Sinjar and converted Maʿin; both Benjamin and Maʿin were martyred.",
+      "birthplace": "Dara, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 369,
+      "name": "Benjamin, disciple of Mar Awgin",
+      "period": "d. 460 AD",
+      "category": "Saint",
+      "description": "Disciple of Mar Awgin who travelled to Mount Izla and founded a monastery and school near Mardin in the Aramean heartland.",
+      "birthplace": "Mardin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 370,
+      "name": "Bohtishoʿ the Deacon",
+      "period": "fl. 363–371 AD",
+      "category": "Deacon",
+      "description": "Syriac Christian deacon and martyr who assisted Tomarsha in rebuilding churches destroyed under Shapur II. Martyred under Vahram.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 371,
+      "name": "Bohtizad of Kurke",
+      "period": "c. medieval",
+      "category": "Saint",
+      "description": "Syriac saint from Kurke with a monastery named after him in the mountains of northeastern Iraq.",
+      "birthplace": "Kurke, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 372,
+      "name": "Brikhishoʿ",
+      "period": "d. 351 AD",
+      "category": "Saint",
+      "description": "Syriac Christian martyr who died with ten companions during the time of Shapur II.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 373,
+      "name": "Brihishoʿ of Beth Asa",
+      "period": "d. 327 AD",
+      "category": "Saint",
+      "description": "Brother of Yawnan. Two brothers from Beth Asa who travelled to a neighboring village to encourage Christian martyrs and were themselves martyred during the time of Shapur.",
+      "birthplace": "Beth Asa, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 374,
+      "name": "Moses of Anhil",
+      "period": "fl. 700–800 AD",
+      "category": "Writer",
+      "description": "Syriac Orthodox historian active in the 8th century.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 375,
+      "name": "Buya, Rabban",
+      "period": "fl. 600–700 AD",
+      "category": "Saint",
+      "description": "Monk from ʿAqra in Iraq with many companions. His anonymous sister was also venerated as a saint with her tomb in Shaqlawa.",
+      "birthplace": "ʿAqra, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 376,
+      "name": "Carpus of Tur Abdin",
+      "period": "fl. 300–400 AD",
+      "category": "Bishop",
+      "description": "Bishop of Shawaur martyred by the Persians. His relics were placed inside a church in Tur ʿAbdin built by Saliba, father of Samuel of Qartmin.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 377,
+      "name": "Christina Yazdoi",
+      "period": "d. 363 AD",
+      "category": "Saint",
+      "description": "Daughter of a Zoroastrian governor from Karka d-Beth Slokh who converted to Christianity and was martyred after her marriage.",
+      "birthplace": "Karka d-Beth Slokh, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 378,
+      "name": "Cyprian of Antioch",
+      "period": "fl. 300 AD",
+      "category": "Saint",
+      "description": "Martyr from Antioch, the great Aramean city, who died with Justina under Emperor Diocletian.",
+      "birthplace": "Antioch, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 379,
+      "name": "Cyrus, Bishop of Edessa",
+      "period": "fl. 394 AD",
+      "category": "Bishop",
+      "description": "Bishop of Edessa who transferred the relics of the Apostle Thomas to Edessa in 394 AD.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 380,
+      "name": "Cyrus of Harran",
+      "period": "d. 770 AD",
+      "category": "Saint",
+      "description": "Martyr of Harran, the ancient Aramean city, killed under the Abbasid Caliph Al-Mansur.",
+      "birthplace": "Harran, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 381,
+      "name": "Cyrus of Qartmin",
+      "period": "fl. 410 AD",
+      "category": "Saint",
+      "description": "Superior of the monastery of Qartmin in Tur Abdin. Disciple of Samuel of Qartmin.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 382,
+      "name": "Cyriacus (disciple of Mar Yareth)",
+      "period": "fl. 200–300 AD",
+      "category": "Saint",
+      "description": "Syriac disciple of Mar Yareth.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 383,
+      "name": "Dodo of Tur ʿAbdin",
+      "period": "fl. 325–425 AD",
+      "category": "Saint",
+      "description": "Saint from Tur ʿAbdin and companion of Mar Awgin. A church in Beth Sbirino is dedicated to him.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 384,
+      "name": "Dado",
+      "period": "d. 370 AD",
+      "category": "Saint",
+      "description": "Convert from Zoroastrianism to Christianity. Condemned to an ordeal of fire and martyred under Shapur II.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 385,
+      "name": "Damian, Patriarch of Alexandria",
+      "period": "fl. 576–591 AD",
+      "category": "Patriarch",
+      "description": "Patriarch of Alexandria of Syrian origin. Lived as a monastic ascetic in Egypt before becoming patriarch. Involved in disputes with Peter of Callinicus over the Tritheist controversy.",
+      "birthplace": "Syria",
+      "polity": ""
+    },
+    {
+      "id": 386,
+      "name": "Daniel of Amida",
+      "period": "fl. 300–400 AD",
+      "category": "Saint",
+      "description": "Refugee from Amida (Diyarbakir) and student of Mar Mattai. Established a monastery called the monastery of the yellow source near his teacher's monastery.",
+      "birthplace": "Amid (Diyarbakir), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 387,
+      "name": "Daniel of Galash",
+      "period": "d. 439 AD",
+      "category": "Saint",
+      "description": "Syriac ascetic who visited the portrait of Christ in Edessa, met Julian Saba, and established a monastery on Mount Aysum.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 388,
+      "name": "Daniel, Bishop of Edessa",
+      "period": "fl. 665–684 AD",
+      "category": "Bishop",
+      "description": "Bishop of Edessa who obtained relics of Severus of Samosata to chase demons from monks at Qenneshre. Wrote a demonology.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 389,
+      "name": "Daniel the Doctor",
+      "period": "fl. 300–400 AD",
+      "category": "Saint",
+      "description": "Convert from paganism who travelled to Nuhadra in the Aramean region. Healed Miles, the son of a Persian governor, and lived as a hermit.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 390,
+      "name": "Daniel of Qartmin",
+      "period": "d. 633 AD",
+      "category": "Bishop",
+      "description": "Monk of Qartmin in Tur Abdin who was elected bishop of Qartmin.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 391,
+      "name": "Daniel the Stylite (of Qartmin)",
+      "period": "fl. 410 AD",
+      "category": "Saint",
+      "description": "Monk and disciple of Samuel of Qartmin who walked along the Tigris to the land of Qardu (Gazarta).",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 392,
+      "name": "David of Harran",
+      "period": "fl. 846–873 AD",
+      "category": "Bishop",
+      "description": "Bishop of Harran, originally a monk from Qartmin and a relative of Simeon of the Olives. Left his precious objects including a collection of canons to the monastery of Qartmin.",
+      "birthplace": "Harran, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 393,
+      "name": "Demetrianus of Antioch",
+      "period": "fl. 260 AD",
+      "category": "Bishop",
+      "description": "Bishop of Antioch deported by the Persians after their conquest of the city in 256. The beginnings of the diocese of Gundishapur were attributed to him.",
+      "birthplace": "Antioch, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 394,
+      "name": "Ten Brothers of Qartmin",
+      "period": "fl. 433 AD",
+      "category": "Saint",
+      "description": "Group of ten monks from the monastery of Qartmin in Tur Abdin who fought with villagers over the body of Simeon of Qartmin.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 395,
+      "name": "Domitius",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Syriac martyr and doctor from Kurdistan venerated near Qilleth. Either a hermit martyred in his cave or a doctor who gave counsel to Emperor Valens.",
+      "birthplace": "Kurdistan, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 396,
+      "name": "Edna",
+      "period": "fl. 310 AD",
+      "category": "Saint",
+      "description": "Saint widely venerated among Maronite Christians. Her name means 'ear' and she is invoked for ear infections.",
+      "birthplace": "Lebanon",
+      "polity": ""
+    },
+    {
+      "id": 397,
+      "name": "Elian of Emesa",
+      "period": "d. 284 AD",
+      "category": "Saint",
+      "description": "Aramean martyr and doctor from Emesa (Homs). Executed by his own father. The bishop Paul built a church in his honor.",
+      "birthplace": "Emesa (Homs), Syria",
+      "polity": ""
+    },
+    {
+      "id": 398,
+      "name": "Elijah, Bishop of ʿAyn Ward",
+      "period": "fl. 690 AD",
+      "category": "Bishop",
+      "description": "First bishop from the monastery of Simeon of Qartmin. Bishop of ʿAyn Ward.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 399,
+      "name": "George, Bishop of the Arabs",
+      "period": "d. 724 AD",
+      "category": "Bishop",
+      "description": "Student of Severus of Sebokht at Qenneshre, versed in all branches of knowledge. Became Bishop of the Arab tribes in 686 with his seat in Aqula.",
+      "birthplace": "Qenneshrin, Syria",
+      "polity": ""
+    },
+    {
+      "id": 400,
+      "name": "Elijah, Patriarch of Antioch",
+      "period": "fl. 709–723 AD",
+      "category": "Patriarch",
+      "description": "Syrian Orthodox Patriarch of Antioch and convert from the Melkite community. Originally a monk from the monastery of Gubba Barraya. Esteemed by Caliph Al-Walid I who allowed him to build a church.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 401,
+      "name": "Elijah the Younger of Damascus",
+      "period": "fl. 700 AD",
+      "category": "Saint",
+      "description": "Martyr from Damascus, the ancient Aramean capital, celebrated on February 1.",
+      "birthplace": "Damascus, Syria",
+      "polity": ""
+    },
+    {
+      "id": 402,
+      "name": "Elisha of Garbiya",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Monk of Garbiya near Midyat in Tur Abdin.",
+      "birthplace": "Midyat, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 403,
+      "name": "Stephen (companion of Bassus)",
+      "period": "fl. 379 AD",
+      "category": "Saint",
+      "description": "Syriac martyr commemorated with Bassus, Suzanna, and Longinus.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 404,
+      "name": "Eulogius (disciple of Mar Awgin)",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Syriac ascetic and disciple of Mar Awgin, known as 'Eulogius and the leper.'",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 405,
+      "name": "Eutal",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Disciple of Malke, son of Job of Ator near Mosul. Known as 'the Arab.' His tomb was at the monastery of Mar Malke in Tur ʿAbdin.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 406,
+      "name": "Eutal of Magdala",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Pagan convert who became a monk with Mar Aba in Mopsuestia. A miracle-worker who converted thousands of pagans.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 407,
+      "name": "Eutychios the Mesopotamian",
+      "period": "fl. 741 AD",
+      "category": "Saint",
+      "description": "Mesopotamian martyr under Caliph Al-Walid who died for refusing to convert to Islam.",
+      "birthplace": "Mesopotamia",
+      "polity": ""
+    },
+    {
+      "id": 408,
+      "name": "Ezekiel the Monk",
+      "period": "fl. 363 AD",
+      "category": "Saint",
+      "description": "Disciple of Mar Awgin who went to Adiabene and Beth Garmai. Converted many Zoroastrians and founded a monastery near Daduq in the Kirkuk region.",
+      "birthplace": "Kirkuk, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 409,
+      "name": "Febronia of Nisibis",
+      "period": "fl. 310 AD",
+      "category": "Saint",
+      "description": "Aramean nun and martyr from a convent near Nisibis. Renowned for her beauty, learning, asceticism, and bravery. Martyred for refusing to marry a pagan statesman.",
+      "birthplace": "Nisibis, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 410,
+      "name": "Gabriel of Qartmin",
+      "period": "d. 648 AD",
+      "category": "Bishop",
+      "description": "From Beth Qustan, became Bishop of Qartmin. Fled marriage to become a monk, was superior of Qartmin, and met the Caliph Ibn al-Hattab. Set out measurements of the monastery.",
+      "birthplace": "Beth Qustan, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 411,
+      "name": "Gabriel of Kashkar",
+      "period": "d. 739 AD",
+      "category": "Saint",
+      "description": "Syriac monk known as 'the little man' who founded three monasteries near Mahoze, Dayr Qunni, and Husra.",
+      "birthplace": "Kashkar, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 412,
+      "name": "Gabrona of Qarta",
+      "period": "fl. 590–604 AD",
+      "category": "Saint",
+      "description": "Syriac monk from Beth ʿArabaye who healed the daughter of a village leader and constructed the monastery of Dayr al-Qara.",
+      "birthplace": "Beth ʿArabaye, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 413,
+      "name": "Ganni of Hirta",
+      "period": "fl. 550 AD",
+      "category": "Saint",
+      "description": "Monk from Beth Aramaye ('house of Arameans') who sold all possessions and became a disciple of Mar Abraham on Mount Izla. Praised by Simeon of Taybutha for his virtues.",
+      "birthplace": "Beth Aramaye, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 414,
+      "name": "George of Harran",
+      "period": "fl. 816–850 AD",
+      "category": "Bishop",
+      "description": "Bishop of Harran who came from the monastery of Qartmin.",
+      "birthplace": "Harran, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 415,
+      "name": "Simeon of the Olives",
+      "period": "d. 734 AD",
+      "category": "Saint",
+      "description": "Syriac Orthodox saint and relative of David of Harran.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 416,
+      "name": "George the Priest of Izla",
+      "period": "d. 615 AD",
+      "category": "Saint",
+      "description": "Monk of Izla and convert from Zoroastrianism. Noted for his conversations with the Monophysites. Condemned to death by Shah Khusro for leaving Zoroastrianism.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 417,
+      "name": "Gourya of Edessa",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Aramean martyr killed in Edessa during the Diocletian persecution alongside Shmona. The subject of great devotion in Edessa.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 418,
+      "name": "Habib of Edessa",
+      "period": "d. 322 AD",
+      "category": "Deacon",
+      "description": "Deacon from the village of Telshaha near Edessa. Continued traveling from village to village encouraging Christians during persecution. Burnt to death, with his mother accompanying him. Entombed near Shmona and Guria.",
+      "birthplace": "Telshaha, near Edessa, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 419,
+      "name": "Habib (disciple of Jacob of Serugh)",
+      "period": "fl. 521 AD",
+      "category": "Saint",
+      "description": "Disciple of Jacob of Serugh, the great Syriac poet.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 420,
+      "name": "Habib son of Gamaliel",
+      "period": "fl. 400 AD",
+      "category": "Saint",
+      "description": "Possibly identified with John of Gamaliel mentioned in the life of Samuel of Qartmin.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 421,
+      "name": "Ananias of Arbela",
+      "period": "d. 345 AD",
+      "category": "Saint",
+      "description": "Aramean layman from Arbela (Adiabene) arrested in year six of the persecution of Shapur. Martyred three times. A church was dedicated to him in Erbil.",
+      "birthplace": "Arbela (Erbil), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 422,
+      "name": "Hananya of Dayr al-Zaʿfaran",
+      "period": "d. 826 AD",
+      "category": "Bishop",
+      "description": "Syriac Orthodox bishop of Mardin and Kfartuto. Built the monastery named after him (Deir al-Zaʿfaran) on the ruins of the monastery of Slemun.",
+      "birthplace": "Mardin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 423,
+      "name": "Heliodorus of Beth Zabdai",
+      "period": "d. 362 AD",
+      "category": "Bishop",
+      "description": "Bishop of Beth Zabdai in the Aramean region. 9000 inhabitants of his city were deported to Persia, and many of his community were later martyred.",
+      "birthplace": "Beth Zabdai, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 424,
+      "name": "Heraclas of Kafar Sama",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Recluse from the village of Midyat in Tur Abdin.",
+      "birthplace": "Midyat, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 425,
+      "name": "Hormizd of Beth Garmai",
+      "period": "c. 5th century AD",
+      "category": "Saint",
+      "description": "Martyr of Beth Garmai under Yazdegerd. With nine friends, all converts from Zoroastrianism or with Zoroastrian wives, they were tortured to death.",
+      "birthplace": "Beth Garmai, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 426,
+      "name": "Rabban Hormizd",
+      "period": "fl. 628–641 AD",
+      "category": "Saint",
+      "description": "Monastic founder of the Church of the East. Spent 32 years at the monastery of Bar ʿIdta, then founded an important monastery near Mosul, north of Alqosh.",
+      "birthplace": "Iraq",
+      "polity": ""
+    },
+    {
+      "id": 427,
+      "name": "Hudahwi",
+      "period": "fl. 647–650 AD",
+      "category": "Saint",
+      "description": "Syriac monk who built the monastery of Beth Hale shortly after the Muslim conquest.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 428,
+      "name": "Hwara, son of Theodore",
+      "period": "fl. 500–600 AD",
+      "category": "Saint",
+      "description": "Cured of being mute by the monk Mar Aha. Became a monk and established monasteries near Nisibis, where he was the successor of Mar Aha.",
+      "birthplace": "Nisibis, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 429,
+      "name": "Ia of Beth Zabdai",
+      "period": "d. 362 AD",
+      "category": "Saint",
+      "description": "Aramean woman among the martyrs of Beth Zabdai who converted the wives of Zoroastrians and was tortured and martyred.",
+      "birthplace": "Beth Zabdai, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 430,
+      "name": "Ignatius of Melitene",
+      "period": "fl. 969 AD",
+      "category": "Bishop",
+      "description": "Bishop of Melitene who built the convent of the Mother of God and a great church there.",
+      "birthplace": "Melitene, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 431,
+      "name": "Isaac, Patriarch of Harran",
+      "period": "fl. 753–756 AD",
+      "category": "Patriarch",
+      "description": "Became bishop of Harran and later Patriarch. Killed by Caliph Al-Mansur and his body thrown into the Euphrates.",
+      "birthplace": "Harran, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 432,
+      "name": "Isaiah, Bishop of Edessa",
+      "period": "fl. 625 AD",
+      "category": "Bishop",
+      "description": "Bishop of Edessa named with the approval of the Persians who occupied the city. Refused communion to Emperor Heraclius on account of his support for Chalcedon.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 433,
+      "name": "Isaiah of Aleppo",
+      "period": "fl. 350 AD",
+      "category": "Saint",
+      "description": "From Aleppo, said to be the last survivor of the disciples of Mar Awgin. He and his wife lived in continence. Travelled throughout Mesopotamia and converted 3000 Marcionites.",
+      "birthplace": "Aleppo, Syria",
+      "polity": ""
+    },
+    {
+      "id": 434,
+      "name": "Isidore of Harran",
+      "period": "fl. 650 AD",
+      "category": "Bishop",
+      "description": "Bishop of Harran in the 7th century.",
+      "birthplace": "Harran, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 435,
+      "name": "Ishoʿsabran of Erbil",
+      "period": "d. 621 AD",
+      "category": "Saint",
+      "description": "Zoroastrian convert from Erbil (Adiabene) whose life was written by Ishoʿyaw III of Adiabene. His story speaks of interactions between the Church of the East and Syrian Orthodox Church.",
+      "birthplace": "Erbil (Arbela), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 436,
+      "name": "Ishoʿyahb of Mount Izla",
+      "period": "d. 685 AD",
+      "category": "Saint",
+      "description": "Monk of Mount Izla who founded a convent and healed many people.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 437,
+      "name": "Ishoʿyahb of Arzun",
+      "period": "c. early medieval",
+      "category": "Patriarch",
+      "description": "Patriarch of the Church of the East from Arzun.",
+      "birthplace": "Arzun, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 438,
+      "name": "Ishoʿyahb of Gdala",
+      "period": "c. early medieval",
+      "category": "Patriarch",
+      "description": "East Syriac patriarch from Gdala.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 439,
+      "name": "Ishoʿyahb bar Qusre",
+      "period": "fl. 500–600 AD",
+      "category": "Saint",
+      "description": "Monk from a monastery in Adiabene who founded a church that became the church of Mar Ishaʿya and residence of the metropolitan of Mosul.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 440,
+      "name": "John bar Samuel",
+      "period": "fl. 700–800 AD",
+      "category": "Scholar",
+      "description": "Syriac scholar active in the 8th century.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 441,
+      "name": "Israel of Kashkar",
+      "period": "d. 872 AD",
+      "category": "Patriarch",
+      "description": "Bishop of Kashkar elected patriarch of the Church of the East. Assassinated during the performance of the liturgy in 872.",
+      "birthplace": "Kashkar, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 442,
+      "name": "Aitalaha the Deacon",
+      "period": "c. 4th century AD",
+      "category": "Deacon",
+      "description": "Deacon martyred with Bishop ʿAqebshma during the persecution of Shapur II.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 443,
+      "name": "Aitalaha, Bishop of Edessa",
+      "period": "fl. 324 AD",
+      "category": "Bishop",
+      "description": "Bishop from Edessa who attended the Council of Nicaea. Built the church of Cyrus and Saʿad.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 444,
+      "name": "Aitalaha of Arbela",
+      "period": "d. 355 AD",
+      "category": "Saint",
+      "description": "Former pagan priest from Arbela who converted to Christianity. Imprisoned with other Persian martyrs and decapitated at Beth Lapat.",
+      "birthplace": "Arbela (Adiabene), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 445,
+      "name": "Caesarea",
+      "period": "fl. 500–600 AD",
+      "category": "Saint",
+      "description": "Syriac saint commemorated in John of Ephesus' Lives of the Eastern Saints.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 446,
+      "name": "Shembaiteh",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Syriac Christian martyr commemorated alongside Zebinas, Lazarus, Maroutha, Narses, Elijah, Mahri, Habib, Saba, Berikhicho, and Jonas.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 447,
+      "name": "Daniel of Beth Batin",
+      "period": "fl. 800–900 AD",
+      "category": "Scholar",
+      "description": "Syriac scholar (Malphono) from Beth Batin.",
+      "birthplace": "Beth Batin",
+      "polity": ""
+    },
+    {
+      "id": 448,
+      "name": "Cosmos",
+      "period": "c. 3rd–4th century AD",
+      "category": "Saint",
+      "description": "Twin medical saint and martyr from Syria, commemorated alongside his brother Damian.",
+      "birthplace": "Syria",
+      "polity": ""
+    },
+    {
+      "id": 449,
+      "name": "Damian",
+      "period": "c. 3rd–4th century AD",
+      "category": "Saint",
+      "description": "Twin medical saint and martyr from Syria, commemorated alongside his brother Cosmos.",
+      "birthplace": "Syria",
+      "polity": ""
+    },
+    {
+      "id": 450,
+      "name": "Isaac of Nisibis (Compiler of the Anaphora)",
+      "period": "fl. 800–900 AD",
+      "category": "Scholar",
+      "description": "Syriac scholar from Nisibis known as the Compiler of the Anaphora.",
+      "birthplace": "Nisibis, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 451,
+      "name": "Cyriacus (Lives of the Eastern Saints)",
+      "period": "fl. 500–600 AD",
+      "category": "Saint",
+      "description": "Syriac saint commemorated in John of Ephesus' Lives of the Eastern Saints alongside Abraham, Barhadbeshabba, and Sergius.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 452,
+      "name": "Dada",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Syriac Christian saint known as a doctor of the Church, commemorated with Isaac.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 453,
+      "name": "Dadouq",
+      "period": "d. 420 AD",
+      "category": "Saint",
+      "description": "Syriac Christian martyr killed under Shah Yazdegerd I alongside companions Abda, Hasho, Isaac, Afrem, Papa, and Durtan the learned.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 454,
+      "name": "John III (IV)",
+      "period": "d. 873 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch who died in 873.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 455,
+      "name": "Daniel (companion of Mari and Sergius)",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Syriac martyr commemorated alongside Mari and Sergius in hagiographic texts preserved in the British Library (Add. 14647).",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 456,
+      "name": "Daniel of Adiabene",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Aramean Christian martyr from Adiabene, commemorated in Syriac hagiographic manuscripts.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 457,
+      "name": "Ignatius II",
+      "period": "d. 883 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch who died in 883.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 458,
+      "name": "ʿAbshmayya of Edessa",
+      "period": "fl. 300–400 AD",
+      "category": "Priest",
+      "description": "Syriac priest from Edessa (Urhoy) active in the 4th century.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 459,
+      "name": "Denha of Midyat",
+      "period": "fl. 750–950 AD",
+      "category": "Priest",
+      "description": "Priest-philosopher and monk in the Monastery of St. George in Midyat, Tur Abdin. Author of a lengthy treatise in heptasyllable meter against the heretics.",
+      "birthplace": "Midyat, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 460,
+      "name": "John, Metropolitan of Dara",
+      "period": "fl. 800–850 AD",
+      "category": "Bishop",
+      "description": "Syriac author and metropolitan of Dara, the Aramean city in the Tur Abdin region.",
+      "birthplace": "Dara, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 461,
+      "name": "Jacob of ʿAnah",
+      "period": "fl. 860 AD",
+      "category": "Bishop",
+      "description": "Bishop of ʿAnah on the Euphrates in Aramean Mesopotamia.",
+      "birthplace": "ʿAnah, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 462,
+      "name": "Baboi",
+      "period": "d. 484 AD",
+      "category": "Patriarch",
+      "description": "Patriarch of the Church of the East during the reign of Sasanian Shah Peroz.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 463,
+      "name": "Barhadbshabba (Lives of the Eastern Saints)",
+      "period": "fl. 500–600 AD",
+      "category": "Saint",
+      "description": "Syriac saint commemorated in John of Ephesus' Lives of the Eastern Saints alongside Abraham, Cyriacus, and Sergius.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 464,
+      "name": "Barsauma",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Syriac saint commemorated in hagiographic texts preserved in the British Library (Add. 14592).",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 465,
+      "name": "Basil the Maphrian",
+      "period": "c. medieval",
+      "category": "Bishop",
+      "description": "Syriac Orthodox Maphrian commemorated alongside Ignatius the Patriarch.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 466,
+      "name": "Simeon of Hisn Mansur",
+      "period": "fl. 861 AD",
+      "category": "Saint",
+      "description": "Syriac monk from Hisn Mansur (Adıyaman) in the Aramean region.",
+      "birthplace": "Hisn Mansur (Adıyaman), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 467,
+      "name": "Benjamin of Beth Nuhadra",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Syriac saint from Beth Nuhadra in the Aramean region of northern Iraq.",
+      "birthplace": "Beth Nuhadra, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 468,
+      "name": "Severus of Edessa",
+      "period": "fl. 800–900 AD",
+      "category": "Saint",
+      "description": "Syriac monk of the Monastery of Saint Barbara, also known as Severus of Antioch. Active in Edessa.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 469,
+      "name": "Tataq the Servant",
+      "period": "d. 420 AD",
+      "category": "Saint",
+      "description": "Chamberlain of Yazdegerd I from Adiabene. Decapitated for his Christian faith.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 470,
+      "name": "Thecla",
+      "period": "d. 347 AD",
+      "category": "Saint",
+      "description": "Aramean daughter of the covenant who was arrested, interrogated, and martyred alongside her companions including Mary.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 471,
+      "name": "Theodore of Kashkar",
+      "period": "fl. 550–750 AD",
+      "category": "Saint",
+      "description": "Monk who founded his own school outside of Kashkar. In old age he retired in solitude. Went to Caliph Umar I to obtain tax exemption for priests and deacons.",
+      "birthplace": "Kashkar, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 472,
+      "name": "Asuna",
+      "period": "fl. 300–400 AD",
+      "category": "Saint",
+      "description": "Syriac saint active in the 4th century.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 473,
+      "name": "Theodosius, Metropolitan of Edessa",
+      "period": "fl. 750–850 AD",
+      "category": "Bishop",
+      "description": "Metropolitan bishop of Edessa, author, and translator.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 474,
+      "name": "Theodosius (Bishop of Qartmin)",
+      "period": "c. 4th–5th century AD",
+      "category": "Bishop",
+      "description": "Bishop and perhaps monk from Qartmin who was martyred in an oven along with his companions.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 475,
+      "name": "Thomas, Bishop of Harran",
+      "period": "fl. 734–738 AD",
+      "category": "Bishop",
+      "description": "Bishop of Harran and disciple of Simeon of the Olives.",
+      "birthplace": "Harran, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 476,
+      "name": "Thomas the Stylite of Tella",
+      "period": "fl. 600–700 AD",
+      "category": "Saint",
+      "description": "Stylite saint of Tella, an Aramean city.",
+      "birthplace": "Tella, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 477,
+      "name": "Thuthael of Edessa",
+      "period": "d. 104 AD",
+      "category": "Saint",
+      "description": "Early Aramean martyr of Edessa commemorated alongside the martyr Sharbel.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 478,
+      "name": "Thuthael (Stylite of Qartmin)",
+      "period": "fl. 420 AD",
+      "category": "Saint",
+      "description": "Stylite and disciple of Samuel of Qartmin in the monastery of Qartmin, Tur Abdin.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 479,
+      "name": "Timothy, Bishop of Edessa",
+      "period": "fl. 754–761 AD",
+      "category": "Bishop",
+      "description": "Bishop of Edessa who participated in a synod in Mabbug that elected the deacon George.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 480,
+      "name": "Yareth",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Monk trained in the monastery of Pachomius who joined Mar Awgin on Mount Izla. Converted the region of Beth Zabdai and built a monastery there with his disciple Quryaqos.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 481,
+      "name": "Rabban Jonah",
+      "period": "fl. 637 AD",
+      "category": "Saint",
+      "description": "Monk of the monastery of Bar Tura.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 482,
+      "name": "Jonah of Anbar",
+      "period": "fl. 300–400 AD",
+      "category": "Saint",
+      "description": "Disciple of Mar Awgin who journeyed to Jerusalem and Scetis. Founded the monastery at Peroz Shapur on the Euphrates.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 483,
+      "name": "Jonah of Beth Asa",
+      "period": "c. 4th century AD",
+      "category": "Priest",
+      "description": "Syriac priest from Beth Asa and brother of Brihishoʿ. Went to prison during a persecution to encourage future martyrs, then was arrested and martyred.",
+      "birthplace": "Beth Asa, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 484,
+      "name": "Jonah of Hah",
+      "period": "c. 4th–5th century AD",
+      "category": "Bishop",
+      "description": "Bishop of Hah in Tur Abdin, martyred at Apamea.",
+      "birthplace": "Hah, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 485,
+      "name": "Yazdanduht of Arbela",
+      "period": "fl. 345 AD",
+      "category": "Saint",
+      "description": "Holy woman of Arbela (Adiabene) who in 345 took care of and buried 120 martyrs of Adiabene (111 priests and deacons; nine virgins).",
+      "birthplace": "Arbela (Erbil), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 486,
+      "name": "Yazdapnah, Bishop of Kashkar",
+      "period": "fl. 646–659 AD",
+      "category": "Bishop",
+      "description": "Bishop of Kashkar and contemporary of Patriarch Mar Emmeh and Rabban Theodore.",
+      "birthplace": "Kashkar, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 487,
+      "name": "Benjamin, Metropolitan of Edessa",
+      "period": "d. 843 AD",
+      "category": "Bishop",
+      "description": "Metropolitan bishop of Edessa, professor of dogma, and commentator on the homilies of Gregory of Nazianzus and on the works of Pseudo-Dionysius the Areopagite.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 488,
+      "name": "Yozadaq",
+      "period": "fl. 550–750 AD",
+      "category": "Saint",
+      "description": "Monk and disciple of Rabban Bar ʿIdta and companion of Rabban Hormizd on Mount Resa. Built a monastery and corresponded about the works of Isaac of Nineveh.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 489,
+      "name": "Zakka",
+      "period": "fl. 300–400 AD",
+      "category": "Saint",
+      "description": "Disciple of Mar Mattai connected with the saints of Mosul. Successor of Mar Mattai, he inhabited a cell at the end of the valley of Mar Abraham.",
+      "birthplace": "Mosul, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 490,
+      "name": "Zeʿora",
+      "period": "fl. 527 AD",
+      "category": "Saint",
+      "description": "Stylite saint whose life was memorialized by John of Ephesus. Replaced his teacher on the pillar when the former retired. Travelled to Constantinople to advocate for the Miaphysite cause before Empress Theodora.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 491,
+      "name": "Zayna of Tagrit",
+      "period": "c. medieval",
+      "category": "Bishop",
+      "description": "Bishop and martyr whose cult in Tagrit rivaled that of Behnam and Sara at Mar Mattai. Son of Ator, a king, who became a monk and bishop.",
+      "birthplace": "Tagrit, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 492,
+      "name": "Basil of Samosata",
+      "period": "d. 843 AD",
+      "category": "Bishop",
+      "description": "Monk at Qenneshrin and bishop of Samosata, the ancient Aramean city on the Euphrates.",
+      "birthplace": "Samosata, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 493,
+      "name": "ʿAbdalʿaleq",
+      "period": "c. 4th–5th century AD",
+      "category": "Deacon",
+      "description": "Syriac Christian deacon and martyr who was stoned to death.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 494,
+      "name": "Abi",
+      "period": "fl. 500–600 AD",
+      "category": "Saint",
+      "description": "Syriac saint featured in John of Ephesus' Lives of the Eastern Saints.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 495,
+      "name": "ʿAbdishoʿ (companion of Berikhisho)",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Syriac Christian martyr who was killed alongside Berikhisho.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 496,
+      "name": "ʿAbdishoʿ of Dasen",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Syriac monk from Dasen who trained in the monastery of Beth Sayare.",
+      "birthplace": "Dasen, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 497,
+      "name": "Anton of Tagrit",
+      "period": "fl. 750–950 AD",
+      "category": "Writer",
+      "description": "Syriac author from Tagrit (Tikrit), designated 'rhetor' and 'philoponos.' A monk from the family of Gurgin.",
+      "birthplace": "Tagrit (Tikrit), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 498,
+      "name": "Abel of Adiabene",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Aramean Christian saint from Adiabene, commemorated in Syriac hagiographic manuscripts.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 499,
+      "name": "Aboursam",
+      "period": "d. 341 AD",
+      "category": "Priest",
+      "description": "Priest who died alongside Bishop Miles of Susa and the deacon Sinai.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 500,
+      "name": "ʿAboushta of Adiabene",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Spiritual father from a village called Tallpna in the mountains of Adiabene.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 501,
+      "name": "Abraham (companion of Maron)",
+      "period": "fl. 500–600 AD",
+      "category": "Saint",
+      "description": "Syriac saint commemorated in John of Ephesus' Lives of the Eastern Saints alongside Maron.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 502,
+      "name": "Abraham (companion of Addai)",
+      "period": "fl. 500–600 AD",
+      "category": "Saint",
+      "description": "Syriac saint commemorated in John of Ephesus' Lives of the Eastern Saints alongside Addai.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 503,
+      "name": "Abraham of Harran",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Syriac saint from Harran, the ancient Aramean city.",
+      "birthplace": "Harran, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 504,
+      "name": "Dionysios of Tel Mahre",
+      "period": "d. 845 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch (818–845) and historian.",
+      "birthplace": "Tel Mahre, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 505,
+      "name": "Abraham of Nisibis",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Syriac saint from Nisibis, the Aramean city.",
+      "birthplace": "Nisibis, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 506,
+      "name": "Abraham I of Adiabene",
+      "period": "c. 3rd–4th century AD",
+      "category": "Bishop",
+      "description": "Early bishop of Adiabene, originally from Herda.",
+      "birthplace": "Herda, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 507,
+      "name": "Abraham II of Adiabene",
+      "period": "fl. 346 AD",
+      "category": "Bishop",
+      "description": "Bishop of Adiabene in the 4th century.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 508,
+      "name": "Abraham the Priest",
+      "period": "fl. 500–600 AD",
+      "category": "Priest",
+      "description": "Syriac priest featured in John of Ephesus' Lives of the Eastern Saints.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 509,
+      "name": "Abraham the Recluse",
+      "period": "fl. 500–600 AD",
+      "category": "Saint",
+      "description": "Syriac recluse saint featured in John of Ephesus' Lives of the Eastern Saints.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 510,
+      "name": "Acacius of Aleppo",
+      "period": "c. 4th–5th century AD",
+      "category": "Bishop",
+      "description": "Bishop of Aleppo venerated by the poet Balai.",
+      "birthplace": "Aleppo, Syria",
+      "polity": ""
+    },
+    {
+      "id": 511,
+      "name": "Aha of Adiabene (son of priest)",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Son of a priest from Arbela in Adiabene.",
+      "birthplace": "Arbela (Erbil), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 512,
+      "name": "Ahudemmeh",
+      "period": "c. 6th century AD",
+      "category": "Bishop",
+      "description": "Prominent East Syriac bishop and missionary.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 513,
+      "name": "Ananias (Mardin)",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Syriac saint commemorated in a hagiographic manuscript from Mardin.",
+      "birthplace": "Mardin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 514,
+      "name": "Barhadbshabba of Mor Matay",
+      "period": "fl. 800–900 AD",
+      "category": "Saint",
+      "description": "Syriac monk of the monastery of Mor Matay near Mosul.",
+      "birthplace": "Mosul, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 515,
+      "name": "Nuhra",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Syriac saint whose name means 'light' in Syriac.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 516,
+      "name": "Simeon of Samosata (pupil of Ephrem)",
+      "period": "fl. 300–400 AD",
+      "category": "Scholar",
+      "description": "Pupil of St. Ephrem from Samosata, the ancient Aramean city on the Euphrates.",
+      "birthplace": "Samosata, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 517,
+      "name": "Papa, Bishop of Arzun",
+      "period": "fl. 300–400 AD",
+      "category": "Bishop",
+      "description": "Bishop of Arzun in the Aramean region.",
+      "birthplace": "Arzun, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 518,
+      "name": "Paul the Interpreter",
+      "period": "fl. 616 AD",
+      "category": "Scholar",
+      "description": "Syriac commentator on the Psalms. Possibly Paul of Nisibis or Paul of Tella.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 519,
+      "name": "Pethion (Catholicos)",
+      "period": "fl. 731–741 AD",
+      "category": "Patriarch",
+      "description": "Catholicos of the Church of the East (731–740/741). Formed a favorable relationship with the Muslim governor Halid al-Qasri.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 520,
+      "name": "Elijah of Harran",
+      "period": "fl. 700–800 AD",
+      "category": "Bishop",
+      "description": "Bishop of Salamya from Harran, the ancient Aramean city.",
+      "birthplace": "Harran, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 521,
+      "name": "Pethion of Dasen",
+      "period": "c. 5th century AD",
+      "category": "Saint",
+      "description": "Monk and founder of a convent north of the Greater Zab.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 522,
+      "name": "Peter of Antioch (bishop)",
+      "period": "d. 311 AD",
+      "category": "Bishop",
+      "description": "Bishop of Antioch martyred under Emperor Maximinus.",
+      "birthplace": "Antioch, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 523,
+      "name": "Peter of Antioch (patriarch)",
+      "period": "d. 591 AD",
+      "category": "Patriarch",
+      "description": "Patriarch of Antioch who reinforced connections with Alexandria and fought against what he considered heresies of Damian of Alexandria.",
+      "birthplace": "Antioch, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 524,
+      "name": "Pinhas of Qardu",
+      "period": "fl. 300–400 AD",
+      "category": "Saint",
+      "description": "Martyr from Qardu and disciple of Mar Awgin.",
+      "birthplace": "Qardu, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 525,
+      "name": "Theodorus bar Zarudi",
+      "period": "fl. 800–900 AD",
+      "category": "Scholar",
+      "description": "Syriac scholar active in the 9th century.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 526,
+      "name": "Mar Qardag",
+      "period": "d. 359 AD",
+      "category": "Saint",
+      "description": "Military saint and martyr from north of Arbela (Adiabene). Convert from a high-born Zoroastrian family. His teacher was Mar Abdisho.",
+      "birthplace": "Arbela (Adiabene), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 527,
+      "name": "Qashish of Hah",
+      "period": "fl. 500–600 AD",
+      "category": "Saint",
+      "description": "Monk from Hah in Tur Abdin. Went on pilgrimages and helped Empress Theodora build a hostel for Miaphysites.",
+      "birthplace": "Hah, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 528,
+      "name": "Qawma of Beth Garmai",
+      "period": "fl. 450–750 AD",
+      "category": "Saint",
+      "description": "Monk and dendrite saint from Beth Garmai whose body did not decay.",
+      "birthplace": "Beth Garmai, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 529,
+      "name": "Qayyuma of Baz",
+      "period": "fl. 300–500 AD",
+      "category": "Saint",
+      "description": "Monk who evangelized the region of Baz near Hakkari.",
+      "birthplace": "Baz (Hakkari), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 530,
+      "name": "Quna, Bishop of Edessa",
+      "period": "fl. 307 AD",
+      "category": "Bishop",
+      "description": "Bishop of Edessa who set the foundations for the new cathedral of Edessa, finished by his successor Saʿad.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 531,
+      "name": "Simeon of Tagrit",
+      "period": "d. 815 AD",
+      "category": "Writer",
+      "description": "Syriac writer from Tagrit (Tikrit). Also known as Simeon bar ʿAmraye.",
+      "birthplace": "Tagrit (Tikrit), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 532,
+      "name": "Ruben of Qartmin",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Monk and perhaps stylite of the monastery of Qartmin in Tur Abdin.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 533,
+      "name": "Saʿad, Bishop of Edessa",
+      "period": "fl. 324 AD",
+      "category": "Bishop",
+      "description": "Bishop of Edessa who completed the cathedral begun by his predecessor Quna.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 535,
+      "name": "Saba Pirgushnasp",
+      "period": "fl. 363 AD",
+      "category": "Saint",
+      "description": "Child of the governor of Beth ʿArabaye martyred under Shapur II at the age of 12.",
+      "birthplace": "Beth ʿArabaye, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 536,
+      "name": "Sabbatius",
+      "period": "d. 488 AD",
+      "category": "Saint",
+      "description": "Solitary monk who lived near the banks of the Euphrates.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 537,
+      "name": "Shabra of Midyat",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Child saint commemorated near Midyat in Tur Abdin.",
+      "birthplace": "Midyat, Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 538,
+      "name": "David bar Paulos",
+      "period": "fl. 700–900 AD",
+      "category": "Writer",
+      "description": "Syriac author from Beth Rabban.",
+      "birthplace": "Beth Rabban, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 539,
+      "name": "Samuel of Qartmin",
+      "period": "d. 410 AD",
+      "category": "Saint",
+      "description": "From Eshtin near Mardin. Founded the monastery of Qartmin (Mor Gabriel) with the help of an angel. Performed numerous miracles and ended a plague over Hah.",
+      "birthplace": "Eshtin, near Mardin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 540,
+      "name": "Sanatruq",
+      "period": "d. 351 AD",
+      "category": "Saint",
+      "description": "Frozen martyr in the time of Julian and companion of Brihisho.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 541,
+      "name": "Shapor (frozen martyr)",
+      "period": "d. 351 AD",
+      "category": "Saint",
+      "description": "Frozen martyr in the time of Julian and companion of Brihisho.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 542,
+      "name": "Cyriacus, Patriarch of Antioch",
+      "period": "d. 817 AD",
+      "category": "Patriarch",
+      "description": "Patriarch of Antioch (793–817) from Tagrit. Monk of the Monastery of Estona near Kallinikos on the Euphrates. Held at least five synods.",
+      "birthplace": "Tagrit (Tikrit), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 543,
+      "name": "Shapor, Bishop of Niqator",
+      "period": "fl. 379 AD",
+      "category": "Bishop",
+      "description": "Bishop of Niqator (Awana) martyred under Shapur II alongside Isaac, bishop of Karka.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 544,
+      "name": "Sharbel of Edessa",
+      "period": "d. 104 AD",
+      "category": "Saint",
+      "description": "Former pagan priest of Edessa who converted to Christianity. Martyred under Emperor Trajan alongside his sister Babai. Contemporary of Bishop Barsamya.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 545,
+      "name": "Sabrishoʿ of Tagrit",
+      "period": "d. 650 AD",
+      "category": "Saint",
+      "description": "Monk who founded the monastery of the martyrs near Tagrit. His monks took refuge in a village during the Muslim conquest.",
+      "birthplace": "Tagrit, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 546,
+      "name": "Shayna of Antioch",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Converted Jewish thief from Antioch, also identified as Abramios of Antioch.",
+      "birthplace": "Antioch, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 547,
+      "name": "Athanos the Malphono",
+      "period": "fl. 818 AD",
+      "category": "Scholar",
+      "description": "Syriac teacher (malphono) active in the early 9th century.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 548,
+      "name": "Sergius of Huzri",
+      "period": "c. 4th–5th century AD",
+      "category": "Deacon",
+      "description": "Deacon of Huzri who may also have been a writer.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 549,
+      "name": "Sergius of Tella",
+      "period": "fl. 550–558 AD",
+      "category": "Bishop",
+      "description": "Successor of Jacob Baradaeus from Tella. Accompanied his teacher to Constantinople. Eventually ordained Miaphysite bishop of Antioch.",
+      "birthplace": "Tella, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 550,
+      "name": "Sergius of the Barren Mountain",
+      "period": "fl. 400–500 AD",
+      "category": "Saint",
+      "description": "Monk who founded the Suspended Monastery (Dayr al-Muʿallaq) on the Barren Mountain. It became the residence of the bishops of Balad.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 551,
+      "name": "Sergius of Zuqnin",
+      "period": "c. 6th–7th century AD",
+      "category": "Saint",
+      "description": "Monk at the monastery of Zuqnin, possibly identified with Sergius of Qenneshrin.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 552,
+      "name": "Severus the Wonderworker",
+      "period": "d. 641 AD",
+      "category": "Bishop",
+      "description": "Bishop of Samosata and brother of Patriarch Athanasius the Camel-Driver. Known for chasing away demons. Accompanied his brother to meet Heraclius.",
+      "birthplace": "Samosata, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 553,
+      "name": "Severus of Kafar Ze",
+      "period": "fl. 410 AD",
+      "category": "Saint",
+      "description": "Superior of the monastery of Qartmin, mentioned in the Life of Samuel of Qartmin.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 554,
+      "name": "Severus the Mathematician",
+      "period": "d. 667 AD",
+      "category": "Scholar",
+      "description": "Astronomer from Nisibis who became bishop of Qenneshrin in 630.",
+      "birthplace": "Nisibis, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 555,
+      "name": "Silvanus of Edessa",
+      "period": "d. 398 AD",
+      "category": "Bishop",
+      "description": "The 26th bishop of Edessa.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 556,
+      "name": "Simeon of Kfar-ʿAbdin",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Monk from Edessa who went to Samosata on the Euphrates. Shared his cave with an anchorite named Elijah and performed many miracles.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 557,
+      "name": "Simeon, Bishop of Edessa",
+      "period": "d. 665 AD",
+      "category": "Bishop",
+      "description": "Bishop of Edessa, succeeded by Gabriel.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 558,
+      "name": "Simeon (martyr under Yazdgerd II)",
+      "period": "fl. 438 AD",
+      "category": "Saint",
+      "description": "Martyr under Yazdgerd II, commemorated with Shapor bishop of Niqator, Isaac bishop of Karka, Maʿna, and Abraham.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 559,
+      "name": "Simeon of Qartmin",
+      "period": "d. 433 AD",
+      "category": "Saint",
+      "description": "Second founder and second abbot of the monastery of Qartmin (Mor Gabriel). Healed as a youth by Samuel of Qartmin. Blessed Rabbula of Edessa.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 560,
+      "name": "Simeon of Dara",
+      "period": "fl. 726 AD",
+      "category": "Bishop",
+      "description": "Bishop of Dara who participated in the synod of Mantzikert that sealed union with the Armenian church.",
+      "birthplace": "Dara, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 561,
+      "name": "Simeon of Papo",
+      "period": "fl. 410 AD",
+      "category": "Saint",
+      "description": "Superior of Qartmin who opened the eyes of a blind man before Shah Khusro.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 562,
+      "name": "Simeon of Qarqafto",
+      "period": "fl. 700–800 AD",
+      "category": "Saint",
+      "description": "Builder of the Qarqaphto (The Skull) Monastery between Reshʿayna and Magdal in the high Gazira.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 563,
+      "name": "Simeon the Stylite the Younger",
+      "period": "520–592 AD",
+      "category": "Saint",
+      "description": "From Antioch, child of John and Martha. Showed signs of holiness as an infant. Lived on a column on the Wonderful Mountain.",
+      "birthplace": "Antioch, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 564,
+      "name": "Shirin of Beth Zadoq",
+      "period": "d. 445 AD",
+      "category": "Saint",
+      "description": "Martyr from Beth Zadoq. When she learned of 12000 martyrs under Yazdegerd II, she took herself and her children before the governor and confessed her faith. She and her children were decapitated.",
+      "birthplace": "Beth Zadoq, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 565,
+      "name": "Shirin of Karka d-Beth Slokh",
+      "period": "d. 559 AD",
+      "category": "Saint",
+      "description": "Born in Karka d-Beth Slokh to a Zoroastrian family, converted to Christianity. Faced great hardship, was imprisoned and executed.",
+      "birthplace": "Karka d-Beth Slokh, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 566,
+      "name": "Shlemun the Mourner",
+      "period": "fl. 780 AD",
+      "category": "Bishop",
+      "description": "Bishop of Hadita on the Tigris. Converted Muslims, opposed election of Catholicos Timothy I in 780. Died at monastery of Mar Ahrun near Balad.",
+      "birthplace": "Hadita, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 567,
+      "name": "Shmona of Edessa",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Aramean martyr killed in Edessa during the Diocletian persecution alongside Gourya. Subject of great devotion in Edessa.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 568,
+      "name": "Lazarus bar Sobtho",
+      "period": "fl. 800–850 AD",
+      "category": "Bishop",
+      "description": "Bishop of Baghdad and author of an Anaphora as well as liturgical and theological works.",
+      "birthplace": "Baghdad, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 569,
+      "name": "Stratonike (sister of Mar Awgin)",
+      "period": "fl. 350 AD",
+      "category": "Saint",
+      "description": "Sister of Mar Awgin and Thecla. Mentioned in the Hymns on the Holy Women.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 570,
+      "name": "Tahmazgerd of Kirkuk",
+      "period": "d. 445 AD",
+      "category": "Saint",
+      "description": "Executioner converted upon seeing the example of the martyrs of Kirkuk including Shirin. Crucified upside down. A church of Mar Tahmasgard exists in Kirkuk.",
+      "birthplace": "Kirkuk, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 571,
+      "name": "Talia",
+      "period": "d. 421 AD",
+      "category": "Saint",
+      "description": "Child martyr at age two. Son of Sabellius and Shapira. Tried and tortured multiple times. A shrine at Romaniya was built for him.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 572,
+      "name": "Tarbo",
+      "period": "d. 341 AD",
+      "category": "Saint",
+      "description": "Sister of Simeon Bar Sabbaʿe. After Simeon's execution, she was accused of witchcraft by the wife of Shapur. She and her servant were tortured and cut into pieces.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 573,
+      "name": "John of Qartmin",
+      "period": "fl. 1000 AD",
+      "category": "Scholar",
+      "description": "Noted paleographer from the monastery of Qartmin (also called John of Beth Sbirino) who reestablished the use of estrangelo writing.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 574,
+      "name": "John the Nazarite",
+      "period": "fl. 500–600 AD",
+      "category": "Saint",
+      "description": "Monk of Tur ʿAbdin, possibly the 'perfect Nazarite' mentioned by John of Ephesus. From Zuqnin near Amida, forced to leave his cave due to Chalcedonian aggression.",
+      "birthplace": "Zuqnin, near Amida, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 575,
+      "name": "John of Edessa (Priest)",
+      "period": "fl. 418–435 AD",
+      "category": "Priest",
+      "description": "Priest from Edessa who nourished 12 holy men in a cave. Became friends with Paul of Edessa. Travelled to Sinai and Jerusalem. Lived in the time of Bishop Rabbula.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 576,
+      "name": "Jacob of Adiabene",
+      "period": "d. 344 AD",
+      "category": "Saint",
+      "description": "Zealot priest from Adiabene arrested with John bar Maryam, Bishop of Arbela, during the time of Shapur. Decapitated at Beth Lapat.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 577,
+      "name": "John bar Maryam",
+      "period": "d. 344 AD",
+      "category": "Bishop",
+      "description": "Bishop of Arbela arrested with Jacob the zealot. Sent to Shapur, flogged, and decapitated.",
+      "birthplace": "Arbela (Erbil), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 578,
+      "name": "Job of Adiabene",
+      "period": "c. 4th–5th century AD",
+      "category": "Scholar",
+      "description": "Great teacher (doctor) of the Syriac church from Adiabene.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 579,
+      "name": "Joseph (disciple of Narsai)",
+      "period": "d. 344 AD",
+      "category": "Saint",
+      "description": "Disciple of Narsai, martyred together in Beth Garmai.",
+      "birthplace": "Beth Garmai, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 580,
+      "name": "Joseph, Patriarch of Antioch",
+      "period": "d. 792 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch of Antioch.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 581,
+      "name": "Joseph of Arbela",
+      "period": "d. 379 AD",
+      "category": "Priest",
+      "description": "Priest and martyr of Arbela in Adiabene.",
+      "birthplace": "Arbela (Erbil), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 582,
+      "name": "Julian, Patriarch of Antioch",
+      "period": "d. 595 AD",
+      "category": "Patriarch",
+      "description": "Patriarch of Antioch and monk of Qenneshrin. Wrote against Sergius of Armenia.",
+      "birthplace": "Qenneshrin, Syria",
+      "polity": ""
+    },
+    {
+      "id": 583,
+      "name": "Justina of Antioch",
+      "period": "d. 303 AD",
+      "category": "Saint",
+      "description": "Martyr from Antioch who died alongside Cyprian under Emperor Diocletian.",
+      "birthplace": "Antioch, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 584,
+      "name": "Karkus of Antioch",
+      "period": "c. 1st–2nd century AD",
+      "category": "Bishop",
+      "description": "Successor of Ignatius in Antioch and fourth bishop of the city.",
+      "birthplace": "Antioch, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 585,
+      "name": "Lawrence and Agrippa",
+      "period": "fl. 303–313 AD",
+      "category": "Saint",
+      "description": "Companions and martyrs under Diocletian. Agrippa was a prefect of Syria who converted to the faith in Mesopotamia.",
+      "birthplace": "Mesopotamia",
+      "polity": ""
+    },
+    {
+      "id": 586,
+      "name": "Lazarus the Confessor",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Possibly a monk of Qartmin commemorated for martyrdom under a Persian general.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 587,
+      "name": "Sultan Mahduk",
+      "period": "d. 319 AD",
+      "category": "Saint",
+      "description": "Martyr of Tur Berʿain in Beth Garmai, commemorated with her brothers Mirnarsai and Adorparwa.",
+      "birthplace": "Tur Berʿain, Beth Garmai, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 588,
+      "name": "Maʿin",
+      "period": "d. 424 AD",
+      "category": "Saint",
+      "description": "General of Shapur II who converted to Christianity after witnessing the martyrdom of Dodo. Built 69 places of worship around Sinjar. Died at age 114 in a monastery near Europos.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 589,
+      "name": "Cyriacus, Metropolitan of Tur ʿAbdin",
+      "period": "fl. 770 AD",
+      "category": "Bishop",
+      "description": "Metropolitan of Tur ʿAbdin in the 8th century.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 590,
+      "name": "Malke",
+      "period": "fl. 350–410 AD",
+      "category": "Saint",
+      "description": "Monk and nephew of Mar Awgin (son of his sister Rebecca). Joined his uncle on Mount Izla. Built a monastery near Ankah near Midyat and performed miracles.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 591,
+      "name": "Mamas of Beth Sloth",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Martyr of Beth Sloth.",
+      "birthplace": "Beth Sloth, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 592,
+      "name": "Mamelhta of Beth Garmai",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Virgin and martyr from Beth Garmai.",
+      "birthplace": "Beth Garmai, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 593,
+      "name": "Maʿna",
+      "period": "fl. 438 AD",
+      "category": "Saint",
+      "description": "Martyr killed under Yazdgerd II, connected to the group of Shapor of Niqator and Isaac of Karka d-Beth Slokh.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 594,
+      "name": "Mari the Apostle",
+      "period": "c. 1st–2nd century AD",
+      "category": "Saint",
+      "description": "Apostle to Mesopotamia ordained by Addai to establish Christian communities in the royal cities of the Parthians.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 595,
+      "name": "Lazarus of Beth Qandasa",
+      "period": "fl. 650–750 AD",
+      "category": "Scholar",
+      "description": "Monk on the Holy Mountain of Edessa, scholar, and author of a commentary on the Pauline Epistles.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 596,
+      "name": "Mary (daughter of the covenant, Adiabene)",
+      "period": "d. 347 AD",
+      "category": "Saint",
+      "description": "Daughter of the covenant martyred with Thecla in Adiabene.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 597,
+      "name": "Mary of Tell Salila",
+      "period": "d. 347 AD",
+      "category": "Saint",
+      "description": "Martyr from the village of Tell Salila. Sister of the priest Jacob. Martyred at Tel Dara under Shapur.",
+      "birthplace": "Tell Salila, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 598,
+      "name": "Marina",
+      "period": "c. 4th–5th century AD",
+      "category": "Saint",
+      "description": "Disguised herself as a man (Marinos) to enter a monastery with her father. Expelled after false accusation, miraculously nursed a baby. Venerated especially by Maronites.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 599,
+      "name": "Maron of ʿAyn Ward",
+      "period": "fl. 410 AD",
+      "category": "Saint",
+      "description": "Superior of the monastery of Qartmin mentioned in the life of Samuel of Qartmin. Baptized 2000 people in Mesopotamia.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 600,
+      "name": "Martha (daughter of the covenant, Adiabene)",
+      "period": "d. 347 AD",
+      "category": "Saint",
+      "description": "Daughter of the covenant martyred with Thecla in Adiabene.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 601,
+      "name": "Mar Mattai",
+      "period": "fl. 300–400 AD",
+      "category": "Saint",
+      "description": "Born near Amida (Diyarbakir). Became a monk and fled persecution to the Mountain of Alpep northwest of Mosul, where he founded the famous monastery of Mor Mattai.",
+      "birthplace": "Amid (Diyarbakir), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 602,
+      "name": "Michael the Companion of Angels",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Monk linked to Mar Awgin. In some traditions the hagiographer of the Life of Awgin. Commemorated with other monastic founders in Mesopotamia.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 603,
+      "name": "Michael of Tarʿil",
+      "period": "fl. 650 AD",
+      "category": "Saint",
+      "description": "Disciple of Sabrishoʿ of Beth Qoqa. Commemorated at the monastery of Mar Mikhaʾil of Tarʿil in Adiabene.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 604,
+      "name": "Michael of Mardin",
+      "period": "c. medieval",
+      "category": "Saint",
+      "description": "Martyred with his sister outside the gate of Mardin at the Monastery of the Fish (or Monastery of the Column).",
+      "birthplace": "Mardin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 605,
+      "name": "Micah of Nuhadra",
+      "period": "fl. 300–400 AD",
+      "category": "Saint",
+      "description": "Founder of a monastery or church in the village of Alqosh, north of Mosul.",
+      "birthplace": "Alqosh, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 606,
+      "name": "Mihrnarsai",
+      "period": "d. 319 AD",
+      "category": "Saint",
+      "description": "Martyr of Tur Berʿain in Beth Garmai, commemorated with his brother Adorparwa and sister Sultan Mahduk.",
+      "birthplace": "Tur Berʿain, Beth Garmai, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 608,
+      "name": "Miles of Tel Hesh",
+      "period": "fl. 275–425 AD",
+      "category": "Bishop",
+      "description": "Healed by the monk Daniel the Doctor. Consecrated bishop of Tel Hesh and stoned to death under Shapur.",
+      "birthplace": "Tel Hesh, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 609,
+      "name": "Moses of Beth Sayyare",
+      "period": "d. 947 AD",
+      "category": "Saint",
+      "description": "Helped restore the monastery of Beth Sayyare founded by Mar Abraham, a disciple of Mar Awgin.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 610,
+      "name": "Mqadashta",
+      "period": "d. 341 AD",
+      "category": "Saint",
+      "description": "Sister of Tarbo and Catholicos Simeon bar Sabbaʿe. Martyred after her brother.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 611,
+      "name": "George of Bʿeltan",
+      "period": "d. 789 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch of Antioch (758–789). Monk of Qenneshrin who convoked the synod of Kafar Nubu.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 612,
+      "name": "Narsai, Bishop of Sharqart",
+      "period": "d. 344 AD",
+      "category": "Bishop",
+      "description": "Bishop of Sharqart and martyr of Beth Garmai, alongside his disciple Joseph.",
+      "birthplace": "Beth Garmai, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 613,
+      "name": "Narsai, son of the covenant",
+      "period": "d. 421 AD",
+      "category": "Saint",
+      "description": "Monk and martyr from Beth Garmai. Decapitated with his disciple Joseph.",
+      "birthplace": "Beth Garmai, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 614,
+      "name": "Longinus",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Ascetic who baptized Bassus and Suzanna, converts from Zoroastrianism. Commemorated as a martyr with them.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 615,
+      "name": "Jacob of Beth Garmai",
+      "period": "627–717 AD",
+      "category": "Saint",
+      "description": "Monk, visionary, and chanter from Beth Garmai. Took over a monastery founded by Ishoʿyahb which came to be named after him.",
+      "birthplace": "Beth Garmai, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 616,
+      "name": "Jacob, Bishop of Phesilta",
+      "period": "fl. 500–599 AD",
+      "category": "Bishop",
+      "description": "Disciple of Jacob Baradaeus who became bishop of the monastery of Phesilta.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 618,
+      "name": "Jacob the Recluse (of Seert)",
+      "period": "fl. 500–600 AD",
+      "category": "Saint",
+      "description": "Disciple of Abraham of Kashkar who co-founded a monastery near Siirt and Arzun in the Bohtan region.",
+      "birthplace": "Seert, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 619,
+      "name": "Jacob the Recluse (of Salah)",
+      "period": "d. 421 AD",
+      "category": "Saint",
+      "description": "Fled to Egypt during persecution of Julian, then headed east to Mesopotamia. Built a monastery at Salah in Tur ʿAbdin.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 620,
+      "name": "Phocas of Edessa",
+      "period": "fl. 700–800 AD",
+      "category": "Scholar",
+      "description": "Syriac scholar from Edessa, also known as Phocas bar Sergius of Edessa.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 621,
+      "name": "Jacob of Beth Naggare",
+      "period": "d. 371 AD",
+      "category": "Priest",
+      "description": "Priest of Beth Naggare near Adiabene martyred with the deacon Azad during the persecution of Shapur II.",
+      "birthplace": "Beth Naggare, Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 622,
+      "name": "Jacob the Priest (of Tell Salila)",
+      "period": "d. 347 AD",
+      "category": "Priest",
+      "description": "Priest from the village of Tell Salila, martyred with his sister Mary during the reign of Shapur.",
+      "birthplace": "Tell Salila, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 623,
+      "name": "John the Doctor",
+      "period": "c. medieval",
+      "category": "Scholar",
+      "description": "Syriac doctor (physician/scholar).",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 625,
+      "name": "John bar ʿAbdun",
+      "period": "d. 1033 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch (1004–1033). Accused of attracting Chalcedonians, brought to Constantinople, slapped in Hagia Sophia by the Melkite Bishop of Melitene. Died in exile in Thrace and honored as a martyr.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 626,
+      "name": "John the Blue",
+      "period": "d. 714 AD",
+      "category": "Bishop",
+      "description": "Bishop of Hirta (al-Hira).",
+      "birthplace": "Hirta (al-Hira), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 627,
+      "name": "John the Egyptian (Mount Qardu)",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Student of Mar Awgin who lived as a solitary on Mount Qardu. Converted pagans and built a monastery called Hlahlaḥ which was renamed after him.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 628,
+      "name": "John the Camel-Driver",
+      "period": "fl. 700–800 AD",
+      "category": "Bishop",
+      "description": "Syriac bishop of the Egyptian diaspora captured by Bedouins. Found singing Syriac chants among Arab camel drivers. Recognized by Maran Zha, bishop of Hadita on the Tigris.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 629,
+      "name": "John of Harran",
+      "period": "fl. 518 AD",
+      "category": "Bishop",
+      "description": "One of fifty Miaphysite bishops exiled under Justin I in 518. Bishop of Harran.",
+      "birthplace": "Harran, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 630,
+      "name": "John of Kafar Sania",
+      "period": "d. 311 AD",
+      "category": "Saint",
+      "description": "Martyr who died under Maximinus Hercules.",
+      "birthplace": "",
+      "polity": ""
+    },
+    {
+      "id": 632,
+      "name": "John of Kashkar",
+      "period": "fl. 421–458 AD",
+      "category": "Saint",
+      "description": "Born in the region of Kashkar. After a series of abductions, returned to the monastery of ʿAyn Deqla.",
+      "birthplace": "Kashkar, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 633,
+      "name": "John of Kfone",
+      "period": "c. 4th century AD",
+      "category": "Saint",
+      "description": "Disciple of Mar Awgin. His monastery was found south of Zaz in Tur ʿAbdin.",
+      "birthplace": "Tur Abdin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 634,
+      "name": "John Psaltes",
+      "period": "d. 420 AD",
+      "category": "Saint",
+      "description": "Mentioned in the Life of Samuel of Qartmin. A vision revealed to him the presence of relics at Hrbat Tuta.",
+      "birthplace": "Tur Abdin, Turkey",
       "polity": ""
     }
   ]
