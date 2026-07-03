@@ -721,15 +721,6 @@
       "birthplace": "Urhoy (Edessa), Turkey"
     },
     {
-      "id": 60,
-      "name": "Parthamaspates",
-      "period": "118-123 AD",
-      "category": "King",
-      "polity": "Bet-Urhay",
-      "description": "A Parthian prince placed on the throne by Rome. Co-ruled at first, then ruled alone from 122–123 AD.",
-      "birthplace": "Parthian Empire"
-    },
-    {
       "id": 61,
       "name": "Ma'nu VII",
       "period": "123-139 AD",
@@ -800,6 +791,600 @@
       "polity": "Bet-Urhay",
       "description": "Son of Ma'nu IX; the final nominal ruler of the historic Abgarid dynasty before complete Roman provincial integration.",
       "birthplace": "Urhoy (Edessa), Turkey"
+    },
+    {
+      "id": 90,
+      "name": "Mor Philoxenos of Mabbug",
+      "period": "c. 440-523 AD",
+      "category": "Saint",
+      "description": "Bishop of Mabbug (Hierapolis) and prolific Syriac theologian. Commissioned a major revision of the Syriac Bible.",
+      "birthplace": "Bet Garmai, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 91,
+      "name": "Mor Dionysius bar Salibi",
+      "period": "d. 1171 AD",
+      "category": "Scholar",
+      "description": "Syriac Orthodox bishop and encyclopedic writer. Authored commentaries on the Bible, liturgy, and theology in Syriac.",
+      "birthplace": "Melitene (Malatya), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 92,
+      "name": "Ahiqar",
+      "period": "c. 7th century BC",
+      "category": "Scholar",
+      "description": "Aramean sage and chancellor to the Assyrian kings Sennacherib and Esarhaddon. His wisdom proverbs were widely circulated in the ancient Near East.",
+      "birthplace": "Nineveh, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 93,
+      "name": "Mor Shimun of Beth Arsham",
+      "period": "d. c. 540 AD",
+      "category": "Saint",
+      "description": "Bishop and diplomat known as 'the Persian Debater'. Defended Miaphysite theology and wrote letters documenting the persecution of Christians in Yemen.",
+      "birthplace": "Beth Arsham, Iran",
+      "polity": ""
+    },
+    {
+      "id": 94,
+      "name": "Sergius of Resh'aina",
+      "period": "d. 536 AD",
+      "category": "Scholar",
+      "description": "Physician and translator who rendered Greek philosophical and medical works into Syriac, bridging Greek and Aramean intellectual traditions.",
+      "birthplace": "Resh'aina (Ras al-Ain), Syria",
+      "polity": ""
+    },
+    {
+      "id": 95,
+      "name": "Mor Philoxenos Yuhanon Dolabani",
+      "period": "1885-1969 AD",
+      "category": "Bishop",
+      "description": "Syriac Orthodox Archbishop of Mardin. Prolific scholar, educator, and writer who authored 69 books and preserved Syriac manuscripts and heritage.",
+      "birthplace": "Mardin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 96,
+      "name": "Theophilus of Edessa",
+      "period": "c. 695-785 AD",
+      "category": "Scholar",
+      "description": "Maronite astrologer, historian, and translator. Served as court astrologer to the Abbasid caliph al-Mahdi and wrote historical chronicles in Syriac.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 97,
+      "name": "Mor Yaqub of Edessa",
+      "period": "c. 640-708 AD",
+      "category": "Scholar",
+      "description": "Bishop, grammarian, and polymath. Revised the Syriac Old Testament and wrote extensively on grammar, philosophy, and canon law.",
+      "birthplace": "Ayn Deba, Syria",
+      "polity": ""
+    },
+    {
+      "id": 98,
+      "name": "Shmuel Dawid",
+      "period": "1863-1929 AD",
+      "category": "Activist",
+      "description": "Aramean educator and cultural activist in the Ottoman Empire. Founded schools and worked to preserve Syriac language and identity.",
+      "birthplace": "Mardin, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 99,
+      "name": "Ashur Yusuf",
+      "period": "1858-1915 AD",
+      "category": "Activist",
+      "description": "Journalist, writer, and teacher in Diyarbakır who promoted Aramean cultural awareness. Killed during the Sayfo genocide in 1915.",
+      "birthplace": "Diyarbakır, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 100,
+      "name": "Mor Ignatius Zakka I Iwas",
+      "period": "1933-2014 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch of Antioch (1980-2014). Scholar and linguist who authored works on Syriac grammar and church history.",
+      "birthplace": "Mosul, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 101,
+      "name": "Mor Ignatius Ya'qub III",
+      "period": "1912-1980 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch of Antioch who led the church through a period of diaspora and modernization after World War II.",
+      "birthplace": "Bartella, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 102,
+      "name": "Israel Audo",
+      "period": "1859-1941 AD",
+      "category": "Bishop",
+      "description": "Chaldean Catholic Archbishop of Mardin. Documented the Sayfo genocide and worked to protect his community during World War I.",
+      "birthplace": "Alqosh, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 103,
+      "name": "Toma Audo",
+      "period": "1855-1918 AD",
+      "category": "Bishop",
+      "description": "Chaldean Catholic Archbishop of Urmia and lexicographer. Compiled the comprehensive Syriac-Syriac dictionary 'Simta d-Leshana Suryaya'.",
+      "birthplace": "Alqosh, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 105,
+      "name": "Narsai",
+      "period": "c. 399-503 AD",
+      "category": "Scholar",
+      "description": "Syriac poet and theologian known as 'the Harp of the Spirit'. Headed the School of Nisibis and composed over 360 metrical homilies.",
+      "birthplace": "Ayn Dulbe, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 106,
+      "name": "Thabbith bar Qurra",
+      "period": "836-901 AD",
+      "category": "Scholar",
+      "description": "Mathematician, astronomer, and physician from Harran. Translated Greek scientific works into Syriac and Arabic and made original contributions to mathematics.",
+      "birthplace": "Harran, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 107,
+      "name": "Mor Gregorios Yuhanna Ibrahim",
+      "period": "1948-2013 AD",
+      "category": "Bishop",
+      "description": "Syriac Orthodox Archbishop of Aleppo. Kidnapped in 2013 while on a humanitarian mission; widely regarded as a martyr for peace.",
+      "birthplace": "Qamishli, Syria",
+      "polity": ""
+    },
+    {
+      "id": 108,
+      "name": "Theodora",
+      "period": "c. 497-548 AD",
+      "category": "Queen",
+      "description": "Empress of the Byzantine Empire as wife of Justinian I. Of Aramean origin from Syria, she was a key protector of the Miaphysite Syriac Christians and sheltered persecuted clergy.",
+      "birthplace": "Mabbug (Hierapolis), Syria",
+      "polity": ""
+    },
+    {
+      "id": 110,
+      "name": "Mor Yuhannon of Tella",
+      "period": "c. 483-538 AD",
+      "category": "Saint",
+      "description": "Bishop of Tella who ordained thousands of priests and deacons to preserve the Syriac Orthodox Church during severe Chalcedonian persecution. Martyred in 538 AD.",
+      "birthplace": "Callinicum (Raqqa), Syria",
+      "polity": ""
+    },
+    {
+      "id": 113,
+      "name": "Mor Severus of Antioch",
+      "period": "c. 465-538 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch of Antioch (512-518) and leading Miaphysite theologian. His extensive Syriac writings shaped the theology of the Syriac Orthodox Church.",
+      "birthplace": "Sozopolis, Pisidia (Turkey)",
+      "polity": ""
+    },
+    {
+      "id": 114,
+      "name": "Rabbula of Edessa",
+      "period": "c. 350-435 AD",
+      "category": "Bishop",
+      "description": "Bishop of Edessa (411-435). Reformed the Syriac church, promoted the Peshitta Bible translation, and championed Cyrilline Christology against Nestorius.",
+      "birthplace": "Qenneshrin (Chalcis), Syria",
+      "polity": ""
+    },
+    {
+      "id": 115,
+      "name": "Balai of Qenneshrin",
+      "period": "c. early 5th century AD",
+      "category": "Writer",
+      "description": "Syriac poet and chorepiscopos from the region of Aleppo. Invented the five-syllable meter in Syriac poetry. His hymns became part of the Syriac liturgy.",
+      "birthplace": "Qenneshrin (Chalcis), Syria",
+      "polity": ""
+    },
+    {
+      "id": 116,
+      "name": "Shimun Quqoyo (Simeon the Potter)",
+      "period": "c. 5th-6th century AD",
+      "category": "Writer",
+      "description": "Syriac poet known for his dramatic dialogic poems (sogyotho). His verse dialogues on biblical themes are among the finest in Syriac literature.",
+      "birthplace": "Mesopotamia",
+      "polity": ""
+    },
+    {
+      "id": 117,
+      "name": "Marutha of Maypherqat",
+      "period": "d. c. 420 AD",
+      "category": "Bishop",
+      "description": "Bishop of Martyropolis (Maypherqat). Diplomat between Rome and Persia who helped reorganize the Church of the East and collected relics of Persian martyrs.",
+      "birthplace": "Maypherqat (Silvan), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 118,
+      "name": "Daniel of Salah",
+      "period": "d. c. 542 AD",
+      "category": "Scholar",
+      "description": "Syriac biblical exegete, theologian, and abbot. Authored extensive commentaries on the Psalms and other biblical books in Syriac.",
+      "birthplace": "Salah, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 120,
+      "name": "Simeon the Stylite",
+      "period": "c. 388-459 AD",
+      "category": "Saint",
+      "description": "Aramean ascetic who lived atop a pillar near Aleppo for 37 years. One of the most famous saints in the early church, attracting pilgrims from across the known world.",
+      "birthplace": "Sis, near Aleppo, Syria",
+      "polity": ""
+    },
+    {
+      "id": 121,
+      "name": "Cyrillona (Qurilona)",
+      "period": "c. late 4th century AD",
+      "category": "Writer",
+      "description": "Early Syriac poet from the Edessa region. A younger contemporary of Ephrem, ranked among the foremost early Syriac poets for his six surviving poems on biblical and liturgical themes.",
+      "birthplace": "Edessa region, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 122,
+      "name": "Isaac of Antioch",
+      "period": "d. c. 460 AD",
+      "category": "Writer",
+      "description": "Prolific Syriac writer and priest, author of numerous metrical homilies distinguished by their originality and acumen. One of the stars of classical Syriac literature.",
+      "birthplace": "Amid (Diyarbakır), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 123,
+      "name": "Mushe bar Kepha",
+      "period": "c. 813-903 AD",
+      "category": "Bishop",
+      "description": "One of the most celebrated Syriac Orthodox bishops and writers of the 9th century. Authored commentaries on Scripture, liturgy, and philosophy in Syriac.",
+      "birthplace": "Balad, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 124,
+      "name": "Giwargi, Bishop of the Arabs",
+      "period": "d. 724 AD",
+      "category": "Bishop",
+      "description": "Syriac Orthodox bishop and polymath steeped in Greek philosophy. His Syriac writings on theology, philosophy, and Aristotelian logic are important sources for Syriac intellectual history.",
+      "birthplace": "Syria",
+      "polity": ""
+    },
+    {
+      "id": 125,
+      "name": "Eliya of Nisibis",
+      "period": "975-1046 AD",
+      "category": "Bishop",
+      "description": "Archbishop of Nisibis and scholar. Authored a Syriac-Arabic chronicle, a Syriac grammar, and interfaith dialogues between Christianity and Islam.",
+      "birthplace": "Nisibis (Nusaybin), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 126,
+      "name": "Yuhannon bar Madon",
+      "period": "d. c. 1263 AD",
+      "category": "Writer",
+      "description": "Syriac poet from Bartella, known for his religious poems and hymns (sugitho). A representative of the Syriac literary tradition in the Mosul region.",
+      "birthplace": "Bartella, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 127,
+      "name": "Khamis bar Qardahe",
+      "period": "c. late 13th century AD",
+      "category": "Writer",
+      "description": "East Syriac poet and grammarian from Arbela. Authored a collection of hymns and poems, and a Syriac grammar. One of the last major classical Syriac poets.",
+      "birthplace": "Arbela (Erbil), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 128,
+      "name": "Mor Quryaqos of Tagrit",
+      "period": "d. 774 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Maphrian of the East and author of hymns and theological works. Important figure in the Syriac literary tradition of the Abbasid period.",
+      "birthplace": "Tagrit, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 129,
+      "name": "Babai the Great",
+      "period": "c. 551-628 AD",
+      "category": "Scholar",
+      "description": "East Syriac monk and theologian who led the Church of the East during an interregnum. Authored major Christological works and monastic rules in Syriac.",
+      "birthplace": "Beth Ainatha, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 130,
+      "name": "Isaac of Nineveh",
+      "period": "c. 613-700 AD",
+      "category": "Saint",
+      "description": "Bishop and mystic of the Church of the East, renowned for his Syriac writings on asceticism and prayer. His works were translated into Greek, Arabic, and many other languages.",
+      "birthplace": "Beth Qatraye (Qatar/Bahrain)",
+      "polity": ""
+    },
+    {
+      "id": 131,
+      "name": "Yuhannon of Ephesus (John of Ephesus)",
+      "period": "c. 507-588 AD",
+      "category": "Bishop",
+      "description": "Syriac Orthodox bishop and historian. Authored an Ecclesiastical History and Lives of the Eastern Saints documenting Miaphysite communities across the Near East.",
+      "birthplace": "Amid region, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 132,
+      "name": "Giwargis Warda",
+      "period": "c. 13th century AD",
+      "category": "Writer",
+      "description": "East Syriac poet from Arbela. His collection of hymns (Warda, 'Rose') is one of the most important collections of later medieval Syriac poetry.",
+      "birthplace": "Arbela (Erbil), Iraq",
+      "polity": ""
+    },
+    {
+      "id": 133,
+      "name": "Abdisho bar Brikha",
+      "period": "d. 1318 AD",
+      "category": "Bishop",
+      "description": "Metropolitan of Nisibis and last great writer of classical East Syriac literature. Composed the Metrical Catalogue of Syriac Authors, theological works, and the poem Paradise of Eden.",
+      "birthplace": "Nisibis (Nusaybin), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 134,
+      "name": "Athanasius of Balad",
+      "period": "d. 687 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch of Antioch and scholar of the monastery of Qenneshre. Translated Greek philosophical and scientific works into Syriac.",
+      "birthplace": "Balad, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 135,
+      "name": "Ahudemmeh",
+      "period": "d. 575 AD",
+      "category": "Bishop",
+      "description": "Miaphysite bishop and missionary who evangelized Arab tribes in Mesopotamia. Martyred by the Sasanian authorities for converting Persians to Christianity.",
+      "birthplace": "Beth Arabaye, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 136,
+      "name": "Sahdona (Martyrius)",
+      "period": "c. 7th century AD",
+      "category": "Scholar",
+      "description": "East Syriac monk and mystical writer. Authored the Book of Perfection, a major work on the spiritual life and contemplative prayer in Syriac.",
+      "birthplace": "Beth Nuhadra, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 137,
+      "name": "Denha I",
+      "period": "d. 1281 AD",
+      "category": "Patriarch",
+      "description": "Patriarch of the Church of the East during the Mongol period. Engaged in diplomacy with the Mongol Ilkhanate and Western Christian powers.",
+      "birthplace": "Iraq",
+      "polity": ""
+    },
+    {
+      "id": 138,
+      "name": "Thomas of Marga",
+      "period": "c. 9th century AD",
+      "category": "Bishop",
+      "description": "East Syriac bishop and historian. Authored the Book of Governors, a history of the monasteries of Beth Abe and their leaders in northern Mesopotamia.",
+      "birthplace": "Marga, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 139,
+      "name": "Shubhalmaran of Beth Qatraye",
+      "period": "c. late 7th century AD",
+      "category": "Bishop",
+      "description": "East Syriac bishop and author of theological commentaries. Part of the Beth Qatraye school of scholars in the Persian Gulf region.",
+      "birthplace": "Beth Qatraye (Qatar/Bahrain)",
+      "polity": ""
+    },
+    {
+      "id": 140,
+      "name": "Gewargis of Beltan",
+      "period": "d. 789 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch of Antioch (758-789). Trained at the monastery of Qenneshre in Greek and Syriac philology, theology, and jurisprudence.",
+      "birthplace": "Beltan, near Emesa (Homs), Syria",
+      "polity": ""
+    },
+    {
+      "id": 141,
+      "name": "Yuhannon of Dalyatha",
+      "period": "c. 690-780 AD",
+      "category": "Saint",
+      "description": "East Syriac monk and one of the greatest Syriac mystical writers. His letters and discourses on prayer, contemplation, and divine vision influenced Eastern Christian spirituality.",
+      "birthplace": "Northern Iraq",
+      "polity": ""
+    },
+    {
+      "id": 142,
+      "name": "Yosep Hazzaya",
+      "period": "c. 8th century AD",
+      "category": "Scholar",
+      "description": "East Syriac mystic and theologian. Authored treatises on the spiritual life describing stages of purification, illumination, and perfection in Syriac.",
+      "birthplace": "Northern Iraq",
+      "polity": ""
+    },
+    {
+      "id": 143,
+      "name": "Dionysius of Tel Mahre",
+      "period": "d. 845 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch of Antioch (818-845) and historian. Authored a major chronicle covering events from 582 to 842 AD, used as a source by later Syriac historians.",
+      "birthplace": "Tel Mahre, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 144,
+      "name": "Joshua the Stylite",
+      "period": "c. early 6th century AD",
+      "category": "Writer",
+      "description": "Syriac chronicler from Edessa who documented the Roman-Persian wars, plague, and famine in Mesopotamia between 494-506 AD. One of the most vivid firsthand accounts in Syriac literature.",
+      "birthplace": "Urhoy (Edessa), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 145,
+      "name": "Mor Quryaqos of Amid",
+      "period": "d. 1003 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch of Antioch. Known for his efforts to consolidate the church and his correspondence with other Christian leaders.",
+      "birthplace": "Amid (Diyarbakır), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 146,
+      "name": "Mor Ignatius Ni'matullah",
+      "period": "1515-1587 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch of Antioch during the Ottoman period. Maintained the church through difficult times and engaged with Catholic missions.",
+      "birthplace": "Diyarbakır, Turkey",
+      "polity": ""
+    },
+    {
+      "id": 147,
+      "name": "Shlemon of Basra",
+      "period": "c. 13th century AD",
+      "category": "Scholar",
+      "description": "East Syriac author of The Book of the Bee, an encyclopedic work on biblical history, theology, and cosmology written in Syriac.",
+      "birthplace": "Basra, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 148,
+      "name": "Hananya of Adiabene",
+      "period": "c. 6th century AD",
+      "category": "Scholar",
+      "description": "East Syriac author who wrote on logic and philosophy. Part of the Nisibis school tradition of translating and commenting on Greek philosophical works in Syriac.",
+      "birthplace": "Adiabene, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 149,
+      "name": "Yokhannan bar Penkaye",
+      "period": "c. late 7th century AD",
+      "category": "Scholar",
+      "description": "East Syriac monk and historian. Authored the Ktaba d-Resh Melle, a universal history that is a vital source for the early Islamic conquest of Mesopotamia from a Syriac Christian perspective.",
+      "birthplace": "Northern Mesopotamia, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 150,
+      "name": "Simeon of Beth Arsham",
+      "period": "d. c. 540 AD",
+      "category": "Bishop",
+      "description": "Bishop and diplomat known as 'the Persian Debater'. Defended Miaphysite theology and wrote letters documenting the persecution of Christians in Najran, Yemen.",
+      "birthplace": "Beth Arsham, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 151,
+      "name": "Hnanisho I",
+      "period": "d. 700 AD",
+      "category": "Patriarch",
+      "description": "Catholicos-Patriarch of the Church of the East (685-700). Oversaw the church during the early Umayyad period and promoted monastic reform.",
+      "birthplace": "Iraq",
+      "polity": ""
+    },
+    {
+      "id": 152,
+      "name": "Timotheos I",
+      "period": "c. 727-823 AD",
+      "category": "Patriarch",
+      "description": "Catholicos-Patriarch of the Church of the East (780-823). One of the most important leaders of the church, known for his letters, apologetics, and expansion of missions to Central Asia and China.",
+      "birthplace": "Hazza, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 153,
+      "name": "Yuhannon bar Kipho",
+      "period": "d. 688 AD",
+      "category": "Patriarch",
+      "description": "First Maphrian (Catholicos) of Tagrit, establishing the office that would lead the Syriac Orthodox Church in the East for centuries.",
+      "birthplace": "Tagrit, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 154,
+      "name": "Gabriel of Beth Rabban",
+      "period": "c. 7th century AD",
+      "category": "Scholar",
+      "description": "Director of the School of Nisibis and East Syriac teacher of biblical interpretation. Continued the scholarly tradition of the most important Syriac academic institution.",
+      "birthplace": "Nisibis (Nusaybin), Turkey",
+      "polity": ""
+    },
+    {
+      "id": 155,
+      "name": "Severus bar Mashqo",
+      "period": "d. 684 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Patriarch of Antioch (667-681). A monk from the convent of Dayro da-Pgimto who led the church during the early Umayyad period.",
+      "birthplace": "Syria",
+      "polity": ""
+    },
+    {
+      "id": 156,
+      "name": "Abraham Nahshirtono",
+      "period": "d. 686 AD",
+      "category": "Patriarch",
+      "description": "Syriac Orthodox Maphrian of the East and liturgical author. Composed an Anaphora (eucharistic prayer) that remains part of Syriac liturgical tradition.",
+      "birthplace": "Mesopotamia, Iraq",
+      "polity": ""
+    },
+    {
+      "id": 157,
+      "name": "Peter Barsymes",
+      "period": "c. 6th century AD",
+      "category": "Scholar",
+      "description": "Aramean from Syria who served as Praetorian Prefect of the East under Emperor Justinian — one of the highest administrative positions in the Byzantine Empire.",
+      "birthplace": "Syria",
+      "polity": ""
+    },
+    {
+      "id": 158,
+      "name": "Magnus",
+      "period": "c. 6th century AD",
+      "category": "Scholar",
+      "description": "Aramean of Syrian origin who served as Roman general and high official under emperors Justin II and Tiberius. Campaigned against the Persians in the 570s in the eastern frontier.",
+      "birthplace": "Syria",
+      "polity": ""
+    },
+    {
+      "id": 159,
+      "name": "Antoninus I",
+      "period": "c. 6th century AD",
+      "category": "Bishop",
+      "description": "Syrian Syriac Orthodox bishop ordained by Jacob Baradaeus. Participated in the creation of Peter as Miaphysite patriarch of Alexandria in 575.",
+      "birthplace": "Syria",
+      "polity": ""
+    },
+    {
+      "id": 160,
+      "name": "Antoninus II",
+      "period": "c. 6th century AD",
+      "category": "Bishop",
+      "description": "Syrian Syriac Orthodox bishop ordained by Jacob Baradaeus. Participated alongside his namesake in the creation of Peter as patriarch of Alexandria in 575.",
+      "birthplace": "Syria",
+      "polity": ""
     }
   ]
 }
