@@ -1,0 +1,107 @@
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../../index" src="../../_templates/default"></template>
+<title>Figures</title>
+
+<section class="pauto">
+  <h1 bindglobal="title:title">{title}</h1>
+
+  <article>
+    <p paddingtop="2rem">Explore notable Aramean figures throughout history whose lives, achievements, and contributions shaped the development of Aramean civilization and continue to inspire its enduring cultural and historical legacy.</p>
+  </article>
+
+  <form margintop="2rem">
+    <input id="filter" type="text" placeholder="Search figures..." placeholdercolor="silver" filtersearch--input
+      onvaluechange="filtersearch--run:#figuresTable" width="100%" maxwidth="20rem" padding="0.6rem 1rem"
+      border="1px solid rgba(0,0,0,.2)" radius="0.3rem" fontsize="1rem" autocomplete="off">
+    <details margintop="1rem" flex flexdirection="column">
+      <summary cursor="pointer">&#x29D6; Filter</summary>
+      <div gap="1rem" margintop="0.5rem" flex screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
+        <fieldset>
+          <input type="checkbox" id="chk_saint" filtersearch--group="Saint" click="filtersearch--run:#figuresTable"
+            marginright=".5rem">
+          <label for="chk_saint">Saint</label>
+        </fieldset>
+        <fieldset>
+          <input type="checkbox" id="chk_patriarch" filtersearch--group="Patriarch"
+            click="filtersearch--run:#figuresTable" marginright=".5rem">
+          <label for="chk_patriarch">Patriarch</label>
+        </fieldset>
+        <fieldset>
+          <input type="checkbox" id="chk_bishop" filtersearch--group="Bishop" click="filtersearch--run:#figuresTable"
+            marginright=".5rem">
+          <label for="chk_bishop">Bishop</label>
+        </fieldset>
+        <fieldset>
+          <input type="checkbox" id="chk_priest" filtersearch--group="Priest" click="filtersearch--run:#figuresTable"
+            marginright=".5rem">
+          <label for="chk_priest">Priest</label>
+        </fieldset>
+        <fieldset>
+          <input type="checkbox" id="chk_deacon" filtersearch--group="Deacon" click="filtersearch--run:#figuresTable"
+            marginright=".5rem">
+          <label for="chk_deacon">Deacon</label>
+        </fieldset>
+        <fieldset>
+          <input type="checkbox" id="chk_king" filtersearch--group="King" click="filtersearch--run:#figuresTable"
+            marginright=".5rem">
+          <label for="chk_king">King</label>
+        </fieldset>
+        <fieldset>
+          <input type="checkbox" id="chk_queen" filtersearch--group="Queen" click="filtersearch--run:#figuresTable"
+            marginright=".5rem">
+          <label for="chk_queen">Queen</label>
+        </fieldset>
+        <fieldset>
+          <input type="checkbox" id="chk_scholar" filtersearch--group="Scholar" click="filtersearch--run:#figuresTable"
+            marginright=".5rem">
+          <label for="chk_scholar">Scholar</label>
+        </fieldset>
+        <fieldset>
+          <input type="checkbox" id="chk_writer" filtersearch--group="Writer" click="filtersearch--run:#figuresTable"
+            marginright=".5rem">
+          <label for="chk_writer">Writer</label>
+        </fieldset>
+        <fieldset>
+          <input type="checkbox" id="chk_activist" filtersearch--group="Activist"
+            click="filtersearch--run:#figuresTable" marginright=".5rem">
+          <label for="chk_activist">Activist</label>
+        </fieldset>
+      </div>
+    </details>
+  </form>
+
+  <div id="figuresTableEmpty" hide>
+    <hr margintop="3rem">
+    <b>No figures match your filter.</b><br>
+    <a minheight="2.0rem" radius="1rem" paddingleft="1.3rem" paddingright="1.3rem" lineheight="2.5" bgcolor="red"
+      color="white" fontsize="90%" margintop="2rem" click="resetvalue:#filter;filtersearch--run:#figuresTable">Clear
+      filter</a>
+  </div>
+
+  <table class="mt2 bocred bos5 bw1 z08 w100" data-src="assets/json/figures.json" id="figuresTable"
+    filtersearch--onempty="#figuresTableEmpty" filtersearch--count="countAll"
+    if="([{countAll}]:[0])/hide:#figuresTable?show:#figuresTable">
+    <caption class="tal fwb mb1 mt1">
+      <img src="./favicon.ico" class="di" height="24">Notable Aramean Figures
+    </caption>
+    <thead class="bcred yellow p1">
+      <tr>
+        <th>Name</th>
+        <th>Period</th>
+        <th>Category</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody data-iterate="figures">
+      <tr filtersearch--select>
+        <td data-get="name"></td>
+        <td data-get="period"></td>
+        <td data-get="category"></td>
+        <td data-get="description"></td>
+        <td hide filtersearch--marker data-get="category"></td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<section include="./_includes/footer.html" bgcolor="red" color="white" padding="1rem" class="white-"></section>
