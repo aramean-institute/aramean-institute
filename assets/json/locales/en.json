@@ -18,6 +18,7 @@
     "contents": "Contents",
     "contribute": "Contribute",
     "contribution": "Contribution",
+    "cuisine": "Cuisine",
     "culture": "Culture",
     "date": "Date",
     "dialects": "Dialects",
@@ -26,6 +27,13 @@
     "email": "Email",
     "ethnology": "Ethnology",
     "etymology": "Etymology",
+    "emergence": "Emergence & Early Arameans",
+    "aramean_kingdoms": "Aramean Kingdoms",
+    "imperial_period": "Imperial Period",
+    "hellenistic_period": "Hellenistic & Parthian",
+    "islamic_period": "Islamic Period",
+    "ottoman_period": "Ottoman Era",
+    "modern_period": "Modern & Contemporary",
     "faq": "FAQ",
     "financing": "Financing",
     "full_name": "Full name",
@@ -80,6 +88,13 @@
     "page_contribute_text3": "I want to donate",
     "page_statistcs_text1": "The statistics are live and based on the information that Aramean Center shares with Aramean Institute.",
     "page_contact_text1": "For all inquiries, please email us using the form below.",
-    "page_technology_text1": "Developing technology for the benefit of both Arameans and society is an important part of the Aramean Institute's mission."
+    "page_technology_text1": "Developing technology for the benefit of both Arameans and society is an important part of the Aramean Institute's mission.",
+    "staple_dishes": "Staple Dishes",
+    "breads": "Breads and Grains",
+    "preserved_foods": "Preserved Foods and Pantry Traditions",
+    "festive_occasions": "Festive Occasions and Celebrations",
+    "coffee_beverages": "Coffee, Tea, and Beverages",
+    "regional_variations": "Regional Variations",
+    "modern_significance": "Modern Significance and Cultural Continuity"
   }
 }
