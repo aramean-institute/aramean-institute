@@ -1,12 +1,22 @@
 <script src="https://cdn.front.nu/nightly/front.js"></script>
-<template srcdoc="../index" src="../_templates/default"></template>
-<title>Figures</title>
+<template srcdoc="../../../index" src="../../../_templates/history"></template>
+<title globalize-get>Figures</title>
 
 <section class="pauto">
-  <h1 bindglobal="title:title">{title}</h1>
+  <h1 globalize-get>Figures</h1>
+  <nav class="pointer" margintop="0.5rem">
+    <ol padding="0">
+      <li><a href="#" globalize-get>Research</a></li>
+      <li><a href="./" globalize-get>History</a></li>
+      <li globalize-get>Figures</li>
+    </ol>
+  </nav>
 
-  <article>
-    <p paddingtop="2rem">Notable Aramean figures throughout history - kings, saints, scholars, writers, and
+  <article margintop="2rem">
+    <div margintop="0.25rem" marginbottom="1.5rem" style="font-size: 0.85rem; letter-spacing: 0.05em; text-transform: uppercase;">
+      <span style="background-color: #f3f4f6; color: #4b5563; padding: 0.25rem 0.6rem; border-radius: 4px; font-weight: 700;">Ancient - Modern</span>
+    </div>
+    <p>Notable Aramean figures throughout history - kings, saints, scholars, writers, and
       activists who shaped Aramean civilization and its legacy.</p>
   </article>
 
@@ -79,7 +89,10 @@
       filter</a>
   </div>
 
-  <table class="mt2 bocred bos5 bw1 z08 w100" data-src="assets/json/figures.json" id="figuresTable"
+  <table class="mt2 bocred bos5 bw1 z08 w100"
+    data-src="assets/json/figures.json"
+    data-filteritem="ethnicity:'aa'"
+    id="figuresTable"
     filtersearch--onempty="#figuresTableEmpty" filtersearch--count="countAll"
     if="([{countAll}]:[0])/hide:#figuresTable?show:#figuresTable">
     <caption class="tal fwb mb1 mt1">
@@ -104,5 +117,3 @@
     </tbody>
   </table>
 </section>
-
-<section include="./_includes/footer.html" bgcolor="red" color="white" padding="1rem" class="white-"></section>

@@ -1,0 +1,113 @@
+<template>
+  <aside></aside>
+  <main inherit="false" content="prepend">
+    <button absolute top="1rem" right="1rem" screen-xxs="show" screen-xl="hide" color="red" absolute top="20px"
+      right="20px" click="toggledisplay:#submenu" class="bc0" radius="500px" zindex="100"><i
+        class="icon16">≣</i></button>
+    <nav id="submenu" clone="#submenuitems" ontoggledisplay="scroll:*main:[top]" bgcolor="red" color="yellow" flex
+      flexdirection="column" class="sidebar" height="100%" overflow="visible" paddingtop="1rem" hide>
+    </nav>
+  </main>
+  <aside screen-xxs="hide" screen-md="hide" screen-lg="hide;width:[17rem]" screen-xl="show;width:[19rem]"
+    screen-xxxl="width:[22rem]">
+    <nav id="submenuitems" bgcolor="red" color="white" class="sidebar" paddingtop="1rem">
+      <details open>
+        <summary bold>Overview</summary>
+        <a color="yellow" href="../research/history">Summary</a>
+        <details>
+          <summary>Timelines</summary>
+          <a color="yellow" href="../research/history/testimonies.html">Political & Cultural History</a>
+          <a color="yellow" href="../research/history/timeline.html">Testimonies & Identity</a>
+        </details>
+      </details>
+
+      <details open>
+        <summary bold>Historical Periods</summary>
+        <!-- 1. Early Antiquity -->
+        <details open="">
+          <summary>Early Antiquity</summary>
+          <a color="yellow" href="../research/history/early-antiquity/emergence.html">Late Bronze
+            Age: Emergence <small color="darkorange">(c. 1200-1100 BC)</small></a>
+          <a color="yellow" href="../research/history/early-antiquity/kingdoms.html">Iron Age:
+            Kingdoms <small color="darkorange">(c. 900-730 BC)</small></a>
+        </details>
+
+        <!-- 2. Classical Antiquity -->
+        <details open="">
+          <summary>Classical Antiquity</summary>
+          <a color="yellow" href="../research/history/classical-antiquity/assyrian-period.html"
+            >Neo-Assyrian <small color="darkorange">(911-609
+              BC)</small></a>
+          <a color="yellow" href="../research/history/classical-antiquity/babylonian-period.html"
+           >Neo-Babylonian <small color="darkorange">(626-539
+              BC)</small></a>
+          <a color="yellow" href="../research/history/classical-antiquity/persian-period.html"
+           >Persian <small color="darkorange">(539-332 BC)</small></a>
+          <a color="yellow" href="../research/history/classical-antiquity/hellenistic.html"
+           >Hellenistic <small color="darkorange">(332-141
+              BC)</small></a>
+          <a color="yellow" href="../research/history/classical-antiquity/parthian-period.html"
+           >Parthian <small color="darkorange">(141 BC-224
+              AD)</small></a>
+          <a color="yellow" href="../research/history/classical-antiquity/roman-period.html"
+           >Roman <small color="darkorange">(64 BC-330 AD)</small></a>
+        </details>
+
+        <!-- 3. Late Antiquity -->
+        <details open="">
+          <summary>Late Antiquity</summary>
+          <a color="yellow" href="../research/history/late-antiquity/syriac-period.html">Syriac
+            Christianity <small color="darkorange">(1st-7th century)</small></a>
+          <a color="yellow" href="../research/history/late-antiquity/byzantine.html">Byzantine
+            <small color="darkorange">(330-637 AD)</small></a>
+          <a color="yellow" href="../research/history/late-antiquity/sasanian-period.html"
+           >Sasanian <small color="darkorange">(226-637
+              AD)</small></a>
+        </details>
+
+        <!-- 4. Post-Classical Era -->
+        <details open="">
+          <summary>Post-Classical Era</summary>
+          <a color="yellow" href="../research/history/post-classical/islamic.html">Islamic Period
+            <small color="darkorange">(637-1516 CE)</small></a>
+          <a color="yellow" href="../research/history/post-classical/medieval.html">Medieval
+            Crisis <small color="darkorange">(13th-15th century)</small></a>
+        </details>
+
+        <!-- 5. Early Modern Era -->
+        <details open="">
+          <summary>Early Modern Era</summary>
+          <a color="yellow" href="../research/history/early-modern/ottoman.html">Ottoman Period
+            <small color="darkorange">(1516-1918 CE)</small></a>
+        </details>
+
+        <!-- 6. Modern Era -->
+        <details open="">
+          <summary>Modern Era</summary>
+          <a color="yellow" href="../research/history/modern">Modern Period <small
+              color="darkorange">(20th-21st century)</small></a>
+        </details>
+      </details>
+
+      <details>
+        <summary bold>Key Topics</summary>
+        <a color="yellow" href="../research/history/figures.html">Historical Figures</a>
+        <a color="yellow" href="../research/history/wars-conflicts.html">Wars & Conflicts</a>
+        <a color="yellow" href="../research/history/migrations.html">Migrations & Settlement</a>
+        <a color="yellow" href="../research/history/diaspora-history.html">Diaspora History</a>
+        <a color="yellow" href="../research/history/historical-sources.html">Historical Sources</a>
+      </details>
+
+      <details>
+        <summary bold>Cross-References</summary>
+        <a color="yellow" href="../research/language">Language Development</a>
+        <a color="yellow" href="../research/religion">Religious History</a>
+        <a color="yellow" href="../research/archaeology">Archaeological Evidence</a>
+        <a color="yellow" href="../research/geography">Geographical Context</a>
+        <a color="yellow" href="../research/people">Key Figures & Leaders</a>
+      </details>
+
+      <hr>
+    </nav>
+  </aside>
+</template>
