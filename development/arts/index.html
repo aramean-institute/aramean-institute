@@ -1,36 +1,36 @@
 <script src="https://cdn.front.nu/nightly/front.js"></script>
 <template srcdoc="../../index" src="../../_templates/default"></template>
-<title globalize-get="arts">Arts</title>
+<title globalize-get>Downloads</title>
 
 <div class="alert banner shade1 br0 pauto pt2 pb2 bcred white-">
-	<h1 globalize-get="arts">Arts</h1>
-	<nav class="pointer" margintop="0.5rem">
-		<ol padding="0">
-			<li><a href="#" globalize-get>Development</a></li>
-			<li><a globalize-get>Arts</a></li>
-			<li globalize-get>Overview</li>
-		</ol>
-	</nav>
+  <h1 bindglobal="title:title">{title}</h1>
+  <nav class="pointer" margintop="0.5rem">
+    <ol padding="0">
+      <li><a href="#" globalize-get>Download</a></li>
+      <li><a globalize-get>Arts</a></li>
+      <li globalize-get>Overview</li>
+    </ol>
+  </nav>
 </div>
 
 <section class="pauto">
-	<article>
-		<h2 globalize-get="graphics">Graphics</h2>
-		<hr bgcolor="red" height="1px" margin="2rem 0">
-	</article>
-	<div data-iterate="arts" data-src="./assets/json/arts.json"
-		class="box cards gut3- br05- bcwhite- border- tac md_gtc1 xl_gtc2 p2-">
-		<figure class="gaph1-">
-			<h5 data-get="title" class="mb1"></h5>
-			<img class="pb1" data-get="image" maxwidth="90%">
-			<h7 data-get="summary"></h7>
-			<small data-get="license" insertbeforeend="" insertafterbegin="License: "></small>
-			<small data-get="designer" insertafterbegin="Designer: "></small>
-			<small data-get="adopted" insertafterbegin="Adoption: "></small>
-			<a target="_blank" class="button mt2 bcred" data-set="dl:image" href="{dl}" globalize-get="download"
-				download>Download</a>
-		</figure>
-	</div>
+  <article>
+    <h2 globalize-get="graphics">Graphics</h2>
+    <hr bgcolor="red" height="1px" margin="2rem 0">
+  </article>
+  <div data-iterate="arts" data-src="./assets/json/arts.json"
+    class="box cards gut3- br05- bcwhite- border- tac md_gtc1 xl_gtc2 p2-">
+    <figure class="gaph1-">
+      <h5 data-get="title" class="mb1"></h5>
+      <img class="pb1" data-get="image" maxwidth="90%">
+      <h7 data-get="summary"></h7>
+      <small data-get="license" insertbeforeend="" insertafterbegin="License: "></small>
+      <small data-get="designer" insertafterbegin="Designer: "></small>
+      <small data-get="adopted" insertafterbegin="Adoption: "></small>
+      <a target="_blank" class="button mt2 bcred" data-set="dl:image" href="{dl}" globalize-get="download"
+        download>Download</a>
+    </figure>
+  </div>
 </section>
 
 <section include="./_includes/footer.html" class="bcred white white- p1"></section>

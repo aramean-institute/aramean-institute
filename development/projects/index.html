@@ -1,29 +1,33 @@
 <script src="https://cdn.front.nu/nightly/front.js"></script>
 <template srcdoc="../../index" src="../../_templates/default"></template>
-<title globalize-get="technology">Technology</title>
+<title globalize-get>Projects</title>
 
 <div class="alert banner shade1 br0 pauto pt2 pb2 bcred white-">
-  <h1 globalize-get="technology">Technology</h1>
+  <h1 bindglobal="title:title">{title}</h1>
   <nav class="pointer" margintop="0.5rem">
     <ol padding="0">
       <li><a href="#" globalize-get>Development</a></li>
-      <li><a href="development/technology" globalize-get>Technology</a></li>
+      <li><a href="development/projects" globalize-get>Projects</a></li>
       <li globalize-get>Overview</li>
     </ol>
   </nav>
 </div>
 
 <section class="pauto">
-  <p class="mb2" globalize-get="page_technology_text1"></p>
-   <hr bgcolor="red" height="1px" margin="2rem 0">
-  <h2 globalize-get="software_technology" class="mb1">Software Technology</h2>
+  <p class="mb2" globalize-get="page_projects_text1"></p>
+  <hr bgcolor="red" height="1px" margin="2rem 0">
+  
+  <h2 globalize-get="featured_projects" class="mb1">Featured Projects</h2>
   <div data-iterate="projects" data-src="./assets/json/projects.json"
     class="box cards list gut3- br05- border- tac p2-">
     <figure gap="1rem" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
       <h5 data-get="title"></h5>
       <h7 data-get="summary"></h7>
-      <div><a class="button bcred fr" data-set="link:link" target="_blank" href="{link}"><i class="icon">🔗</i>Go to
-          project</a></div>
+      <div>
+        <a class="button bcred fr" data-set="link:link" target="_blank" href="{link}">
+          <i class="icon">🔗</i>Go to project
+        </a>
+      </div>
     </figure>
   </div>
 </section>
