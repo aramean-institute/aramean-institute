@@ -1,0 +1,273 @@
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../../../index" src="../../../_templates/history"></template>
+<title globalize-get>Aramean & Syriac Comprehensive Historical Timeline</title>
+
+<section class="pauto">
+  <h1 globalize-get="timeline_title">Aramean & Syriac Super Timeline</h1>
+  
+  <nav class="pointer" margintop="0.5rem" screen-xs="hide" screen-lg="show">
+    <ol padding="0">
+      <li><a href="#" globalize-get="research">Research</a></li>
+      <li><a href="./" globalize-get="history">History</a></li>
+      <li globalize-get="super_timeline">Comprehensive Timeline</li>
+    </ol>
+  </nav>
+
+  <article margintop="1.5rem">
+    <p>
+      An interactive chronological database spanning 3,000 years of Aramean and Syriac history. Explore political events, cultural milestones, and historical testimonies affirming continuous identity across antiquity, medieval times, and the modern era.
+    </p>
+  </article>
+
+  <!-- Control & Filter Panel -->
+  <form margintop="2rem" padding="1.25rem" bgcolor="whitesmoke" borderradius="0.5rem" border="1px solid #e0e0e0">
+    <div flex gap="1rem" alignitems="center" screen-xxs="flexdirection:[column];alignitems:[stretch]" screen-md="flexdirection:[row]">
+      <!-- Text Filter -->
+      <div flex="1">
+        <label for="timelineFilter" block fontweight="bold" marginbottom="0.4rem" fontsize="0.85rem">Search Timeline</label>
+        <input id="timelineFilter" type="text" placeholder="Search keywords, authors, places, dates..." 
+               filtersearch--input onvaluechange="filtersearch--run:#superTimeline"
+               width="100%" padding="0.65rem 0.9rem" bgcolor="white" border="1px solid #ccc" radius="0.25rem" autocomplete="off">
+      </div>
+
+      <!-- Type Filter Buttons -->
+      <div>
+        <label block fontweight="bold" marginbottom="0.4rem" fontsize="0.85rem">Filter Category</label>
+        <div flex gap="0.75rem" wrap>
+          <fieldset flex alignitems="center">
+            <input type="checkbox" id="chk_all" checked filtersearch--group="_empty" click="filtersearch--run:#superTimeline" marginright=".3rem">
+            <label for="chk_all" cursor="pointer" fontsize="0.9rem">All Categories</label>
+          </fieldset>
+          <fieldset flex alignitems="center">
+            <input type="checkbox" id="chk_history" filtersearch--group="history" click="filtersearch--run:#superTimeline" marginright=".3rem">
+            <label for="chk_history" cursor="pointer" fontsize="0.9rem">History & Events</label>
+          </fieldset>
+          <fieldset flex alignitems="center">
+            <input type="checkbox" id="chk_testimony" filtersearch--group="testimony" click="filtersearch--run:#superTimeline" marginright=".3rem">
+            <label for="chk_testimony" cursor="pointer" fontsize="0.9rem">Testimonies</label>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+  </form>
+
+  <!-- Empty Search Results Alert -->
+  <div id="timelineEmpty" hide textalign="center" padding="3rem 1rem">
+    <h3 color="#e03131">No timeline entries match your filter.</h3>
+    <p color="gray" margintop="0.5rem">Try searching for a different keyword, name, or clearing active category filters.</p>
+    <a href="#" class="pointer" inlineblock radius="0.25rem" padding="0.5rem 1.25rem" bgcolor="#e03131" color="white" margintop="1rem"
+       click="resetvalue:#timelineFilter;filtersearch--run:#superTimeline">Reset Filters</a>
+  </div>
+
+  <!-- Super Timeline List -->
+  <div id="superTimeline" class="mt3" borderleft="3px solid #e03131" paddingleft="2rem" style="position: relative; margin-left: 1rem;" filtersearch--onempty="#timelineEmpty">
+
+    <!-- ERA 1: ANCIENT & IRON AGE -->
+    
+    <article class="timeline-item" marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;" filtersearch--select>
+      <div style="position: absolute; left: -2.4rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
+      <td hide filtersearch--marker>history c. 1200–900 BC Bronze Age Collapse Early Emergence Ebla Tablets</td>
+      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
+        <time bold color="#e03131" minwidth="160px" style="font-size: 1.1rem;">c. 1200–900 BC</time>
+        <div flex="1">
+          <span inlineblock padding="0.15rem 0.5rem" bgcolor="#ffe3e3" color="#e03131" radius="0.2rem" fontsize="0.75rem" fontweight="bold" marginbottom="0.5rem">Historical Event</span>
+          <h3 marginbottom="0.5rem">Emergence of the Aramean Kingdoms</h3>
+          <p fontsize="0.95rem">Aramean pastoral semi-nomadic groups settle in Upper Mesopotamia and Syria following the Bronze Age Collapse. Sovereign polities such as Aram-Damascus, Bit-Adini, Bit-Agusi, Hamath, and Sam'al establish royal courts, legal administration, and major trade routes.</p>
+        </div>
+      </div>
+    </article>
+
+    <article class="timeline-item" marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;" filtersearch--select>
+      <div style="position: absolute; left: -2.4rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
+      <td hide filtersearch--marker>history 911–609 BC Neo-Assyrian Imperial Aramaic Integration Deportations Lingua Franca</td>
+      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
+        <time bold color="#e03131" minwidth="160px" style="font-size: 1.1rem;">911–609 BC</time>
+        <div flex="1">
+          <span inlineblock padding="0.15rem 0.5rem" bgcolor="#ffe3e3" color="#e03131" radius="0.2rem" fontsize="0.75rem" fontweight="bold" marginbottom="0.5rem">Historical Event</span>
+          <h3 marginbottom="0.5rem">Neo-Assyrian Expansion & Adoption of Aramaic</h3>
+          <p fontsize="0.95rem">Although independent Aramean polities were absorbed by Assyrian conquests, Arameans became integral to the imperial administration. Mass resettlements and economic integration establish Aramaic as the official imperial <i>lingua franca</i> alongside Akkadian.</p>
+        </div>
+      </div>
+    </article>
+
+    <article class="timeline-item" marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;" filtersearch--select>
+      <div style="position: absolute; left: -2.4rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
+      <td hide filtersearch--marker>testimony Poseidonios of Apamea 135–51 BC Ancient Greek Syriacs Arameans</td>
+      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
+        <time bold color="#3b5bdb" minwidth="160px" style="font-size: 1.1rem;">135–51 BC</time>
+        <div flex="1">
+          <span inlineblock padding="0.15rem 0.5rem" bgcolor="#dbe4ff" color="#3b5bdb" radius="0.2rem" fontsize="0.75rem" fontweight="bold" marginbottom="0.5rem">Testimony</span>
+          <h3 marginbottom="0.25rem">Poseidonios of Apamea</h3>
+          <blockquote margin="0.75rem 0" padding="0.8rem 1rem" bgcolor="whitesmoke" radius="0.375rem" borderleft="3px solid #3b5bdb" fontstyle="italic">
+            "The people we Greeks call <i>Syriacs</i> were called by the <i>Syriacs</i> themselves <i>Arameans</i>"
+          </blockquote>
+          <cite fontsize="0.85rem" color="gray">J.G. Kidd, Posidonius (Cambridge Classical Texts, 1988), vol. 2, pp. 955-956</cite>
+        </div>
+      </div>
+    </article>
+
+    <article class="timeline-item" marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;" filtersearch--select>
+      <div style="position: absolute; left: -2.4rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
+      <td hide filtersearch--marker>testimony Strabo from Amasya 63 BC–AD 24 Geography Arimaeans Arameans Syriacs</td>
+      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
+        <time bold color="#3b5bdb" minwidth="160px" style="font-size: 1.1rem;">63 BC–AD 24</time>
+        <div flex="1">
+          <span inlineblock padding="0.15rem 0.5rem" bgcolor="#dbe4ff" color="#3b5bdb" radius="0.2rem" fontsize="0.75rem" fontweight="bold" marginbottom="0.5rem">Testimony</span>
+          <h3 marginbottom="0.25rem">Strabo from Amasya</h3>
+          <blockquote margin="0.75rem 0" padding="0.8rem 1rem" bgcolor="whitesmoke" radius="0.375rem" borderleft="3px solid #3b5bdb" fontstyle="italic">
+            "<i>Syriacs</i> are by the <i>Syriacs</i> themselves called <i>Arimaeans</i> and <i>Arameans</i>"
+          </blockquote>
+          <cite fontsize="0.85rem" color="gray">The Geography of Strabo, Loeb Classical Library (1917), Book I, Ch. 2, 34</cite>
+        </div>
+      </div>
+    </article>
+
+    <!-- ERA 2: CLASSICAL & LATE ANTIQUITY -->
+
+    <article class="timeline-item" marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;" filtersearch--select>
+      <div style="position: absolute; left: -2.4rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
+      <td hide filtersearch--marker>testimony Yosef ben Matityahu Josephus AD 37–100 Antiquities of the Jews Aram Arameans Syriacs</td>
+      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
+        <time bold color="#3b5bdb" minwidth="160px" style="font-size: 1.1rem;">AD 37–100</time>
+        <div flex="1">
+          <span inlineblock padding="0.15rem 0.5rem" bgcolor="#dbe4ff" color="#3b5bdb" radius="0.2rem" fontsize="0.75rem" fontweight="bold" marginbottom="0.5rem">Testimony</span>
+          <h3 marginbottom="0.25rem">Josephus (Yosef ben Matityahu)</h3>
+          <blockquote margin="0.75rem 0" padding="0.8rem 1rem" bgcolor="whitesmoke" radius="0.375rem" borderleft="3px solid #3b5bdb" fontstyle="italic">
+            "Aram had the <i>Arameans</i>, which the Greeks called <i>Syriacs</i>"
+          </blockquote>
+          <cite fontsize="0.85rem" color="gray">Antiquities of the Jews, translated by William Whiston (1737), Book I, Ch. 6</cite>
+        </div>
+      </div>
+    </article>
+
+    <article class="timeline-item" marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;" filtersearch--select>
+      <div style="position: absolute; left: -2.4rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
+      <td hide filtersearch--marker>history c. 1st–3rd Century AD Palmyra Tadmor Osroene Edessa Urhay Cultural Renaissance Syriac Language</td>
+      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
+        <time bold color="#e03131" minwidth="160px" style="font-size: 1.1rem;">c. 1st–3rd century AD</time>
+        <div flex="1">
+          <span inlineblock padding="0.15rem 0.5rem" bgcolor="#ffe3e3" color="#e03131" radius="0.2rem" fontsize="0.75rem" fontweight="bold" marginbottom="0.5rem">Historical Event</span>
+          <h3 marginbottom="0.5rem">Rise of Palmyra (Tadmor) & Edessa (Urhay)</h3>
+          <p fontsize="0.95rem">Syriac (the local Aramaic dialect of Edessa) develops into the premier written standard for philosophy, science, and theology. Simultaneously, Palmyra functions as a powerful Aramaic trade empire in the Syrian desert.</p>
+        </div>
+      </div>
+    </article>
+
+    <article class="timeline-item" marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;" filtersearch--select>
+      <div style="position: absolute; left: -2.4rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
+      <td hide filtersearch--marker>testimony Eusebius Pamphili c. AD 275–339 Syriac Christianity Arameans Syriacs</td>
+      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
+        <time bold color="#3b5bdb" minwidth="160px" style="font-size: 1.1rem;">c. AD 275–339</time>
+        <div flex="1">
+          <span inlineblock padding="0.15rem 0.5rem" bgcolor="#dbe4ff" color="#3b5bdb" radius="0.2rem" fontsize="0.75rem" fontweight="bold" marginbottom="0.5rem">Testimony</span>
+          <h3 marginbottom="0.25rem">Eusebius Pamphili</h3>
+          <blockquote margin="0.75rem 0" padding="0.8rem 1rem" bgcolor="whitesmoke" radius="0.375rem" borderleft="3px solid #3b5bdb" fontstyle="italic">
+            "from Aram the <i>Arameans</i>, which are also called <i>Syriacs</i>"
+          </blockquote>
+          <cite fontsize="0.85rem" color="gray">Sebastian Brock, "Eusebius and Syriac Christianity" (Leiden 1992), p. 226</cite>
+        </div>
+      </div>
+    </article>
+
+    <!-- ERA 3: MEDIEVAL PERIOD -->
+
+    <article class="timeline-item" marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;" filtersearch--select>
+      <div style="position: absolute; left: -2.4rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
+      <td hide filtersearch--marker>testimony Jacob of Edessa c. AD 640–708 Homiliae Cathedrales Arameans Syriacs</td>
+      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
+        <time bold color="#3b5bdb" minwidth="160px" style="font-size: 1.1rem;">c. AD 640–708</time>
+        <div flex="1">
+          <span inlineblock padding="0.15rem 0.5rem" bgcolor="#dbe4ff" color="#3b5bdb" radius="0.2rem" fontsize="0.75rem" fontweight="bold" marginbottom="0.5rem">Testimony</span>
+          <h3 marginbottom="0.25rem">Jacob of Edessa</h3>
+          <blockquote margin="0.75rem 0" padding="0.8rem 1rem" bgcolor="whitesmoke" radius="0.375rem" borderleft="3px solid #3b5bdb" fontstyle="italic">
+            "we the <i>Arameans</i>, that is to say <i>Syriacs</i>"
+          </blockquote>
+          <cite fontsize="0.85rem" color="gray">Maurice Brière, Les Homiliae Cathedrales de Sévère d'Antioche (1922), p. 196</cite>
+        </div>
+      </div>
+    </article>
+
+    <article class="timeline-item" marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;" filtersearch--select>
+      <div style="position: absolute; left: -2.4rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
+      <td hide filtersearch--marker>testimony Michael the Great Patriarch AD 1126–1199 Chronicle Arameans Syriacs Antioch</td>
+      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
+        <time bold color="#3b5bdb" minwidth="160px" style="font-size: 1.1rem;">AD 1126–1199</time>
+        <div flex="1">
+          <span inlineblock padding="0.15rem 0.5rem" bgcolor="#dbe4ff" color="#3b5bdb" radius="0.2rem" fontsize="0.75rem" fontweight="bold" marginbottom="0.5rem">Testimony</span>
+          <h3 marginbottom="0.25rem">Michael the Great (Patriarch of Antioch)</h3>
+          <blockquote margin="0.75rem 0" padding="0.8rem 1rem" bgcolor="whitesmoke" radius="0.375rem" borderleft="3px solid #3b5bdb" fontstyle="italic">
+            "the <i>Arameans</i> who are the <i>Syriacs</i>"
+          </blockquote>
+          <cite fontsize="0.85rem" color="gray">J-B Chabot, Chronique de Michel le Syrien (Paris, 1899), Livre II, Chapitre I</cite>
+        </div>
+      </div>
+    </article>
+
+    <article class="timeline-item" marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;" filtersearch--select>
+      <div style="position: absolute; left: -2.4rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
+      <td hide filtersearch--marker>testimony Gregorios Bar Hebraeus AD 1226–1286 Book of Rays Ketbo d-Heyutho Aramean-Syriac nation</td>
+      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
+        <time bold color="#3b5bdb" minwidth="160px" style="font-size: 1.1rem;">AD 1226–1286</time>
+        <div flex="1">
+          <span inlineblock padding="0.15rem 0.5rem" bgcolor="#dbe4ff" color="#3b5bdb" radius="0.2rem" fontsize="0.75rem" fontweight="bold" marginbottom="0.5rem">Testimony</span>
+          <h3 marginbottom="0.25rem">Gregorios Bar Hebraeus</h3>
+          <blockquote margin="0.75rem 0" padding="0.8rem 1rem" bgcolor="whitesmoke" radius="0.375rem" borderleft="3px solid #3b5bdb" fontstyle="italic">
+            "You have brought me to the eloquent <i>Aramean-Syriac</i> nation."
+          </blockquote>
+          <cite fontsize="0.85rem" color="gray">The Book of Rays (Ketbo d-Heyutho)</cite>
+        </div>
+      </div>
+    </article>
+
+    <!-- ERA 4: MODERN ERA & HISTORIOGRAPHY -->
+
+    <article class="timeline-item" marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;" filtersearch--select>
+      <div style="position: absolute; left: -2.4rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
+      <td hide filtersearch--marker>testimony Theodor Nöldeke AD 1836–1930 Compendious Syriac Grammar Arameans Syriacs</td>
+      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
+        <time bold color="#3b5bdb" minwidth="160px" style="font-size: 1.1rem;">AD 1836–1930</time>
+        <div flex="1">
+          <span inlineblock padding="0.15rem 0.5rem" bgcolor="#dbe4ff" color="#3b5bdb" radius="0.2rem" fontsize="0.75rem" fontweight="bold" marginbottom="0.5rem">Testimony</span>
+          <h3 marginbottom="0.25rem">Professor Theodor Nöldeke</h3>
+          <blockquote margin="0.75rem 0" padding="0.8rem 1rem" bgcolor="whitesmoke" radius="0.375rem" borderleft="3px solid #3b5bdb" fontstyle="italic">
+            "the name of the <i>'Syriacs'</i> the people who called themselves <i>'Arameans'</i>"
+          </blockquote>
+          <cite fontsize="0.85rem" color="gray">Compendious Syriac Grammar (London, 1904), Introduction</cite>
+        </div>
+      </div>
+    </article>
+
+    <article class="timeline-item" marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;" filtersearch--select>
+      <div style="position: absolute; left: -2.4rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
+      <td hide filtersearch--marker>history AD 1915–1918 Sayfo Genocide Ottoman Empire World War I Kafno Simele Displacement</td>
+      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
+        <time bold color="#e03131" minwidth="160px" style="font-size: 1.1rem;">AD 1915–1918</time>
+        <div flex="1">
+          <span inlineblock padding="0.15rem 0.5rem" bgcolor="#ffe3e3" color="#e03131" radius="0.2rem" fontsize="0.75rem" fontweight="bold" marginbottom="0.5rem">Historical Event</span>
+          <h3 marginbottom="0.5rem">The Sayfo Genocide & Modern Displacement</h3>
+          <p fontsize="0.95rem">The Sayfo (1915–1918) during World War I leads to mass loss of life and forced exile across traditional homelands in Upper Mesopotamia, altering demographics and driving widespread diaspora migration.</p>
+        </div>
+      </div>
+    </article>
+
+    <article class="timeline-item" marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;" filtersearch--select>
+      <div style="position: absolute; left: -2.4rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
+      <td hide filtersearch--marker>testimony Patriarch Ignatius Zakka Iwas AD 1933–2014 Syriacs Arameans Antioch Church</td>
+      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column]" screen-lg="flexdirection:[row]">
+        <time bold color="#3b5bdb" minwidth="160px" style="font-size: 1.1rem;">AD 1933–2014</time>
+        <div flex="1">
+          <span inlineblock padding="0.15rem 0.5rem" bgcolor="#dbe4ff" color="#3b5bdb" radius="0.2rem" fontsize="0.75rem" fontweight="bold" marginbottom="0.5rem">Testimony</span>
+          <h3 marginbottom="0.25rem">Patriarch Ignatius Zakka Iwas</h3>
+          <blockquote margin="0.75rem 0" padding="0.8rem 1rem" bgcolor="whitesmoke" radius="0.375rem" borderleft="3px solid #3b5bdb" fontstyle="italic">
+            "Those who want to make a difference between <i>Syriacs</i> and <i>Arameans</i> make a big mistake."
+          </blockquote>
+          <cite fontsize="0.85rem" color="gray">The Syriac Church of Antioch Through the Ages, p. 10</cite>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <hr class="mt3 bcblack">
+  <small class="gray">Published: 2026-07-24 | Interactive Super Timeline System</small>
+</section>
