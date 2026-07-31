@@ -1,411 +1,129 @@
 <script src="https://cdn.front.nu/nightly/front.js"></script>
 <template srcdoc="../../../index" src="../../../_templates/history"></template>
-<title globalize-get>Aramean & Aramaic History: A 3,000-Year Political & Cultural Timeline</title>
+<title>Timeline</title>
 
 <section class="pauto">
-  <h1>Aramean & Aramaic History: A 3,000-Year Political & Cultural Timeline</h1>
+  <h1 bindglobal="title:title">{title}</h1>
+
   <nav class="pointer" margintop="0.5rem" screen-xs="hide" screen-lg="show">
-    <ol padding="0" style="list-style: none; display: flex; gap: 0.5rem;">
-      <li><a href="#" globalize-get>Research</a></li>
-      <li><a href="./" globalize-get>History</a></li>
-      <li>Political & Cultural History</li>
+    <ol padding="0">
+      <li><a href="#" globalize-get="research">Research</a></li>
+      <li><a href="./" globalize-get="history">History</a></li>
+      <li>Timeline</li>
     </ol>
   </nav>
 
-  <article margintop="2rem">
+  <article margintop="1.5rem">
     <p>
-      This timeline documents the political kingdoms, administrative systems, religious institutions, and cultural developments of Aramean peoples across three millennia. It tracks the rise and fall of Aramean political autonomy, the adoption of Aramaic as an imperial language, the emergence of Syriac Christianity, and the persistence of Aramean communities through successive empires into the modern diaspora.
+      An interactive chronological index spanning 3,000 years of Aramean history. It brings together political
+      events, wars and conflicts, and recorded testimonies on the Aramean and Syriac names. Use the search field
+      to look up a person, place, or date, or filter by category to narrow the view.
     </p>
   </article>
 
-  <!-- Timeline Container -->
-  <div class="mt3" borderleft="3px solid #e03131" paddingleft="2.5rem" style="position: relative; margin-left: 1rem;">
+  <!-- Control & Filter Panel -->
+  <form class="shade0" margintop="2rem" padding="1.25rem" bgcolor="whitesmoke" radius="0.5rem"
+    border="1px solid #e0e0e0">
 
-    <!-- c. 1200–900 BC: Emergence -->
-    <article marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;">
-      <!-- Timeline Node Dot -->
-      <div style="position: absolute; left: -2.9rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
-      
-      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column];gap:[0.75rem]" screen-lg="flexdirection:[row];gap:[1.5rem]">
-        <time bold color="red" minwidth="140px" screen-xxs="marginbottom:[0.5rem]" style="font-size: 1.1rem; letter-spacing: 0.5px;">c. 1200–900 BC</time>
-        <div flex="1" flexdirection="column">
-          <h3 marginbottom="0.75rem">Emergence of Arameans</h3>
-          <p marginbottom="1rem" fontsize="0.95rem">Aramean tribes first appear in historical records as pastoral semi-nomadic groups inhabiting Upper Mesopotamia and the Levant, documented during the Bronze Age Collapse and early Iron Age.</p>
-          
-          <b color="red" fontsize="0.9rem">Possible Early Antecedents:</b>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Ebla Tablets</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(c. 2300 BC)</small>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem;">
-                Early mention of the geographic name "Aramu" in administrative records from northern Syria, though scholars debate its direct connection to the later Iron Age Aramean tribes.
-              </p>
-            </div>
-          </aside>
-          
-          <b color="red" fontsize="0.9rem">Primary Evidence:</b>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Tiglath-Pileser I Inscriptions</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(c. 1100 BC)</small>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem;">
-                First definitive Assyrian mention of the <i>Ahlamū-Arameans</i> (*Ahlamū Armāyē*) during military campaigns across the Euphrates.
-              </p>
-            </div>
-          </aside>
-        </div>
+    <!-- Text Filter -->
+    <label for="timelineFilter" block bold marginbottom="0.4rem" fontsize="0.85rem">Search the timeline</label>
+    <input id="timelineFilter" type="text" placeholder="Search keywords, authors, places, dates..."
+      placeholdercolor="silver" filtersearch--input onvaluechange="filtersearch--run:#superTimeline" width="100%"
+      padding="0.65rem 0.9rem" bgcolor="white" border="1px solid #ccc" radius="0.25rem" autocomplete="off">
+
+    <!-- Category Filter -->
+    <div flex alignitems="center" gap="1rem" margintop="1.25rem" style="flex-wrap: wrap;"
+      screen-xxs="flexdirection:[column];alignitems:[stretch]" screen-lg="flexdirection:[row];alignitems:[center]">
+
+      <small bold color="gray" fontsize="0.85rem" minwidth="5.5rem">Categories</small>
+
+      <div flex gap="1.25rem" flex="1" style="flex-wrap: wrap;">
+        <fieldset flex alignitems="center">
+          <input type="checkbox" id="chk_history" filtersearch--group="history" click="filtersearch--run:#superTimeline"
+            marginright=".4rem">
+          <label for="chk_history" cursor="pointer" fontsize="0.9rem">
+            <b color="#e03131">&#9679;</b> History &amp; Events
+          </label>
+        </fieldset>
+        <fieldset flex alignitems="center">
+          <input type="checkbox" id="chk_conflict" filtersearch--group="conflict"
+            click="filtersearch--run:#superTimeline" marginright=".4rem">
+          <label for="chk_conflict" cursor="pointer" fontsize="0.9rem">
+            <b color="#d9480f">&#9679;</b> Wars &amp; Conflicts
+          </label>
+        </fieldset>
+        <fieldset flex alignitems="center">
+          <input type="checkbox" id="chk_testimony" filtersearch--group="testimony"
+            click="filtersearch--run:#superTimeline" marginright=".4rem">
+          <label for="chk_testimony" cursor="pointer" fontsize="0.9rem">
+            <b color="#3b5bdb">&#9679;</b> Testimonies
+          </label>
+        </fieldset>
       </div>
-    </article>
 
-    <!-- c. 900–730 BC: Aramean Kingdoms -->
-    <article marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;">
-      <!-- Timeline Node Dot -->
-      <div style="position: absolute; left: -2.9rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
-      
-      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column];gap:[0.75rem]" screen-lg="flexdirection:[row];gap:[1.5rem]">
-        <time bold color="red" minwidth="140px" screen-xxs="marginbottom:[0.5rem]" style="font-size: 1.1rem; letter-spacing: 0.5px;">c. 900–730 BC</time>
-        <div flex="1" flexdirection="column">
-          <h3 marginbottom="0.75rem">Rise of Independent Aramean Kingdoms</h3>
-          <p marginbottom="1rem" fontsize="0.95rem">Major Aramean city-states flourish across Syria and Mesopotamia, including Aram-Damascus, Hamath, Bit-Agusi (Arpad), Bit-Adini, Bit-Bahiani, and Sam'al, establishing a dominant regional geopolitical presence.</p>
+      <a href="#" class="pointer" color="gray" fontsize="0.85rem" style="text-decoration: underline;"
+        click="resetvalue:#timelineFilter;filtersearch--run:#superTimeline">Reset</a>
+    </div>
+  </form>
 
-          <b color="red" fontsize="0.9rem">Primary Evidence:</b>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Tel Dan Stele</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(c. 840 BC)</small>
-              <blockquote style="margin: 0.5rem 0 0 0; font-size: 0.9rem; font-style: italic; color: #444;">
-                "[I killed Jeho]ram son of [Ahab] king of Israel, and [I] killed [Ahaz]iah son of [Jehoram kin]g of the House of David..."
-              </blockquote>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.85rem; color: #666;">
-                Triumphal Old Aramaic royal inscription attributed to King Hazael of Aram-Damascus, demonstrating Aramean military power in the southern Levant.
-              </p>
-            </div>
-          </aside>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Kurkh Monoliths</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(852 BC)</small>
-              <blockquote style="margin: 0.5rem 0 0 0; font-size: 0.9rem; font-style: italic; color: #444;">
-                "Karkar, his royal city, I destroyed, I devastated, I burned with fire. 1,200 chariots, 1,000 cavalry, 20,000 soldiers, of Hadad-ezer, of Aram; 700 chariots, 700 cavalry, 10,000 soldiers of Irhulêni of Hamath."
-              </blockquote>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.85rem; color: #666;">
-                Documents an coalition of 12 kings, led by Aramean rulers, resisting Neo-Assyrian conquest at the Battle of Karkar.
-              </p>
-            </div>
-          </aside>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Stele of Zakkur</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(8th century BC)</small>
-              <blockquote style="margin: 0.5rem 0 0 0; font-size: 0.9rem; font-style: italic; color: #444;">
-                "I am Zakkur, king of Hamath and Luash... Bar-Hadad, son of Hazael, king of Aram, united against me seventeen kings."
-              </blockquote>
-            </div>
-          </aside>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Sefire Steles</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(8th century BC)</small>
-              <blockquote style="margin: 0.5rem 0 0 0; font-size: 0.9rem; font-style: italic; color: #444;">
-                "The treaty of Bar-Ga'yah, king of KTK, with Mati'el...and the treaty of all Aram and with Misr and with his sons."
-              </blockquote>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.85rem; color: #666;">
-                Treaty texts explicitly referencing "all Aram" to denote a distinct shared ethnolinguistic realm.
-              </p>
-            </div>
-          </aside>
-        </div>
+  <!-- Empty Search Results Alert -->
+  <div id="timelineEmpty" hide textalign="center" padding="3rem 1rem">
+    <h3 color="#e03131">No timeline entries match your filter.</h3>
+    <p color="gray" margintop="0.5rem">Try a different keyword or name, or clear the active category filters.</p>
+    <a href="#" class="pointer" inlineblock radius="0.25rem" padding="0.5rem 1.25rem" bgcolor="#e03131" color="white"
+      margintop="1rem" click="resetvalue:#timelineFilter;filtersearch--run:#superTimeline">Reset filters</a>
+  </div>
+
+  <!-- Timeline List -->
+  <div id="superTimeline" class="mt3" borderleft="2px solid #e9e9e9" paddingleft="2.5rem"
+    style="position: relative; margin-left: 1rem;" filtersearch--onempty="#timelineEmpty" data-iterate="timeline"
+    data-src="assets/json/supertimeline.json">
+
+    <article class="timeline-item" marginbottom="2rem" style="position: relative;" filtersearch--select>
+
+      <!-- Rail node -->
+      <div
+        style="position: absolute; left: -3.05rem; top: 1.4rem; width: 11px; height: 11px; border-radius: 50%; background-color: #e03131; border: 3px solid white; box-shadow: 0 0 0 1px #e9e9e9;">
       </div>
-    </article>
 
-    <!-- 745–732 BC: Neo-Assyrian Conquest -->
-    <article marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;">
-      <!-- Timeline Node Dot -->
-      <div style="position: absolute; left: -2.9rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
-      
-      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column];gap:[0.75rem]" screen-lg="flexdirection:[row];gap:[1.5rem]">
-        <time bold color="red" minwidth="140px" screen-xxs="marginbottom:[0.5rem]" style="font-size: 1.1rem; letter-spacing: 0.5px;">745–732 BC</time>
-        <div flex="1" flexdirection="column">
-          <h3 marginbottom="0.75rem">Neo-Assyrian Conquest</h3>
-          <p marginbottom="1rem" fontsize="0.95rem">Tiglath-Pileser III and his successors systematically annex independent Aramean polities into provinces. The Fall of Damascus in 732 BC marks the end of autonomous Aramean statehood in the Iron Age.</p>
-          
-          <b color="red" fontsize="0.9rem">Primary Evidence:</b>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Annals of Tiglath-Pileser III</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(745–727 BC)</small>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem;">
-                Records the systematic conquest of Damascus, Arpad, and Hamath, alongside large-scale population deportations across the empire that accelerated language diffusion.
-              </p>
-            </div>
-          </aside>
+      <span hide filtersearch--marker data-get="category"></span>
+
+      <div class="shade0" bgcolor="white" border="1px solid #ececec" radius="0.5rem" padding="1.25rem"
+        screen-lg="padding:[1.5rem]">
+
+        <!-- Meta row: date + category badge -->
+        <div flex alignitems="center" gap="0.75rem" marginbottom="0.75rem" style="flex-wrap: wrap;">
+          <time bold data-get="date" fontsize="1.05rem" style="letter-spacing: 0.3px;"
+            data-onget="([{category}]:[history])/setattr:[color=#e03131];([{category}]:[conflict])/setattr:[color=#d9480f];([{category}]:[testimony])/setattr:[color=#3b5bdb]"></time>
+          <span inlineblock padding="0.15rem 0.55rem" radius="999px" fontsize="0.7rem" fontweight="bold"
+            style="letter-spacing: 0.4px;"
+            data-onget="([{category}]:[history])/setattr:[bgcolor=#ffe3e3,color=#e03131];([{category}]:[conflict])/setattr:[bgcolor=#fff4e6,color=#d9480f];([{category}]:[testimony])/setattr:[bgcolor=#dbe4ff,color=#3b5bdb]"
+            data-set="category:category"
+            data-getif="([{category}]:[history])/Historical Event;([{category}]:[conflict])/War & Conflict;([{category}]:[testimony])/Testimony"></span>
         </div>
-      </div>
-    </article>
 
-    <!-- 730–610 BC: Aramaic Imperial Language -->
-    <article marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;">
-      <!-- Timeline Node Dot -->
-      <div style="position: absolute; left: -2.9rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
-      
-      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column];gap:[0.75rem]" screen-lg="flexdirection:[row];gap:[1.5rem]">
-        <time bold color="red" minwidth="140px" screen-xxs="marginbottom:[0.5rem]" style="font-size: 1.1rem; letter-spacing: 0.5px;">730–610 BC</time>
-        <div flex="1" flexdirection="column">
-          <h3 marginbottom="0.75rem">Aramaic as Neo-Assyrian Lingua Franca</h3>
-          <p marginbottom="1rem" fontsize="0.95rem">Despite political defeat, the alphabetic Aramaic language becomes the primary administrative script and lingua franca of the Neo-Assyrian Empire alongside Akkadian cuneiform.</p>
-          
-          <b color="red" fontsize="0.9rem">Primary Evidence:</b>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Aramaic Ostraca & Scribe Portrayals</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(Archaeological reliefs)</small>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem;">
-                Assyrian palace reliefs explicitly depict paired scribes: one writing Akkadian on a clay tablet, and an Aramean scribe writing ink on parchment/papyrus.
-              </p>
-            </div>
-          </aside>
-        </div>
-      </div>
-    </article>
+        <h3 marginbottom="0.5rem" fontsize="1.15rem" lineheight="1.35" data-get="title"></h3>
 
-    <!-- 610–539 BC: Neo-Babylonian Period -->
-    <article marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;">
-      <!-- Timeline Node Dot -->
-      <div style="position: absolute; left: -2.9rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
-      
-      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column];gap:[0.75rem]" screen-lg="flexdirection:[row];gap:[1.5rem]">
-        <time bold color="red" minwidth="140px" screen-xxs="marginbottom:[0.5rem]" style="font-size: 1.1rem; letter-spacing: 0.5px;">610–539 BC</time>
-        <div flex="1" flexdirection="column">
-          <h3 marginbottom="0.75rem">Neo-Babylonian Period</h3>
-          <p marginbottom="1rem" fontsize="0.95rem">Aramean lands fall under Neo-Babylonian control. Aramaic continues as the dominant daily vernacular, business medium, and administrative language throughout Babylonia.</p>
-          
-          <b color="red" fontsize="0.9rem">Primary Evidence:</b>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Aramaic Biblical Texts & Legal Dockets</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(Daniel, Ezra, Cuneiform clay dockets)</small>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem;">
-                Aramaic notes inked directly onto administrative cuneiform tablets demonstrate widespread everyday literacy in Aramaic across Babylonia.
-              </p>
-            </div>
-          </aside>
-        </div>
-      </div>
-    </article>
+        <p fontsize="0.95rem" lineheight="1.65" color="#333" data-get="description"
+          data-onget="([{category}]:[testimony])/hide"></p>
 
-    <!-- 539–332 BC: Persian Period -->
-    <article marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;">
-      <!-- Timeline Node Dot -->
-      <div style="position: absolute; left: -2.9rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
-      
-      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column];gap:[0.75rem]" screen-lg="flexdirection:[row];gap:[1.5rem]">
-        <time bold color="red" minwidth="140px" screen-xxs="marginbottom:[0.5rem]" style="font-size: 1.1rem; letter-spacing: 0.5px;">539–332 BC</time>
-        <div flex="1" flexdirection="column">
-          <h3 marginbottom="0.75rem">Achaemenid Empire: Imperial Aramaic Zenith</h3>
-          <p marginbottom="1rem" fontsize="0.95rem">The Persian Empire adopts "Imperial Aramaic" as its standardized official chancery language, spanning from Egypt to India. Aramaic achieves unmatched geographic dominance as a global administrative medium.</p>
-          
-          <b color="red" fontsize="0.9rem">Primary Evidence:</b>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Elephantine Papyri</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(5th century BC)</small>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem;">
-                Extensive military and administrative papyri discovered in southern Egypt, written in standardized Imperial Aramaic, illustrating its uniform usage across the Persian realm.
-              </p>
-            </div>
-          </aside>
-        </div>
-      </div>
-    </article>
+        <blockquote margin="0.25rem 0 0.75rem 0" padding="0.9rem 1.1rem" bgcolor="whitesmoke" radius="0.375rem"
+          borderleft="3px solid #3b5bdb" fontstyle="italic" fontsize="1rem" lineheight="1.6" color="#222"
+          data-get="quote" data-onget="([{category}]:[history])/hide;([{category}]:[conflict])/hide"></blockquote>
 
-    <!-- 332–64 BC: Hellenistic Period -->
-    <article marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;">
-      <!-- Timeline Node Dot -->
-      <div style="position: absolute; left: -2.9rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
-      
-      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column];gap:[0.75rem]" screen-lg="flexdirection:[row];gap:[1.5rem]">
-        <time bold color="red" minwidth="140px" screen-xxs="marginbottom:[0.5rem]" style="font-size: 1.1rem; letter-spacing: 0.5px;">332–64 BC</time>
-        <div flex="1" flexdirection="column">
-          <h3 marginbottom="0.75rem">Hellenistic Period: Vernacular Persistence & Dialectal Branching</h3>
-          <p marginbottom="1rem" fontsize="0.95rem">While Greek became the official political language of the Macedonian and Seleucid ruling elites, Aramaic remained the undisputed vernacular of daily life, trade, and local law across the Near East. During this period, Imperial Aramaic fractured into distinct regional dialects (Palmyrene, Nabataean, Early Syriac, and Hatrenian).</p>
-
-          <b color="red" fontsize="0.9rem">Primary Evidence:</b>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Bilingual Greek-Aramaic Inscriptions & Legal Papyri</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(3rd–2nd century BC)</small>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem;">
-                Extensive administrative and private legal contracts from across Syria, Judea, and Mesopotamia show local populations continuing to record property sales, marriage contracts, and judicial decisions in Aramaic alongside Greek official headers.
-              </p>
-            </div>
-          </aside>
-
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Early Palmyrene & Nabataean Royal Inscriptions</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(3rd–1st century BC)</small>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem;">
-                Dedication texts and monument inscriptions at centers like Petra and Palmyra demonstrate the emergence of specialized Aramaic cursive scripts used for indigenous governance, trade routes, and religious cults.
-              </p>
-            </div>
-          </aside>
-        </div>
-      </div>
-    </article>
-
-    <!-- 132 BC–AD 273: Kingdoms of Osroene & Palmyra -->
-    <article marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;">
-      <!-- Timeline Node Dot -->
-      <div style="position: absolute; left: -2.9rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
-      
-      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column];gap:[0.75rem]" screen-lg="flexdirection:[row];gap:[1.5rem]">
-        <time bold color="red" minwidth="140px" screen-xxs="marginbottom:[0.5rem]" style="font-size: 1.1rem; letter-spacing: 0.5px;">132 BC–AD 273</time>
-        <div flex="1" flexdirection="column">
-          <h3 marginbottom="0.75rem">Aramean Kingdoms of Osroene & Palmyra</h3>
-          <p marginbottom="1rem" fontsize="0.95rem">Between Roman and Parthian spheres, semi-autonomous Aramaic realms flourish. Osroene (capital Edessa/Urhoy) becomes the first state to adopt Christianity, establishing Syriac as the premiere literary dialect of Aramaic.</p>
-          
-          <b color="red" fontsize="0.9rem">Primary Evidence:</b>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Edessan Epigraphy & Early Peshitta Translation</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(2nd–3rd century AD)</small>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem;">
-                Emergence of classical Syriac literature in Edessa, establishing a rich tradition of theological writing, philosophy, and hymnody centered in Upper Mesopotamia.
-              </p>
-            </div>
-          </aside>
-        </div>
-      </div>
-    </article>
-
-    <!-- 64 BC–AD 637: Roman & Sasanian Era -->
-    <article marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;">
-      <!-- Timeline Node Dot -->
-      <div style="position: absolute; left: -2.9rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
-      
-      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column];gap:[0.75rem]" screen-lg="flexdirection:[row];gap:[1.5rem]">
-        <time bold color="red" minwidth="140px" screen-xxs="marginbottom:[0.5rem]" style="font-size: 1.1rem; letter-spacing: 0.5px;">64 BC–AD 637</time>
-        <div flex="1" flexdirection="column">
-          <h3 marginbottom="0.75rem">Roman & Sasanian Eras: Birth of Syriac Christianity</h3>
-          <p marginbottom="1rem" fontsize="0.95rem">Christianity spreads rapidly among native Aramaic populations. Syriac becomes the third great language of early Christianity (alongside Greek and Latin), fostering major scholastic centers in Nisibis, Edessa, and Antioch.</p>
-          
-          <b color="red" fontsize="0.9rem">Primary Evidence:</b>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">New Testament Aramaic Expressions</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(1st century AD)</small>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem; font-style: italic; color: #444;">
-                "Talitha koum" (Mark 5:41), "Eloi, Eloi, lama sabachthani" (Mark 15:34)
-              </p>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.85rem; color: #666;">
-                Direct textual preservation of 1st-century Levantine Aramaic phrases in Gospel accounts.
-              </p>
-            </div>
-          </aside>
-        </div>
-      </div>
-    </article>
-
-    <!-- AD 637–1453: Islamic Period & Scholarship -->
-    <article marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;">
-      <!-- Timeline Node Dot -->
-      <div style="position: absolute; left: -2.9rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
-      
-      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column];gap:[0.75rem]" screen-lg="flexdirection:[row];gap:[1.5rem]">
-        <time bold color="red" minwidth="140px" screen-xxs="marginbottom:[0.5rem]" style="font-size: 1.1rem; letter-spacing: 0.5px;">AD 637–1453</time>
-        <div flex="1" flexdirection="column">
-          <h3 marginbottom="0.75rem">Islamic Era: Preservation & Translation Movement</h3>
-          <p marginbottom="1rem" fontsize="0.95rem">As Arabic gradually replaces Aramaic as the civil language, Aramean identities are maintained via Syriac Church networks. Syriac scholars act as crucial intellectual intermediaries during the Islamic Golden Age.</p>
-          
-          <b color="red" fontsize="0.9rem">Primary Evidence:</b>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">The Graeco-Arabic Translation Movement</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(8th–10th centuries)</small>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem;">
-                Syriac Aramean scholars like Hunayn ibn Ishaq translate classical Greek philosophy, medicine, and mathematics into Syriac and Arabic, laying the groundwork for medieval science.
-              </p>
-            </div>
-          </aside>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Patristic & Historical Chronicles</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(7th–13th centuries)</small>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem;">
-                Continuous self-identification in Syriac literary sources explicitly linking identity to ancient Aramean roots:
-              </p>
-              <ul style="margin: 0.5rem 0 0 1.25rem; padding: 0; font-size: 0.85rem; color: #444;">
-                <li><b>Mor Jacob of Edessa (d. 708):</b> <i>"It appears that the south was so named also by us Arameans... the ancient sons of Aram."</i></li>
-                <li><b>Bar Hebraeus (1226-1286):</b> <i>"Blessed is Christ... who chose the Church, daughter of the Arameans."</i></li>
-                <li><b>Mor Severus of Antioch (465-538):</b> <i>"We Arameans, that is to say Syriacs..."</i></li>
-              </ul>
-            </div>
-          </aside>
-        </div>
-      </div>
-    </article>
-
-    <!-- AD 1453–1918: Ottoman Era -->
-    <article marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;">
-      <!-- Timeline Node Dot -->
-      <div style="position: absolute; left: -2.9rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
-      
-      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column];gap:[0.75rem]" screen-lg="flexdirection:[row];gap:[1.5rem]">
-        <time bold color="red" minwidth="140px" screen-xxs="marginbottom:[0.5rem]" style="font-size: 1.1rem; letter-spacing: 0.5px;">AD 1453–1918</time>
-        <div flex="1" flexdirection="column">
-          <h3 marginbottom="0.75rem">Ottoman Era: Isolation & The Sayfo Genocide</h3>
-          <p marginbottom="1rem" fontsize="0.95rem">Under Ottoman rule, Aramean Christian communities survive in mountainous enclaves such as Tur Abdin. This period culminates in the catastrophic loss of life during the 1915 Sayfo genocide.</p>
-          
-          <b color="red" fontsize="0.9rem">Primary Evidence:</b>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Sayfo Genocide Records</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(AD 1914–1918)</small>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem;">
-                Consular reports and eyewitness testimonies documenting targeted violence against Syriac/Aramean populations, reshaping modern communal memory and demographics.
-              </p>
-            </div>
-          </aside>
-        </div>
-      </div>
-    </article>
-
-    <!-- AD 1918–Present: Modern Era -->
-    <article marginbottom="3rem" paddingbottom="2rem" borderbottom="1px solid #eee" style="position: relative;">
-      <!-- Timeline Node Dot -->
-      <div style="position: absolute; left: -2.9rem; top: 0.25rem; width: 12px; height: 12px; border-radius: 50%; background-color: #e03131; border: 3px solid white;"></div>
-      
-      <div flex gap="1.5rem" alignitems="flex-start" screen-xxs="flexdirection:[column];gap:[0.75rem]" screen-lg="flexdirection:[row];gap:[1.5rem]">
-        <time bold color="red" minwidth="140px" screen-xxs="marginbottom:[0.5rem]" style="font-size: 1.1rem; letter-spacing: 0.5px;">AD 1918–Present</time>
-        <div flex="1" flexdirection="column">
-          <h3 marginbottom="0.75rem">Modern Era: Diaspora & Language Preservation</h3>
-          <p marginbottom="1rem" fontsize="0.95rem">Driven by regional conflicts, Arameans form global diaspora communities across Europe, North America, and Australia, establishing cultural associations and language immersion programs for Neo-Aramaic.</p>
-          
-          <b color="red" fontsize="0.9rem">Primary Evidence:</b>
-          <aside flex flexdirection="column" bgcolor="whitesmoke" padding="1.25rem" borderradius="0.375rem" borderleft="3px solid #e03131" margin="1rem 0">
-            <div>
-              <b fontsize="0.95rem">Official Ethnic Status Recognition</b>
-              <small fontsize="80%" color="gray" style="display: block; margin-top: 0.2rem;">(AD 2014)</small>
-              <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem;">
-                In 2014, Israel officially recognized "Aramean" as a distinct nationality option in its national registry for local Christian citizens.
-              </p>
-            </div>
-          </aside>
-        </div>
+        <cite block fontsize="0.82rem" color="gray" lineheight="1.5" data-get="citation"
+          data-onget="([{category}]:[history])/hide;([{category}]:[conflict])/hide"></cite>
       </div>
     </article>
 
   </div>
 
-  <hr class="mt3 bcblack" style="border: none; border-top: 1px solid #ddd;">
-  
-  <section margintop="2rem">
-    <h2>Note on Evidence Types</h2>
-    <p>
-      This timeline presents political events, territorial claims, administrative systems, religious institutions, and cultural practices. It documents Aramean presence across history through primary sources and archaeological evidence. For evidence of identity continuity and self-recognition across these periods, see <a href="./testimonies.html">Testimonies: Aramean & Syriac Identity</a>.
-    </p>
-  </section>
+  <hr class="mt3 bcblack">
+  <p fontsize="0.95rem">
+    For source provenance, terminology, and the limits of the evidence behind these entries, see
+    <a href="./historical-sources.html" color="red">Historical Sources</a>.
+  </p>
 
-  <hr class="mt2 bcblack" style="border: none; border-top: 1px solid #ddd;">
-  <small class="gray" style="display: block; margin-top: 1rem;">Published: 2020-09-01, Last update: 2026-01-10</small>
+  <hr class="mt2 bcblack">
+  <small class="gray">Published: 2026-07-24, Last update: 2026-07-31</small>
 </section>
