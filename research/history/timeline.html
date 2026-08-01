@@ -109,10 +109,15 @@
 
         <blockquote margin="0.25rem 0 0.75rem 0" padding="0.9rem 1.1rem" bgcolor="whitesmoke" radius="0.375rem"
           borderleft="3px solid #3b5bdb" fontstyle="italic" fontsize="1rem" lineheight="1.6" color="#222"
-          data-get="quote" data-onget="([{category}]:[history])/hide;([{category}]:[conflict])/hide"></blockquote>
+          data-get="quote" data-set="quote:quote" if="([{quote}]:[])/hide"></blockquote>
 
         <cite block fontsize="0.82rem" color="gray" lineheight="1.5" data-get="citation"
           data-onget="([{category}]:[history])/hide;([{category}]:[conflict])/hide"></cite>
+
+        <p class="mt1" hide data-if="sources" fontsize="0.8rem" color="gray" lineheight="1.6">
+          <b color="#555">Sources:</b>
+          <span data-get="sources" data-iterate="sources" data-format="join: '; '"></span>
+        </p>
       </div>
     </article>
 
