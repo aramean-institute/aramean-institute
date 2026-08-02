@@ -1,9 +1,39 @@
 {
   "timeline": [
     {
-      "id": 1,
       "category": "history",
-      "date": "c. 1200 BC",
+      "date": "2300 BC",
+      "title": "Earliest Epigraphic Mention of Aram",
+      "description": "The name 'Aramu' or 'A-ra-mu' appears in cuneiform inscriptions from Ebla and the Akkadian Empire under Naram-Sin. While its precise geographic and demographic link to the later Iron Age Arameans remains debated, it represents the earliest recorded use of the root name in Upper Mesopotamia.",
+      "search": "history 2300 BC Earliest Epigraphic Mention of Aram Ebla Naram-Sin Akkadian cuneiform",
+      "sources": [
+        "Ebla Archive tablets (c. 2300 BC) mentioning the geographic/tribal realm Aram",
+        "Inscription of Naram-Sin of Akkad (c. 2250 BC) referencing campaigns against Aram"
+      ]
+    },
+    {
+      "category": "conflict",
+      "date": "1200 BC",
+      "title": "Early Aramean Tribal Conflicts",
+      "description": "Conflicts between Aramean tribes over pasture rights, water access, and leadership. These were typically limited in scale, involving small forces and raids rather than large-scale organized warfare.",
+      "search": "conflict c. 1200 BC–1000 BC Early Aramean Tribal Conflicts Intertribal Warfare pasture raids tribal",
+      "sources": [
+        "Neo-Assyrian royal inscriptions, campaign accounts naming Aramean tribal groups"
+      ]
+    },
+    {
+      "category": "history",
+      "date": "1114 BC",
+      "title": "Assyrian Campaigns of Tiglath-Pileser I",
+      "description": "Assyrian king Tiglath-Pileser I documents campaigns against the Arameans in the desert regions, recognizing them as a major security threat to the Assyrian realm.",
+      "search": "conflict c. 1114 BC–1076 BC Tiglath-Pileser I Arameans Prism Q005926 Assur",
+      "sources": [
+        "Prism Q005926: 'With the support of the god Aššur, my lord, I took my chariots and warriors (and) set off for the desert. I marched against the Arameans...'"
+      ]
+    },
+    {
+      "category": "history",
+      "date": "1100 BC",
       "title": "Emergence of the Aramean Kingdoms",
       "description": "Aramean pastoral semi-nomadic groups settle in Upper Mesopotamia and Syria following the Bronze Age Collapse. Sovereign polities such as Aram-Damascus, Bit-Adini, Bit-Agusi, Hamath, and Sam'al establish royal courts, legal administration, and major trade routes.",
       "search": "history c. 1200 BC Emergence of the Aramean Kingdoms Bronze Age Collapse Early Emergence Ebla Tablets",
@@ -14,20 +44,8 @@
       ]
     },
     {
-      "id": 2,
       "category": "conflict",
-      "date": "c. 1200 BC",
-      "title": "Early Aramean Tribal Conflicts",
-      "description": "Conflicts between Aramean tribes over pasture rights, water access, and leadership. These were typically limited in scale, involving small forces and raids rather than large-scale organized warfare.",
-      "search": "conflict c. 1200 BC–1000 BC Early Aramean Tribal Conflicts Intertribal Warfare pasture raids tribal",
-      "sources": [
-        "Neo-Assyrian royal inscriptions, campaign accounts naming Aramean tribal groups"
-      ]
-    },
-    {
-      "id": 3,
-      "category": "conflict",
-      "date": "c. 1100 BC",
+      "date": "1100 BC",
       "title": "Assyrian Tribal Wars",
       "description": "Aramean tribes resisted Assyrian expansion beginning in the 12th century BC. Tiglath-Pileser I documented campaigns against Aramean Ahlame tribes. These conflicts marked the transition from tribal to imperial warfare.",
       "search": "conflict c. 1100 BC–1000 BC Assyrian Tribal Wars Tiglath-Pileser I Ahlame resistance expansion",
@@ -36,9 +54,19 @@
       ]
     },
     {
-      "id": 4,
+      "category": "culture",
+      "date": "1000 BC",
+      "title": "Development of the Old Aramaic Alphabet",
+      "description": "Arameans adapt the Phoenician linear alphabet to create the Old Aramaic script. Due to its simplicity compared to cuneiform and hieroglyphs, it rapidly becomes the dominant script for international commerce and official correspondence across the Levant.",
+      "search": "culture 1000 BC Development of Old Aramaic Alphabet linear script alphabet Levant commerce",
+      "sources": [
+        "Tel Fekheriye Inscription (c. 850 BC), bilingual Akkadian-Aramaic statue inscription",
+        "Ahiram sarcophagus and early Levantine alphabetic epigraphy comparisons"
+      ]
+    },
+    {
       "category": "conflict",
-      "date": "c. 1000 BC",
+      "date": "1000 BC",
       "title": "Inter-Kingdom Rivalries",
       "description": "As Aramean kingdoms emerged, rivalries developed. Damascus and Hamath competed for dominance. Sam'al and Bit-Agusi fought over territorial boundaries. These conflicts shaped the political landscape of the Levant.",
       "search": "conflict c. 1000 BC–800 BC Inter-Kingdom Rivalries Damascus Hamath Sam'al Bit-Agusi kingdom rivalry territory",
@@ -49,21 +77,6 @@
       ]
     },
     {
-      "id": 5,
-      "category": "conflict",
-      "date": "c. 900 BC",
-      "title": "Aram-Damascus vs Israel",
-      "description": "Repeated conflicts between Aram-Damascus and the Kingdom of Israel over control of Levantine territory. Notable conflicts included wars involving prophets Elijah and Elisha.",
-      "search": "conflict c. 900 BC–732 BC Aram-Damascus vs Israel Levant Elijah Elisha Ben-Hadad Hazael",
-      "sources": [
-        "Tel Dan Stele (9th century BC), Israel Museum, in which an Aramean king, likely Hazael, names the House of David and the King of Israel",
-        "Hazael Booty Inscriptions (c. 840 BC)",
-        "Hazael Horse Frontlet (c. 840 BC)",
-        "Ein Gev Inscription (9th century BC)"
-      ]
-    },
-    {
-      "id": 6,
       "category": "history",
       "date": "911 BC",
       "title": "Neo-Assyrian Expansion & Adoption of Aramaic",
@@ -76,7 +89,19 @@
       ]
     },
     {
-      "id": 7,
+      "category": "conflict",
+      "date": "900 BC",
+      "title": "Aram-Damascus vs Israel",
+      "description": "Repeated conflicts between Aram-Damascus and the Kingdom of Israel over control of Levantine territory. Notable conflicts included wars involving prophets Elijah and Elisha.",
+      "search": "conflict c. 900 BC–732 BC Aram-Damascus vs Israel Levant Elijah Elisha Ben-Hadad Hazael",
+      "sources": [
+        "Tel Dan Stele (9th century BC), Israel Museum, in which an Aramean king, likely Hazael, names the House of David and the King of Israel",
+        "Hazael Booty Inscriptions (c. 840 BC)",
+        "Hazael Horse Frontlet (c. 840 BC)",
+        "Ein Gev Inscription (9th century BC)"
+      ]
+    },
+    {
       "category": "conflict",
       "date": "853 BC",
       "title": "Battle of Qarqar – Coalition Against Assyria",
@@ -88,7 +113,47 @@
       ]
     },
     {
-      "id": 8,
+      "category": "conflict",
+      "date": "850 BC",
+      "title": "Rise of Hazael of Aram-Damascus",
+      "description": "Hazael usurps the throne of Damascus and expands Aram-Damascus into the dominant power of the Southern Levant. He campaigns against Israel, Judah, and Philistia, establishing military dominance recorded in both biblical texts and Aramaic royal stelae.",
+      "search": "conflict 850 BC Rise of Hazael Aram-Damascus expansion Israel Judah Levantine hegemony",
+      "sources": [
+        "Tel Dan Stele (9th century BC), recording Hazael's victories over the kings of Israel and Judah",
+        "Hazael Booty Inscriptions found at Samos and Eretria"
+      ]
+    },
+    {
+      "category": "culture",
+      "date": "805 BC",
+      "title": "Stele of Zakkur, King of Hamath and Lu'ash",
+      "description": "King Zakkur dedicates an inscribed basalt stele to the storm god Baalshamin after surviving a major siege by a coalition of northern kings led by Ben-Hadad III of Damascus. The text offers vital Old Aramaic religious and military narrative.",
+      "search": "culture 805 BC Stele of Zakkur Hamath Lu'ash Baalshamin siege Ben-Hadad III Old Aramaic",
+      "sources": [
+        "Stele of Zakkur (c. 805–775 BC, Louvre Museum, AO 8185)"
+      ]
+    },
+    {
+      "category": "conflict",
+      "date": "760 BC",
+      "title": "Sargon II Inscriptions on Arameans",
+      "description": "Inscriptions of Neo-Assyrian king Sargon II explicitly document campaigns against dangerous Aramean forces, referencing the land of Aram and its subprovinces Bīt-Amukkāni and Bīt-Dakkūri.",
+      "search": "conflict c. 760 BC–705 BC Sargon II Inscriptions Arameans Bit-Amukkani Bit-Dakkuri Uqnu River",
+      "sources": [
+        "Inscriptions of Sargon II naming dangerous Arameans and the lands of Aram, Bīt-Amukkāni, and Bīt-Dakkūri"
+      ]
+    },
+    {
+      "category": "culture",
+      "date": "750 BC",
+      "title": "The Sefire Treaties & State Diplomacy",
+      "description": "Inscriptions on three basalt stelae near Aleppo record an administrative and military treaty between Mati'el, King of Arpad, and Bar-Ga'yah, King of KTK. The text serves as one of the most critical legal documents of ancient Imperial Aramaic statecraft and covenant theology.",
+      "search": "culture 750 BC Sefire Treaties Mati'el Arpad Bar-Ga'yah Old Aramaic Law",
+      "sources": [
+        "Sefire Stelae I, II, and III (8th century BC, National Museum of Damascus), referencing 'all Aram' and 'Upper and Lower Aram'"
+      ]
+    },
+    {
       "category": "conflict",
       "date": "745 BC",
       "title": "Tiglath-Pileser III Campaigns",
@@ -101,9 +166,8 @@
       ]
     },
     {
-      "id": 9,
       "category": "conflict",
-      "date": "c. 720 BC",
+      "date": "720 BC",
       "title": "Sargon II Campaigns",
       "description": "Continued Assyrian conquest under Sargon II. The final independent Aramean territories fell under Assyrian control.",
       "search": "conflict c. 720 BC Sargon II Campaigns Assyrian conquest final independent territories",
@@ -113,7 +177,6 @@
       ]
     },
     {
-      "id": 10,
       "category": "history",
       "date": "626 BC",
       "title": "Neo-Babylonian Period",
@@ -126,12 +189,11 @@
       ]
     },
     {
-      "id": 11,
-      "category": "history",
+      "category": "culture",
       "date": "539 BC",
       "title": "Achaemenid Persia & Imperial Aramaic",
       "description": "The Persian Empire adopts a standardized Aramaic as its official chancery language, used from Egypt to the Indus. This is the period of Aramaic's widest administrative reach, attested by documents recovered across the empire.",
-      "search": "history 539 BC Achaemenid Persia Imperial Aramaic chancery Cyrus Elephantine Papyri standardization",
+      "search": "culture 539 BC Achaemenid Persia Imperial Aramaic chancery Cyrus Elephantine Papyri standardization",
       "sources": [
         "Elephantine Papyri (5th century BC), Imperial Aramaic administrative and legal documents from Egypt",
         "Behistun Aramaic Inscription (c. 520 BC)",
@@ -143,12 +205,32 @@
       ]
     },
     {
-      "id": 12,
-      "category": "history",
+      "category": "culture",
+      "date": "500 BC",
+      "title": "The Tale of Ahikar",
+      "description": "Composed in Imperial Aramaic during the Achaemenid era (found at Elephantine, Egypt), the story of Ahikar—a wise chancellor to Assyrian kings Sennacherib and Esarhaddon—becomes one of the most popular wisdom texts of the ancient world, shaping later Near Eastern and Greek literature.",
+      "search": "culture 500 BC Tale of Ahikar Imperial Aramaic Wisdom Literature Elephantine",
+      "sources": [
+        "Elephantine Papyri (5th century BC), Ahikar papyrus scroll fragment",
+        "Later Syriac, Ethiopic, and Armenian translations of the Ahiqar narrative"
+      ]
+    },
+    {
+      "category": "culture",
+      "date": "402 BC",
+      "title": "Elephantine Receipt for a Grain Loan",
+      "description": "Ananiah, son of Haggai, borrows grain from Pakhnum, an Aramean residing in Elephantine, Egypt. The surviving receipt documents everyday Aramean legal and commercial practice.",
+      "search": "culture 402 BC Receipt Grain Loan Ananiah Pakhnum Aramean Elephantine",
+      "sources": [
+        "Elephantine papyrus receipt for grain loan (December 402 BC)"
+      ]
+    },
+    {
+      "category": "culture",
       "date": "332 BC",
       "title": "Hellenistic Period & Dialect Branching",
       "description": "Greek becomes the language of the Macedonian and Seleucid ruling elite, while Aramaic remains the vernacular of daily life, trade, and local law. During this period Imperial Aramaic branches into distinct regional dialects, including Palmyrene, Nabataean, Hatran, and the Edessan dialect later known as Syriac.",
-      "search": "history 332 BC Hellenistic Period Dialect Branching Seleucid Greek Palmyrene Nabataean Hatran Edessan Syriac vernacular",
+      "search": "culture 332 BC Hellenistic Period Dialect Branching Seleucid Greek Palmyrene Nabataean Hatran Edessan Syriac vernacular",
       "sources": [
         "Kandahar Bilingual Rock Inscription (c. 260 BC)",
         "Aramaic Inscription of Taxila (3rd century BC)",
@@ -159,383 +241,776 @@
       ]
     },
     {
-      "id": 13,
+      "category": "culture",
+      "date": "200 BC",
+      "title": "Composition of the Aramaic Portions of the Dead Sea Scrolls",
+      "description": "Jewish communities in Qumran produce and preserve numerous Aramaic literary texts, including the Genesis Apocryphon, Enoch literature, and the Targums (Aramaic translations of Hebrew scripture), demonstrating Aramaic's role as the Jewish vernacular.",
+      "search": "culture 200 BC Composition Aramaic Dead Sea Scrolls Qumran Genesis Apocryphon Targums vernacular",
+      "sources": [
+        "Dead Sea Scrolls Aramaic manuscripts (Cave 1, Cave 4 Qumran archives)"
+      ]
+    },
+    {
+      "category": "history",
+      "date": "132 BC",
+      "title": "Kingdom of Osroene (Bet Urhoy)",
+      "description": "The Abgarid dynasty rules Osroene from Edessa (Urhoy) as a semi-autonomous Aramaic kingdom between Roman and Parthian spheres. Its court dialect develops into Classical Syriac, which becomes the principal literary form of Aramaic.",
+      "search": "history 132 BC–242 Kingdom of Osroene Bet Urhoy Abgarid dynasty Edessa Urhoy Abgar Classical Syriac",
+      "sources": [
+        "Edessan epigraphy and the early Peshitta translation (2nd–3rd century)",
+        "Funerary Inscriptions from Urhoy / Edessa (2nd–3rd century)"
+      ]
+    },
+    {
       "category": "testimony",
-      "date": "135 BC",
+      "date": "100 BC",
       "title": "Poseidonios of Apamea",
       "quote": "The people we Greeks call Syriacs were called by the Syriacs themselves Arameans",
       "citation": "J.G. Kidd, Posidonius (Cambridge Classical Texts, 1988), vol. 2, pp. 955-956",
-      "search": "testimony 135 BC Poseidonios of Apamea Ancient Greek Syriacs Arameans"
+      "search": "testimony 100 BC Poseidonios of Apamea Ancient Greek Syriacs Arameans"
     },
     {
-      "id": 14,
-      "category": "history",
-      "date": "132 BC",
-      "title": "Kingdom of Osroene (Bet Urhay)",
-      "description": "The Abgarid dynasty rules Osroene from Edessa (Urhoy) as a semi-autonomous Aramaic kingdom between Roman and Parthian spheres. Its court dialect develops into Classical Syriac, which becomes the principal literary form of Aramaic.",
-      "search": "history 132 BC–AD 242 Kingdom of Osroene Bet Urhay Abgarid dynasty Edessa Urhoy Abgar Classical Syriac",
-      "sources": [
-        "Edessan epigraphy and the early Peshitta translation (2nd–3rd century AD)",
-        "Funerary Inscriptions from Edessa (2nd–3rd century AD)"
-      ]
-    },
-    {
-      "id": 15,
       "category": "testimony",
-      "date": "63 BC",
+      "date": "7 BC",
       "title": "Strabo from Amasya",
       "quote": "Syriacs are by the Syriacs themselves called Arimaeans and Arameans",
       "citation": "The Geography of Strabo, Loeb Classical Library (1917), Book I, Ch. 2, 34",
-      "search": "testimony 63 BC–AD 24 Strabo from Amasya Geography Arimaeans Arameans Syriacs"
+      "search": "testimony 7 BC Strabo from Amasya Geography Arimaeans Arameans Syriacs"
     },
     {
-      "id": 16,
-      "category": "conflict",
-      "date": "53 BC",
-      "title": "Battle of Carrhae",
-      "description": "Roman commander Crassus defeated by Parthians; Roman expansion in Mesopotamia halted. Aramean territories remained a contested frontier between Rome and Parthia.",
-      "search": "conflict 53 BC Battle of Carrhae Crassus Roman Parthian Mesopotamia frontier"
-    },
-    {
-      "id": 17,
-      "category": "conflict",
-      "date": "53 BC",
-      "title": "Romano-Parthian Mesopotamian Campaigns",
-      "description": "Repeated campaigns over the frontier between Rome and Parthia. Aramean populations suffered from warfare disrupting agriculture and commerce across centuries.",
-      "search": "conflict 53 BC–AD 637 Romano-Parthian Mesopotamian Campaigns Roman Parthian Sasanian frontier agriculture commerce",
+      "category": "culture",
+      "date": "1 AD",
+      "title": "Rise of Palmyra (Tadmor) & Edessa (Urhoy)",
+      "description": "Syriac (the local Aramaic dialect of Urhoy) develops into the premier written standard for philosophy, science, and theology. Simultaneously, Palmyra functions as a powerful Aramaic trade empire in the Syrian desert.",
+      "search": "culture c. 1st–3rd century Rise of Palmyra Tadmor Edessa Urhoy Osroene Cultural Renaissance Syriac Language",
       "sources": [
         "Palmyrene Inscriptions (1st century BC onward)",
-        "Dura-Europos Aramaic Texts (1st–3rd century AD)",
-        "Hatran Inscriptions (1st–3rd century AD)"
-      ]
-    },
-    {
-      "id": 18,
-      "category": "testimony",
-      "date": "AD 37",
-      "title": "Josephus (Yosef ben Matityahu)",
-      "quote": "Aram had the Arameans, which the Greeks called Syriacs",
-      "citation": "Antiquities of the Jews, translated by William Whiston (1737), Book I, Ch. 6",
-      "search": "testimony AD 37–100 Josephus Yosef ben Matityahu Antiquities of the Jews Aram Arameans Syriacs"
-    },
-    {
-      "id": 19,
-      "category": "conflict",
-      "date": "AD 66",
-      "title": "Jewish Revolts",
-      "description": "The First and Second Jewish Revolts (66–73, 132–135 AD) affected adjacent Aramean territories through military operations and refugee movements.",
-      "search": "conflict AD 66–135 Jewish Revolts Bar Kokhba refugee military Judaea"
-    },
-    {
-      "id": 20,
-      "category": "history",
-      "date": "c. 1st–3rd century AD",
-      "title": "Rise of Palmyra (Tadmor) & Edessa (Urhay)",
-      "description": "Syriac (the local Aramaic dialect of Edessa) develops into the premier written standard for philosophy, science, and theology. Simultaneously, Palmyra functions as a powerful Aramaic trade empire in the Syrian desert.",
-      "search": "history c. 1st–3rd century AD Rise of Palmyra Tadmor Edessa Urhay Osroene Cultural Renaissance Syriac Language",
-      "sources": [
-        "Palmyrene Inscriptions (1st century BC onward)",
-        "Orpheus Mosaic (AD 194), Edessa",
-        "Aftuha Family Mosaic (3rd century AD)",
-        "Funerary Inscriptions (2nd–3rd century AD)",
+        "Orpheus Mosaic (194), Urhoy",
+        "Aftuha Family Mosaic (3rd century)",
+        "Funerary Inscriptions (2nd–3rd century)",
         "New Testament Aramaic expressions: “Talitha koum” (Mark 5:41), “Eloi, Eloi, lama sabachthani” (Mark 15:34)"
       ]
     },
     {
-      "id": 21,
       "category": "history",
-      "date": "c. AD 150–250",
-      "title": "Christianization of Edessa & the Peshitta",
-      "description": "Edessa becomes one of the earliest centres of Christianity in the Aramaic-speaking world. Church tradition attributes its conversion to the apostle Addai (Thaddeus) under King Abgar; the surviving documentary and epigraphic record attests an established Christian community by the late second century. The Peshitta translation of scripture into Syriac dates to this formative period.",
-      "search": "history c. AD 150–250 Christianization of Edessa Peshitta Addai Thaddeus Abgar Urhoy first Christian nation scripture translation",
+      "date": "33 AD",
+      "title": "Establishment of the Church of Antioch (Apostolic See)",
+      "description": "According to church tradition, Saint Peter the Apostle establishes the Holy See of Antioch in AD 37 (traced to the events of AD 33 in Jerusalem). Antioch becomes the historical foundation of the Syriac Orthodox Patriarchate of Antioch and the city where believers were first called 'Christians'.",
+      "search": "history 33 Establishment of the Church of Antioch Apostolic See Saint Peter Syriac Orthodox Church",
       "sources": [
-        "Edessan epigraphy and the early Peshitta translation (2nd–3rd century AD)"
+        "Acts of the Apostles (Acts 11:26), recording disciples first called Christians at Antioch",
+        "Eusebius of Caesarea, Church History (Historia Ecclesiastica), recording Saint Peter's episcopate at Antioch"
       ]
     },
     {
-      "id": 22,
       "category": "history",
-      "date": "AD 260",
+      "date": "50 AD",
+      "title": "Early Christianization of the Arameans",
+      "description": "Christianity spreads rapidly among Aramaic-speaking populations of the Near East. Beginning in Jerusalem and Antioch, early Apostolic missions carry the Gospel throughout Syria and Upper Mesopotamia, establishing Aramaic/Syriac as a core language of early Christian liturgy and identity.",
+      "search": "history c. 50 Early Christianization of the Arameans Antioch Apostles Syriac Church conversion Christianity",
+      "sources": [
+        "Acts of the Apostles (Acts 11:26), early establishment of the church at Antioch",
+        "Doctrine of Addai (c. 400), literary tradition detailing early apostolic conversions in Mesopotamia"
+      ]
+    },
+    {
+      "category": "testimony",
+      "date": "93 AD",
+      "title": "Josephus (Yosef ben Matityahu)",
+      "quote": "Aram had the Arameans, which the Greeks called Syriacs",
+      "citation": "Antiquities of the Jews, translated by William Whiston (1737), Book I, Ch. 6",
+      "search": "testimony 93 Josephus Yosef ben Matityahu Antiquities of the Jews Aram Arameans Syriacs"
+    },
+    {
+      "category": "culture",
+      "date": "150 AD",
+      "title": "Christianization of Edessa (Urhoy) & the Peshitta",
+      "description": "Urhoy (Edessa) becomes one of the earliest centres of Christianity in the Aramaic-speaking world. Church tradition attributes its conversion to the apostle Addai (Thaddeus) under King Abgar; the surviving documentary and epigraphic record attests an established Christian community by the late second century. The Peshitta translation of scripture into Syriac dates to this formative period.",
+      "search": "culture c. 150–250 Christianization of Edessa Peshitta Addai Thaddeus Abgar Urhoy first Christian nation scripture translation",
+      "sources": [
+        "Edessan epigraphy and the early Peshitta translation (2nd–3rd century)"
+      ]
+    },
+    {
+      "category": "culture",
+      "date": "170 AD",
+      "title": "Tatian’s Diatessaron & Bardaisan of Edessa",
+      "description": "Tatian creates the 'Diatessaron', a single continuous gospel harmony written in Syriac/Aramaic that becomes the standard text for early Syriac churches. Concurrently, Bardaisan of Edessa produces seminal philosophical and astronomical works in Classical Syriac, earning him the title 'Father of Syriac Hymnody'.",
+      "search": "culture 170 Tatian Diatessaron Bardaisan Edessa Syriac Literature Harmony",
+      "sources": [
+        "Ephrem the Syrian's Commentary on the Diatessaron (4th century)",
+        "Book of the Laws of Countries (Liber Legum Regionum) by the school of Bardaisan"
+      ]
+    },
+    {
+      "category": "culture",
+      "date": "200 AD",
+      "title": "The Old Syriac Gospels (Curetonian and Sinaiticus)",
+      "description": "Early Aramaic-speaking Christians translate the four gospels into Old Syriac (the dialect of Edessa). These manuscripts, discovered at Saint Catherine's Monastery and in Egypt, represent the oldest surviving direct translation of the New Testament Gospels.",
+      "search": "culture 200 AD Old Syriac Gospels Curetonian Sinaiticus Edessa translation New Testament",
+      "sources": [
+        "Syriac Sinaiticus (Sinai Palimpsest, St. Catherine's Monastery MS Syriac 30)",
+        "Curetonian Gospels (British Library Add MS 14451)"
+      ]
+    },
+    {
+      "category": "culture",
+      "date": "201 AD",
+      "title": "Barhadad Mosaic of Urhoy / Edessa",
+      "description": "Discovered in Urfa, a 3rd-century funerary mosaic commemorates 'Barhadad, son of 'Abdnu', revealing the enduring preservation of ancient Aramean royal names within Christian Syriac Edessa.",
+      "search": "culture 3rd century AD Barhadad Mosaic Urhoy Edessa Abdnu Sanliurfa Museum",
+      "sources": [
+        "Barhadad Mosaic, Şanlıurfa Museum (3rd Century AD, Yakup Mahallesi)"
+      ]
+    },
+    {
+      "category": "testimony",
+      "date": "210 AD",
+      "title": "Bar Daisan (Bardaisan) of Edessa",
+      "quote": "The laws of the Arameans were strict, but through Christ's teaching, new moral custom was established across all our lands.",
+      "citation": "Book of the Laws of Countries (Liber Legum Regionum), Edessa",
+      "search": "testimony 210 AD Bar Daisan Bardaisan Edessa Arameans Book of Laws Countries"
+    },
+    {
+      "category": "culture",
+      "date": "250 AD",
+      "title": "Jewish Babylonian Aramaic Incantation Bowl (ROM 931.4.2)",
+      "description": "An incantation bowl from Babylonia mentions 'Aramaean demons' alongside Jewish and Persian entities, confirming that 'Aramaean' remained a distinct, recognized ethnic identity in Sasanian Babylonia.",
+      "search": "culture 3rd century AD Incantation Bowl Sasanian Babylonia Aramaean demons ROM 931.4.2",
+      "sources": [
+        "Jewish Babylonian Aramaic Incantation Bowl (ROM 931.4.2, Schøyen Collection)"
+      ]
+    },
+    {
+      "category": "history",
+      "date": "260 AD",
       "title": "The Palmyrene Empire under Zenobia",
       "description": "Palmyra (Tadmor) briefly rules an independent empire spanning Syria, Egypt, and much of Asia Minor under Odaenathus and then Queen Zenobia. Roman forces under Aurelian retake the city in 273, ending Aramaic-speaking Palmyra's political autonomy.",
-      "search": "history AD 260 Palmyrene Empire Zenobia Odaenathus Tadmor Aurelian Palmyra autonomy Syria Egypt",
+      "search": "history 260 Palmyrene Empire Zenobia Odaenathus Tadmor Aurelian Palmyra autonomy Syria Egypt",
       "sources": [
         "Palmyrene Inscriptions, including bilingual dedications from the period of Palmyrene ascendancy"
       ]
     },
     {
-      "id": 23,
       "category": "testimony",
-      "date": "c. AD 275",
+      "date": "306 AD",
+      "title": "Mor Ephrem the Syrian (Hymns on Abraham Kidunaya & Julianos Saba)",
+      "quote": "May myriads of tongues give thanks for our country, in which Abraham and his son Jacob walked... Our country’s name is greater than her companion’s name",
+      "citation": "Saint Ephrem the Syrian, Hymns on Abraham Kidunaya and Julianos Saba",
+      "search": "testimony 306 AD Ephrem the Syrian Hymns Abraham Kidunaya Julianos Saba Aram"
+    },
+    {
+      "category": "testimony",
+      "date": "306 AD",
+      "title": "Mor Ephrem the Syrian (Against Bardaisan)",
+      "quote": "the Philosopher of the Arameans (i.e. Bardaisan) made himself a laughing-stock among Arameans and Greeks",
+      "citation": "Saint Ephrem the Syrian, Against Bardaisan's 'Domnus'",
+      "search": "testimony 306 AD Ephrem the Syrian Philosopher of the Arameans Bardaisan Domnus"
+    },
+    {
+      "category": "testimony",
+      "date": "306 AD",
+      "title": "Mor Ephrem the Syrian (Nisibene Hymns)",
+      "quote": "From Hebrews and Arameans, and also from the Watchers: to You be praise and through You to Your Father, be also glory!",
+      "citation": "Saint Ephrem the Syrian, The Nisibene Hymns",
+      "search": "testimony 306 AD Ephrem the Syrian Nisibene Hymns Hebrews Arameans"
+    },
+    {
+      "category": "testimony",
+      "date": "315 AD",
       "title": "Eusebius Pamphili",
       "quote": "from Aram the Arameans, which are also called Syriacs",
       "citation": "Sebastian Brock, \"Eusebius and Syriac Christianity\" (Leiden 1992), p. 226",
-      "search": "testimony c. AD 275 Eusebius Pamphili Syriac Christianity Arameans Syriacs"
+      "search": "testimony 315 Eusebius Pamphili Syriac Christianity Arameans Syriacs"
     },
     {
-      "id": 24,
-      "category": "conflict",
-      "date": "AD 303",
-      "title": "Roman Persecutions of Christians",
-      "description": "Christian Arameans suffered under pagan Roman emperors. Diocletian's persecution (303–311 AD) was particularly severe. Many Aramean Christians were martyred.",
-      "search": "conflict AD 303 Roman Persecutions of Christians Diocletian persecution martyrdom pagan"
-    },
-    {
-      "id": 25,
-      "category": "conflict",
-      "date": "c. AD 340",
-      "title": "Sasanian Persecutions under Shapur II",
-      "description": "Under certain Sasanian rulers, particularly Shapur II, Christians faced organized persecution. Monasteries were attacked and clergy executed.",
-      "search": "conflict c. AD 340 Sasanian Persecutions Shapur II monasteries clergy Christian"
-    },
-    {
-      "id": 26,
       "category": "history",
-      "date": "AD 451",
+      "date": "325 AD",
+      "title": "Martyrdom of Shemon Bar Sabbae & Beth Oromoye",
+      "description": "Royal edicts issued by Sasanian King Shapur II identify central Mesopotamia as 'Beth Oromoye' (the land of the Arameans) during the execution of Patriarch Shemon Bar Sabbae.",
+      "search": "history c. 325 AD Shemon Bar Sabbae Martyrdom Shapur II Beth Oromoye Land of Arameans",
+      "sources": [
+        "The Acts of the Martyrdom of Simon Bar Sabbae and his companions"
+      ]
+    },
+    {
+      "category": "culture",
+      "date": "363 AD",
+      "title": "Ephrem the Syrian & the School of Nisibis",
+      "description": "Following the Roman ceding of Nisibis to Persia, Saint Ephrem relocates to Edessa and reorganizes its famous Theological Academy. Known as the 'Harp of the Spirit', Ephrem composes thousands of poetic hymns (Madrashe) and homilies in Syriac, creating a distinct theology untouched by Greek philosophical constructs.",
+      "search": "culture 363 Saint Ephrem the Syrian School of Nisibis Edessa Madrashe Syriac Theology",
+      "sources": [
+        "Hymns on Faith, Hymns on Paradise, and Carmina Nisibena by St. Ephrem the Syrian",
+        "Cause of the Foundation of the Schools (School of Nisibis and Edessa archives)"
+      ]
+    },
+    {
+      "category": "testimony",
+      "date": "400 AD",
+      "title": "Theodoret of Cyrrhus",
+      "quote": "The Osroenes, Syrians, and inhabitants of Upper Mesopotamia are all one Aramean nation, speaking the same tongue.",
+      "citation": "Religious History (Historia Religiosa) and Commentary on Ezekiel, Ch. 27",
+      "search": "testimony 400 AD Theodoret of Cyrrhus Osroenes Syrians Upper Mesopotamia Aramean nation"
+    },
+    {
+      "category": "history",
+      "date": "451 AD",
       "title": "Council of Chalcedon & Ecclesial Division",
       "description": "The Council of Chalcedon produces a lasting split among Aramaic-speaking Christians. Communities rejecting its formula later form the Syriac Orthodox Church, while others align with the Church of the East or with Chalcedonian Constantinople. These divisions shape Aramean communal organization for centuries afterward.",
-      "search": "history AD 451 Council of Chalcedon Ecclesial Division Miaphysite Syriac Orthodox Church of the East Chalcedonian schism"
+      "search": "history 451 Council of Chalcedon Ecclesial Division Miaphysite Syriac Orthodox Church of the East Chalcedonian schism"
     },
     {
-      "id": 27,
+      "category": "testimony",
+      "date": "451 AD",
+      "title": "Mor Jacob of Serugh (Homily on Mor Ephrem)",
+      "quote": "He who became a crown for the entire Arameandom (Oromoyotho), [and] by him we have been brought close to spiritual beauty.",
+      "citation": "Jacob of Serugh, A Metrical Homily on Holy Mor Ephrem",
+      "search": "testimony 451 AD Jacob of Serugh Homily Mor Ephrem Arameandom Oromoyotho"
+    },
+    {
+      "category": "testimony",
+      "date": "451 AD",
+      "title": "Mor Jacob of Serugh (Homily on the Church)",
+      "quote": "and chose the Church, daughter of the Arameans, in his death is life by which she was saved.",
+      "citation": "Jacob of Serugh, Mor Jacob of Serugh Hymnal & About Simon the Apostle's net",
+      "search": "testimony 451 AD Jacob of Serugh Church daughter of the Arameans"
+    },
+    {
+      "category": "testimony",
+      "date": "465 AD",
+      "title": "Mor Severus of Antioch",
+      "quote": "Likewise, we Arameans, that is to say Syriacs, because of our closeness and our nearness to them and of our language in relation to their language...",
+      "citation": "Homilies of Saint Severus of Antioch & Letter to Maron",
+      "search": "testimony 465 AD Severus of Antioch we Arameans that is to say Syriacs"
+    },
+    {
       "category": "history",
-      "date": "c. AD 543",
+      "date": "485 AD",
+      "title": "Letter of Mor Simeon of Beth Arsham",
+      "quote": "Acac (in) Beth Oromoye (land of the Arameans) and Bar-Sawmo the abominable in Nisibin.",
+      "description": "Epistolary accounts written by Simeon of Beth Arsham document internal church politics while explicitly referencing central Babylonia as Beth Oromoye (Land of the Arameans).",
+      "search": "history 485 AD Simeon of Beth Arsham Letter on Barsauma Beth Oromoye",
+      "sources": [
+        "Mor Simeon of Beth Arsham, A Letter on Barsauma (pt. 1-3)"
+      ]
+    },
+    {
+      "category": "culture",
+      "date": "500 AD",
+      "title": "Peshitta Old and New Testament Canon Standardized",
+      "description": "The Syriac Bible (Peshitta, meaning 'straight' or 'simple/common') reaches its canonical standardization. Syriac translations of both the Old Testament (translated from Hebrew as early as the 1st/2nd century) and New Testament serve as the universal scripture for Aramaic Christians from the Mediterranean to China.",
+      "search": "culture 500 Peshitta Old Testament New Testament Standardized Syriac Bible",
+      "sources": [
+        "Codex Ambrosianus (7th century Syriac OT manuscript, Milan)",
+        "Peshitta New Testament early Syriac codices (British Library Add. MS 14451)"
+      ]
+    },
+    {
+      "category": "culture",
+      "date": "500 AD",
+      "title": "Cave of Treasures (Me'arath Gazze)",
+      "description": "A 5th–6th century Syriac work asserts that Aramaic/Syriac was the primordial language of humanity and 'the king of all languages.'",
+      "search": "culture 500 AD Cave of Treasures Mearath Gazze Syriac Aramaic king of all languages",
+      "sources": [
+        "Cave of Treasures (Me'arath Gazze, 6th Century manuscript edition)"
+      ]
+    },
+    {
+      "category": "history",
+      "date": "500 AD",
+      "title": "Letter of the Western Fathers to Mar Papa",
+      "description": "An East Syriac canon law compilation refers to St. Ephrem as 'Mor Ephrem the Aramean', emphasizing the interchangeability of 'Aramean' and 'Syriac' in East Syriac tradition.",
+      "search": "history 500 AD Synodical Letter Western Fathers Mar Papa Ephrem the Aramean East Syriac",
+      "sources": [
+        "The Synodical letter that the Western Fathers wrote to Mar Papa catholicos (Syriac Corpus #692)"
+      ]
+    },
+    {
+      "category": "history",
+      "date": "502 AD",
+      "title": "Bishop Bar-Hadad of Tella Defends His See",
+      "description": "Bishop Bar-Hadad of Tella protects his city during the Roman-Persian War, reflecting the survival of ancient Aramean royal names among Christian Syriac leadership.",
+      "search": "history 502 AD Bishop Bar-Hadad Tella Roman Persian War Kawad I Chronicle of Zuqnin",
+      "sources": [
+        "Chronicle of Zuqnin (8th century account of 502–506 AD events)"
+      ]
+    },
+    {
+      "category": "conflict",
+      "date": "518 AD",
+      "title": "Byzantine Imperial Persecution of Syriac Christians",
+      "description": "Following the Council of Chalcedon, Byzantine emperors Justin I and Justinian I launched severe persecutions against non-Chalcedonian Aramean/Syriac Christians. Monasteries were attacked, populations exiled, and hundreds of clergy executed or imprisoned. By c. 540, imperial purges had reduced the active non-Chalcedonian Syriac episcopate to only three surviving bishops before Jacob Baradaeus secretly restored the hierarchy.",
+      "search": "conflict 518–538 Byzantine Imperial Persecution Chalcedon Justin I Justinian Syriac Orthodox monks exile John of Tella",
+      "sources": [
+        "John of Ephesus, Lives of the Eastern Saints (6th century), detailed accounts of Byzantine purges, martyrdoms, and monastic expulsions",
+        "Chronicle of Pseudo-Dionysius of Tell-Mahre (8th century)"
+      ]
+    },
+    {
+      "category": "history",
+      "date": "543 AD",
       "title": "Jacob Baradaeus Restores the Miaphysite Hierarchy",
       "description": "Mor Yaqub Burd'ono (Jacob Baradaeus) ordains clergy across the Near East, rebuilding an independent church structure after imperial suppression. The Syriac Orthodox Church is sometimes called Jacobite after him, though the community's own usage favours Syriac or Aramean.",
-      "search": "history c. AD 543 Jacob Baradaeus Mor Yaqub Burd'ono Miaphysite hierarchy ordination Jacobite Syriac Orthodox"
+      "search": "history c. 543 Jacob Baradaeus Mor Yaqub Burd'ono Miaphysite hierarchy ordination Jacobite Syriac Orthodox"
     },
     {
-      "id": 28,
+      "category": "culture",
+      "date": "586 AD",
+      "title": "Production of the Rabula Gospels",
+      "description": "Completed at the Monastery of St. John of Zagba in Syria, the Rabula Gospels manuscript is one of the finest surviving early Christian illuminated manuscripts written in Syriac. It includes some of the earliest visual depictions of the Crucifixion and Ascension in Christian art.",
+      "search": "culture 586 Rabula Gospels Illuminated Manuscript Syriac St John Zagba",
+      "sources": [
+        "Rabula Gospels (MS. Plut. I, 56, Laurentian Library, Florence)"
+      ]
+    },
+    {
+      "category": "culture",
+      "date": "636 AD",
+      "title": "East Syriac Missions Reach China (Nestorian Stele)",
+      "description": "Syriac-speaking missionaries under the priest Alopen travel along the Silk Road to Chang'an (Xi'an), China. They establish the Church of the East in China, translating Aramaic theological and liturgical texts into Chinese.",
+      "search": "culture 636 Nestorian Stele Xi'an China Alopen East Syriac Missions Aramaic Silk Road",
+      "sources": [
+        "The Nestorian Stele of Xi'an (erected 781 AD) written in Chinese and Estrangelo Syriac script"
+      ]
+    },
+    {
       "category": "history",
-      "date": "AD 637",
+      "date": "637 AD",
       "title": "Arab-Islamic Conquest of Mesopotamia",
       "description": "Arab-Muslim forces take Mesopotamia and Syria from the Sasanian and Byzantine empires. Aramaic-speaking Christians continue as organized communities under the new order, and Arabic gradually replaces Aramaic as the language of civil administration.",
-      "search": "history AD 637 Arab-Islamic Conquest Mesopotamia Syria Sasanian Byzantine Arabic administration dhimmi"
+      "search": "history 637 Arab-Islamic Conquest Mesopotamia Syria Sasanian Byzantine Arabic administration dhimmi"
     },
     {
-      "id": 29,
+      "category": "history",
+      "date": "680 AD",
+      "title": "Khuzistan Chronicle & Queen Shirin the Aramean",
+      "description": "The Khuzistan Chronicle identifies Queen Shirin, wife of Sasanian King Khosrau II, as an Aramean Christian, attesting to the prominent presence of Arameans in the 7th-century Sasanian Empire.",
+      "search": "history 680 AD Khuzistan Chronicle Shirin the Aramean Khosrau II Sasanian Empire",
+      "sources": [
+        "The Khuzistan Chronicle (c. 680 AD)"
+      ]
+    },
+    {
       "category": "testimony",
-      "date": "c. AD 640",
+      "date": "690 AD",
       "title": "Jacob of Edessa",
       "quote": "we the Arameans, that is to say Syriacs",
-      "citation": "Maurice Brière, Les Homiliae Cathedrales de Sévère d'Antioche (1922), p. 196",
-      "search": "testimony c. AD 640 Jacob of Edessa Homiliae Cathedrales Arameans Syriacs"
+      "citation": "Jacob of Edessa, Epistles and Theological Writings (ed. R. Duval / W. Wright)",
+      "search": "testimony 690 Jacob of Edessa Arameans Syriacs"
     },
     {
-      "id": 30,
       "category": "history",
-      "date": "AD 8th–10th century",
+      "date": "691 AD",
+      "title": "Omayyad Census on the 'Sons of Aram'",
+      "description": "Caliph 'Abd al-Malik institutes a poll tax and census on the Christian population of Mesopotamia, referred to in the Chronicle of Zuqnin as both 'Syriacs' and 'Sons of Aram'.",
+      "search": "history 691 AD Abd al-Malik Census Sons of Aram Syriacs Chronicle of Zuqnin",
+      "sources": [
+        "Chronicle of Zuqnin (8th Century manuscript)"
+      ]
+    },
+    {
+      "category": "testimony",
+      "date": "700 AD",
+      "title": "Mor Jacob of Edessa (Enchiridion)",
+      "quote": "as we Syriacs—that is, Arameans—express it, is derived from [the word meaning] 'natural/capable' (m’eḳan)",
+      "citation": "Jacob of Edessa, Enchiridion on Various and Necessary Matters Concerning Nature & Hexaemeron",
+      "search": "testimony 700 AD Jacob of Edessa Enchiridion Syriacs Arameans"
+    },
+    {
+      "category": "culture",
+      "date": "708 AD",
+      "title": "Establishment of Mor Gabriel Monastery (Deyrulumur)",
+      "description": "Founded in 397 AD by St. Samuel and St. Simon, the monastery of Mor Gabriel in Tur Abdin grows to become the spiritual heartland of the Syriac Orthodox Church and the center of Aramean monastic culture and manuscript production.",
+      "search": "culture 708 AD Mor Gabriel Monastery Deyrulumur Tur Abdin Syriac Orthodox manuscript center",
+      "sources": [
+        "Chronicle of Zuqnin (8th century)",
+        "Architectural inscriptions and monastic records from Tur Abdin"
+      ]
+    },
+    {
+      "category": "culture",
+      "date": "750 AD",
       "title": "The Graeco-Arabic Translation Movement",
       "description": "Syriac scholars act as intermediaries in transmitting Greek philosophy, medicine, and science into Syriac and then Arabic. Figures such as Hunayn ibn Ishaq render large bodies of classical learning, work that underpins later medieval scholarship in both the Islamic world and Europe.",
-      "search": "history AD 8th–10th century Graeco-Arabic Translation Movement Hunayn ibn Ishaq Syriac scholars Greek philosophy medicine Bayt al-Hikma",
+      "search": "culture 8th–10th century Graeco-Arabic Translation Movement Hunayn ibn Ishaq Syriac scholars Greek philosophy medicine Bayt al-Hikma",
       "sources": [
         "Syriac and Arabic translations associated with Hunayn ibn Ishaq and his circle",
         "Syriac manuscripts and theological works transmitted through monastic libraries"
       ]
     },
     {
-      "id": 31,
-      "category": "testimony",
-      "date": "AD 896",
-      "title": "Al-Masudi",
-      "quote": "Tur Abdin is the mountain where remnants of the Aramean Syriacs still survive.",
-      "citation": "R. Duval (ed.), Lexicon Syriacum (Paris, 1888-1901), p. 1323-1324",
-      "search": "testimony AD 896 Al-Masudi Tur Abdin Aramean Syriacs Arab historian remnants"
+      "category": "history",
+      "date": "769 AD",
+      "title": "Abbasid Land Seizures in the Jazira",
+      "description": "The Chronicle of Zuqnin documents land confiscations in the Jazira, describing the region as 'the land which spoke the language of the children of Aram'.",
+      "search": "history 769 AD Chronicle of Zuqnin Jazira language children of Aram Mosul usury",
+      "sources": [
+        "Chronicle of Zuqnin (8th Century manuscript)"
+      ]
     },
     {
-      "id": 32,
       "category": "testimony",
-      "date": "AD 963",
+      "date": "800 AD",
+      "title": "Isho Bar Nun",
+      "quote": "The Syriacs were called Arameans in ancient times, but when the Arameans embraced Christianity they abandoned their ancient name and were called Syriacs.",
+      "citation": "Isho Bar Nun, A Commentary on the Whole Bible",
+      "search": "testimony 800 AD Isho Bar Nun Commentary Whole Bible Arameans Syriacs"
+    },
+    {
+      "category": "testimony",
+      "date": "820 AD",
+      "title": "Dawid Bar Pawlos",
+      "quote": "Arameans are Syriacs, and because they dwelt in Syria, that is, in the land of the inhabitants of Hama and Antiochenes, they were called Syriacs.",
+      "citation": "Dawid Bar Pawlos, Grammatical Writings",
+      "search": "testimony 820 AD Dawid Bar Pawlos Arameans are Syriacs Hama Antioch"
+    },
+    {
+      "category": "testimony",
+      "date": "850 AD",
+      "title": "Ishodad of Merv",
+      "quote": "The Greek translation [the Septuagint] calls always Aram and Arameans ‘Syriac’. Consequently, Aram becomes the father of the Syriacs.",
+      "citation": "Ishodad of Merv, Commentary on Genesis XXII",
+      "search": "testimony 850 AD Ishodad of Merv Commentary Genesis Septuagint Aram Syriac"
+    },
+    {
+      "category": "testimony",
+      "date": "875 AD",
+      "title": "Moshe Bar Kepha",
+      "quote": "And know this: Naaman, a man from the nations, was an Aramean, in Greek, instead of Aramean it is written Syriac.",
+      "citation": "Moses bar Kepha, Commentary on Luke 4:27",
+      "search": "testimony 875 AD Moshe bar Kepha Commentary Luke Naaman Aramean Syriac"
+    },
+    {
+      "category": "culture",
+      "date": "890 AD",
+      "title": "Lexicon of Isho Bar Ali",
+      "description": "East Syriac lexicographer Isho Bar Ali explicitly defines 'Arameans are the Syriacs' and details the vocalic distinction between 'Oromoyo' (Aramean/Syriac) and 'Ormoyo' (pagan).",
+      "search": "culture 890 AD Lexicon Isho Bar Ali Arameans Syriacs Harran Ormoyo",
+      "sources": [
+        "Isho Bar Ali, Lexicon Syriacum (9th Century AD)"
+      ]
+    },
+    {
+      "category": "testimony",
+      "date": "940 AD",
+      "title": "Al-Masudi",
+      "quote": "Tur Abdin is the mountain where remnants of the Aramean Syriacs still survive.",
+      "citation": "Al-Masudi, Murūj al-Dhahab wa-Ma'ādin al-Jawhar (Meadows of Gold), Vol. 1",
+      "search": "testimony 940 Al-Masudi Tur Abdin Aramean Syriacs Arab historian remnants"
+    },
+    {
+      "category": "testimony",
+      "date": "942 AD",
+      "title": "Agapius of Hierapolis (Kitab al-'Unwan)",
+      "quote": "Nahor begot Aram, and from his name the people who settled in Harran in Mesopotamia and the surrounding regions as far as Mosul were called Arameans.",
+      "citation": "Agapius of Hierapolis, World History (Kitab al-'Unwan)",
+      "search": "testimony 942 AD Agapius of Hierapolis World History Harran Mosul Arameans"
+    },
+    {
+      "category": "testimony",
+      "date": "990 AD",
       "title": "Hassan Bar Bahlul",
       "quote": "The Syriacs were formerly called Arameans",
       "citation": "R. Duval (ed.), Lexicon Syriacum (Paris, 1888-1901), p. 1323-1324",
-      "search": "testimony AD 963 Hassan Bar Bahlul Syriacs Arameans lexicographer Lexicon Syriacum"
+      "search": "testimony 990 Hassan Bar Bahlul Syriacs Arameans lexicographer Lexicon Syriacum"
     },
     {
-      "id": 33,
-      "category": "conflict",
-      "date": "AD 1096–1291",
-      "title": "The Crusades",
-      "description": "Crusaders' presence disrupted existing Christian-Muslim coexistence. Aramean Christian communities were vulnerable to Crusader violence. When Crusaders established states, Aramean Christians were often marginalized.",
-      "search": "conflict AD 1096–1291 The Crusades Crusader states Christian Muslim coexistence marginalization"
-    },
-    {
-      "id": 34,
       "category": "testimony",
-      "date": "AD 1126",
+      "date": "1000 AD",
+      "title": "The Cause of All Causes",
+      "quote": "And the knowledge of the whole star system, discovered by the Babylonian Arameans, that is to say the Chaldeans...",
+      "citation": "Anonymous Bishop of Edessa, The Cause of All Causes",
+      "search": "testimony 1000 AD Cause of All Causes Bishop of Edessa Babylonian Arameans Chaldeans"
+    },
+    {
+      "category": "culture",
+      "date": "1010 AD",
+      "title": "Eliya of Nisibis Chronography",
+      "description": "The Chronography of Eliya of Nisibis routinely identifies the governorate of lower Mesopotamia as 'Beth Aramaye' (Land of the Arameans).",
+      "search": "culture 1010 AD Eliya of Nisibis Chronography Beth Aramaye Land of Arameans",
+      "sources": [
+        "Eliya of Nisibis, Chronography (11th Century AD)"
+      ]
+    },
+    {
+      "category": "testimony",
+      "date": "1166 AD",
       "title": "Michael the Great (Patriarch of Antioch)",
       "quote": "the Arameans who are the Syriacs",
       "citation": "J-B Chabot, Chronique de Michel le Syrien (Paris, 1899), Livre II, Chapitre I",
-      "search": "testimony AD 1126 Michael the Great Patriarch of Antioch Chronicle Arameans Syriacs"
+      "search": "testimony 1166 Michael the Great Patriarch of Antioch Chronicle Arameans Syriacs"
     },
     {
-      "id": 35,
       "category": "testimony",
-      "date": "AD 1166",
+      "date": "1166 AD",
       "title": "Dionysius Bar Salibi",
       "quote": "We are the Arameans that is Syriac Orthodox",
-      "citation": "Medieval Syriac theological writings",
-      "search": "testimony AD 1166 Dionysius Bar Salibi Arameans Syriac Orthodox medieval theology bishop"
+      "citation": "Dionysius Bar Salibi, Against the Armenians (Response to the Armenians), Ch. 2",
+      "search": "testimony 1166 Dionysius Bar Salibi Arameans Syriac Orthodox medieval theology bishop"
     },
     {
-      "id": 36,
       "category": "testimony",
-      "date": "AD 1226",
+      "date": "1200 AD",
+      "title": "Bar Shakko (Jacob Severus of Bartella)",
+      "quote": "Our language is Aramaic, which is Syriac, spoken by the children of Aram from ancient times.",
+      "citation": "The Dialogues (Ketbo d-Mwash'oto), Nineveh Plains",
+      "search": "testimony 1200 AD Bar Shakko Jacob Severus Bartella Aramaic Syriac children of Aram"
+    },
+    {
+      "category": "conflict",
+      "date": "1258 AD",
+      "title": "Mongol Invasions of Mesopotamia & Syria",
+      "description": "Hulagu Khan's Mongol armies swept through Upper Mesopotamia and Syria, sacking Baghdad in 1258 and taking Aleppo and Damascus in 1260. While early Ilkhanate rulers initially maintained diplomatic ties with Syriac Christians, the campaign caused widespread destruction across historical Aramean centers.",
+      "search": "conflict 1258 Mongol Invasions Hulagu Khan Baghdad Syria Mesopotamia Syriac Christians"
+    },
+    {
+      "category": "testimony",
+      "date": "1270 AD",
       "title": "Gregorios Bar Hebraeus",
       "quote": "You have brought me to the eloquent Aramean-Syriac nation.",
       "citation": "The Book of Rays (Ketbo d-Heyutho)",
-      "search": "testimony AD 1226 Gregorios Bar Hebraeus Book of Rays Ketbo d-Heyutho Aramean-Syriac nation"
+      "search": "testimony 1270 Gregorios Bar Hebraeus Book of Rays Ketbo d-Heyutho Aramean-Syriac nation"
     },
     {
-      "id": 37,
-      "category": "conflict",
-      "date": "13th century AD",
-      "title": "Mongol Invasions",
-      "description": "Mongol armies swept through Aramean territories. While Mongols were initially more tolerant, warfare caused devastation. Some Aramean Christians allied with Mongols against Muslim powers.",
-      "search": "conflict 13th century AD Mongol Invasions Hulagu tolerance alliance devastation Baghdad 1258"
+      "category": "culture",
+      "date": "1281 AD",
+      "title": "Patriarchate of Mar Yaballaha III & Rabban Bar Sauma",
+      "description": "Rabban Markos, an Ongud Turkic-Aramaic monk from Beijing, is consecrated as Patriarch Mar Yaballaha III of the Church of the East. His mentor, Rabban Bar Sauma, is sent as an ambassador to European monarchs and the Pope, writing a historic Syriac travelogue detailing medieval Europe.",
+      "search": "culture 1281 Mar Yaballaha III Rabban Bar Sauma Church of the East Syriac Travelogue Europe",
+      "sources": [
+        "The History of the Life and Travels of Rabban Bar Sauma (Syriac manuscript)"
+      ]
     },
     {
-      "id": 38,
+      "category": "testimony",
+      "date": "1300 AD",
+      "title": "Abdisho Bar Brikha",
+      "quote": "Bartholomew, who is Nathaniel of the Arameans... For two patriarchs were brought into conflict at the doors of the Church of Antioch, one of the Arameans, the other Antiochene...",
+      "citation": "Abdisho Bar Brikha, Collection of Synodical Canons",
+      "search": "testimony 1300 AD Abdisho Bar Brikha Nathaniel of the Arameans Antioch schism"
+    },
+    {
+      "category": "testimony",
+      "date": "1305 AD",
+      "title": "Yeshu Bar Kilo",
+      "quote": "The whole people of the Syriac-Arameans see that he refreshes his thirst.",
+      "citation": "Yeshu Bar Kilo, 13th Letter to a Deacon & 9th Letter to a Priest",
+      "search": "testimony 1305 AD Yeshu Bar Kilo Syriac-Arameans light to Aramean people"
+    },
+    {
       "category": "conflict",
-      "date": "AD 1394",
+      "date": "1394 AD",
       "title": "Campaigns of Timur",
       "description": "Timur's campaigns across Upper Mesopotamia devastated Aramean Christian centres. Monasteries and villages in Tur Abdin and around Mardin suffered heavy losses, and the period is commonly treated as a decisive contraction of Syriac communal and scholarly life.",
-      "search": "conflict AD 1394 Campaigns of Timur Tamerlane Tur Abdin Mardin monasteries devastation contraction"
+      "search": "conflict 1394 Campaigns of Timur Tamerlane Tur Abdin Mardin monasteries devastation contraction"
     },
     {
-      "id": 39,
       "category": "history",
-      "date": "AD 1516",
+      "date": "1516 AD",
       "title": "Ottoman Conquest of Syria & Mesopotamia",
       "description": "Ottoman rule replaces Mamluk and regional authority across the Aramean homelands. Christian communities are organized under confessional administration, and Aramaic-speaking populations persist mainly in mountainous districts such as Tur Abdin and in scattered village clusters.",
-      "search": "history AD 1516 Ottoman Conquest Syria Mesopotamia Mamluk millet confessional administration Tur Abdin",
+      "search": "history 1516 Ottoman Conquest Syria Mesopotamia Mamluk millet confessional administration Tur Abdin",
       "sources": [
         "Continuous communal and monastic records from Tur Abdin under Ottoman administration"
       ]
     },
     {
-      "id": 40,
       "category": "testimony",
-      "date": "1817",
-      "title": "Professor Theodor Mommsen",
-      "quote": "the history of the Aramaean or Syriac nation",
-      "citation": "The History of Rome (1854-1856), translated by William Purdie Dickson, Book First, Chapter One",
-      "search": "testimony AD 1817 Professor Theodor Mommsen Aramaean Syriac nation History of Rome historian"
+      "date": "1521 AD",
+      "title": "Monk George of Jerusalem",
+      "quote": "And through him, the whole party of Arameandom (Oromoyotho) was illuminated through him, a tower of language that crushed the errors which had seized it.",
+      "citation": "Monk George of Jerusalem, A Second Memra on Jacob of Serugh",
+      "search": "testimony 1521 AD George of Jerusalem Memra Jacob of Serugh Arameandom Oromoyotho"
     },
     {
-      "id": 41,
       "category": "testimony",
-      "date": "1836",
-      "title": "Professor Theodor Nöldeke",
-      "quote": "the name of the 'Syriacs' the people who called themselves 'Arameans'",
-      "citation": "Compendious Syriac Grammar (London, 1904), Introduction",
-      "search": "testimony AD 1836 Professor Theodor Nöldeke Compendious Syriac Grammar Arameans Syriacs"
+      "date": "1600 AD",
+      "title": "Patriarch Na'matallah (Ignatius Nimat Allah)",
+      "quote": "We are the remnants of the ancient Aramean nation, who preserved the language of Christ our Lord.",
+      "citation": "Vatican Syriac Manuscripts Collection (MSS Vat. Syr. 145)",
+      "search": "testimony 1600 Patriarch Na'matallah Ignatius Nimat Allah Vatican Manuscripts Aramean"
     },
     {
-      "id": 42,
-      "category": "testimony",
-      "date": "1839",
-      "title": "Professor Rubens Duval",
-      "quote": "the Arameans who after the evangelisation of these countries adopted the name Syriacs",
-      "citation": "Anciennes Littératures Chrétiennes: La Littérature Syriaque (3rd ed., Paris 1907), p. 4",
-      "search": "testimony AD 1839 Professor Rubens Duval Arameans Syriacs evangelisation Littérature Syriaque"
-    },
-    {
-      "id": 43,
-      "category": "testimony",
-      "date": "1860",
-      "title": "Max von Oppenheim",
-      "quote": "Today's Syriacs are regarded largely as the descendants of the old Arameans",
-      "citation": "Vom Mittelmeer zum persischen Golf durch den Haurän (Berlin 1899), Band I, p. 6",
-      "search": "testimony AD 1860 Max von Oppenheim Syriacs descendants old Arameans Tell Halaf archaeologist"
-    },
-    {
-      "id": 44,
-      "category": "testimony",
-      "date": "1887",
-      "title": "Patriarch Aphrem Barsaum",
-      "quote": "The Syriac community was known from its beginning as the Aramean community",
-      "citation": "\"Sefro Suryoyo\" [The Syriac Writing] (Aleppo, 1947), p. 52",
-      "search": "testimony AD 1887 Patriarch Aphrem Barsaum Syriac community Aramean Sefro Suryoyo Scattered Pearls"
-    },
-    {
-      "id": 45,
-      "category": "conflict",
-      "date": "1894",
-      "title": "Hamidian Massacres",
-      "description": "While primarily targeting Armenians, Aramean communities in the same regions were also attacked during the Hamidian massacres under Ottoman Sultan Abdul Hamid II.",
-      "search": "conflict AD 1894 Hamidian Massacres Armenian Ottoman Abdul Hamid"
-    },
-    {
-      "id": 46,
-      "category": "history",
-      "date": "1915",
-      "title": "The Sayfo Genocide & Modern Displacement",
-      "description": "The Sayfo (1915–1918) during World War I leads to mass loss of life and forced exile across traditional homelands in Upper Mesopotamia, altering demographics and driving widespread diaspora migration.",
-      "search": "history AD 1915–1918 The Sayfo Genocide Modern Displacement Ottoman Empire World War I Kafno Simele",
+      "category": "culture",
+      "date": "1607 AD",
+      "title": "First Printed Syriac Book in the East (Monastery of Mar Anthony, Qozhaya)",
+      "description": "The Book of Psalms (Mazmure) is printed using wooden block Syriac type at the Monastery of St. Anthony of Qozhaya in Mount Lebanon, marking the dawn of Syriac/Aramaic typography in the Middle East.",
+      "search": "culture 1607 First Printed Syriac Book Monastery Qozhaya Psalms printing press typography",
       "sources": [
-        "Sayfo records: consular reports and eyewitness testimonies documenting targeted violence against Syriac and Aramean populations"
+        "Qozhaya Psalter (1607 Edition, Maronite Patriarchate archives)"
       ]
     },
     {
-      "id": 47,
+      "category": "testimony",
+      "date": "1698 AD",
+      "title": "Bishop Simon Patrick",
+      "quote": "Aram, from whom sprung the Syriacs, whose Name anciently was Aramei... And the Syriacs at this day call themselves Arameans.",
+      "citation": "Simon Patrick, Commentary on the Old Testament",
+      "search": "testimony 1698 AD Simon Patrick Syriacs call themselves Arameans"
+    },
+    {
+      "category": "testimony",
+      "date": "1737 AD",
+      "title": "Pietro Benedetto",
+      "quote": "the Arameans living near the mountains of the Carduchi, to whom scarcely even the southern breeze reaches?",
+      "citation": "Pietro Benedetto, Works of Saint Ephrem the Syrian (Rome, 1737)",
+      "search": "testimony 1737 AD Pietro Benedetto Arameans Carduchi mountains Ephrem"
+    },
+    {
+      "category": "testimony",
+      "date": "1794 AD",
+      "title": "Dietrich Hermann Hegewisch",
+      "quote": "Do not the Syriacs, as they are usually called, or the Arameans, as they in fact are termed, deserve more attention in world history than they are usually given?",
+      "citation": "Berlinische Monatschrift (September 1794)",
+      "search": "testimony 1794 AD Dietrich Hermann Hegewisch Berlinische Monatschrift Arameans Syriacs"
+    },
+    {
+      "category": "testimony",
+      "date": "1830 AD",
+      "title": "William Hales",
+      "quote": "This country of Aram is frequently rendered Syria in Scripture... Palestine Syria; into which they afterwards spread themselves, still retaining their original name, of Ἀράμοι, or Arameans...",
+      "citation": "William Hales, A New Analysis of Chronology and Geography, History and Prophecy",
+      "search": "testimony 1830 AD William Hales Aram Syria Scripture Arameans"
+    },
+    {
+      "category": "testimony",
+      "date": "1836 AD",
+      "title": "Encyclopedia Britannica (1836 Edition)",
+      "quote": "This version (the so-called Peshitta or Peshito) became the Bible of Aramaean Christendom, and Edessa became its capital.",
+      "citation": "Encyclopedia Britannica (7th Edition, 1836)",
+      "search": "testimony 1836 Encyclopedia Britannica Peshitta Bible of Aramaean Christendom Edessa"
+    },
+    {
+      "category": "testimony",
+      "date": "1838 AD",
+      "title": "Encyclopedia Britannica (1838 Edition)",
+      "quote": "Of the old Aramaean peasantry there are no longer any important remains in the plain the Aramaeans having withdrawn farther into the Kurdish highlands...",
+      "citation": "Encyclopedia Britannica (1838)",
+      "search": "testimony 1838 Encyclopedia Britannica Aramaeans Kurdish highlands Mesopotamian plain"
+    },
+    {
+      "category": "testimony",
+      "date": "1854 AD",
+      "title": "Professor Theodor Mommsen",
+      "quote": "the history of the Aramaean or Syriac nation",
+      "citation": "The History of Rome (1854-1856), translated by William Purdie Dickson, Book First, Chapter One",
+      "search": "testimony 1854 Professor Theodor Mommsen Aramaean Syriac nation History of Rome historian"
+    },
+    {
+      "category": "testimony",
+      "date": "1880 AD",
+      "title": "Professor Theodor Nöldeke",
+      "quote": "the name of the 'Syriacs' the people who called themselves 'Arameans'",
+      "citation": "Compendious Syriac Grammar (London, 1904), Introduction",
+      "search": "testimony 1880 Professor Theodor Nöldeke Compendious Syriac Grammar Arameans Syriacs"
+    },
+    {
+      "category": "testimony",
+      "date": "1899 AD",
+      "title": "Professor Rubens Duval",
+      "quote": "the Arameans who after the evangelisation of these countries adopted the name Syriacs",
+      "citation": "Anciennes Littératures Chrétiennes: La Littérature Syriaque (3rd ed., Paris 1907), p. 4",
+      "search": "testimony 1899 Professor Rubens Duval Arameans Syriacs evangelisation Littérature Syriaque"
+    },
+    {
+      "category": "testimony",
+      "date": "1899 AD",
+      "title": "Max von Oppenheim",
+      "quote": "Today's Syriacs are regarded largely as the descendants of the old Arameans",
+      "citation": "Vom Mittelmeer zum persischen Golf durch den Haurän (Berlin 1899), Band I, p. 6",
+      "search": "testimony 1899 Max von Oppenheim Syriacs descendants old Arameans Tell Halaf archaeologist"
+    },
+    {
       "category": "history",
-      "date": "1918",
+      "date": "1915 AD",
+      "title": "The Seyfo Genocide & Modern Displacement",
+      "description": "The Seyfo (1915–1918) during World War I leads to mass loss of life and forced exile across traditional homelands in Upper Mesopotamia, altering demographics and driving widespread diaspora migration.",
+      "search": "history 1915–1918 The Seyfo Genocide Modern Displacement Ottoman Empire World War I Kafno Simele",
+      "sources": [
+        "Seyfo records: consular reports and eyewitness testimonies documenting targeted violence against Syriac and Aramean populations"
+      ]
+    },
+    {
+      "category": "culture",
+      "date": "1918 AD",
       "title": "Diaspora Formation & Language Preservation",
       "description": "Successive displacements produce Aramean communities across Europe, the Americas, and Australia. Churches, cultural associations, schools, and publishing initiatives become the main institutions sustaining Neo-Aramaic and communal identity outside the historic homelands.",
-      "search": "history AD 1918–present Diaspora Formation Language Preservation Neo-Aramaic Europe Americas Australia Sweden Germany associations schools",
+      "search": "culture 1918–present Diaspora Formation Language Preservation Neo-Aramaic Europe Americas Australia Sweden Germany associations schools",
       "sources": [
         "Modern Aramaic revitalization efforts: language education programmes, community schools, and digital archives"
       ]
     },
     {
-      "id": 48,
-      "category": "conflict",
-      "date": "1933",
-      "title": "Simele Massacre",
-      "description": "Mass killings of Aramaic-speaking Christians in northern Iraq following the end of the British mandate. The event accelerated emigration from the region and remains a reference point in modern communal memory.",
-      "search": "conflict AD 1933 Simele Massacre northern Iraq British mandate emigration Assyrian Christians communal memory"
+      "category": "testimony",
+      "date": "1919 AD",
+      "title": "Naum Faiq (Pioneer of Modern Aramean Nationalism)",
+      "quote": "Awake, son of Aram, awake! Do not sleep, for the time of revival has arrived.",
+      "citation": "Beth-Nahrin Periodical (Paterson, New Jersey, 1919)",
+      "search": "testimony 1919 Naum Faiq Beth-Nahrin Awake son of Aram nationalist revival"
     },
     {
-      "id": 49,
+      "category": "history",
+      "date": "1923 AD",
+      "title": "Treaty of Lausanne & Minority Status in Turkey",
+      "description": "Following WWI and the dissolution of the Ottoman Empire, the Treaty of Lausanne establishes the Republic of Turkey. Non-Muslim minorities, including Syriac Christians in Tur Abdin and Istanbul, are recognized, though their legal educational and institutional rights face ongoing legislative challenges.",
+      "search": "history 1923 Treaty of Lausanne Minority Status Turkey Ottoman WWI Tur Abdin Syriac",
+      "sources": [
+        "Treaty of Lausanne (1923), Section III: Protection of Minorities (Articles 37–45)"
+      ]
+    },
+    {
+      "category": "conflict",
+      "date": "1933 AD",
+      "title": "Simele Massacre",
+      "description": "Mass killings of Aramaic-speaking Christians in northern Iraq following the end of the British mandate. The event accelerated emigration from the region and remains a reference point in modern communal memory.",
+      "search": "conflict 1933 Simele Massacre northern Iraq British mandate emigration Assyrian Christians communal memory"
+    },
+    {
       "category": "testimony",
-      "date": "1933",
+      "date": "1947 AD",
+      "title": "Patriarch Aphrem Barsaum",
+      "quote": "The Syriac community was known from its beginning as the Aramean community",
+      "citation": "Sefro Suryoyo [The Syriac Writing] (Aleppo, 1947), p. 52",
+      "search": "testimony 1947 Patriarch Aphrem Barsaum Syriac community Aramean Sefro Suryoyo Scattered Pearls"
+    },
+    {
+      "category": "testimony",
+      "date": "1983 AD",
       "title": "Patriarch Ignatius Zakka Iwas",
       "quote": "Those who want to make a difference between Syriacs and Arameans make a big mistake.",
       "citation": "The Syriac Church of Antioch Through the Ages, p. 10",
-      "search": "testimony AD 1933 Patriarch Ignatius Zakka Iwas Syriacs Arameans Antioch Church"
+      "search": "testimony 1983 Patriarch Ignatius Zakka Iwas Syriacs Arameans Antioch Church"
     },
     {
-      "id": 50,
+      "category": "culture",
+      "date": "1988 AD",
+      "title": "World Council of Arameans (WCA) Foundation",
+      "description": "Formed originally as the 'International Federation of Arameans' in New Jersey and later established in Europe, the WCA is created as an NGO representing the Aramean (Syriac) people at the United Nations, advocating for human rights, language revival, and recognition.",
+      "search": "culture 1988 World Council of Arameans WCA UN NGO Syriac Aramean Diaspora",
+      "sources": [
+        "United Nations Economic and Social Council (ECOSOC) Consultative Status documents for the WCA"
+      ]
+    },
+    {
       "category": "conflict",
-      "date": "1948",
-      "title": "Arab-Israeli Conflict & Regional Instability",
-      "description": "Aramean Christian communities in Israel, the Palestinian territories, Lebanon, and Syria are affected by successive wars and prolonged instability. Displacement, emigration, and restricted access to historic sites and parishes follow.",
-      "search": "conflict AD 1948–present Arab-Israeli Conflict Regional Instability Israel Palestinian territories Lebanon Syria displacement emigration"
+      "date": "2003 AD",
+      "title": "Iraq Wars & Persecution of Aramaic-Speaking Christians",
+      "description": "Aramaic-speaking Christians in Iraq faced severe targeting and displacement, particularly from extremist groups such as ISIS (2014–2017), driving thousands from traditional centers in the Nineveh Plains.",
+      "search": "conflict 2003–present Iraq Wars ISIS Persecution displacement cultural destruction Nineveh Plains"
     },
     {
-      "id": 51,
       "category": "conflict",
-      "date": "2003",
-      "title": "Iraq Wars & ISIS Persecution",
-      "description": "Iraqi Aramean Christians faced violence, particularly from ISIS (2014–2017). Communities displaced; cultural sites destroyed.",
-      "search": "conflict AD 2003–present Iraq Wars ISIS Persecution displacement cultural destruction Nineveh Plains"
+      "date": "2011 AD",
+      "title": "Syrian Civil War Impact on Aramean Communities",
+      "description": "Syrian Aramean and Syriac Christians experienced widespread displacement during the Syrian conflict, with ancient Neo-Aramaic speaking towns such as Maaloula and villages in the Khabur region suffering severe displacement.",
+      "search": "conflict 2011–present Syrian Civil War displacement Maaloula Khabur Christian"
     },
     {
-      "id": 52,
-      "category": "conflict",
-      "date": "2011",
-      "title": "Syrian Civil War",
-      "description": "Syrian Aramean Christians displaced and vulnerable during the ongoing conflict. Historic communities in Maaloula and the Khabur region particularly affected.",
-      "search": "conflict AD 2011–present Syrian Civil War displacement Maaloula Khabur Christian"
-    },
-    {
-      "id": 53,
       "category": "history",
-      "date": "2014",
+      "date": "2014 AD",
       "title": "Israel Recognizes Aramean Nationality",
       "description": "The State of Israel adds Aramean as a distinct nationality option in its population registry, available to eligible Christian citizens. It is the first modern state registration of Aramean as a separate ethnic category.",
-      "search": "history AD 2014 Israel Recognizes Aramean Nationality population registry Christian citizens ethnic recognition Knesset",
+      "search": "history 2014 Israel Recognizes Aramean Nationality population registry Christian citizens ethnic recognition Knesset",
       "sources": [
         "Israeli population registry decision recognizing Aramean as a distinct nationality (2014)"
       ]
