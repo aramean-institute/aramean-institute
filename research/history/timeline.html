@@ -9,25 +9,26 @@
     <ol padding="0">
       <li><a href="#" globalize-get="research">Research</a></li>
       <li><a href="./" globalize-get="history">History</a></li>
-      <li>Timeline</li>
+      <li bindglobal="title:title">{title}</li>
     </ol>
   </nav>
 
   <article margintop="1.5rem">
     <p>
       An interactive chronological index spanning over 3,000 years of Aramean history. It brings together political
-      events, wars and conflicts, literature and culture, and recorded testimonies on Aramean and Syriac identity. Use the search field
+      events, wars and conflicts, literature and culture, and recorded testimonies on Aramean and Syriac identity. Use
+      the search field
       to look up a person, place, or date, or filter by category to narrow the view.
     </p>
   </article>
 
   <!-- Control & Filter Panel -->
-  <form class="shade0" margintop="2rem" padding="1.25rem" bgcolor="whitesmoke" radius="0.5rem"
+  <form id="timelineForm" class="shade0" margintop="2rem" padding="1.25rem" bgcolor="whitesmoke" radius="0.5rem"
     border="1px solid #e0e0e0">
 
     <!-- Text Filter -->
     <label for="timelineFilter" block bold marginbottom="0.4rem" fontsize="0.85rem">Search the timeline</label>
-    <input id="timelineFilter" type="text" placeholder="Search keywords, authors, places, dates..."
+    <input type="text" placeholder="Search keywords, authors, places, dates..."
       placeholdercolor="silver" filtersearch--input onvaluechange="filtersearch--run:#superTimeline" width="100%"
       padding="0.65rem 0.9rem" bgcolor="white" border="1px solid #ccc" radius="0.25rem" autocomplete="off">
 
@@ -42,34 +43,34 @@
           <input type="checkbox" id="chk_history" filtersearch--group="history" click="filtersearch--run:#superTimeline"
             marginright=".4rem">
           <label for="chk_history" cursor="pointer" fontsize="0.9rem">
-            <b color="#e03131">&#9679;</b> History &amp; Events
+            <b color="red">&#9679;</b> History &amp; Events
           </label>
         </fieldset>
         <fieldset flex alignitems="center">
           <input type="checkbox" id="chk_conflict" filtersearch--group="conflict"
             click="filtersearch--run:#superTimeline" marginright=".4rem">
           <label for="chk_conflict" cursor="pointer" fontsize="0.9rem">
-            <b color="#d9480f">&#9679;</b> Wars &amp; Conflicts
+            <b color="orange">&#9679;</b> Wars &amp; Conflicts
           </label>
         </fieldset>
         <fieldset flex alignitems="center">
-          <input type="checkbox" id="chk_culture" filtersearch--group="culture"
-            click="filtersearch--run:#superTimeline" marginright=".4rem">
+          <input type="checkbox" id="chk_culture" filtersearch--group="culture" click="filtersearch--run:#superTimeline"
+            marginright=".4rem">
           <label for="chk_culture" cursor="pointer" fontsize="0.9rem">
-            <b color="#2b8a3e">&#9679;</b> Literature &amp; Culture
+            <b color="green">&#9679;</b> Literature &amp; Culture
           </label>
         </fieldset>
         <fieldset flex alignitems="center">
           <input type="checkbox" id="chk_testimony" filtersearch--group="testimony"
             click="filtersearch--run:#superTimeline" marginright=".4rem">
           <label for="chk_testimony" cursor="pointer" fontsize="0.9rem">
-            <b color="#3b5bdb">&#9679;</b> Testimonies &amp; Identity
+            <b color="blue">&#9679;</b> Testimonies &amp; Identity
           </label>
         </fieldset>
       </div>
 
-      <a href="#" class="pointer" color="gray" fontsize="0.85rem" style="text-decoration: underline;"
-        click="resetvalue:#timelineFilter;filtersearch--run:#superTimeline">Reset</a>
+      <a color="gray" fontsize="0.85rem" underline
+        click="reset:#timelineForm;filtersearch--run:#superTimeline">Reset</a>
     </div>
   </form>
 
@@ -77,20 +78,19 @@
   <div id="timelineEmpty" hide textalign="center" padding="3rem 1rem">
     <h3 color="#e03131">No timeline entries match your filter.</h3>
     <p color="gray" margintop="0.5rem">Try a different keyword or name, or clear the active category filters.</p>
-    <a href="#" class="pointer" inlineblock radius="0.25rem" padding="0.5rem 1.25rem" bgcolor="#e03131" color="white"
-      margintop="1rem" click="resetvalue:#timelineFilter;filtersearch--run:#superTimeline">Reset filters</a>
+    <a class="pointer" inlineblock radius="0.25rem" padding="0.5rem 1.25rem" bgcolor="#e03131" color="white"
+      margintop="1rem" click="reset:#timelineForm;filtersearch--run:#superTimeline">Reset filters</a>
   </div>
 
   <!-- Timeline List -->
-  <div id="superTimeline" class="mt3" borderleft="2px solid #e9e9e9" paddingleft="2.5rem"
-    style="position: relative; margin-left: 1rem;" filtersearch--onempty="#timelineEmpty" data-iterate="timeline"
-    data-src="assets/json/supertimeline.json">
+  <div id="superTimeline" class="mt3" borderleft="2px solid #e9e9e9" paddingleft="2.5rem" relative
+    filtersearch--onempty="#timelineEmpty" data-iterate="timeline" data-src="assets/json/supertimeline.json">
 
-    <article class="timeline-item" marginbottom="2rem" style="position: relative;" filtersearch--select>
+    <article class="timeline-item" marginbottom="2rem" relative filtersearch--select>
 
       <!-- Rail node (Dynamic border/color depending on category) -->
-      <div style="position: absolute; left: -3.05rem; top: 1.4rem; width: 11px; height: 11px; border-radius: 50%; background-color: #e03131; border: 3px solid white; box-shadow: 0 0 0 1px #e9e9e9;"
-        data-onget="([{category}]:[history])/setattr:[style=position:absolute;left:-3.05rem;top:1.4rem;width:11px;height:11px;border-radius:50%;background-color:#e03131;border:3px solid white;box-shadow:0 0 0 1px #e9e9e9];([{category}]:[conflict])/setattr:[style=position:absolute;left:-3.05rem;top:1.4rem;width:11px;height:11px;border-radius:50%;background-color:#d9480f;border:3px solid white;box-shadow:0 0 0 1px #e9e9e9];([{category}]:[culture])/setattr:[style=position:absolute;left:-3.05rem;top:1.4rem;width:11px;height:11px;border-radius:50%;background-color:#2b8a3e;border:3px solid white;box-shadow:0 0 0 1px #e9e9e9];([{category}]:[testimony])/setattr:[style=position:absolute;left:-3.05rem;top:1.4rem;width:11px;height:11px;border-radius:50%;background-color:#3b5bdb;border:3px solid white;box-shadow:0 0 0 1px #e9e9e9]">
+      <div width="1rem" height="1rem" absolute top="1.4rem" left="-3.05rem" bgcolor="red" radius="50%"
+        border="3px solid white" boxshadow="0 0 0 1px gainsboro">
       </div>
 
       <span hide filtersearch--marker data-get="category"></span>
@@ -127,19 +127,9 @@
         <!-- Sources -->
         <p class="mt1" hide data-if="sources" fontsize="0.8rem" color="gray" lineheight="1.6">
           <b color="#555">Sources:</b>
-          <span data-get="sources" data-iterate="sources" data-format="join: '; '"></span>
+          <span data-get="sources" data-iterate="sources"></span>
         </p>
       </div>
     </article>
-
   </div>
-
-  <hr class="mt3 bcblack">
-  <p fontsize="0.95rem">
-    For source provenance, terminology, and the limits of the evidence behind these entries, see
-    <a href="./historical-sources.html" color="red">Historical Sources</a>.
-  </p>
-
-  <hr class="mt2 bcblack">
-  <small class="gray">Published: 2026-07-24, Last update: 2026-07-31</small>
 </section>
