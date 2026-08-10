@@ -1,13 +1,15 @@
 <template>
   <aside></aside>
   <main inherit="false"></main>
+  <aside screen-xxs="hide" screen-md="hide" screen-lg="hide;width:[17rem]" screen-xl="show;width:[19rem]"
+    screen-xxxl="width:[22rem]">
+    <nav id="submenuitems" name="ethnology" bgcolor="red" color="white" class="sidebar" paddingtop="1rem">
       <details open>
         <summary class="white" globalize-get>Overview</summary>
         <a color="yellow" href="./research/ethnology" globalize-get="summary">1. Summary</a>
         <a color="yellow" href="./research/ethnology/language.html" globalize-get="language">2. Language</a>
         <a color="yellow" href="./research/ethnology/religion.html" globalize-get="religion">3. Religion</a>
       </details>
-
       <details open>
         <summary class="white" globalize-get="culture">Culture</summary>
         <details>
@@ -29,7 +31,6 @@
           <a color="yellow" href="./research/ethnology/religion/christianity.html" globalize-get>Christianity</a>
         </details>
       </details>
-
       <hr>
     </nav>
   </aside>
