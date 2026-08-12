@@ -7,7 +7,23 @@
     "period": "10th-8th century BC",
     "peak": "9th century BC (under Hazael)",
     "fall": "732 BC (conquered by Tiglath-Pileser III)",
-    "description": "Aram-Damascus was the most powerful and best-documented Aramean kingdom, centered on the ancient city of Damascus in modern Syria. It rose to prominence in the 10th century BC and reached its peak under King Hazael in the second half of the 9th century BC, dominating much of the southern Levant before its conquest by the Neo-Assyrian Empire under Tiglath-Pileser III in 732 BC."
+    "archaeology": {
+      "description": "Registered evidence includes the Tel Dan and Ein Gev inscriptions, Hazael-named artifacts from Arslan Tash, Samos, and Nimrud, and the Melqart Stele near Aleppo; these finds document connections and activity associated with Aram-Damascus without defining its full territory.",
+      "short_description": "Inscriptions and artifacts linked to Hazael and Aram-Damascus document regional connections without defining the polity's full territory."
+    },
+    "geography": {
+      "description": "Centered on Damascus in modern Syria, Aram-Damascus is associated with the Barada River and a southern-Levantine setting; the mapped point is an approximate reference.",
+      "short_description": "Aram-Damascus centered on Damascus and the Barada River in southern Syria and the southern Levant.",
+      "lat": 33.5138,
+      "lng": 36.2765,
+      "waterways": [
+        "Barada River"
+      ],
+      "neighbors": [
+        "Zobah",
+        "Geshur"
+      ]
+    }
   },
   "Zobah": {
     "name": "Aram-Zobah",
@@ -17,7 +33,24 @@
     "period": "11th-10th century BC",
     "peak": "10th century BC (under Hadadezer)",
     "fall": "Defeated by David of Israel, later absorbed by Aram-Damascus",
-    "description": "Aram-Zobah was an important Aramean kingdom in the 10th century BC, located in the Beqaa Valley region between the Lebanon and Anti-Lebanon mountains. Under King Hadadezer, it was the dominant Aramean power before being defeated by King David of Israel and subsequently eclipsed by Aram-Damascus."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Zobah in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Zobah, leaving its material record unassigned."
+    },
+    "geography": {
+      "description": "Aram-Zobah is conventionally placed in the Beqaa Valley region between the Lebanon and Anti-Lebanon mountains, near the Litani River; its capital and extent remain uncertain.",
+      "short_description": "Aram-Zobah is conventionally placed in the Beqaa Valley between the Lebanon and Anti-Lebanon mountains near the Litani River.",
+      "lat": 34.2,
+      "lng": 36.5,
+      "waterways": [
+        "Litani River"
+      ],
+      "neighbors": [
+        "Aram-Damascus",
+        "Beth-Rehob",
+        "Hamath"
+      ]
+    }
   },
   "Beth-Rehob": {
     "name": "Aram-Beth Rehob",
@@ -27,7 +60,24 @@
     "period": "11th-10th century BC",
     "peak": "10th century BC",
     "fall": "Absorbed by Aram-Damascus",
-    "description": "Aram-Beth Rehob was a small Aramean kingdom in the upper Jordan Valley or southern Beqaa region. It allied with the Ammonites against David of Israel and was later absorbed into the expanding kingdom of Aram-Damascus."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Beth-Rehob in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Beth-Rehob."
+    },
+    "geography": {
+      "description": "Beth-Rehob is commonly placed in the upper Jordan Valley or southern Beqaa region, near the Jordan River; its location and extent remain debated.",
+      "short_description": "Beth-Rehob is commonly placed near the Jordan River in the upper Jordan Valley or southern Beqaa region.",
+      "lat": 33.0,
+      "lng": 35.6,
+      "waterways": [
+        "Jordan River"
+      ],
+      "neighbors": [
+        "Zobah",
+        "Maacah",
+        "Geshur"
+      ]
+    }
   },
   "Maacah": {
     "name": "Aram-Maacah",
@@ -37,7 +87,24 @@
     "period": "11th-10th century BC",
     "peak": "10th century BC",
     "fall": "Absorbed by Aram-Damascus or Israel",
-    "description": "Aram-Maacah was a small Aramean kingdom located in the area of the Golan Heights and Mount Hermon. It is mentioned in the Bible as an ally of the Ammonites against David. It was eventually absorbed by larger neighboring powers."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Maacah in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Maacah."
+    },
+    "geography": {
+      "description": "Aram-Maacah is associated with the Golan Heights and Mount Hermon area, near the Jordan River; its center and extent are uncertain.",
+      "short_description": "Aram-Maacah is associated with the Golan Heights and Mount Hermon near the Jordan River.",
+      "lat": 33.1,
+      "lng": 36.2,
+      "waterways": [
+        "Jordan River"
+      ],
+      "neighbors": [
+        "Beth-Rehob",
+        "Geshur",
+        "Tob"
+      ]
+    }
   },
   "Geshur": {
     "name": "Geshur",
@@ -47,7 +114,25 @@
     "period": "11th-9th century BC",
     "peak": "10th century BC",
     "fall": "Absorbed by Aram-Damascus",
-    "description": "Geshur was an Aramean kingdom in the Golan Heights region, east of the Sea of Galilee. It maintained diplomatic ties with Israel through marriage - King David married Maacah, daughter of Talmai king of Geshur. The kingdom was eventually absorbed by Aram-Damascus."
+    "archaeology": {
+      "description": "Registered evidence includes the Bethsaida Cultic Stele and Bethsaida City Gate, classified as religious and architectural evidence and attributed in the dataset to Geshur; these finds illuminate activity at a possible regional center.",
+      "short_description": "The Bethsaida Cultic Stele and city gate provide religious and architectural evidence attributed to Geshur."
+    },
+    "geography": {
+      "description": "Geshur is associated with the Golan Heights east of the Sea of Galilee, near the Jordan River and Sea of Galilee; Et-Tell is a possible center.",
+      "short_description": "Geshur occupied the Golan Heights east of the Sea of Galilee near the Jordan River.",
+      "lat": 32.8,
+      "lng": 35.8,
+      "waterways": [
+        "Jordan River",
+        "Sea of Galilee"
+      ],
+      "neighbors": [
+        "Maacah",
+        "Tob",
+        "Aram-Damascus"
+      ]
+    }
   },
   "Tob": {
     "name": "Tob",
@@ -57,7 +142,23 @@
     "period": "11th-10th century BC",
     "peak": "11th century BC",
     "fall": "Unknown",
-    "description": "Tob was a small Aramean polity in Transjordan, mentioned in the Bible as the place where Jephthah fled and as an ally of the Ammonites against Israel. Its exact location and extent remain debated."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Tob in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Tob."
+    },
+    "geography": {
+      "description": "Tob is associated with a Transjordan setting near the Yarmouk River, but its exact location and extent remain debated.",
+      "short_description": "Tob is associated with the Transjordan near the Yarmouk River, though its exact extent remains debated.",
+      "lat": 32.4,
+      "lng": 35.9,
+      "waterways": [
+        "Yarmouk River"
+      ],
+      "neighbors": [
+        "Geshur",
+        "Maacah"
+      ]
+    }
   },
   "Hamath": {
     "name": "Hamath",
@@ -67,7 +168,24 @@
     "period": "12th-8th century BC",
     "peak": "9th-8th century BC",
     "fall": "720 BC (conquered by Sargon II of Assyria)",
-    "description": "Hamath was a major kingdom on the Orontes River in central Syria. Originally a Neo-Hittite/Luwian state, it became increasingly Aramaeanized from the 9th century BC. Under King Zakkur, it expanded to include Lu'ash. It participated in anti-Assyrian coalitions before its final conquest by Sargon II."
+    "archaeology": {
+      "description": "Registered evidence includes the Zakkur Stele at Tell Afis, Hamath inscriptions, and Hama graffiti; these inscriptional records document rulers, languages, and everyday writing associated with Hamath.",
+      "short_description": "The Zakkur Stele, Hamath inscriptions, and Hama graffiti provide substantial written evidence for the polity."
+    },
+    "geography": {
+      "description": "Hamath was centered at Hama on the Orontes River in central Syria; its mapped location is a regional reference near Luash, Bit-Agusi, and Aram-Damascus.",
+      "short_description": "Hamath centered on Hama along the Orontes River in central Syria.",
+      "lat": 35.133333,
+      "lng": 36.75,
+      "waterways": [
+        "Orontes River"
+      ],
+      "neighbors": [
+        "Luash",
+        "Bit-Agusi",
+        "Aram-Damascus"
+      ]
+    }
   },
   "Luash": {
     "name": "Lu'ash",
@@ -77,7 +195,24 @@
     "period": "9th-8th century BC",
     "peak": "9th century BC",
     "fall": "United with Hamath under Zakkur, then conquered by Assyria",
-    "description": "Lu'ash was an Aramean kingdom in northern Syria, centered on the city of Hazrek (modern Tell Afis). It was eventually united with Hamath under King Zakkur in the early 8th century BC."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Luash in the evidence dataset; the Zakkur Stele is registered to Hamath despite mentioning Lu'ash.",
+      "short_description": "No polity-specific find is registered for Luash; the Zakkur Stele mentions Lu'ash but is assigned to Hamath."
+    },
+    "geography": {
+      "description": "Luash is associated with Hazrek at Tell Afis in northern Syria's Idlib region, within the Orontes corridor; its relationship to Hamath changed over time.",
+      "short_description": "Luash is associated with Hazrek at Tell Afis in the Orontes corridor of northern Syria.",
+      "lat": 35.905,
+      "lng": 36.798611,
+      "waterways": [
+        "Orontes River"
+      ],
+      "neighbors": [
+        "Hamath",
+        "Bit-Agusi",
+        "Pattin-Unqi"
+      ]
+    }
   },
   "Bit-Agusi": {
     "name": "Bit-Agusi",
@@ -87,7 +222,25 @@
     "period": "10th-8th century BC",
     "peak": "Mid-8th century BC (under Mati'el)",
     "fall": "740 BC (conquered by Tiglath-Pileser III)",
-    "description": "Bit-Agusi was a major Aramean kingdom in northern Syria, founded by Gusi of Yakhan. Its capital was Arpad (modern Tell Rifaat). At its height it controlled territory from A'zaz to Aleppo. The Sefire treaty stelae document its diplomatic relations. It fell to Assyria after a three-year siege."
+    "archaeology": {
+      "description": "Registered evidence consists of the Sefire Stelae at Sefire, an Aramaic treaty associated with Mati'el of Arpad; they document diplomacy but do not by themselves define Bit-Agusi's full territory.",
+      "short_description": "The Sefire Stelae preserve an Aramaic treaty associated with Mati'el of Arpad and document Bit-Agusi's diplomacy."
+    },
+    "geography": {
+      "description": "Bit-Agusi was centered at Arpad (Tell Rifaat) north of Aleppo, near the Quweiq River; its mapped point is a regional reference for northern Syria.",
+      "short_description": "Bit-Agusi centered on Arpad north of Aleppo near the Quweiq River in northern Syria.",
+      "lat": 36.4725,
+      "lng": 37.094722,
+      "waterways": [
+        "Quweiq River"
+      ],
+      "neighbors": [
+        "Hamath",
+        "Luash",
+        "Bit-Gabbar",
+        "Bit-Adini"
+      ]
+    }
   },
   "Bit-Adini": {
     "name": "Bit-Adini",
@@ -97,7 +250,24 @@
     "period": "10th-9th century BC",
     "peak": "Early 9th century BC",
     "fall": "856 BC (conquered by Shalmaneser III)",
-    "description": "Bit-Adini was an Aramean kingdom straddling both banks of the Euphrates below Carchemish. Its capital was Til Barsip (modern Tell Ahmar). It was one of the first Aramean states conquered by the Neo-Assyrian Empire, falling to Shalmaneser III after its king Ahuni was defeated and deported."
+    "archaeology": {
+      "description": "Registered evidence includes the Arslan Tash Ivory Inscription, found at the former Bit-Adini capital after the Assyrian conquest; the dataset also lists other nearby finds without assigning them to this polity.",
+      "short_description": "The Arslan Tash Ivory Inscription is the principal registered find associated with Bit-Adini's former capital."
+    },
+    "geography": {
+      "description": "Bit-Adini occupied territory on both banks of the Euphrates below Carchemish, centered at Til Barsip (Tell Ahmar); its mapped point is a regional reference.",
+      "short_description": "Bit-Adini occupied both banks of the Euphrates below Carchemish, centered at Til Barsip.",
+      "lat": 36.7014,
+      "lng": 38.0865,
+      "waterways": [
+        "Euphrates River"
+      ],
+      "neighbors": [
+        "Bit-Agusi",
+        "Bit-Gabbar",
+        "Bit-Bahiani"
+      ]
+    }
   },
   "Bit-Gabbar": {
     "name": "Bit-Gabbar / Sam'al",
@@ -107,7 +277,24 @@
     "period": "10th-8th century BC",
     "peak": "9th-8th century BC",
     "fall": "Became Assyrian vassal, then province (c. 713 BC)",
-    "description": "Bit-Gabbar was the Aramean dynasty that ruled the city of Sam'al (modern Zincirli) in southeastern Anatolia. The site has yielded some of the richest Aramean archaeological finds, including the Kilamuwa Stele, Panamuwa inscriptions, Bar-Rakib inscriptions, and the Katumuwa Stele."
+    "archaeology": {
+      "description": "Registered evidence from Zincirli includes royal inscriptions, funerary stelae, the Kilamuwa Scepter, and monumental sculptures such as the citadel gate lions and Bar-Rakib relief; together these records document Sam'al's political, mortuary, and artistic life.",
+      "short_description": "Zincirli's inscriptions, funerary stelae, artifacts, and sculptures document Sam'al's political and artistic life."
+    },
+    "geography": {
+      "description": "Bit-Gabbar was centered on Sam'al at Zincirli in southeastern Anatolia, near the Karasu River; its mapped point is a regional reference among northern Syrian and Anatolian polities.",
+      "short_description": "Bit-Gabbar centered on Sam'al at Zincirli near the Karasu River in southeastern Anatolia.",
+      "lat": 37.1036,
+      "lng": 36.6786,
+      "waterways": [
+        "Karasu River"
+      ],
+      "neighbors": [
+        "Bit-Agusi",
+        "Pattin-Unqi",
+        "Bit-Adini"
+      ]
+    }
   },
   "Pattin-Unqi": {
     "name": "Pattin/Unqi",
@@ -117,7 +304,24 @@
     "period": "11th-8th century BC",
     "peak": "9th century BC",
     "fall": "738 BC (conquered by Tiglath-Pileser III)",
-    "description": "Pattin (also called Unqi) was a Neo-Hittite/Aramean kingdom in the Amuq Plain of southeastern Turkey. Its capital was Kunulua (Tell Tayinat). The kingdom shows a blend of Luwian and Aramean cultural elements."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Pattin-Unqi in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Pattin-Unqi."
+    },
+    "geography": {
+      "description": "Pattin-Unqi was centered on Kunulua at Tell Tayinat in the Amuq Plain of southeastern Turkey, within the Orontes corridor; its cultural boundaries remain complex.",
+      "short_description": "Pattin-Unqi centered on Kunulua in the Amuq Plain along the Orontes corridor of southeastern Turkey.",
+      "lat": 36.2475,
+      "lng": 36.376389,
+      "waterways": [
+        "Orontes River"
+      ],
+      "neighbors": [
+        "Luash",
+        "Bit-Gabbar",
+        "Bit-Agusi"
+      ]
+    }
   },
   "Hatallu": {
     "name": "Hatallu",
@@ -127,7 +331,21 @@
     "period": "9th-8th century BC",
     "peak": "Unknown",
     "fall": "Conquered by Assyria",
-    "description": "Hatallu was a small Aramean polity in southeastern Anatolia. It is poorly attested and known primarily from Assyrian conquest records."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Hatallu in the evidence dataset; the present record is limited to historical attestations.",
+      "short_description": "Hatallu is presently supported by historical attestations rather than a registered polity-specific archaeological find."
+    },
+    "geography": {
+      "description": "Hatallu is represented as a poorly located polity in southeastern Anatolia, near Bit-Gabbar and Bit-Zamani; its mapped point is a broad approximation.",
+      "short_description": "Hatallu is a poorly located polity in southeastern Anatolia near Bit-Gabbar and Bit-Zamani.",
+      "lat": 38.0,
+      "lng": 37.1,
+      "waterways": [],
+      "neighbors": [
+        "Bit-Gabbar",
+        "Bit-Zamani"
+      ]
+    }
   },
   "Bit-Bahiani": {
     "name": "Bit-Bahiani",
@@ -137,7 +355,25 @@
     "period": "10th-9th century BC",
     "peak": "10th-9th century BC (under Kapara)",
     "fall": "Late 9th century BC (became Assyrian province)",
-    "description": "Bit-Bahiani was one of the earliest Aramean kingdoms in upper Mesopotamia, centered on Guzana (Tell Halaf) on the Khabur River. It produced some of the finest examples of Aramean monumental art, including the famous Tell Halaf sculptures and the bit-hilani palace of Kapara."
+    "archaeology": {
+      "description": "Registered evidence includes Tell Halaf sculptures, the bit-hilani palace and inscription at Guzana, and the bilingual statue and inscription from Tell Fekheriye; these records document monumental, architectural, and written evidence associated with Bit-Bahiani.",
+      "short_description": "Tell Halaf, Guzana, and Tell Fekheriye provide monumental, architectural, and bilingual written evidence for Bit-Bahiani."
+    },
+    "geography": {
+      "description": "Bit-Bahiani was centered on Guzana at Tell Halaf along the Khabur River in upper Mesopotamia; its mapped point is a regional reference among neighboring polities.",
+      "short_description": "Bit-Bahiani centered on Guzana at Tell Halaf along the Khabur River in upper Mesopotamia.",
+      "lat": 36.826785,
+      "lng": 40.03967,
+      "waterways": [
+        "Khabur River"
+      ],
+      "neighbors": [
+        "Bit-Halupe",
+        "Bit-Hadipe",
+        "Bet-Urhay",
+        "Bit-Zamani"
+      ]
+    }
   },
   "Bit-Zamani": {
     "name": "Bit-Zamani",
@@ -147,7 +383,24 @@
     "period": "11th-9th century BC",
     "peak": "10th century BC",
     "fall": "Late 9th century BC (conquered by Assyria)",
-    "description": "Bit-Zamani was an Aramean kingdom in the upper Tigris region, near modern Diyarbakır in southeastern Turkey. It was one of the northernmost Aramean polities and frequently clashed with both Assyria and Urartu."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Bit-Zamani in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Bit-Zamani."
+    },
+    "geography": {
+      "description": "Bit-Zamani is associated with the upper Tigris near Diyarbakır in southeastern Turkey; Amida is a possible center and the mapped point is approximate.",
+      "short_description": "Bit-Zamani is associated with the upper Tigris near Diyarbakır in southeastern Turkey.",
+      "lat": 37.915315,
+      "lng": 40.240872,
+      "waterways": [
+        "Tigris River"
+      ],
+      "neighbors": [
+        "Bit-Bahiani",
+        "Bet-Urhay",
+        "Hatallu"
+      ]
+    }
   },
   "Bit-Halupe": {
     "name": "Bit-Halupe",
@@ -157,7 +410,24 @@
     "period": "11th-9th century BC",
     "peak": "10th century BC",
     "fall": "Conquered by Assyria",
-    "description": "Bit-Halupe was an Aramean tribal territory along the Khabur River in northeastern Syria. It was one of the Aramean groups that Assyrian kings repeatedly campaigned against during the early Neo-Assyrian period."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Bit-Halupe in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Bit-Halupe."
+    },
+    "geography": {
+      "description": "Bit-Halupe is placed along the Khabur River in northeastern Syria, near Bit-Bahiani, Bit-Hadipe, and Laqe; its mapped point is a regional approximation.",
+      "short_description": "Bit-Halupe lay along the Khabur River in northeastern Syria near Bit-Bahiani, Bit-Hadipe, and Laqe.",
+      "lat": 36.4,
+      "lng": 40.5,
+      "waterways": [
+        "Khabur River"
+      ],
+      "neighbors": [
+        "Bit-Bahiani",
+        "Bit-Hadipe",
+        "Laqe"
+      ]
+    }
   },
   "Bit-Hadipe": {
     "name": "Bit-Hadipe",
@@ -167,7 +437,24 @@
     "period": "10th-9th century BC",
     "peak": "Unknown",
     "fall": "Conquered by Assyria",
-    "description": "Bit-Hadipe was an Aramean tribal polity in upper Mesopotamia, known primarily from Assyrian royal inscriptions documenting campaigns against Aramean groups in the region."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Bit-Hadipe in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Bit-Hadipe."
+    },
+    "geography": {
+      "description": "Bit-Hadipe is associated with the upper Mesopotamian Khabur corridor near Bit-Bahiani, Bit-Halupe, and Laqe; its center remains uncertain.",
+      "short_description": "Bit-Hadipe is associated with the upper Mesopotamian Khabur corridor near Bit-Bahiani, Bit-Halupe, and Laqe.",
+      "lat": 36.3,
+      "lng": 40.2,
+      "waterways": [
+        "Khabur River"
+      ],
+      "neighbors": [
+        "Bit-Bahiani",
+        "Bit-Halupe",
+        "Laqe"
+      ]
+    }
   },
   "Laqe": {
     "name": "Laqe",
@@ -177,7 +464,25 @@
     "period": "11th-8th century BC",
     "peak": "10th-9th century BC",
     "fall": "Conquered by Assyria",
-    "description": "Laqe was an Aramean tribal region along the Middle Euphrates. It is described in Assyrian sources as both a tribe and a geographic area, frequently raided by Assyrian kings."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Laqe in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Laqe."
+    },
+    "geography": {
+      "description": "Laqe is associated with a Middle Euphrates corridor, near Bit-Halupe, Bit-Hadipe, Suhu, and Hindanu; its designation may describe both a group and a region.",
+      "short_description": "Laqe is associated with the Middle Euphrates near Bit-Halupe, Bit-Hadipe, Suhu, and Hindanu.",
+      "lat": 34.7,
+      "lng": 40.7,
+      "waterways": [
+        "Euphrates River"
+      ],
+      "neighbors": [
+        "Bit-Halupe",
+        "Bit-Hadipe",
+        "Suhu",
+        "Hindanu"
+      ]
+    }
   },
   "Suhu": {
     "name": "Suhu",
@@ -187,7 +492,23 @@
     "period": "11th-8th century BC",
     "peak": "9th century BC",
     "fall": "Absorbed into Assyrian provincial system",
-    "description": "Suhu was a region along the Middle Euphrates with a mixed population including Aramean tribal groups. Local rulers left inscriptions documenting conflicts with nomadic Aramean tribes passing through their territory."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Suhu in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Suhu."
+    },
+    "geography": {
+      "description": "Suhu occupied a Middle Euphrates corridor between Laqe and Hindanu; its mapped location is a regional reference within a zone of mixed communities.",
+      "short_description": "Suhu occupied a Middle Euphrates corridor between Laqe and Hindanu.",
+      "lat": 34.3722,
+      "lng": 41.9875,
+      "waterways": [
+        "Euphrates River"
+      ],
+      "neighbors": [
+        "Laqe",
+        "Hindanu"
+      ]
+    }
   },
   "Hindanu": {
     "name": "Hindanu",
@@ -197,7 +518,24 @@
     "period": "11th-9th century BC",
     "peak": "10th century BC",
     "fall": "Conquered by Assyria",
-    "description": "Hindanu was a small polity on the Middle Euphrates with an Aramean population. It is attested in Assyrian sources as a waypoint on the route between Assyria and the Levant."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Hindanu in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Hindanu."
+    },
+    "geography": {
+      "description": "Hindanu is associated with a Middle Euphrates location near Laqe, Suhu, and Bit-Yakini; its recorded position is a regional route reference.",
+      "short_description": "Hindanu is associated with the Middle Euphrates near Laqe, Suhu, and Bit-Yakini.",
+      "lat": 34.0,
+      "lng": 42.5,
+      "waterways": [
+        "Euphrates River"
+      ],
+      "neighbors": [
+        "Laqe",
+        "Suhu",
+        "Bit-Yakini"
+      ]
+    }
   },
   "Bit-Yakini": {
     "name": "Bit-Yakini",
@@ -207,7 +545,26 @@
     "period": "9th-7th century BC",
     "peak": "8th century BC (under Merodach-Baladan)",
     "fall": "Defeated by Sennacherib (c. 700 BC)",
-    "description": "Bit-Yakini was the most powerful of the Chaldean/Aramean tribal confederations in southern Babylonia. Under Merodach-Baladan II, it twice seized the throne of Babylon and challenged Assyrian hegemony over the region."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Bit-Yakini in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Bit-Yakini."
+    },
+    "geography": {
+      "description": "Bit-Yakini is associated with the southern Babylonian marshlands and the Tigris-Euphrates zone; Dur-Yakini and the polity's exact extent remain uncertain.",
+      "short_description": "Bit-Yakini is associated with the southern Babylonian marshlands in the Tigris-Euphrates zone.",
+      "lat": 31.3,
+      "lng": 46.0,
+      "waterways": [
+        "Euphrates River",
+        "Tigris River"
+      ],
+      "neighbors": [
+        "Bit-Dakkuri",
+        "Bit-Amukani",
+        "Puqudu",
+        "Hindanu"
+      ]
+    }
   },
   "Bit-Dakkuri": {
     "name": "Bit-Dakkuri",
@@ -217,7 +574,24 @@
     "period": "9th-7th century BC",
     "peak": "8th century BC",
     "fall": "Subdued by Assyria",
-    "description": "Bit-Dakkuri was a major Chaldean/Aramean tribe in central Babylonia, located near the city of Borsippa. They frequently allied with or against Bit-Yakini in the power struggles over Babylon."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Bit-Dakkuri in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Bit-Dakkuri."
+    },
+    "geography": {
+      "description": "Bit-Dakkuri is associated with central Babylonia near Borsippa and the Euphrates River; its mapped point is a broad regional reference.",
+      "short_description": "Bit-Dakkuri is associated with central Babylonia near Borsippa and the Euphrates River.",
+      "lat": 32.5,
+      "lng": 44.4,
+      "waterways": [
+        "Euphrates River"
+      ],
+      "neighbors": [
+        "Bit-Yakini",
+        "Bit-Amukani",
+        "Litau"
+      ]
+    }
   },
   "Bit-Amukani": {
     "name": "Bit-Amukani",
@@ -227,7 +601,25 @@
     "period": "9th-7th century BC",
     "peak": "8th century BC",
     "fall": "Subdued by Assyria",
-    "description": "Bit-Amukani was a major Chaldean/Aramean tribe in southern Babylonia, occupying territory between Nippur and Uruk. They were one of the three principal Chaldean tribal confederations alongside Bit-Yakini and Bit-Dakkuri."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Bit-Amukani in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Bit-Amukani."
+    },
+    "geography": {
+      "description": "Bit-Amukani is associated with southern Babylonia between Nippur and Uruk, near the Euphrates River; its territory is a broad historical-geographic reconstruction.",
+      "short_description": "Bit-Amukani is associated with southern Babylonia between Nippur and Uruk near the Euphrates River.",
+      "lat": 31.75,
+      "lng": 45.4,
+      "waterways": [
+        "Euphrates River"
+      ],
+      "neighbors": [
+        "Bit-Dakkuri",
+        "Bit-Shilani",
+        "Bit-Yakini",
+        "Litau"
+      ]
+    }
   },
   "Bit-Shilani": {
     "name": "Bit-Shilani",
@@ -237,7 +629,23 @@
     "period": "9th-7th century BC",
     "peak": "Unknown",
     "fall": "Subdued by Assyria",
-    "description": "Bit-Shilani was a smaller Aramean/Chaldean tribe in Babylonia, attested in Neo-Assyrian sources alongside the major tribal confederations."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Bit-Shilani in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Bit-Shilani."
+    },
+    "geography": {
+      "description": "Bit-Shilani is represented within a broad Babylonian setting near the Euphrates and Bit-Amukani; its center and extent are unknown.",
+      "short_description": "Bit-Shilani is placed in a broad Babylonian setting near the Euphrates and Bit-Amukani.",
+      "lat": 33.7,
+      "lng": 44.5,
+      "waterways": [
+        "Euphrates River"
+      ],
+      "neighbors": [
+        "Bit-Amukani",
+        "Bit-Saalli"
+      ]
+    }
   },
   "Bit-Saalli": {
     "name": "Bit-Sa'alli",
@@ -247,7 +655,24 @@
     "period": "9th-7th century BC",
     "peak": "Unknown",
     "fall": "Subdued by Assyria",
-    "description": "Bit-Sa'alli was an Aramean tribe in Babylonia, mentioned in Neo-Assyrian inscriptions. Little is known about its internal structure or history beyond its attestation in conquest records."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Bit-Saalli in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Bit-Saalli."
+    },
+    "geography": {
+      "description": "Bit-Saalli is represented within a broad Babylonian setting near the Tigris River, between Bit-Shilani, Bit-Amukani, and Gambulu; its center is unknown.",
+      "short_description": "Bit-Saalli is placed in a broad Babylonian setting near the Tigris between Bit-Shilani, Bit-Amukani, and Gambulu.",
+      "lat": 33.0,
+      "lng": 45.0,
+      "waterways": [
+        "Tigris River"
+      ],
+      "neighbors": [
+        "Bit-Shilani",
+        "Bit-Amukani",
+        "Gambulu"
+      ]
+    }
   },
   "Gambulu": {
     "name": "Gambulu",
@@ -257,7 +682,24 @@
     "period": "8th-7th century BC",
     "peak": "7th century BC",
     "fall": "Defeated by Ashurbanipal",
-    "description": "Gambulu was an Aramean tribal confederation in eastern Babylonia, near the Elamite border. They frequently allied with Elam against Assyria and were involved in the major conflicts of the 7th century BC."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Gambulu in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Gambulu."
+    },
+    "geography": {
+      "description": "Gambulu is associated with eastern Babylonia near the Elamite border and the Tigris River; its mapped point is a broad regional reference.",
+      "short_description": "Gambulu is associated with eastern Babylonia near the Elamite border and the Tigris River.",
+      "lat": 33.7,
+      "lng": 46.0,
+      "waterways": [
+        "Tigris River"
+      ],
+      "neighbors": [
+        "Bit-Saalli",
+        "Puqudu",
+        "Bit-Yakini"
+      ]
+    }
   },
   "Litau": {
     "name": "Litau",
@@ -267,7 +709,23 @@
     "period": "8th-7th century BC",
     "peak": "Unknown",
     "fall": "Subdued by Assyria",
-    "description": "Litau was an Aramean tribal group in Babylonia, attested in Neo-Assyrian royal inscriptions as one of the Aramean confederations in the region."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Litau in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Litau."
+    },
+    "geography": {
+      "description": "Litau is represented within a broad Babylonian setting near the Euphrates, between Bit-Dakkuri and Bit-Amukani; its center is unknown.",
+      "short_description": "Litau is placed in a broad Babylonian setting near the Euphrates between Bit-Dakkuri and Bit-Amukani.",
+      "lat": 32.8,
+      "lng": 45.4,
+      "waterways": [
+        "Euphrates River"
+      ],
+      "neighbors": [
+        "Bit-Dakkuri",
+        "Bit-Amukani"
+      ]
+    }
   },
   "Puqudu": {
     "name": "Puqudu",
@@ -277,7 +735,24 @@
     "period": "8th-7th century BC",
     "peak": "8th century BC",
     "fall": "Subdued by Assyria",
-    "description": "Puqudu (biblical Pekod) was a prominent Aramean tribe in eastern Babylonia, living along the Tigris near Uruk and the Elamite border. They are mentioned in both Assyrian inscriptions and the Bible (Jeremiah 50:21, Ezekiel 23:23)."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Puqudu in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Puqudu."
+    },
+    "geography": {
+      "description": "Puqudu is associated with eastern Babylonia along the Tigris near Uruk and the Elamite border; its mapped point is a broad regional reference.",
+      "short_description": "Puqudu is associated with eastern Babylonia along the Tigris near Uruk and the Elamite border.",
+      "lat": 32.5,
+      "lng": 46.3,
+      "waterways": [
+        "Tigris River"
+      ],
+      "neighbors": [
+        "Gambulu",
+        "Bit-Yakini",
+        "Railu"
+      ]
+    }
   },
   "Itua": {
     "name": "Itu'a",
@@ -287,7 +762,24 @@
     "period": "8th-7th century BC",
     "peak": "Unknown",
     "fall": "Subdued by Assyria",
-    "description": "Itu'a was an Aramean tribal group in Babylonia, attested in Neo-Assyrian inscriptions. Their exact territory and political structure remain poorly understood."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Itua in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Itua."
+    },
+    "geography": {
+      "description": "Itua is represented within a broad Babylonian setting near the Tigris and Puqudu, Railu, and Gambulu; its territory remains poorly understood.",
+      "short_description": "Itua is placed in a broad Babylonian setting near the Tigris and the neighboring polities Puqudu, Railu, and Gambulu.",
+      "lat": 32.8,
+      "lng": 45.4,
+      "waterways": [
+        "Tigris River"
+      ],
+      "neighbors": [
+        "Puqudu",
+        "Railu",
+        "Gambulu"
+      ]
+    }
   },
   "Railu": {
     "name": "Ra'ilu",
@@ -297,7 +789,24 @@
     "period": "8th-7th century BC",
     "peak": "Unknown",
     "fall": "Subdued by Assyria",
-    "description": "Ra'ilu was an Aramean tribal group in Babylonia, mentioned in the inscriptions of Tiglath-Pileser III. Little is known beyond their attestation in Assyrian conquest records."
+    "archaeology": {
+      "description": "No polity-specific archaeological entry is currently registered for Railu in the evidence dataset.",
+      "short_description": "No polity-specific archaeological evidence is currently registered for Railu."
+    },
+    "geography": {
+      "description": "Railu is represented within a broad Babylonian setting near the Tigris and Puqudu, Itua, and Gambulu; its center is unknown.",
+      "short_description": "Railu is placed in a broad Babylonian setting near the Tigris and Puqudu, Itua, and Gambulu.",
+      "lat": 33.0,
+      "lng": 45.8,
+      "waterways": [
+        "Tigris River"
+      ],
+      "neighbors": [
+        "Puqudu",
+        "Itua",
+        "Gambulu"
+      ]
+    }
   },
   "Bet-Urhay": {
     "name": "Bet-Urhay",
@@ -307,6 +816,220 @@
     "period": "1st century BC - 3rd century AD (as Osroene kingdom)",
     "peak": "2nd century AD (under Abgar dynasty)",
     "fall": "244 AD (absorbed into Roman Empire as province)",
-    "description": "Beth-Urhay (Urhay / Edessa) was the Aramean Syriac name for the city of Edessa, capital of the kingdom of Osroene in Upper Mesopotamia. It became a major center of Aramean/Syriac culture and early Christianity. In Syriac tradition, it is associated with King Abgar V and the earliest Christian narratives in Mesopotamia."
+    "archaeology": {
+      "description": "Registered evidence consists of three funerary records from Edessa/Urhay: the Aftuha Family Mosaic, the Orpheus Mosaic, and a collection of funerary inscriptions; these are late evidence for the city's Syriac cultural history.",
+      "short_description": "Funerary mosaics and inscriptions from Edessa/Urhay provide late evidence for Bet-Urhay's Syriac cultural history."
+    },
+    "geography": {
+      "description": "Bet-Urhay refers to Urhay/Edessa in Upper Mesopotamia, associated with the Balikh River and the Osroene-period urban center; the mapped point identifies the city rather than a wider territory.",
+      "short_description": "Bet-Urhay refers to Urhay/Edessa in Upper Mesopotamia near the Balikh River and the Osroene-period urban center.",
+      "lat": 37.16708,
+      "lng": 38.793919,
+      "waterways": [
+        "Balikh River"
+      ],
+      "neighbors": [
+        "Bit-Bahiani",
+        "Bit-Zamani",
+        "Bit-Halupe"
+      ]
+    }
+  },
+  "map": {
+    "Aram-Damascus": {
+      "lat": 33.5138,
+      "lng": 36.2765,
+      "precision": "regional approximation"
+    },
+    "Zobah": {
+      "lat": 34.2,
+      "lng": 36.5,
+      "precision": "broad regional approximation"
+    },
+    "Beth-Rehob": {
+      "lat": 33.0,
+      "lng": 35.6,
+      "precision": "broad regional approximation"
+    },
+    "Maacah": {
+      "lat": 33.1,
+      "lng": 36.2,
+      "precision": "broad regional approximation"
+    },
+    "Geshur": {
+      "lat": 32.8,
+      "lng": 35.8,
+      "precision": "broad regional approximation"
+    },
+    "Tob": {
+      "lat": 32.4,
+      "lng": 35.9,
+      "precision": "broad regional approximation"
+    },
+    "Hamath": {
+      "lat": 35.133333,
+      "lng": 36.75,
+      "precision": "regional approximation"
+    },
+    "Luash": {
+      "lat": 35.905,
+      "lng": 36.798611,
+      "precision": "regional approximation"
+    },
+    "Bit-Agusi": {
+      "lat": 36.4725,
+      "lng": 37.094722,
+      "precision": "regional approximation"
+    },
+    "Bit-Adini": {
+      "lat": 36.7014,
+      "lng": 38.0865,
+      "precision": "regional approximation"
+    },
+    "Bit-Gabbar": {
+      "lat": 37.1036,
+      "lng": 36.6786,
+      "precision": "regional approximation"
+    },
+    "Pattin-Unqi": {
+      "lat": 36.2475,
+      "lng": 36.376389,
+      "precision": "regional approximation"
+    },
+    "Hatallu": {
+      "lat": 38.0,
+      "lng": 37.1,
+      "precision": "broad regional approximation"
+    },
+    "Bit-Bahiani": {
+      "lat": 36.826785,
+      "lng": 40.03967,
+      "precision": "regional approximation"
+    },
+    "Bit-Zamani": {
+      "lat": 37.915315,
+      "lng": 40.240872,
+      "precision": "regional approximation"
+    },
+    "Bit-Halupe": {
+      "lat": 36.4,
+      "lng": 40.5,
+      "precision": "broad regional approximation"
+    },
+    "Bit-Hadipe": {
+      "lat": 36.3,
+      "lng": 40.2,
+      "precision": "broad regional approximation"
+    },
+    "Laqe": {
+      "lat": 34.7,
+      "lng": 40.7,
+      "precision": "broad regional approximation"
+    },
+    "Suhu": {
+      "lat": 34.3722,
+      "lng": 41.9875,
+      "precision": "broad regional approximation"
+    },
+    "Hindanu": {
+      "lat": 34.0,
+      "lng": 42.5,
+      "precision": "broad regional approximation"
+    },
+    "Bet-Urhay": {
+      "lat": 37.16708,
+      "lng": 38.793919,
+      "precision": "regional approximation"
+    },
+    "Bit-Yakini": {
+      "lat": 31.3,
+      "lng": 46.0,
+      "precision": "broad regional approximation"
+    },
+    "Bit-Dakkuri": {
+      "lat": 32.5,
+      "lng": 44.4,
+      "precision": "broad regional approximation"
+    },
+    "Bit-Amukani": {
+      "lat": 31.75,
+      "lng": 45.4,
+      "precision": "broad regional approximation"
+    },
+    "Bit-Shilani": {
+      "lat": 33.7,
+      "lng": 44.5,
+      "precision": "broad regional approximation"
+    },
+    "Bit-Saalli": {
+      "lat": 33.0,
+      "lng": 45.0,
+      "precision": "broad regional approximation"
+    },
+    "Gambulu": {
+      "lat": 33.7,
+      "lng": 46.0,
+      "precision": "broad regional approximation"
+    },
+    "Litau": {
+      "lat": 32.8,
+      "lng": 45.4,
+      "precision": "broad regional approximation"
+    },
+    "Puqudu": {
+      "lat": 32.5,
+      "lng": 46.3,
+      "precision": "broad regional approximation"
+    },
+    "Itua": {
+      "lat": 32.8,
+      "lng": 45.4,
+      "precision": "broad regional approximation"
+    },
+    "Railu": {
+      "lat": 33.0,
+      "lng": 45.8,
+      "precision": "broad regional approximation"
+    },
+    "Adile": {
+      "lat": 36.3,
+      "lng": 40.2,
+      "precision": "disputed broad regional approximation"
+    },
+    "Bit-Kapsi": {
+      "lat": 36.3,
+      "lng": 40.2,
+      "precision": "disputed broad regional approximation"
+    },
+    "Gibre": {
+      "lat": 36.3,
+      "lng": 40.2,
+      "precision": "disputed broad regional approximation"
+    },
+    "Gurumu": {
+      "lat": 36.3,
+      "lng": 40.2,
+      "precision": "disputed broad regional approximation"
+    },
+    "Hagaranu": {
+      "lat": 36.3,
+      "lng": 40.2,
+      "precision": "disputed broad regional approximation"
+    },
+    "Nabatu": {
+      "lat": 36.3,
+      "lng": 40.2,
+      "precision": "disputed broad regional approximation"
+    },
+    "Ruua": {
+      "lat": 36.3,
+      "lng": 40.2,
+      "precision": "disputed broad regional approximation"
+    },
+    "Ubidu": {
+      "lat": 36.3,
+      "lng": 40.2,
+      "precision": "disputed broad regional approximation"
+    }
   }
 }
