@@ -1,0 +1,45 @@
+<template>
+  <aside></aside>
+  <main inherit="false" content="prepend">
+    <button absolute top="1rem" right="1rem" screen-xxs="show" screen-xl="hide" color="red" absolute top="20px"
+      right="20px" click="toggledisplay:#submenu" class="bc0" radius="500px" zindex="100"><i
+        class="icon16">≣</i></button>
+    <nav id="submenu" clone="#submenuitems" ontoggledisplay="scroll:*main:[top]" bgcolor="red" color="yellow" flex
+      flexdirection="column" class="sidebar" height="100%" overflow="visible" paddingtop="1rem" hide>
+    </nav>
+  </main>
+  <aside screen-xxs="hide" screen-md="hide" screen-lg="hide;width:[17rem]" screen-xl="show;width:[19rem]"
+    screen-xxxl="width:[22rem]">
+    <nav id="submenuitems" bgcolor="red" class="sidebar" paddingtop="1rem">
+      <details open>
+        <summary class="white">Overview</summary>
+        <a color="yellow" href="./research/religion">Religion Overview</a>
+      </details>
+
+      <details open>
+        <summary class="white">Ancient Religion</summary>
+        <a color="yellow" href="./research/religion/ancient-religion.html">Ancient Aramean Religion</a>
+        <a color="yellow" href="./research/religion/gods-deities.html">Gods & Deities</a>
+        <a color="yellow" href="./research/religion/temples.html">Temples</a>
+      </details>
+
+      <details open>
+        <summary class="white">Christianity</summary>
+        <a color="yellow" href="./research/religion/christianity.html">Christianity</a>
+        <a color="yellow" href="./research/religion/syriac-christianity.html">Syriac Christianity</a>
+        <a color="yellow" href="./research/religion/churches.html">Churches</a>
+        <a color="yellow" href="./research/religion/monasticism.html">Monasticism</a>
+        <a color="yellow" href="./research/religion/saints.html">Saints</a>
+      </details>
+
+      <details open>
+        <summary class="white">Theology & Practice</summary>
+        <a color="yellow" href="./research/religion/theology.html">Theology</a>
+        <a color="yellow" href="./research/religion/liturgy.html">Liturgy</a>
+        <a color="yellow" href="./research/religion/religious-traditions.html">Religious Traditions</a>
+      </details>
+
+      <hr>
+    </nav>
+  </aside>
+</template>

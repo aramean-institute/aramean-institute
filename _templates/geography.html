@@ -1,0 +1,143 @@
+<template>
+  <aside></aside>
+  <main inherit="false" content="prepend">
+    <button absolute top="1rem" right="1rem" screen-xxs="show" screen-xl="hide" color="red" absolute top="1rem"
+      right="20px" click="toggledisplay:#submenu" class="bc0" radius="500px" zindex="100"><i
+        class="icon16">≣</i></button>
+    <nav id="submenu" clone="#submenuitems" ontoggledisplay="scroll:*main:[top]" bgcolor="red" color="yellow" flex
+      flexdirection="column" class="sidebar" height="100%" overflow="visible" paddingtop="1rem" hide>
+    </nav>
+  </main>
+  <aside screen-xxs="hide" screen-md="hide" screen-lg="hide;width:[17rem]" screen-xl="show;width:[19rem]"
+    screen-xxxl="show;width:[22rem]">
+    <nav id="submenuitems" name="geography" bgcolor="red" color="white" class="sidebar" paddingtop="1rem">
+      <details open>
+        <summary bold>Overview</summary>
+        <a color="yellow" href="./research/geography" target="main">Geography</a>
+      </details>
+
+      <details open>
+        <summary bold>Ancient Aram</summary>
+        <details>
+          <summary>Aram Taḥtāyā</summary>
+          <details>
+            <summary>Polities</summary>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Aram-Damascus" target="main">Aram-Damascus</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Zobah" target="main">Zobah</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Beth-Rehob" target="main">Beth-Rehob</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Maacah" target="main">Maacah</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Geshur" target="main">Geshur</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Tob" target="main">Tob</a>
+          </details>
+          <details>
+            <summary>Places</summary>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Damascus" target="main">Damascus</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Bethsaida-Et-Tell" target="main">Bethsaida</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Abel-Beth-Maacah" target="main">Abel-Maacah</a>
+          </details>
+        </details>
+
+        <details>
+          <summary>Aram ʿElyā</summary>
+          <details>
+            <summary>Polities</summary>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Hamath" target="main">Hamath</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Luash" target="main">Lu'ash</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Bit-Agusi" target="main">Bit-Agusi</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Bit-Adini" target="main">Bit-Adini</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Bit-Gabbar" target="main">Bit-Gabbar</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Pattin-Unqi" target="main">Pattin/Unqi</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Hatallu" target="main">Hatallu</a>
+          </details>
+          <details>
+            <summary>Places</summary>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Hamath-Hama" target="main">Hamath</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Riblah-Ribleh" target="main">Riblah</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Hazrek-Tell-Afis" target="main">Hazrek</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Arpad-Tell-Rifaat" target="main">Arpad</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Tell-Aran" target="main">Tell Aran</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Nampigi-Manbij" target="main">Nampigi/Nampigu</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Samal-Zincirli" target="main">Sam’al</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Kunulua-Tell-Tayinat" target="main">Kunulua</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Hadatu-Arslan-Tash" target="main">Hadatu</a>
+          </details>
+        </details>
+
+        <details>
+          <summary>Aram Nahrin</summary>
+          <details>
+            <summary>Polities</summary>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Bet-Urhay" target="main">Bet-Urhay</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Bit-Bahiani" target="main">Bit-Bahiani</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Bit-Hadipe" target="main">Bit-Hadipe</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Bit-Halupe" target="main">Bit-Halupe</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Bit-Zamani" target="main">Bit-Zamani</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Hindanu" target="main">Hindanu</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Laqe" target="main">Laqe</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Suhu" target="main">Suhu</a>
+          </details>
+          <details>
+            <summary>Places</summary>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Harran" target="main">Harran</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Nahor" target="main">Nahor</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Urhay-Edessa" target="main">Urhay</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Gidara-Raqamatu" target="main">Raqamatu</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Guzana-Tell-Halaf" target="main">Guzana</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Tell-Fekheriye" target="main">Sikkan</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Til-Barsip-Tell-Ahmar" target="main">Tarbusip</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Amida-Diyarbakir" target="main">Amida</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Anat-Anah" target="main">Anat</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Nisibis-Nusaybin" target="main">Nisibin</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Sirqu-Tell-Ashara" target="main">Sirqu</a>
+            <a color="yellow" href="./research/geography/ancient/place.html?name=Suru-Tell-Fiden" target="main">Suru</a>
+          </details>
+        </details>
+
+        <details>
+          <summary>Bet Aramaye</summary>
+          <details>
+            <summary>Polities</summary>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Bit-Amukani" target="main">Bit-Amukani</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Bit-Dakkuri" target="main">Bit-Dakkuri</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Bit-Saalli" target="main">Bit-Sa'alli</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Bit-Shilani" target="main">Bit-Shilani</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Bit-Yakini" target="main">Bit-Yakini</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Gambulu" target="main">Gambulu</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Itua" target="main">Itu'a</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Litau" target="main">Litau</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Puqudu" target="main">Puqudu</a>
+            <a color="yellow" href="./research/geography/ancient/polity.html?name=Railu" target="main">Ra'ilu</a>
+          </details>
+        </details>
+
+      </details>
+
+      <details open>
+        <summary bold>Occupied Aram</summary>
+        <details>
+          <summary>Turkey</summary>
+          <a color="yellow" href="./research/geography/occupied/region.html?name=Tur-Abdin" target="main">Tur Abdin</a>
+        </details>
+        <details>
+          <summary>Syria</summary>
+          <a color="yellow" href="./research/geography/occupied/region.html?name=Syria" target="main">Syria</a>
+        </details>
+        <details>
+          <summary>Iraq</summary>
+          <a color="yellow" href="./research/geography/occupied/region.html?name=Beth-Nahrain" target="main">Beth Nahrain</a>
+          <a color="yellow" href="./research/geography/occupied/region.html?name=Mesopotamia" target="main">Mesopotamia / Iraq</a>
+        </details>
+        <details>
+          <summary>Lebanon</summary>
+          <a color="yellow" href="./research/geography/occupied/region.html?name=Levant" target="main">Levant / Lebanon</a>
+        </details>
+        <details>
+          <summary>Israel</summary>
+          <a color="yellow" href="./research/geography/occupied/region.html?name=Golan" target="main">Golan</a>
+        </details>
+      </details>
+
+      <hr>
+    </nav>
+  </aside>
+</template>

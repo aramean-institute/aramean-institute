@@ -1,0 +1,42 @@
+<template>
+  <aside></aside>
+  <main inherit="false" content="prepend">
+    <button absolute top="1rem" right="1rem" screen-xxs="show" screen-xl="hide" color="red" absolute top="20px"
+      right="20px" click="toggledisplay:#submenu" class="bc0" radius="500px" zindex="100"><i
+        class="icon16">≣</i></button>
+    <nav id="submenu" clone="#submenuitems" ontoggledisplay="scroll:*main:[top]" bgcolor="red" color="yellow" flex
+      flexdirection="column" class="sidebar" height="100%" overflow="visible" paddingtop="1rem" hide>
+    </nav>
+  </main>
+  <aside screen-xxs="hide" screen-md="hide" screen-lg="hide;width:[17rem]" screen-xl="show;width:[19rem]"
+    screen-xxxl="width:[22rem]">
+    <nav id="submenuitems" bgcolor="red" class="sidebar" paddingtop="1rem">
+      <details open>
+        <summary class="white">Overview</summary>
+        <a color="yellow" href="./research/people">People Overview</a>
+      </details>
+
+      <details open>
+        <summary class="white">Leadership</summary>
+        <a color="yellow" href="./research/people/kings.html">Kings</a>
+        <a color="yellow" href="./research/people/rulers.html">Rulers</a>
+      </details>
+
+      <details open>
+        <summary class="white">Religious Figures</summary>
+        <a color="yellow" href="./research/people/saints.html">Saints</a>
+        <a color="yellow" href="./research/people/monks.html">Monks</a>
+      </details>
+
+      <details open>
+        <summary class="white">Intellectual & Cultural</summary>
+        <a color="yellow" href="./research/people/scholars.html">Scholars</a>
+        <a color="yellow" href="./research/people/writers.html">Writers</a>
+        <a color="yellow" href="./research/people/artists.html">Artists</a>
+        <a color="yellow" href="./research/people/modern-figures.html">Modern Figures</a>
+      </details>
+
+      <hr>
+    </nav>
+  </aside>
+</template>

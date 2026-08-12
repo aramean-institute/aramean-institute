@@ -1,0 +1,386 @@
+{
+  "cuisine": {
+    "overview": {
+      "description": "Aramean cuisine reflects the rich culinary traditions of the Levant and Upper Mesopotamia, shaped by thousands of years of history, geography, and cultural exchange. The cuisine combines ancient agricultural practices with Mediterranean and Middle Eastern influences, creating a distinctive and flavorful tradition central to Aramean identity and social life.",
+      "regions": ["Syria", "Lebanon", "Iraq", "Turkey", "Iran"],
+      "foundational_ingredients": ["wheat", "barley", "lentils", "chickpeas", "olive oil", "herbs (parsley, mint, thyme)", "fresh vegetables", "lamb", "goat", "yogurt", "cheese"]
+    },
+    "staple_dishes": [
+      {
+        "id": 1,
+        "name": "Mujadra",
+        "category": "Legume Dish",
+        "description": "A humble yet nourishing dish made from lentils, bulgur wheat, and caramelized onions, seasoned with cumin and coriander. Mujadra exemplifies the resourcefulness of Aramean cuisine, providing complete protein and sustenance for centuries.",
+        "ingredients": ["lentils", "bulgur wheat", "onions", "cumin", "coriander", "olive oil"],
+        "significance": "Comfort food across Aramean communities worldwide"
+      },
+      {
+        "id": 2,
+        "name": "Kibbeh / Kuba Hammouth",
+        "category": "Meat Dish",
+        "description": "Ground lamb or beef mixed with bulgur wheat, herbs, and spices, formed into oval or torpedo shapes and either fried or baked. Assyrian version (kuba hammouth) features ground beef long meatballs with an outer cracked wheat shell.",
+        "ingredients": ["ground lamb or beef", "bulgur wheat", "herbs", "spices", "parsley", "rice", "onion"],
+        "significance": "Iconic in Aramean cuisine; appears at celebrations and formal dinners. Preparation often a communal family activity."
+      },
+      {
+        "id": 3,
+        "name": "Tabbouleh",
+        "category": "Salad",
+        "description": "A vibrant salad of finely chopped parsley, tomatoes, onions, and bulgur wheat dressed with lemon juice and olive oil. Represents the freshness and simplicity of Mediterranean Aramean traditions.",
+        "ingredients": ["parsley", "tomatoes", "onions", "bulgur wheat", "lemon juice", "olive oil"],
+        "regional_notes": "Popular in Syria and Lebanon"
+      },
+      {
+        "id": 4,
+        "name": "Hummus & Baba Ghanoush",
+        "category": "Appetizer/Dip",
+        "description": "Hummus made from chickpeas, tahini, lemon juice, and garlic serves as both a staple side dish and a ceremonial offering. Baba ghanoush prepared from roasted eggplant with similar seasonings complements it.",
+        "ingredients": ["chickpeas", "tahini", "lemon juice", "garlic", "eggplant", "olive oil"],
+        "significance": "Foundational to Aramean hospitality; appears at nearly every meal"
+      },
+      {
+        "id": 5,
+        "name": "Fattoush",
+        "category": "Salad",
+        "description": "A salad combining fresh lettuce, tomatoes, cucumbers, radishes, and herbs, topped with crispy pita bread croutons and dressed with sumac and olive oil. Emerged from necessity of using leftover bread.",
+        "ingredients": ["lettuce", "tomatoes", "cucumbers", "radishes", "herbs", "pita bread", "sumac", "olive oil"],
+        "significance": "Reflects resourceful nature of Aramean cooking"
+      },
+      {
+        "id": 6,
+        "name": "Mansaf",
+        "category": "Ceremonial Meat Dish",
+        "description": "A ceremonial dish of lamb cooked in a rich yogurt sauce (jameed) flavored with sumac, served over rice or bulgur. Traditionally reserved for festive occasions, weddings, and important celebrations.",
+        "ingredients": ["lamb", "yogurt", "sumac", "rice or bulgur"],
+        "significance": "Represents hospitality and abundance in Aramean culture"
+      },
+      {
+        "id": 7,
+        "name": "Tepsi (Tepsi Baytinijan)",
+        "category": "Casserole",
+        "description": "A casserole made in layers of fried potato, fried eggplant, fried green peppers, fried onions, meat, and tomatoes drenched in tomato sauce and baked in the oven.",
+        "ingredients": ["potatoes", "eggplant", "green peppers", "onions", "meat", "tomatoes", "tomato sauce"],
+        "regional_notes": "Similar to Levantine moussaka"
+      },
+      {
+        "id": 8,
+        "name": "Shamakhshi",
+        "category": "Meat & Vegetable",
+        "description": "Fried rolled eggplant stuffed with ground beef in tomato sauce.",
+        "ingredients": ["eggplant", "ground beef", "tomato sauce", "onions", "spices"]
+      },
+      {
+        "id": 9,
+        "name": "Dolma",
+        "category": "Stuffed Vegetables",
+        "description": "Rice and tomato sauce stuffed in grape leaves, cabbage, various peppers, zucchini, and eggplant.",
+        "ingredients": ["grape leaves", "rice", "tomato sauce", "cabbage", "peppers", "zucchini", "eggplant"]
+      },
+      {
+        "id": 10,
+        "name": "Masgouf",
+        "category": "Fish Dish",
+        "description": "Fish spiced with olive oil, salt, and turmeric, topped with tomatoes, potatoes, and onions, then oven-baked.",
+        "ingredients": ["fish", "olive oil", "salt", "turmeric", "tomatoes", "potatoes", "onions"],
+        "regional_notes": "Traditional in Iraq"
+      },
+      {
+        "id": 11,
+        "name": "Lahmacun",
+        "category": "Flatbread",
+        "description": "Flatbread topped with ground beef, tomato paste, spices, and onions.",
+        "ingredients": ["flatbread dough", "ground beef", "tomato paste", "onions", "spices"]
+      },
+      {
+        "id": 12,
+        "name": "Kofta / Kipteh",
+        "category": "Meat Dish",
+        "description": "Ground beef meatballs flavored with parsley, rice, onion, and spices in a tomato-based stew.",
+        "ingredients": ["ground beef", "parsley", "rice", "onion", "spices", "tomato sauce"],
+        "aramean_notes": "Traditional Assyrian specialty"
+      },
+      {
+        "id": 13,
+        "name": "Thlokheh",
+        "category": "Lentil Soup",
+        "description": "Lentils cooked with curry and sha'riya (thin noodles).",
+        "ingredients": ["lentils", "curry", "sha'riya noodles", "tomato paste", "spices"],
+        "aramean_notes": "Traditional Assyrian dish"
+      },
+      {
+        "id": 14,
+        "name": "Girdo / Bushala",
+        "category": "Soup/Porridge",
+        "description": "A yogurt-based soup with assorted greens such as Swiss chard or spinach and bulgur wheat. One of the oldest known dishes. Can be served hot or cold.",
+        "ingredients": ["yogurt", "spinach or chard", "bulgur wheat", "herbs"],
+        "aramean_notes": "One of the oldest known Assyrian dishes"
+      },
+      {
+        "id": 15,
+        "name": "Dikhwah / Dekhwa",
+        "category": "Stew",
+        "description": "A dried yogurt-based heavy stew with barley and meat.",
+        "ingredients": ["dried yogurt", "barley", "meat", "onions"],
+        "aramean_notes": "Traditional Assyrian stew"
+      },
+      {
+        "id": 16,
+        "name": "Harissa / Hareesa",
+        "category": "Porridge",
+        "description": "A porridge made with hulled wheat berries, deboned chicken or beef, and broth, sometimes eaten with butter or cinnamon.",
+        "ingredients": ["wheat berries", "chicken or beef", "broth", "butter", "cinnamon"],
+        "aramean_notes": "Traditional Assyrian wheat porridge"
+      },
+      {
+        "id": 17,
+        "name": "Tashrib / Tashreeb",
+        "category": "Soup",
+        "description": "A soup made of chickpeas, onions, and chicken or lamb meat, often served on top of bread at breakfast. Similar to Syrian fatta and Iraqi tashghib.",
+        "ingredients": ["chickpeas", "onions", "chicken or lamb", "bread", "tomato sauce"],
+        "aramean_notes": "Can include lentils, noodles, and pomegranate variations"
+      },
+      {
+        "id": 18,
+        "name": "Pacha",
+        "category": "Heavy Stew",
+        "description": "A heavy stew consisting of lamb stomach stuffed with rice, brain, tongue, liver, or offal. Similar to Armenian and Turkish versions.",
+        "ingredients": ["lamb stomach", "rice", "brain", "tongue", "liver", "offal"]
+      },
+      {
+        "id": 19,
+        "name": "Biryani",
+        "category": "Rice Dish",
+        "description": "An Assyrian rice dish made of basmati rice with sha'riya, green peas, fried cubed potatoes, almonds, raisins, sliced hard boiled eggs, and chicken.",
+        "ingredients": ["basmati rice", "sha'riya", "green peas", "potatoes", "almonds", "raisins", "eggs", "chicken"],
+        "aramean_notes": "Traditional Assyrian rice dish"
+      },
+      {
+        "id": 20,
+        "name": "Rezza (Red / Yellow / Green Rice)",
+        "category": "Rice",
+        "description": "Basmati rice prepared plain, red (smooqah with tomato), yellow (shaootah with turmeric), or plain with fried miniature noodles called sha'riya. Green rice (reza qeena) flavored with lima beans and dill.",
+        "ingredients": ["basmati rice", "sha'riya", "lima beans", "dill", "tomato paste", "turmeric"],
+        "aramean_notes": "Staple Assyrian rice preparations"
+      }
+    ],
+    "breads_and_grains": [
+      {
+        "id": 1,
+        "name": "Pita Bread",
+        "description": "Traditional flatbread, prepared fresh daily",
+        "significance": "Sacred significance; central to daily Aramean life"
+      },
+      {
+        "id": 2,
+        "name": "Lawashe",
+        "description": "Thin, crispy bread prepared fresh daily",
+        "significance": "Ancient grain staple"
+      },
+      {
+        "id": 3,
+        "name": "Bulgur Wheat",
+        "description": "Crushed wheat grains, fundamental grain staple",
+        "significance": "Nutritional content and long shelf life; anchors many traditional dishes; reflects Aramean agricultural heritage"
+      },
+      {
+        "id": 4,
+        "name": "Freekeh",
+        "description": "Roasted green wheat",
+        "significance": "Ancient grain; valued for nutritional content and long shelf life"
+      },
+      {
+        "id": 5,
+        "name": "Gurgur / Burghul",
+        "description": "Bulgur wheat prepared in same ways as rice",
+        "aramean_notes": "Used in Assyrian cuisine as rice alternative"
+      }
+    ],
+    "preserved_foods": [
+      {
+        "id": 1,
+        "name": "Pickled Vegetables",
+        "description": "Pickled turnips, peppers, eggplant, olives prepared in large batches and stored in ceramic jars",
+        "preservation_method": "Vinegar and salt preservation",
+        "significance": "Essential for year-round nutrition; centuries-old tradition"
+      },
+      {
+        "id": 2,
+        "name": "Dried Herbs",
+        "description": "Dried parsley, mint, thyme, and other aromatic herbs",
+        "significance": "Provides flavor and nutrition year-round"
+      },
+      {
+        "id": 3,
+        "name": "Dried Fruits",
+        "description": "Dried apricots, figs, dates",
+        "significance": "Important preserved food for seasons of scarcity"
+      },
+      {
+        "id": 4,
+        "name": "Preserved Lemons",
+        "description": "Lemons preserved in salt and their own juice",
+        "significance": "Traditional preserves; provides flavor throughout seasons"
+      },
+      {
+        "id": 5,
+        "name": "Labneh",
+        "description": "Strained yogurt rolled in herbs and dried",
+        "significance": "High protein preserved dairy; sustains communities through seasons"
+      },
+      {
+        "id": 6,
+        "name": "Aged Cheeses",
+        "description": "Various cheeses aged in brine",
+        "significance": "Preserved dairy staple; connects to ancestral ways"
+      }
+    ],
+    "festive_dishes": [
+      {
+        "id": 1,
+        "name": "Ma'amoul",
+        "category": "Cookie",
+        "period": "Easter",
+        "description": "Shortbread cookie filled with dates or nuts, prepared for Easter celebrations",
+        "significance": "Traditional Easter treat"
+      },
+      {
+        "id": 2,
+        "name": "Baklava",
+        "category": "Dessert",
+        "description": "Phyllo pastry layered with nuts and honey",
+        "significance": "Holiday dessert"
+      },
+      {
+        "id": 3,
+        "name": "Kulecheh / Kleicha",
+        "category": "Cookie",
+        "description": "Date-filled cookie",
+        "occasions": ["Christmas", "Easter"],
+        "significance": "Traditional festive treat"
+      },
+      {
+        "id": 4,
+        "name": "Kadeh",
+        "category": "Pastry",
+        "description": "Thick yellowish flat bread containing plenty of butter, eggs, and sugar, very sweet pastry",
+        "occasions": ["Christmas"],
+        "aramean_notes": "Usually prepared alongside kulecheh"
+      },
+      {
+        "id": 5,
+        "name": "Nazoochi",
+        "category": "Pastry",
+        "description": "Similar to kadeh but sweeter and cut into triangle shape",
+        "occasions": ["Tea time", "Social events"],
+        "aramean_notes": "Served during social gatherings"
+      }
+    ],
+    "soups_and_stews": [
+      {
+        "id": 1,
+        "name": "Shirwah / Shorba",
+        "category": "Stew",
+        "description": "Rice or bulgur accompanied with a stew with broth basis (prepared with tomato paste, water, and spices) and main vegetable ingredient",
+        "vegetable_options": ["potatoes", "beans", "okra", "string beans", "spinach", "cauliflower", "zucchini"],
+        "protein_options": ["beef", "chicken", "ox tails"],
+        "aramean_notes": "Central to Assyrian meal tradition"
+      },
+      {
+        "id": 2,
+        "name": "Salad (Traditional Aramean)",
+        "category": "Salad",
+        "description": "Cubed tomatoes, cucumbers, peppers, and red onions with homemade dressing of lemon, vinegar, salt, pepper, and olive oil",
+        "significance": "Accompanies most meals"
+      }
+    ],
+    "beverages": [
+      {
+        "id": 1,
+        "name": "Arabic Coffee",
+        "type": "Hot Beverage",
+        "description": "Traditional cezve (ibrik) preparation, served in small cups, often sweetened",
+        "significance": "Essential part of welcoming guests; symbolizes hospitality and friendship. Ritual of preparation is as important as consumption.",
+        "aramean_notes": "Made in large bronze jezve covered with Assyrian imagery"
+      },
+      {
+        "id": 2,
+        "name": "Herbal Tea",
+        "type": "Hot Beverage",
+        "varieties": ["Sage", "Mint", "Chamomile"],
+        "significance": "Consumed daily; valued for medicinal properties"
+      },
+      {
+        "id": 3,
+        "name": "Black Tea",
+        "type": "Hot Beverage",
+        "description": "Consumed in morning with breakfast, drunk with sugar and evaporated milk",
+        "aramean_notes": "Almost always drunk in morning with Assyrian breakfast"
+      },
+      {
+        "id": 4,
+        "name": "Chai Noomi Basra",
+        "type": "Herbal Tea",
+        "description": "Dried lime tea, Arab herbal tea consumed to treat upset stomachs and indigestion",
+        "aramean_notes": "Used for medicinal purposes"
+      },
+      {
+        "id": 5,
+        "name": "Daweh / Doogh",
+        "type": "Yogurt Drink",
+        "description": "Popular yogurt drink made with yogurt, water, salt, and sometimes mint",
+        "consumption": "Summer, when hot",
+        "aramean_notes": "Traditional Assyrian beverage"
+      },
+      {
+        "id": 6,
+        "name": "Arak",
+        "type": "Alcoholic Beverage",
+        "description": "Strong alcohol distilled from grapes or dates. Tastes like black liquorice; clear until mixed with water, which then becomes milky-white.",
+        "consumption": "Often served with food",
+        "aramean_notes": "One of most popular Assyrian alcoholic beverages"
+      },
+      {
+        "id": 7,
+        "name": "Wheat Beer",
+        "type": "Alcoholic Beverage",
+        "description": "Traditionally brewed by Assyrian rural communities; organic production",
+        "aramean_notes": "Traditionally home-brewed"
+      },
+      {
+        "id": 8,
+        "name": "Wine",
+        "type": "Alcoholic Beverage",
+        "description": "Produced traditionally by Assyrian rural communities",
+        "aramean_notes": "Home-produced in rural areas"
+      }
+    ],
+    "regional_variations": [
+      {
+        "region": "Syria",
+        "characteristics": "Emphasis on sumac, pomegranate molasses, extensive use of herbs",
+        "key_dishes": ["Tabbouleh", "Fattoush", "Hummus"]
+      },
+      {
+        "region": "Lebanon",
+        "characteristics": "Incorporates more fresh herbs and lighter preparations",
+        "key_dishes": ["Tabbouleh", "Fattoush", "Kibbeh"]
+      },
+      {
+        "region": "Iraq (Assyrian/Mesopotamian)",
+        "characteristics": "Rice-based dishes, different spice profiles, heavier preparations",
+        "key_dishes": ["Biryani", "Shirwah", "Masgouf", "Pacha"]
+      },
+      {
+        "region": "Turkey (Tur Abdin)",
+        "characteristics": "Influenced by centuries in Anatolia; maintains ancient preparation methods",
+        "key_dishes": ["Kebab", "Traditional breads"]
+      }
+    ],
+    "cultural_significance": {
+      "family_practice": "Preparing traditional dishes becomes an act of cultural preservation and resistance against assimilation",
+      "diaspora_role": "Food serves as tangible connection to ancestral lands and heritage. Family recipes pass from mother to daughter, grandmother to grandchild, carrying encoded knowledge of Aramean history and identity.",
+      "community_centers": "Restaurants serving Aramean/Levantine cuisine in diaspora communities become cultural centers",
+      "cultural_bridge": "Aramean cuisine transcends mere sustenance - it is living history, cultural identity, and a bridge between past and present"
+    }
+  }
+}

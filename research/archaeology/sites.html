@@ -1,0 +1,54 @@
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../../index" src="../../_templates/archaeology"></template>
+<title>Archaeological Sites</title>
+
+<section class="pauto" relative>
+  <h1>Archaeological Sites</h1>
+  <nav class="pointer" margintop="0.5rem">
+    <ol padding="0">
+      <li><a href="#" globalize-get="research">Research</a></li>
+      <li><a href="research/archaeology">Archaeology</a></li>
+      <li>Archaeological Sites</li>
+    </ol>
+  </nav>
+
+  <article margintop="2rem" data-src="assets/json/archaeological-locations.json">
+    <p>
+      This is the complete location catalogue for the Archaeology section. It includes urban centers, settlements,
+      inscription localities, religious sites, churches, and funerary contexts. Cities and settlements are filtered views
+      of the same location dataset rather than separate collections.
+    </p>
+    <p margintop="1rem">
+      A location’s association with a polity, language, or community is recorded as historical context. It does not by
+      itself establish a uniform identity for every period or population represented at the site.
+    </p>
+
+    <hr class="mt2 bcblack">
+
+    <h2 margintop="3rem">All Archaeological Locations</h2>
+    <section data-iterate="locations">
+      <article margintop="2rem">
+        <h3 data-get="name"></h3>
+        <p>
+          <b>Category:</b> <span data-get="category"></span><br>
+          <b>Classification:</b> <span data-get="classification"></span><br>
+          <b>Site type:</b> <span data-get="site_type"></span><br>
+          <b>Region:</b> <span data-get="region"></span><br>
+          <b>Modern location:</b> <span data-get="modern_location"></span><br>
+          <b>Period:</b> <span data-get="period"></span><br>
+          <b>Associated context:</b> <span data-get="associated_context"></span>
+        </p>
+        <p class="pt1" data-get="description"></p>
+      </article>
+    </section>
+
+    <hr class="mt2 bcblack">
+    <p>
+      For objects and texts connected with these locations, see
+      <a href="research/archaeology/artifacts.html" color="red">Archaeological Evidence</a>.
+    </p>
+    <small class="gray">Published: 2025-01-15, Last update: 2026-07-15</small>
+  </article>
+
+</section>
+</content>

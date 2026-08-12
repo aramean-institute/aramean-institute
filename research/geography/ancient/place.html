@@ -1,0 +1,81 @@
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../../../index" src="../../../_templates/geography"></template>
+<title>Ancient Place</title>
+
+<section class="pauto" relative data-src="../../../assets/json/ancient-places.json">
+  <h1 bindquery="name:name" data-get="{name}.title">Ancient Place</h1>
+  <nav class="pointer" margintop="0.5rem" aria-label="Breadcrumb">
+    <ol padding="0">
+      <li><a href="#" globalize-get>Research</a></li>
+      <li><a href="research/geography" globalize-get>Geography</a></li>
+      <li><a href="research/geography/ancient/place.html?name={name}">Places</a></li>
+      <li bindquery="name:name" data-get="{name}.title" aria-current="page">Place</li>
+    </ol>
+  </nav>
+
+  <article margintop="2rem">
+    <h2>Geographic profile</h2>
+    <p bindquery="name:name" data-get="{name}.geography.description"></p>
+
+    <p class="gray" role="note" margintop="1rem">
+      <b>Evidence note:</b> This profile describes an ancient city or place. Its location, historical extent,
+      and relationship to regional names are reconstructed from uneven textual, archaeological, and geographic
+      evidence; it should not be read as a fixed polity boundary.
+    </p>
+
+    <h3 margintop="1.5rem">At a glance</h3>
+    <p class="mt1">
+      <b>Type:</b> <span bindquery="name:name" data-get="{name}.type"></span><br>
+      <b>Region:</b> <span bindquery="name:name" data-get="{name}.region"></span><br>
+      <b>Modern geographic reference:</b> <span bindquery="name:name" data-get="{name}.modern_location"></span><br>
+      <b>Historical scope:</b> <span bindquery="name:name" data-get="{name}.period"></span><br>
+      <b>Location estimate:</b> <span bindquery="name:name" data-get="{name}.geography.precision"></span>
+    </p>
+
+    <hr bgcolor="red" height="1px" margin="2rem 0">
+    <h2 margintop="2rem">Regional location</h2>
+    <p class="gray" role="note">
+      The map is a modern geographic reference. Its marker identifies an approximate place location,
+      not the extent or borders of an ancient polity or regional name.
+    </p>
+    <p class="mt1">
+      <b>Latitude:</b> <span bindquery="name:name" data-get="{name}.geography.lat"></span><br>
+      <b>Longitude:</b> <span bindquery="name:name" data-get="{name}.geography.lng"></span>
+    </p>
+
+    <div id="map-container" width="100%" margintop="1rem" bindquery="name:name"
+      data-set="lat:{name}.geography.lat;lng:{name}.geography.lng" svgworldmap--render
+      svgworldmap--oceancolor="#9BBFF4" svgworldmap--landcolor="#E4DAB9"
+      svgworldmap--bordercolor="#F18D00" svgworldmap--lat="{lat}" svgworldmap--lng="{lng}"
+      svgworldmap--zoom="15" fixed-marker="true" svgworldmap--label="{name}">
+    </div>
+
+    <hr bgcolor="red" height="1px" margin="2rem 0">
+    <h2>Geographic detail</h2>
+    <div bindquery="name:name" data-iterate="{name}.sections">
+      <h3 margintop="1.5rem" data-get="heading"></h3>
+      <p data-get="body" margintop="1rem"></p>
+    </div>
+
+    <p class="gray" role="note" margintop="1.5rem" bindquery="name:name" data-get="{name}.note"></p>
+  </article>
+
+  <hr bgcolor="red" height="1px" margin="2rem 0">
+  <h2>Related Geography</h2>
+  <nav aria-label="Related geography">
+    <ul flex flexdirection="column" class="list" margin="1rem 2rem" data-iterate="{name}.related">
+      <li>
+        <a data-set="link:href" data-get="label" href="{link}" color="red" fw="bold"></a>
+        <span> - </span><span data-get="description"></span>
+      </li>
+    </ul>
+  </nav>
+
+  <hr bgcolor="red" height="1px" margin="2rem 0">
+  <small class="gray" bindquery="name:name">
+    Published: <span data-get="{name}.published"></span>,
+    Last update: <span data-get="{name}.updated"></span>
+  </small>
+</section>
+
+</content>

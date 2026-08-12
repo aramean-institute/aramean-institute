@@ -1,0 +1,156 @@
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../../../../index" src="../../../../_templates/ethnology"></template>
+<title globalize-get>Cuisine</title>
+
+<article class="pauto" data-src="../../../assets/json/modern-cuisine.json">
+  <h1 globalize-get bindglobal="title:title">{title}</h1>
+  <nav class="pointer" margintop="0.5rem">
+    <ol padding="0">
+      <li><a href="#" globalize-get>Research</a></li>
+      <li><a href="../">Modern Arameans</a></li>
+      <li globalize-get>Cuisine</li>
+    </ol>
+  </nav>
+
+  <section margintop="2rem">
+    <p data-get="cuisine.overview.description"></p>
+    <p>Modern Aramean foodways differ by community, region, household, and diaspora setting. The material below describes documented contemporary practices without treating any one recipe as universal or assigning a modern dish automatically to the ancient period.</p>
+    <br>
+    <p>
+      Modern foodways use these ingredients in different combinations across communities and regions: <span data-get="cuisine.overview.foundational_ingredients" data-iterate="cuisine.overview.foundational_ingredients" data-format="join: ', '"></span>. Lamb, goat, fish, dairy, grains, legumes, vegetables, and herbs may appear in everyday meals or festive cooking according to household preference, local availability, and religious practice.
+    </p>
+
+    <hr class="mt2 bcblack">
+    <h2 class="mt3" globalize-get="staple_dishes">Staple Dishes</h2>
+
+    <div data-iterate="cuisine.staple_dishes">
+      <section margintop="2rem">
+        <h3 data-get="name"></h3>
+        <p data-get="description"></p>
+        <p class="mt1" hide data-if="ingredients">
+          <b>Ingredients:</b> <span data-get="ingredients" data-iterate="ingredients" data-format="join: ', '"></span>
+        </p>
+        <p class="mt05" hide data-if="significance">
+          <b>Significance:</b> <span data-get="significance"></span>
+        </p>
+        <p class="mt05" hide data-if="regional_notes">
+          <b>Regional Notes:</b> <span data-get="regional_notes"></span>
+        </p>
+        <p class="mt05" hide data-if="aramean_notes">
+          <b>Aramean Notes:</b> <span data-get="aramean_notes"></span>
+        </p>
+      </section>
+    </div>
+
+    <hr class="mt2 bcblack">
+    <h2 class="mt3" globalize-get="breads">Breads and Grains</h2>
+
+    <div data-iterate="cuisine.breads_and_grains">
+      <section margintop="2rem">
+        <h3 data-get="name"></h3>
+        <p data-get="description"></p>
+        <p class="mt05" hide data-if="significance">
+          <b>Significance:</b> <span data-get="significance"></span>
+        </p>
+      </section>
+    </div>
+
+    <hr class="mt2 bcblack">
+    <h2 class="mt3" globalize-get="preserved_foods">Preserved Foods and Pantry Traditions</h2>
+
+    <div data-iterate="cuisine.preserved_foods">
+      <section margintop="2rem">
+        <h3 data-get="name"></h3>
+        <p data-get="description"></p>
+        <p class="mt05" hide data-if="preservation_method">
+          <b>Method:</b> <span data-get="preservation_method"></span>
+        </p>
+        <p class="mt05" hide data-if="significance">
+          <b>Significance:</b> <span data-get="significance"></span>
+        </p>
+      </section>
+    </div>
+
+    <hr class="mt2 bcblack">
+    <h2 class="mt3" globalize-get="festive_occasions">Festive Occasions and Celebrations</h2>
+
+    <div data-iterate="cuisine.festive_dishes">
+      <section margintop="2rem">
+        <h3 data-get="name"></h3>
+        <p data-get="description"></p>
+        <p class="mt05" hide data-if="occasions">
+          <b>Occasions:</b> <span data-get="occasions" data-iterate="occasions" data-format="join: ', '"></span>
+        </p>
+        <p class="mt05" hide data-if="significance">
+          <b>Significance:</b> <span data-get="significance"></span>
+        </p>
+        <p class="mt05" hide data-if="aramean_notes">
+          <b>Aramean Notes:</b> <span data-get="aramean_notes"></span>
+        </p>
+      </section>
+    </div>
+
+    <section margintop="2rem">
+      <p>
+        Religious and family celebrations may include roasted meats, pastries, sweets, vegetables, legumes, and grains. Fasting foods and holiday meals differ by denomination, household, and region; the examples in the data describe documented practices rather than a universal Aramean calendar.
+      </p>
+    </section>
+
+    <hr class="mt2 bcblack">
+    <h2 class="mt3" globalize-get="coffee_beverages">Coffee, Tea, and Beverages</h2>
+
+    <div data-iterate="cuisine.beverages">
+      <section margintop="2rem">
+        <h3 data-get="name"></h3>
+        <p data-get="description"></p>
+        <p class="mt05" hide data-if="consumption">
+          <b>Consumption:</b> <span data-get="consumption"></span>
+        </p>
+        <p class="mt05" hide data-if="significance">
+          <b>Significance:</b> <span data-get="significance"></span>
+        </p>
+        <p class="mt05" hide data-if="aramean_notes">
+          <b>Aramean Notes:</b> <span data-get="aramean_notes"></span>
+        </p>
+      </section>
+    </div>
+
+    <section margintop="2rem">
+      <p>
+        Preparing and sharing these beverages can express hospitality and togetherness, although serving customs differ among households and communities.
+      </p>
+    </section>
+
+    <hr class="mt2 bcblack">
+    <h2 class="mt3" globalize-get="regional_variations">Regional Variations</h2>
+
+    <div data-iterate="cuisine.regional_variations">
+      <section margintop="2rem">
+        <h3 data-get="region"></h3>
+        <p><b>Characteristics:</b> <span data-get="characteristics"></span></p>
+        <p hide data-if="key_dishes" class="mt05">
+          <b>Key Dishes:</b> <span data-get="key_dishes" data-iterate="key_dishes" data-format="join: ', '"></span>
+        </p>
+      </section>
+    </div>
+
+    <section margintop="2rem">
+      <p>
+        Diaspora communities in different countries adapt recipes to local ingredients, kitchens, schedules, and tastes while maintaining selected family and community practices.
+      </p>
+    </section>
+
+    <hr class="mt2 bcblack">
+    <h2 class="mt3" globalize-get="modern_significance">Cultural Continuity and Adaptation</h2>
+
+    <section margintop="2rem">
+      <p>
+        For modern Arameans, particularly in diaspora, cuisine serves as a tangible connection to ancestral lands and heritage. <span data-get="cuisine.cultural_significance.family_practice"></span> <span data-get="cuisine.cultural_significance.diaspora_role"></span> <span data-get="cuisine.cultural_significance.community_centers"></span> <span data-get="cuisine.cultural_significance.cultural_bridge"></span>
+      </p>
+    </section>
+
+    <hr class="mt2 bcblack">
+    <small class="gray">Published: 2026-07-13, Last update: 2026-07-13</small>
+  </section>
+
+</article>

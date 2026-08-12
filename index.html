@@ -16,7 +16,7 @@
   <link type="text/css" href="https://cdn.front.nu/dist/front.css" rel="stylesheet">
   <link type="text/css" href="https://cdn.front.nu/dist/design/front/theme/front.css" rel="stylesheet">
   <script src="https://cdn.front.nu/nightly/front.js" module="navigate;data;screen;globalize;form;chronotize"
-    plugin="readingtime;filtersearch" var="api;enum"
+    plugin="readingtime;filtersearch;svgworldmap" var="api;enum"
     conf="debug:false;debugLocalhost:true;resetStyle:true;varsDir:assets/json/vars;storageKey:aramean_institute"
     navigate-conf="startpage:/;startpageLocal:/" globalize-conf="folder:assets/json/locales;ttl:3600000"></script>
   <script src="https://www.googletagmanager.com/gtag/js?id=G-4Z8JXR2XX0" async></script>
@@ -33,8 +33,9 @@
   <header bgcolor="black" class="topbar dark shade05 fwb">
     <nav gap="1.5rem" justifycontent="right" fontsize="80%" width="100%" height="2rem" screen-xxs="hide"
       screen-xl="show" paddingright="2rem">
-      <a flex="1" bgcolor="red" padding="1rem" href="contribute/" globalize-get="contribute"><i
-          class="icon yellow">&#9829;</i>Contribute</a>
+      <a flex="1" bgcolor="red" padding="1rem" href="contribute/" globalize-get><i color="yellow">&#9829;</i> Contribute</a>
+      <a href="research/publications/" bindglobal="href:href"
+        if="([{href}]~[/research/publications])/color:[yellow]?color:[inherit]" globalize-get>Publications</a>
       <a href="development/projects" bindglobal="href:href"
         if="([{href}]~[development/projects])/color:[yellow]?color:[inherit]" globalize-get>Projects</a>
       <a href="research/statistics/" bindglobal="href:href"
@@ -58,13 +59,13 @@
     <figure paddingright="1rem">
       <a href="./" target="_self"><img src="assets/img/logo.png"></a>
     </figure>
-    <div flex screen-xxs="gap:[inherit];hide" screen-xl="gap:[2rem];show">
+    <div id="menuitems" flex screen-xxs="gap:[inherit];hide" screen-xl="gap:[2rem];show">
       <a href="research/ethnology" bindglobal="href:href" onbindglobalchange="rerun:if"
         if="([{href}]~[/research/ethnology])/color:[red]?color:[inherit]" globalize-get>Ethnology</a>
       <a href="research/history" bindglobal="href:href" onbindglobalchange="rerun:if"
         if="([{href}]~[/research/history])/color:[red]?color:[inherit]" globalize-get>History</a>
-      <!--<a class="xl_dn" href="research/geography" bindglobal="href:href" onbindglobalchange="rerun:if"
-      if="([{href}]~[/research/geography])/color:[red]?color:[inherit]" globalize-get>Geography</a>-->
+      <a class="xl_dn" href="research/geography" bindglobal="href:href" onbindglobalchange="rerun:if"
+        if="([{href}]~[/research/geography])/color:[red]?color:[inherit]" globalize-get>Geography</a>
       <a href="research/archaeology" bindglobal="href:href" onbindglobalchange="rerun:if"
         if="([{href}]~[/research/archaeology])/color:[red]?color:[inherit]" globalize-get>Archaeology</a>
     </div>
@@ -104,13 +105,14 @@
         <hr padding="0" margin="0">
         <a flexdirection="row" href="research/history" globalize-get paddingleft="2rem">History</a>
         <hr padding="0" margin="0">
-        <!--<a flexdirection="row" href="research/geography" globalize-get paddingleft="2rem">Geography</a>
-        <hr padding="0" margin="0">-->
+        <a flexdirection="row" href="research/geography" globalize-get paddingleft="2rem">Geography</a>
+        <hr padding="0" margin="0">
         <a flexdirection="row" href="research/archaeology" globalize-get paddingleft="2rem">Archaeology</a>
         <hr padding="0" margin="0">
       </nav>
 
       <nav lineheight="2" class="sidebar" height="unset" marginbottom="3rem" margintop="2rem">
+        <a href="research/publications/" globalize-get paddingleft="2rem">Publications</a>
         <hr padding="0" margin="0">
         <a href="development/projects" globalize-get paddingleft="2rem">Projects</a>
         <hr padding="0" margin="0">

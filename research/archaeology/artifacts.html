@@ -1,62 +1,60 @@
 <script src="https://cdn.front.nu/nightly/front.js"></script>
-<template srcdoc="../../../index" src="../../../_templates/archaelogy"></template>
+<template srcdoc="../../index" src="../../_templates/archaeology"></template>
 <title>Artifacts</title>
 
 <article class="pauto">
   <h1>Artifacts</h1>
 
-  <section class="mt2">
-    <p>Aramaic artifacts - including stelae, sculptures, orthostats, papyri, ostraca, and seals - provide key evidence
-      for the Aramean kingdoms, the spread of the Aramaic language, and the civilizations that adopted it across the
-      ancient Near East and beyond.</p>
+  <section margintop="2rem">
+    <p>
+      This page filters the unified archaeological evidence catalogue by origin. The records include artifacts,
+      sculptures, architectural remains, religious objects, inscriptions, documents, and funerary evidence because
+      material interpretation depends on the object’s context and function.
+    </p>
 
-    <h2 class="mt2">Aramean Artifacts</h2>
-    <p class="mt05">Artifacts produced by or directly associated with the Aramean kingdoms and tribal polities of the
-      Iron Age.</p>
+    <h2 margintop="2rem">Aramean-Associated Evidence</h2>
+    <p class="mt05">Evidence produced by, commissioned by, or directly associated with Aramean polities and communities.</p>
     <table class="mt1 bocred bos5 bw1 z08 w100">
-      <caption class="tal fwb mb1 mt1">
-        <img src="./favicon.ico" class="di" height="24" style="height: 24px;">Aramean Artifacts
-      </caption>
+      <caption class="tal fwb mb1 mt1">Aramean-Associated Archaeological Evidence</caption>
       <thead class="bcred yellow p1">
         <tr>
-          <th>Artifact</th>
+          <th>Record</th>
+          <th>Type</th>
           <th>Period</th>
-          <th>Polity</th>
+          <th>Polity or context</th>
           <th>Location</th>
-          <th>Museum</th>
         </tr>
       </thead>
-      <tbody data-iterate="artifacts" data-src="assets/json/archaeology.json" data-filterkey="artifacts"
+      <tbody data-iterate="evidence" data-src="assets/json/archaeological-evidence.json" data-filterkey="evidence"
         data-filteritem="origin:'aramean'">
         <tr>
           <td data-get="title"></td>
+          <td data-get="evidence_type"></td>
           <td data-get="period"></td>
           <td data-get="polity"></td>
           <td data-get="location"></td>
-          <td data-get="museum"></td>
         </tr>
       </tbody>
     </table>
 
-    <h2 class="mt2">Aramaic Artifacts</h2>
-    <p class="mt05">Artifacts bearing Aramaic script or language from non-Aramean contexts, documenting the spread of
-      Aramaic as a lingua franca across the ancient world.</p>
+    <h2 margintop="2rem">Aramaic Evidence in Wider Contexts</h2>
+    <p class="mt05">Evidence bearing Aramaic language or script from communities and administrations beyond Aramean polities.</p>
     <table class="mt1 bocred bos5 bw1 z08 w100">
-      <caption class="tal fwb mb1 mt1">
-        <img src="./favicon.ico" class="di" height="24" style="height: 24px;">Aramaic Artifacts
-      </caption>
+      <caption class="tal fwb mb1 mt1">Aramaic Archaeological Evidence</caption>
       <thead class="bcred yellow p1">
         <tr>
-          <th>Artifact</th>
+          <th>Record</th>
+          <th>Type</th>
           <th>Period</th>
           <th>Location</th>
-          <th>Museum</th>
+          <th>Museum or repository</th>
         </tr>
       </thead>
-      <tbody data-iterate="artifacts" data-src="assets/json/archaeology.json" data-filterkey="artifacts"
+      <tbody data-iterate="evidence" data-src="assets/json/archaeological-evidence.json" data-filterkey="evidence"
         data-filteritem="origin:'aramaic'">
         <tr>
           <td data-get="title"></td>
+          <td data-get="evidence_type"></td>
           <td data-get="period"></td>
           <td data-get="location"></td>
           <td data-get="museum"></td>
@@ -67,3 +65,4 @@
 </article>
 
 <section include="./_includes/footer.html" bgcolor="red" color="white" padding="1rem" class="white-"></section>
+</content>

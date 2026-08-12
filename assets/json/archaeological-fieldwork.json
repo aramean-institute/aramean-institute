@@ -1,0 +1,76 @@
+{
+  "excavations": [
+    {
+      "id": "tell-halaf-excavations",
+      "site": "Guzana (Tell Halaf)",
+      "location": "Al-Hasakah Governorate, Syria",
+      "period_studied": "10th-9th centuries BC and earlier occupation",
+      "research_focus": "Palace architecture, sculptures, orthostats, and urban organization",
+      "description": "Excavations at Tell Halaf documented the monumental center associated with Guzana and Bit-Bahiani. The palace and sculptural remains are central evidence for northern Mesopotamian political art and architecture."
+    },
+    {
+      "id": "zincirli-excavations",
+      "site": "Sam’al (Zincirli)",
+      "location": "Gaziantep Province, Turkey",
+      "period_studied": "Iron Age occupation",
+      "research_focus": "Citadel, gates, palaces, sculptures, inscriptions, and city planning",
+      "description": "Excavations at Zincirli revealed a fortified urban center with monumental gates, royal buildings, sculptures, and inscriptions. The evidence makes Sam’al one of the most important sites for studying political and cultural interaction in the northern Levant."
+    },
+    {
+      "id": "hama-excavations",
+      "site": "Hama (ancient Hamath)",
+      "location": "Hama, Syria",
+      "period_studied": "Bronze Age through Iron Age and later occupation",
+      "research_focus": "Settlement sequence, urban development, inscriptions, and regional exchange",
+      "description": "Excavation of the Hama mound established a long occupational sequence and provided evidence for the urban history of the Orontes valley. Iron Age inscriptions and architecture are read within a setting that included Luwian, Aramaic, and other regional traditions."
+    },
+    {
+      "id": "tell-afis-excavations",
+      "site": "Hazrek (Tell Afis)",
+      "location": "Idlib Governorate, Syria",
+      "period_studied": "Iron Age occupation",
+      "research_focus": "Urban settlement, regional political networks, and the Lu’ash context",
+      "description": "Fieldwork at Tell Afis contributes to the study of Iron Age settlement and political organization in northern Syria. The site is considered in relation to Hazrek, Lu’ash, Hamath, and the wider network documented by inscriptions such as the Zakkur Stele."
+    },
+    {
+      "id": "tell-tayinat-excavations",
+      "site": "Kunulua (Tell Tayinat)",
+      "location": "Hatay Province, Turkey",
+      "period_studied": "Iron Age occupation",
+      "research_focus": "Palace and temple architecture, administration, and Neo-Hittite-Aramean interaction",
+      "description": "Excavations at Tell Tayinat have documented monumental buildings and administrative contexts associated with Kunulua. The remains are important for studying the mixed political and cultural traditions of the Amuq plain."
+    },
+    {
+      "id": "tell-ahmar-excavations",
+      "site": "Til Barsip (Tell Ahmar)",
+      "location": "Aleppo Governorate, Syria",
+      "period_studied": "Iron Age and Assyrian-period occupation",
+      "research_focus": "Palace architecture, wall paintings, inscriptions, and changing administration",
+      "description": "Excavation at Tell Ahmar documented the urban center of Til Barsip and its later Assyrian-period occupation. The site is valuable for tracing political change on the Euphrates and the transformation of local institutions under imperial rule."
+    },
+    {
+      "id": "bethsaida-excavations",
+      "site": "Bethsaida (et-Tell)",
+      "location": "Golan Heights region, Israel",
+      "period_studied": "Iron Age and later occupation",
+      "research_focus": "City gate, fortifications, cultic installations, and settlement organization",
+      "description": "Excavation at et-Tell exposed fortifications, a monumental gate, and cultic contexts associated by some researchers with Bethsaida and Geshur. The interpretation remains tied to the specific archaeological and historical evidence rather than to an automatic ethnic identification."
+    },
+    {
+      "id": "tel-dan-excavations",
+      "site": "Tel Dan",
+      "location": "Northern Israel",
+      "period_studied": "Iron Age and later occupation",
+      "research_focus": "Gate complex, cultic area, settlement layers, and the Tel Dan Stele",
+      "description": "Excavations at Tel Dan documented successive settlement layers, monumental architecture, and the Tel Dan Stele. Together these remains illuminate regional political history and the use of Aramaic in the southern Levant."
+    },
+    {
+      "id": "dura-europos-excavations",
+      "site": "Dura-Europos",
+      "location": "Deir ez-Zor Governorate, Syria",
+      "period_studied": "Hellenistic, Parthian, and Roman periods",
+      "research_focus": "Fortifications, temples, churches, houses, documents, and funerary contexts",
+      "description": "Excavations at Dura-Europos revealed a multilingual frontier city with civic, military, domestic, religious, and funerary buildings. The site provides a broad comparative context for Aramaic use across different communities and administrations."
+    }
+  ]
+}

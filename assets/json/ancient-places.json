@@ -1,0 +1,1190 @@
+{
+  "Harran": {
+    "title": "Harran",
+    "category": "Ancient city and landscape",
+    "type": "Ancient city and landscape",
+    "region": "Aram Nahrin / Upper Mesopotamia",
+    "modern_location": "Şanlıurfa Province, Turkey",
+    "period": "Ancient city with multiple historical periods",
+    "geography": {
+      "description": "Harran is an ancient city and surrounding plain in Upper Mesopotamia, in the area of modern Şanlıurfa Province in southeastern Turkey. It is a place and landscape reference, not by itself the name of a single Aramean polity.",
+      "lat": 36.86,
+      "lng": 39.03,
+      "precision": "approximate city reference"
+    },
+    "sections": [
+      {
+        "heading": "Location and Terrain",
+        "body": "Harran lies in a broad, relatively dry plain associated with the Balikh basin and the northern Mesopotamian steppe. In the broad geographic sense, it lies within Mesopotamia, the region between the Tigris and Euphrates, although it is closer to the Balikh and Euphrates side rather than midway between the two main rivers. The plain connects upland routes around Şanlıurfa with the Balikh and Euphrates corridors and with approaches toward northern Syria."
+      },
+      {
+        "heading": "Regional Connections",
+        "body": "The city's position connected Upper Mesopotamia with northern Syria, the Euphrates region, and routes toward the Tigris basin. Its geographic importance comes from this corridor setting and from its relationship to the surrounding agricultural and steppe landscapes."
+      },
+      {
+        "heading": "Historical Geographic Identification",
+        "body": "Harran is commonly identified with the ancient city known as Haran in later textual traditions. This identification concerns a place-name and landscape; it should not automatically be treated as the boundary or capital of a single Aramean polity."
+      },
+      {
+        "heading": "Modern Geographic Framing",
+        "body": "Modern Harran is located in Şanlıurfa Province, Turkey. Modern administrative borders provide orientation but should be distinguished from the changing historical extent of the city, plain, and surrounding regional names."
+      }
+    ],
+    "note": "Harran is presented here as an ancient city and landscape associated with Aram Nahrin. Detailed chronology, religious history, language, and source criticism belong in the relevant History, Religion, Ethnology, and Historical Sources sections.",
+    "related": [
+      {
+        "label": "Nahor",
+        "href": "research/geography/ancient/place.html?name=Nahor",
+        "description": "Textual Upper Mesopotamian place-name with uncertain identification."
+      },
+      {
+        "label": "Urhay/Edessa",
+        "href": "research/geography/ancient/place.html?name=Urhay-Edessa",
+        "description": "Documented Upper Mesopotamian urban reference."
+      },
+      {
+        "label": "Mesopotamia",
+        "href": "research/geography/occupied/region.html?name=Mesopotamia",
+        "description": "Physical and regional geography of the Tigris-Euphrates area."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Nahor": {
+    "title": "Nahor",
+    "category": "Textual ancient place",
+    "type": "Textual place-name; identification uncertain",
+    "region": "Aram Nahrin / Upper Mesopotamia",
+    "modern_location": "Uncertain; commonly associated with the Harran region",
+    "period": "Biblical textual tradition; historical setting debated",
+    "geography": {
+      "description": "Nahor is a place-name in biblical traditions associated with the Upper Mesopotamian setting of the patriarchal narratives. Its exact location has not been securely identified, so it should be presented as a textual geographic reference rather than as a confirmed archaeological city.",
+      "lat": 36.9,
+      "lng": 39.0,
+      "precision": "broad regional reference only; identification uncertain"
+    },
+    "sections": [
+      {
+        "heading": "Regional Association",
+        "body": "Nahor is commonly placed somewhere in the wider Harran and Upper Mesopotamian region. This association places it within the broad Aram Nahrin geographic framework, but it does not establish that Nahor was identical with Harran, Urhay, or another known city."
+      },
+      {
+        "heading": "Landscape and Routes",
+        "body": "The proposed setting belongs to the plains, steppe margins, and river corridors linking the Balikh, Euphrates, and northern Mesopotamian regions. These landscapes provided routes between the Levant, northern Syria, and the Upper Tigris, although a precise site for Nahor remains uncertain."
+      },
+      {
+        "heading": "Geographic Uncertainty",
+        "body": "Nahor should not be assigned a precise coordinate or fixed boundary without stronger evidence. Similarity between the name Nahor and other ancient or modern place-names is not sufficient to establish an identification."
+      }
+    ],
+    "note": "Nahor is included as a cautious textual place profile. The map marker indicates only a broad regional reference and does not claim a confirmed city location.",
+    "related": [
+      {
+        "label": "Harran",
+        "href": "research/geography/ancient/place.html?name=Harran",
+        "description": "Main Upper Mesopotamian geographic reference in the surrounding regional discussion."
+      },
+      {
+        "label": "Urhay/Edessa",
+        "href": "research/geography/ancient/place.html?name=Urhay-Edessa",
+        "description": "Documented Upper Mesopotamian city, not a proven identification for Nahor."
+      },
+      {
+        "label": "Beth Nahrain",
+        "href": "research/geography/occupied/region.html?name=Beth-Nahrain",
+        "description": "Broader Two Rivers geographic framework."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Urhay-Edessa": {
+    "title": "Urhay/Edessa",
+    "category": "Ancient city",
+    "type": "Ancient city and later urban center",
+    "region": "Aram Nahrin / Upper Mesopotamia",
+    "modern_location": "Şanlıurfa, Turkey",
+    "period": "Later ancient and Roman-period urban history; earlier settlement history also attested",
+    "geography": {
+      "description": "Urhay, known as Edessa in Greek and Latin sources, was a major city in Upper Mesopotamia at modern Şanlıurfa in southeastern Turkey. Its urban history spans different political periods, so later Edessa should not be treated as identical to every earlier use of Bet-Urhay.",
+      "lat": 37.1671,
+      "lng": 38.7939,
+      "precision": "approximate urban reference"
+    },
+    "sections": [
+      {
+        "heading": "Location and Regional Setting",
+        "body": "The city stands north of the Harran plain and near routes linking the Upper Euphrates, northern Syria, and the Upper Tigris region. Its position made it an important urban and commercial reference point within the broader Aram Nahrin landscape."
+      },
+      {
+        "heading": "Urban Geography",
+        "body": "Urhay/Edessa developed as an urban center with connections to surrounding agricultural plains, upland routes, and river corridors. Its archaeological and literary record belongs to several periods and should not be reduced to one political or religious identity."
+      },
+      {
+        "heading": "Relation to Bet-Urhay",
+        "body": "Urhay/Edessa is geographically related to the name Bet-Urhay used in the polity catalogue, but a city profile and a polity profile answer different questions. The city page describes the urban place; the polity page describes a reconstructed political entity and its regional setting."
+      }
+    ],
+    "note": "Urhay/Edessa is a city profile. Its later urban history should be distinguished from the Iron Age polities and from modern identity categories.",
+    "related": [
+      {
+        "label": "Bet-Urhay",
+        "href": "research/geography/ancient/polity.html?name=Bet-Urhay",
+        "description": "Polity profile associated with the Upper Mesopotamian urban region."
+      },
+      {
+        "label": "Harran",
+        "href": "research/geography/ancient/place.html?name=Harran",
+        "description": "Nearby Upper Mesopotamian city and plain reference."
+      },
+      {
+        "label": "Beth Nahrain",
+        "href": "research/geography/occupied/region.html?name=Beth-Nahrain",
+        "description": "Broader Two Rivers geographic framework."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Gidara-Raqamatu": {
+    "title": "Raqamatu (Gidara; identification uncertain)",
+    "category": "Textual/possible ancient place",
+    "type": "Possible Iron Age urban reference; identification and chronology uncertain",
+    "region": "Aram Nahrin / Upper Khabur",
+    "modern_location": "Upper Khabur region, northeastern Syria; exact modern identification uncertain",
+    "period": "Early Iron Age; Assyrian and Aramaic political context in the late 10th-early 9th centuries BC",
+    "geography": {
+      "description": "Gidara is described in the available historical account as a city on the upper Khabur north of Guzana, with the Aramaic name Raqamatu. Its exact location has not been securely established in the repository, so the map point is only a broad Upper Khabur regional reference.",
+      "lat": 37.0,
+      "lng": 40.1,
+      "precision": "broad regional reference only; Gidara/Raqamatu identification and modern location uncertain"
+    },
+    "sections": [
+      {
+        "heading": "Upper Khabur Setting",
+        "body": "The proposed Gidara/Raqamatu reference belongs to the Upper Khabur corridor north of Guzana/Tell Halaf. This places it within the northern Mesopotamian river network, but the available account does not provide a surveyed site coordinate or a secure modern archaeological identification."
+      },
+      {
+        "heading": "Name and Political Identification",
+        "body": "The name Gidara is explained in the available account as a West Semitic word associated with a wall, while Raqamatu is presented as the Aramaic name used for the city. These name associations are recorded cautiously here; they do not by themselves establish a single ethnic or political identity for every period of the settlement."
+      },
+      {
+        "heading": "Aramaic and Assyrian Context",
+        "body": "The account describes an Aramaic group identified by Assyrian sources as the Temanites taking control of the city, followed by an Assyrian campaign under Adad-nirari II and the capture of the city traditionally dated to 898 BC. It names Muquru as the ruler deported after the siege, but the page marks these specific claims as citation-needed and they require source criticism before being treated as fully established."
+      },
+      {
+        "heading": "Evidence and Map Framing",
+        "body": "The repository has no dedicated Gidara/Raqamatu archaeological-location, evidence, fieldwork, or coordinate record. The marker therefore indicates only a broad Upper Khabur reference. Gidara/Raqamatu is presented as a place, not as a separately reconstructed polity or as proof that all Upper Khabur communities shared one uniform identity."
+      }
+    ],
+    "note": "Raqamatu (Gidara) is included as a cautious textual/possible ancient place associated with an Aramaic political context in the Upper Khabur. The name, location, chronology, Temanite identification, Muquru account, and 898 BC date remain subject to source-critical verification.",
+    "related": [
+      {
+        "label": "Guzana/Tell Halaf",
+        "href": "research/geography/ancient/place.html?name=Guzana-Tell-Halaf",
+        "description": "Khabur-basin urban center south of the proposed Gidara/Raqamatu setting."
+      },
+      {
+        "label": "Bit-Bahiani",
+        "href": "research/geography/ancient/polity.html?name=Bit-Bahiani",
+        "description": "Separate Khabur-basin polity associated with Guzana; not an identification for Gidara/Raqamatu."
+      },
+      {
+        "label": "Sikkan",
+        "href": "research/geography/ancient/place.html?name=Tell-Fekheriye",
+        "description": "Later Khabur-basin settlement reference in the wider regional network."
+      },
+      {
+        "label": "Gidara source account",
+        "href": "https://en.wikipedia.org/wiki/Gidara",
+        "description": "External account describing Gidara, Raqamatu, the Temanites, Muquru, and the Assyrian campaign."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Guzana-Tell-Halaf": {
+    "title": "Guzana/Tell Halaf",
+    "category": "Archaeological city",
+    "type": "Iron Age urban and palatial center",
+    "region": "Aram Nahrin / Khabur basin",
+    "modern_location": "Al-Hasakah Governorate, Syria",
+    "period": "10th-9th centuries BC and earlier occupation",
+    "geography": {
+      "description": "Guzana, identified with Tell Halaf, was an important urban and palatial center in the Khabur basin. It is associated with Bit-Bahiani, while its archaeological remains document a political and artistic setting rather than a simple ethnic boundary.",
+      "lat": 36.82,
+      "lng": 40.07,
+      "precision": "approximate archaeological-site reference"
+    },
+    "sections": [
+      {
+        "heading": "Location and Terrain",
+        "body": "Tell Halaf lies in the Khabur basin of northeastern Syria, within the Upper Mesopotamian plains and river corridors. Its setting connects the Khabur system with routes toward Harran, the Euphrates, and the Upper Tigris."
+      },
+      {
+        "heading": "Urban and Political Geography",
+        "body": "Guzana was the principal center associated with Bit-Bahiani in the archaeological catalogue. Monumental architecture, sculptures, orthostats, and urban remains illuminate the city's political environment without defining the full extent of the polity or the identity of every inhabitant."
+      },
+      {
+        "heading": "Archaeological Reference",
+        "body": "The modern identification with Tell Halaf provides a geographic anchor for studying the Khabur region. Excavated remains represent different periods of occupation and should be separated from later historical interpretations."
+      }
+    ],
+    "note": "Guzana/Tell Halaf is an archaeological city profile, not a replacement for the Bit-Bahiani polity profile. The map marker identifies the site approximately.",
+    "related": [
+      {
+        "label": "Bit-Bahiani",
+        "href": "research/geography/ancient/polity.html?name=Bit-Bahiani",
+        "description": "Polity associated with the Khabur basin and Guzana."
+      },
+      {
+        "label": "Til Barsip/Tell Ahmar",
+        "href": "research/geography/ancient/place.html?name=Til-Barsip-Tell-Ahmar",
+        "description": "Euphrates urban center in the broader Upper Mesopotamian network."
+      },
+      {
+        "label": "Mesopotamia",
+        "href": "research/geography/occupied/region.html?name=Mesopotamia",
+        "description": "Physical and regional geography of the Tigris-Euphrates area."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Til-Barsip-Tell-Ahmar": {
+    "title": "Tarbusip (Til Barsip/Tell Ahmar)",
+    "category": "Archaeological city",
+    "type": "Iron Age Euphrates urban center",
+    "region": "Aram Nahrin / Euphrates corridor",
+    "modern_location": "Aleppo Governorate, Syria",
+    "period": "10th-8th centuries BC and later Assyrian administration",
+    "geography": {
+      "description": "Til Barsip, identified with Tell Ahmar, was an urban center on the Euphrates associated with Bit-Adini and later Assyrian administration. Its location illustrates political change along the Euphrates rather than one uninterrupted territorial identity.",
+      "lat": 36.86,
+      "lng": 38.22,
+      "precision": "approximate archaeological-site reference"
+    },
+    "sections": [
+      {
+        "heading": "Location and Terrain",
+        "body": "Tell Ahmar lies on the Euphrates corridor in northern Syria. The river setting connected the city with northern Syria, Upper Mesopotamia, and routes toward the Middle Euphrates and Anatolia."
+      },
+      {
+        "heading": "Urban and Political Geography",
+        "body": "Til Barsip is associated with Bit-Adini and later with Assyrian administration. Its palatial remains, wall paintings, inscriptions, and changing administrative context make it a useful place for studying the transformation of Euphrates cities."
+      },
+      {
+        "heading": "Archaeological Reference",
+        "body": "The identification of Tell Ahmar with Til Barsip provides a geographic reference for the Euphrates corridor. The settlement's long occupation means that archaeological evidence should be assigned to specific periods rather than treated as one uniform city history."
+      }
+    ],
+    "note": "Til Barsip/Tell Ahmar is an archaeological city profile. Its map marker identifies the site approximately and does not represent the full extent of Bit-Adini or later Assyrian territory.",
+    "related": [
+      {
+        "label": "Bit-Adini",
+        "href": "research/geography/ancient/polity.html?name=Bit-Adini",
+        "description": "Polity associated with Til Barsip on the Euphrates."
+      },
+      {
+        "label": "Guzana/Tell Halaf",
+        "href": "research/geography/ancient/place.html?name=Guzana-Tell-Halaf",
+        "description": "Khabur-basin urban center in the broader regional network."
+      },
+      {
+        "label": "Beth Nahrain",
+        "href": "research/geography/occupied/region.html?name=Beth-Nahrain",
+        "description": "Broader Two Rivers geographic framework."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Damascus": {
+    "title": "Damascus",
+    "category": "Ancient city",
+    "type": "Iron Age urban center and later city",
+    "region": "Aram Taḥtāyā / Southern Levant",
+    "modern_location": "Damascus, Syria",
+    "period": "Iron Age with occupation continuing through later periods",
+    "geography": {
+      "description": "Damascus was the principal urban center of Aram-Damascus and one of the major cities of the southern Levant. Much of the ancient city lies beneath the modern city, so the archaeological record is unevenly accessible and the mapped point is an approximate city reference.",
+      "lat": 33.5138,
+      "lng": 36.2765,
+      "precision": "approximate city reference; based on the Aram-Damascus regional point"
+    },
+    "sections": [
+      {
+        "heading": "Location and Urban Setting",
+        "body": "Damascus is associated with the Barada oasis in the southern Levant. Its position linked inland routes, the Anti-Lebanon approaches, and the wider Levantine and Mesopotamian networks."
+      },
+      {
+        "heading": "Relation to Aram-Damascus",
+        "body": "Damascus was the political center of Aram-Damascus, but the city and the polity are not identical categories. The city profile describes the urban place; the polity profile describes the reconstructed political entity and its regional setting."
+      },
+      {
+        "heading": "Archaeological Framing",
+        "body": "The ancient urban record is partly beneath the modern city and should be combined carefully with inscriptions, historical references, and later archaeological layers. The material record should not be used to assume one uniform population across every period."
+      }
+    ],
+    "note": "Damascus is included as a city profile associated with Aram-Damascus. Its marker identifies the urban reference point and does not show the extent of the polity.",
+    "related": [
+      {
+        "label": "Aram-Damascus",
+        "href": "research/geography/ancient/polity.html?name=Aram-Damascus",
+        "description": "Polity associated with Damascus and the Barada region."
+      },
+      {
+        "label": "Hamath",
+        "href": "research/geography/ancient/place.html?name=Hamath-Hama",
+        "description": "Central Syrian urban center connected to the wider northern Levantine network."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Hamath-Hama": {
+    "title": "Hamath (Hama)",
+    "category": "Ancient city",
+    "type": "Iron Age urban center and capital",
+    "region": "Aram ʿElyā / Central Syria",
+    "modern_location": "Hama, Syria",
+    "period": "Iron Age, especially the 12th-8th centuries BC",
+    "geography": {
+      "description": "Hamath, at modern Hama on the Orontes River, was a long-lived urban center and the political center of the kingdom of Hamath. Its history includes Luwian and Aramaic cultural and linguistic elements, so the city should not be presented as an ethnically uniform site.",
+      "lat": 35.133333,
+      "lng": 36.75,
+      "precision": "approximate city reference; based on the Hamath regional point"
+    },
+    "sections": [
+      {
+        "heading": "Location and River Corridor",
+        "body": "Hamath lies on the Orontes River in central Syria. The river corridor connected the city with northern Syria, the Levantine interior, and routes toward the Euphrates and the Mediterranean coast."
+      },
+      {
+        "heading": "Urban and Political Geography",
+        "body": "Hama was the urban center of the polity known as Hamath. The city profile and the Hamath polity profile are related but distinct: one describes the settlement, while the other addresses political organization and territorial reconstruction."
+      },
+      {
+        "heading": "Cultural Complexity",
+        "body": "The kingdom and city included Luwian and Aramaic cultural and linguistic elements. Inscriptions and settlement evidence should therefore be interpreted as evidence for a complex historical setting rather than as proof of one uniform identity."
+      }
+    ],
+    "note": "Hamath is presented as an ancient city associated with the Hamath polity. The marker is an approximate urban reference and not a political boundary.",
+    "related": [
+      {
+        "label": "Hamath",
+        "href": "research/geography/ancient/polity.html?name=Hamath",
+        "description": "Polity centered on the Orontes urban region."
+      },
+      {
+        "label": "Hazrek",
+        "href": "research/geography/ancient/place.html?name=Hazrek-Tell-Afis",
+        "description": "Northern Syrian urban place later connected politically with Hamath."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Arpad-Tell-Rifaat": {
+    "title": "Arpad (Tell Rifaat)",
+    "category": "Archaeological city",
+    "type": "Iron Age urban center and capital",
+    "region": "Aram ʿElyā / Northern Syria",
+    "modern_location": "Aleppo Governorate, Syria",
+    "period": "10th-8th centuries BC",
+    "geography": {
+      "description": "Arpad, commonly identified with Tell Rifaat, was the political center of Bit-Agusi in northern Syria. The identification of the ancient political territory with the full extent of the archaeological settlement remains an interpretive reconstruction.",
+      "lat": 36.4725,
+      "lng": 37.094722,
+      "precision": "approximate archaeological-city reference; based on the Bit-Agusi regional point"
+    },
+    "sections": [
+      {
+        "heading": "Location and Terrain",
+        "body": "Arpad is associated with the northern Syrian plains north of Aleppo and with routes near the Quweiq River. Its setting connected the Orontes and Euphrates corridors with northern Syrian and Anatolian routes."
+      },
+      {
+        "heading": "Urban and Political Geography",
+        "body": "Arpad served as the center of Bit-Agusi and appears in diplomatic evidence such as the Sefire treaty stelae. The urban place should not be treated as identical to the entire territory or population of the polity."
+      },
+      {
+        "heading": "Identification and Evidence",
+        "body": "The identification of Arpad with Tell Rifaat is commonly used in historical and archaeological reconstruction. Its political importance is supported by textual evidence, while the archaeological settlement represents multiple layers and should be interpreted period by period."
+      }
+    ],
+    "note": "Arpad is included as a cautious archaeological-city profile associated with Bit-Agusi. Its marker is approximate and does not define the polity's full territory.",
+    "related": [
+      {
+        "label": "Bit-Agusi",
+        "href": "research/geography/ancient/polity.html?name=Bit-Agusi",
+        "description": "Polity associated with Arpad and the northern Syrian region."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Samal-Zincirli": {
+    "title": "Sam’al (Zincirli)",
+    "category": "Archaeological city",
+    "type": "Fortified Iron Age urban center and capital",
+    "region": "Aram ʿElyā / Amanus region",
+    "modern_location": "Gaziantep Province, Turkey",
+    "period": "10th-8th centuries BC",
+    "geography": {
+      "description": "Sam’al, excavated at Zincirli, was a fortified urban center associated with the Bit-Gabbar dynasty. Its citadel, gates, palaces, sculptures, and inscriptions make it one of the best-documented urban places in the ancient northern Levant.",
+      "lat": 37.1036,
+      "lng": 36.6786,
+      "precision": "approximate archaeological-city reference; based on the Bit-Gabbar regional point"
+    },
+    "sections": [
+      {
+        "heading": "Location and Fortifications",
+        "body": "Zincirli lies in the Amanus and northern Levantine setting near the Karasu River. The fortified site controlled routes between northern Syria, Anatolia, and the eastern Mediterranean."
+      },
+      {
+        "heading": "Urban and Political Geography",
+        "body": "Sam’al was the urban center associated with Bit-Gabbar. Royal inscriptions, funerary stelae, gates, palaces, and monumental sculptures document local kingship and administration without making the city identical to the entire polity."
+      },
+      {
+        "heading": "Cultural Interaction",
+        "body": "The site shows interaction among Aramean, Luwian, Phoenician, and Assyrian traditions. Its evidence should be used to study a connected political and cultural environment rather than to assign every layer to one identity."
+      }
+    ],
+    "note": "Sam’al is presented as an archaeological city associated with Bit-Gabbar. The map marker identifies Zincirli approximately and does not represent the polity's boundaries.",
+    "related": [
+      {
+        "label": "Bit-Gabbar",
+        "href": "research/geography/ancient/polity.html?name=Bit-Gabbar",
+        "description": "Polity associated with Sam’al and Zincirli."
+      },
+      {
+        "label": "Arpad",
+        "href": "research/geography/ancient/place.html?name=Arpad-Tell-Rifaat",
+        "description": "Northern Syrian urban center in the wider political network."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Kunulua-Tell-Tayinat": {
+    "title": "Kunulua (Tell Tayinat)",
+    "category": "Archaeological city",
+    "type": "Iron Age urban center and capital",
+    "region": "Aram ʿElyā / Amuq plain",
+    "modern_location": "Hatay Province, Turkey",
+    "period": "11th-8th centuries BC",
+    "geography": {
+      "description": "Kunulua, identified with Tell Tayinat, was the capital of Pattin/Unqi in the Amuq plain. The site preserves evidence for a kingdom shaped by Neo-Hittite and Aramean traditions and should be treated as a politically and culturally mixed urban center.",
+      "lat": 36.2475,
+      "lng": 36.376389,
+      "precision": "approximate archaeological-city reference; based on the Pattin/Unqi regional point"
+    },
+    "sections": [
+      {
+        "heading": "Location and Plain",
+        "body": "Kunulua is associated with the Amuq plain and the Orontes corridor in southeastern Anatolia. The plain connected routes through the Levant, northern Syria, and the Anatolian interior."
+      },
+      {
+        "heading": "Urban and Political Geography",
+        "body": "Tell Tayinat is identified with Kunulua, the capital of Pattin/Unqi. Monumental buildings and administrative remains illuminate the political setting, while the place profile remains distinct from the wider polity profile."
+      },
+      {
+        "heading": "Cultural Complexity",
+        "body": "The kingdom and city were shaped by Neo-Hittite and Aramean traditions. Material evidence should not be used to assign every inhabitant or every period to a single identity."
+      }
+    ],
+    "note": "Kunulua is presented as an archaeological city associated with Pattin/Unqi. Its map marker is approximate and does not show the extent of that polity.",
+    "related": [
+      {
+        "label": "Pattin/Unqi",
+        "href": "research/geography/ancient/polity.html?name=Pattin-Unqi",
+        "description": "Polity associated with Kunulua in the Amuq plain."
+      },
+      {
+        "label": "Sam’al",
+        "href": "research/geography/ancient/place.html?name=Samal-Zincirli",
+        "description": "Fortified urban center in the wider northern Levantine network."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Hazrek-Tell-Afis": {
+    "title": "Hazrek (Tell Afis)",
+    "category": "Archaeological city",
+    "type": "Iron Age urban center and capital",
+    "region": "Aram ʿElyā / Northern Syria",
+    "modern_location": "Idlib Governorate, Syria",
+    "period": "9th-8th centuries BC",
+    "geography": {
+      "description": "Hazrek, commonly associated with Tell Afis, was the center of Lu’ash and was later connected politically with Hamath under King Zakkur. The site and the Zakkur inscription are important for reconstructing northern Syrian political networks.",
+      "lat": 35.905,
+      "lng": 36.798611,
+      "precision": "approximate archaeological-city reference; site identification is cautious"
+    },
+    "sections": [
+      {
+        "heading": "Location and Corridor",
+        "body": "Tell Afis lies in the northern Syrian Orontes corridor, linking inland routes between Hamath, the northern Levant, and the Euphrates approaches."
+      },
+      {
+        "heading": "Urban and Political Geography",
+        "body": "Hazrek is associated with Lu’ash and was later connected politically with Hamath. The city, named polity, and archaeological layers should be distinguished when reconstructing political change."
+      },
+      {
+        "heading": "The Zakkur Evidence",
+        "body": "The Zakkur inscription found at Tell Afis is important evidence for rulers, alliances, and Aramaic political language. It documents a specific historical context and does not by itself define every phase of the settlement."
+      }
+    ],
+    "note": "Hazrek is included as a cautious archaeological-city profile. Its association with Tell Afis is commonly used but not absolute, and the marker is an approximate reference.",
+    "related": [
+      {
+        "label": "Lu’ash",
+        "href": "research/geography/ancient/polity.html?name=Luash",
+        "description": "Polity associated with Hazrek and the Tell Afis setting."
+      },
+      {
+        "label": "Hamath",
+        "href": "research/geography/ancient/polity.html?name=Hamath",
+        "description": "Polity later connected politically with Lu’ash under Zakkur."
+      },
+      {
+        "label": "Arpad",
+        "href": "research/geography/ancient/place.html?name=Arpad-Tell-Rifaat",
+        "description": "Northern Syrian urban center in the wider regional network."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Amida-Diyarbakir": {
+    "title": "Amida",
+    "category": "Possible ancient urban reference",
+    "type": "Later city with uncertain Iron Age association",
+    "region": "Aram Nahrin / Upper Tigris",
+    "modern_location": "Diyarbakır, Turkey",
+    "period": "Later ancient city; possible Iron Age association",
+    "geography": {
+      "description": "Amida is the ancient name of a later city at modern Diyarbakır. The Bit-Zamani polity is associated with the upper Tigris near Diyarbakır and names Amida as a possible capital or center, but identifying the later city securely with an Iron Age Bit-Zamani center remains uncertain. The mapped point is a broad regional reference.",
+      "lat": 37.915315,
+      "lng": 40.240872,
+      "precision": "broad regional reference only; Iron Age identification uncertain"
+    },
+    "sections": [
+      {
+        "heading": "The Place-Name and City",
+        "body": "Amida is the ancient name associated with the city at modern Diyarbakır. Its later historical importance should be distinguished from the question of whether the same urban location served as the center of Bit-Zamani in the Iron Age. This profile therefore treats Amida as a place reference, not as a separate polity."
+      },
+      {
+        "heading": "Possible Bit-Zamani Association",
+        "body": "The Bit-Zamani polity record places the state in the Upper Tigris near Diyarbakır and describes Amida as a possible capital or center. That wording supports a cautious geographic link, but it does not establish a securely excavated Iron Age capital or prove that every later use of Amida refers to the same political setting."
+      },
+      {
+        "heading": "Geographic Uncertainty",
+        "body": "The repository has no independent Amida archaeological-location, fieldwork, inscription, or city-evidence record. The marker uses the approximate regional coordinate associated with Bit-Zamani and should not be read as a surveyed ancient-city location."
+      },
+      {
+        "heading": "Modern Orientation",
+        "body": "Modern Diyarbakır provides geographic orientation for the Upper Tigris setting. Modern names and administrative borders should not be treated as direct equivalents of the ancient political geography."
+      }
+    ],
+    "note": "Amida is included as a cautious place profile because the Bit-Zamani record identifies it as a possible center and later sources attest the city-name. It is not presented as a confirmed Aramean city, a separate polity, or proof that Amedi/Diyarbakır was securely the Iron Age capital.",
+    "related": [
+      {
+        "label": "Bit-Zamani",
+        "href": "research/geography/ancient/polity.html?name=Bit-Zamani",
+        "description": "Polity associated with the Upper Tigris near Diyarbakır and a possible Amida center."
+      },
+      {
+        "label": "Bet-Urhay",
+        "href": "research/geography/ancient/polity.html?name=Bet-Urhay",
+        "description": "Upper Mesopotamian polity in the wider regional network."
+      },
+      {
+        "label": "Urhay/Edessa",
+        "href": "research/geography/ancient/place.html?name=Urhay-Edessa",
+        "description": "Separate Upper Mesopotamian urban reference; not an identification for Amida."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Nampigi-Manbij": {
+    "title": "Mabug (Nampigi/Nampigu; Manbij identification uncertain)",
+    "category": "Possible ancient place",
+    "type": "Possible ancient urban reference; identification uncertain",
+    "region": "Aram ʿElyā / Northern Syria",
+    "modern_location": "Manbij, Aleppo Governorate, Syria",
+    "period": "Iron Age place-name proposed in relation to the later Manbij area; later Persian-period and Hellenistic references",
+    "geography": {
+      "description": "Nampigi/Nampigu is a proposed ancient place-name associated in some reconstructions with the later Manbij, Bambyce, or Hierapolis area of northern Syria. The identification remains uncertain, so the modern urban point is used only as a cautious geographic reference and not as a confirmed ancient site location.",
+      "lat": 36.53,
+      "lng": 37.95,
+      "precision": "approximate modern urban reference; ancient identification uncertain; not a surveyed Nampigi site coordinate"
+    },
+    "sections": [
+      {
+        "heading": "Location and Regional Setting",
+        "body": "The proposed Nampigi/Nampigu reference is associated with the later Manbij area in northern Syria, west of the Euphrates and within routes linking the northern Syrian plains, the Euphrates corridor, and inland Syrian centers. This regional placement is a geographic framework rather than proof of the ancient name's exact location."
+      },
+      {
+        "heading": "Name and Historical Identification",
+        "body": "Nampigi and Nampigu are treated here as alternate spellings of one proposed place reference, not as separate catalogue entries. The repository directly mentions the later Manbij area as Bambyce and Hierapolis in Persian-period and Hellenistic historical discussions, but it does not independently establish that those later names are identical with Nampigi or Nampigu."
+      },
+      {
+        "heading": "Relation to Bit-Agusi",
+        "body": "Some historical reconstructions place Nampigi/Nampigu among the cities associated with Bit-Agusi. The repository's Bit-Agusi record is separate and centers the reconstructed polity on Arpad (Tell Rifaat). That political record and its Sefire evidence do not by themselves establish Nampigi/Manbij as a confirmed Bit-Agusi city, so the place and polity remain distinct catalogue categories."
+      },
+      {
+        "heading": "Evidence and Map Framing",
+        "body": "The repository has no dedicated Nampigi/Manbij archaeological-location, evidence, fieldwork, or ancient-coordinate record. The marker therefore uses an approximate modern Manbij urban reference and should not be read as a surveyed Nampigi site, a fixed political boundary, or evidence for a confirmed city identification."
+      }
+    ],
+    "note": "Nampigi/Nampigu is included as a cautious possible place associated with the later Manbij area. It is not a polity profile, and the marker does not prove that Manbij was Nampigi, that Nampigi belonged to Bit-Agusi, or that the modern urban point identifies an Iron Age site.",
+    "related": [
+      {
+        "label": "Bit-Agusi",
+        "href": "research/geography/ancient/polity.html?name=Bit-Agusi",
+        "description": "Separate reconstructed northern Syrian polity centered on Arpad; association with Nampigi remains unconfirmed."
+      },
+      {
+        "label": "Arpad (Tell Rifaat)",
+        "href": "research/geography/ancient/place.html?name=Arpad-Tell-Rifaat",
+        "description": "Documented Bit-Agusi urban center and capital reference in the northern Syrian network."
+      },
+      {
+        "label": "Hazrek (Tell Afis)",
+        "href": "research/geography/ancient/place.html?name=Hazrek-Tell-Afis",
+        "description": "Northern Syrian place in the wider Aram ʿElyā regional network."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Nisibis-Nusaybin": {
+    "title": "Nisibin (Nisibis/Nusaybin)",
+    "category": "Historical urban reference",
+    "type": "Later ancient and Syriac urban center; Iron Age association uncertain",
+    "region": "Aram Nahrin / Upper Mesopotamia",
+    "modern_location": "Nusaybin, Mardin Province, Turkey",
+    "period": "Later ancient through late antique and medieval periods; earlier settlement history not securely tied to an Aramean polity",
+    "geography": {
+      "description": "Nisibis, modern Nusaybin, is a long-lived urban place in Upper Mesopotamia near the northern Mesopotamian frontier. Its later ancient and Syriac history makes it relevant to the region's historical geography, but the later city-name and Syriac associations should not be projected automatically onto an Iron Age Aramean polity.",
+      "lat": 37.075,
+      "lng": 41.215,
+      "precision": "approximate modern urban reference; not a surveyed Iron Age site coordinate"
+    },
+    "sections": [
+      {
+        "heading": "Location and Regional Setting",
+        "body": "Nisibis is associated with modern Nusaybin in southeastern Turkey, in the Upper Mesopotamian setting near the northern edge of the Mesopotamian plains and the approaches to Tur Abdin. Its position connected routes across Upper Mesopotamia and toward northern Syria, the Upper Tigris, and the wider Euphrates-Tigris network."
+      },
+      {
+        "heading": "Later Historical and Syriac Context",
+        "body": "The repository's direct references to Nisibis are later historical and Syriac, including references to Ephrem and the School of Nisibis, Nisibin in a late antique letter, and Eliya of Nisibis in the medieval period. These references document the importance of the later city and its intellectual and ecclesiastical networks without making every period of the place's history uniform."
+      },
+      {
+        "heading": "Chronological and Political Caution",
+        "body": "Nisibis is included here as a place profile, not as a reconstructed Iron Age polity. A later Nisibis/Nusaybin urban reference, its Syriac literary associations, and the broader Aram Nahrin setting do not by themselves prove that the city was an Iron Age Aramean political center or that later identities can be mapped directly onto earlier populations."
+      },
+      {
+        "heading": "Evidence and Map Framing",
+        "body": "The repository has no Nisibis-specific archaeology, evidence, or fieldwork record. The map therefore uses an approximate modern urban reference for Nusaybin rather than a claimed ancient site coordinate. More detailed source criticism and the interpretation of later Syriac evidence belong in Historical Sources and the relevant historical and ethnological sections."
+      }
+    ],
+    "note": "Nisibis (Nusaybin) is presented as a cautious Upper Mesopotamian place reference focused on later historical and Syriac contexts. Its marker is an approximate modern urban reference; it is not a polity marker and should not be read as evidence for a confirmed Iron Age Aramean state.",
+    "related": [
+      {
+        "label": "Urhay/Edessa",
+        "href": "research/geography/ancient/place.html?name=Urhay-Edessa",
+        "description": "Separate Upper Mesopotamian urban reference with a similarly multi-period history."
+      },
+      {
+        "label": "Amida",
+        "href": "research/geography/ancient/place.html?name=Amida-Diyarbakir",
+        "description": "Upper Tigris place profile whose later city history is also distinguished from uncertain Iron Age associations."
+      },
+      {
+        "label": "Tur Abdin",
+        "href": "research/geography/occupied/region.html?name=Tur-Abdin",
+        "description": "Adjacent northern Mesopotamian upland region and later historical-geographic framework."
+      },
+      {
+        "label": "Beth Nahrain",
+        "href": "research/geography/occupied/region.html?name=Beth-Nahrain",
+        "description": "Broader Two Rivers geographic framework."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Tell-Aran": {
+    "title": "Tell Aran (Arne; identification debated)",
+    "category": "Possible archaeological place",
+    "type": "Iron Age settlement; possible Aramean/Neo-Hittite urban center",
+    "region": "Aram ʿElyā / Northern Syria",
+    "modern_location": "Tell Aran, Aleppo Governorate, Syria",
+    "period": "Iron Age settlement; later occupation and modern town",
+    "geography": {
+      "description": "Tell Aran is a modern town and archaeological mound southeast of Aleppo, near Sabkhat al-Jabbul. The mound is proposed by some accounts as the site of ancient Arne, but that identification and its political interpretation remain debated. The map point is an approximate modern town/mound reference.",
+      "lat": 36.1231,
+      "lng": 37.3369,
+      "precision": "approximate modern town/mound reference; Arne identification debated; not a confirmed Bit-Agusi capital coordinate"
+    },
+    "sections": [
+      {
+        "heading": "Location and Regional Setting",
+        "body": "Tell Aran lies in the Aleppo region of northern Syria, southeast of Aleppo and near the Sabkhat al-Jabbul landscape. Its position belongs to the northern Syrian routes linking the Aleppo plain with inland settlements and the wider Euphrates and Orontes networks."
+      },
+      {
+        "heading": "Possible Identification with Arne",
+        "body": "The supplied source identifies the mound as a possible location of ancient Arne, an Iron Age settlement associated in some reconstructions with Aramean and Neo-Hittite political history. The identification is not treated here as certain, and the modern town, the mound, and the ancient place-name should not be assumed to be exact equivalents without further archaeological and historical support."
+      },
+      {
+        "heading": "Relationship to Bit-Agusi",
+        "body": "Some accounts describe Tell Aran/Arne as an early royal center of Bit-Agusi. The repository's existing Bit-Agusi record instead centers the reconstructed polity on Arpad (Tell Rifaat), so the relationship between Tell Aran and Bit-Agusi is contested in this catalogue. Tell Aran is therefore presented as a place reference, not as a separate polity or a confirmed replacement for Arpad."
+      },
+      {
+        "heading": "Evidence and Map Framing",
+        "body": "The repository has no dedicated Tell Aran archaeological-location, evidence, or fieldwork record. The map uses the approximate modern town/mound coordinates supplied by the external place reference and should not be read as a surveyed ancient site coordinate or as evidence for a fixed political boundary."
+      }
+    ],
+    "note": "Tell Aran is included as a cautious possible archaeological place. Its possible identification with Arne and its proposed early Bit-Agusi connection remain debated; it is not presented as a confirmed ancient capital or polity.",
+    "related": [
+      {
+        "label": "Bit-Agusi",
+        "href": "research/geography/ancient/polity.html?name=Bit-Agusi",
+        "description": "Separate reconstructed polity whose existing catalogue record centers on Arpad; Tell Aran's relationship to it remains disputed."
+      },
+      {
+        "label": "Arpad (Tell Rifaat)",
+        "href": "research/geography/ancient/place.html?name=Arpad-Tell-Rifaat",
+        "description": "Existing Bit-Agusi urban center and capital reference in the repository."
+      },
+      {
+        "label": "Mabug",
+        "href": "research/geography/ancient/place.html?name=Nampigi-Manbij",
+        "description": "Cautious possible northern Syrian place in the wider regional network."
+      },
+      {
+        "label": "Provided Tell Aran source",
+        "href": "https://en.wikipedia.org/wiki/Tell_Aran",
+        "description": "External overview of modern Tell Aran, the proposed Arne identification, and the mound's reported historical context."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Riblah-Ribleh": {
+    "title": "Riblah (Ribleh)",
+    "category": "Textual ancient place",
+    "type": "Textual place-name; uncertain urban identification",
+    "region": "Aram ʿElyā / Orontes corridor",
+    "modern_location": "Ribleh area, Syria (approximate)",
+    "period": "Iron Age textual traditions; exact chronology debated",
+    "geography": {
+      "description": "Riblah is a textual place associated with the land and political setting of Hamath and with the Orontes corridor. It is commonly connected with the Ribleh area south of Hama, but the repository has no independent Riblah archaeological or inscriptional record. The mapped point is therefore a broad geographic reference, not a confirmed ancient-city center.",
+      "lat": 34.45,
+      "lng": 36.54,
+      "precision": "broad regional reference only; identification uncertain"
+    },
+    "sections": [
+      {
+        "heading": "Textual Place and Regional Setting",
+        "body": "Riblah appears in ancient textual traditions as a strategically important place associated with the Hamath and Orontes setting. Its inclusion here reflects its relevance to the historical geography of Aram ʿElyā, while keeping the place-name separate from the Hamath polity."
+      },
+      {
+        "heading": "Possible Orontes Identification",
+        "body": "The Riblah represented here is the Orontes-corridor candidate commonly associated with the modern Ribleh area south of Hama. This should not be confused with Hamath itself, and the modern place-name does not by itself prove the exact location of the ancient textual site."
+      },
+      {
+        "heading": "Relationship to Hamath",
+        "body": "Riblah is included as a place associated with the wider Hamath region, not as a separate kingdom or polity. The Hamath profile describes Hama as the urban center of the Hamath polity; Riblah’s political relationship and precise status remain uncertain in this catalogue."
+      },
+      {
+        "heading": "Geographic Uncertainty",
+        "body": "No Riblah/Ribleh archaeological-location, excavation, fieldwork, inscription, or artifact record is currently registered in the repository. The marker is broad and approximate, and it should not be read as a surveyed ancient-city location or a political boundary."
+      }
+    ],
+    "note": "Riblah (Ribleh) is included as a cautious textual place associated with the Orontes and Hamath corridor. It is not presented as a confirmed archaeological city, a separate Aramean polity, or an exact identification with the modern Ribleh area.",
+    "related": [
+      {
+        "label": "Hamath",
+        "href": "research/geography/ancient/place.html?name=Hamath-Hama",
+        "description": "Orontes urban center and place profile associated with the Hamath polity."
+      },
+      {
+        "label": "Hamath",
+        "href": "research/geography/ancient/polity.html?name=Hamath",
+        "description": "Polity centered at Hama in the central Orontes region."
+      },
+      {
+        "label": "Hazrek",
+        "href": "research/geography/ancient/place.html?name=Hazrek-Tell-Afis",
+        "description": "Northern Orontes-corridor place later connected politically with Hamath."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Hadatu-Arslan-Tash": {
+    "title": "Hadatu (Arslan Tash)",
+    "category": "Archaeological settlement",
+    "type": "Fortified settlement and provincial center",
+    "region": "Aram ʿElyā / Euphrates corridor",
+    "modern_location": "Arslan Tash, Aleppo Governorate, Syria",
+    "period": "9th-7th centuries BC",
+    "geography": {
+      "description": "Hadatu, identified with Arslan Tash, was an important fortified settlement in the northern Syrian Euphrates region. The archaeology catalogue associates it first with Bit-Adini and later with Assyrian provincial administration. The mapped point is an approximate modern-site reference and should not be treated as the center or boundary of Bit-Adini.",
+      "lat": 36.4,
+      "lng": 37.7,
+      "precision": "approximate modern site reference; coordinate should be source-checked"
+    },
+    "sections": [
+      {
+        "heading": "Settlement and Regional Setting",
+        "body": "Hadatu, commonly identified with Arslan Tash, belonged to the Euphrates-region network of northern Syria. Its location connected the Bit-Adini sphere with routes along the Euphrates and with later Assyrian provincial administration."
+      },
+      {
+        "heading": "Bit-Adini and Assyrian Administration",
+        "body": "The repository archaeology record describes Arslan Tash as a settlement associated with Bit-Adini and followed by Assyrian administration after the defeat of Bit-Adini. It should therefore be presented as a place whose political context changed over time, not as a separate Hadatu polity."
+      },
+      {
+        "heading": "Archaeological Evidence",
+        "body": "Arslan Tash is represented in the archaeology catalogue by finds including the Arslan Tash Ivory Inscription and other evidence records. The associated finds document changing political, administrative, artistic, and religious settings; they do not make every layer or object uniformly Aramean."
+      },
+      {
+        "heading": "Geographic Uncertainty",
+        "body": "The Geography catalogue uses an approximate modern-site point because the current place dataset does not store a site-specific coordinate with a full source record. The marker is not a political boundary and does not replace the archaeology catalogue’s evidence descriptions."
+      }
+    ],
+    "note": "Hadatu (Arslan Tash) is an archaeological settlement and provincial center associated with Bit-Adini and later Assyrian administration. It is not presented as a separate polity or as the capital of Bit-Adini.",
+    "related": [
+      {
+        "label": "Bit-Adini",
+        "href": "research/geography/ancient/polity.html?name=Bit-Adini",
+        "description": "Euphrates polity associated with Hadatu and centered at Til Barsip."
+      },
+      {
+        "label": "Til Barsip",
+        "href": "research/geography/ancient/place.html?name=Til-Barsip-Tell-Ahmar",
+        "description": "Bit-Adini urban center and Euphrates place associated with the wider Hadatu setting."
+      },
+      {
+        "label": "Aram Nahrin",
+        "href": "research/geography/occupied/region.html?name=Beth-Nahrain",
+        "description": "Broader Two Rivers geographic framework for the Euphrates corridor."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Anat-Anah": {
+    "title": "Anat (Anah)",
+    "category": "Ancient city",
+    "type": "Fortified island-town and trade post",
+    "region": "Aram Nahrin / Middle Euphrates",
+    "modern_location": "Anah, Iraq",
+    "period": "Ancient city with multiple historical periods",
+    "geography": {
+      "description": "Anat, commonly rendered Anah, is presented as a fortified island-town and trade post on the Middle Euphrates. Its river setting connected settlements and routes between Upper Mesopotamia, Syria, and Babylonia. The mapped point is an approximate urban reference, not a claim about one unchanged political identity.",
+      "lat": 34.46,
+      "lng": 41.92,
+      "precision": "approximate urban reference; identification and chronology should be source-checked"
+    },
+    "sections": [
+      {
+        "heading": "Island-Town and River Setting",
+        "body": "Anat/Anah is associated with an island-town setting in the Middle Euphrates. The river channel, islands, and nearby routes made the settlement useful as a fortified crossing and a point of exchange between regions."
+      },
+      {
+        "heading": "Trade and Political Contexts",
+        "body": "The town’s historical importance belongs to changing Middle Euphrates political and commercial networks. Its place profile should not be converted into a separate Anat polity without independent evidence for a political entity distinct from the surrounding Suhu, Hindanu, or other regional powers."
+      },
+      {
+        "heading": "Relation to Aram Nahrin",
+        "body": "Anat is included as a Middle Euphrates place reference within the broad Aram Nahrin geographic framework. This regional classification describes its setting and connections; it does not claim a uniform Aramean identity for every period or population."
+      },
+      {
+        "heading": "Geographic Uncertainty",
+        "body": "The repository did not previously contain an independent Anat/Anah archaeology or fieldwork record. The marker is therefore an approximate urban reference based on the modern Anah location and should be read cautiously until a site-specific source record is added."
+      }
+    ],
+    "note": "Anat (Anah) is included as a cautious Middle Euphrates place profile. It is not presented as a separate polity or as an archaeological claim beyond the supplied fortified island-town and trade-post description.",
+    "related": [
+      {
+        "label": "Suhu",
+        "href": "research/geography/ancient/polity.html?name=Suhu",
+        "description": "Middle Euphrates polity in the wider regional setting."
+      },
+      {
+        "label": "Hindanu",
+        "href": "research/geography/ancient/polity.html?name=Hindanu",
+        "description": "Middle Euphrates polity associated with nearby regional routes."
+      },
+      {
+        "label": "Til Barsip",
+        "href": "research/geography/ancient/place.html?name=Til-Barsip-Tell-Ahmar",
+        "description": "Northern Euphrates urban center connected to the wider river corridor."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Bethsaida-Et-Tell": {
+    "title": "Bethsaida (et-Tell)",
+    "category": "Archaeological settlement",
+    "type": "Fortified settlement and regional center",
+    "region": "Aram Taḥtāyā / Sea of Galilee",
+    "modern_location": "Golan Heights region, Israel",
+    "period": "Iron Age, especially the 10th-8th centuries BC, with later occupation",
+    "geography": {
+      "description": "Bethsaida, identified by many researchers with et-Tell, was a fortified settlement and regional center east of the Sea of Galilee. Its association with Geshur is an archaeological and historical interpretation, so the site should not be presented as a certain capital or as the full extent of the Geshur polity.",
+      "lat": 33.01,
+      "lng": 35.63,
+      "precision": "approximate archaeological-site reference; Bethsaida/et-Tell identification remains interpretive"
+    },
+    "sections": [
+      {
+        "heading": "Settlement and Regional Setting",
+        "body": "Et-Tell lies east of the Sea of Galilee in the southern Levant. Its fortifications, gate complex, and cultic contexts place it within the settlement and route networks of the Jordan and Sea of Galilee region."
+      },
+      {
+        "heading": "Bethsaida and Geshur",
+        "body": "Many researchers identify et-Tell with Bethsaida and associate the settlement with Geshur. The repository records this as an interpretation supported by archaeological and historical evidence, not as an automatic equivalence between every layer, the place-name, and the Geshur polity."
+      },
+      {
+        "heading": "Archaeological Evidence",
+        "body": "The archaeology catalogue and evidence records include the Bethsaida Cultic Stele and Bethsaida City Gate. These remains illuminate regional settlement, architecture, and religious practice while requiring period-specific interpretation."
+      },
+      {
+        "heading": "Geographic Uncertainty",
+        "body": "The marker identifies the approximate et-Tell site reference. It does not prove that et-Tell was the only center of Geshur, define the polity’s borders, or settle all questions about the Bethsaida identification."
+      }
+    ],
+    "note": "Bethsaida (et-Tell) is included as a cautious archaeological settlement associated by interpretation with Geshur. It is not presented as a certain capital or as a substitute for the Geshur polity profile.",
+    "related": [
+      {
+        "label": "Geshur",
+        "href": "research/geography/ancient/polity.html?name=Geshur",
+        "description": "Polity associated with the possible Bethsaida/et-Tell regional center."
+      },
+      {
+        "label": "Damascus",
+        "href": "research/geography/ancient/place.html?name=Damascus",
+        "description": "Southern Levantine urban reference in the wider Aram Taḥtāyā network."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Tell-Fekheriye": {
+    "title": "Sikkan (Tell Fekheriye)",
+    "category": "Archaeological settlement",
+    "type": "Settlement and administrative center",
+    "region": "Aram Nahrin / Khabur basin",
+    "modern_location": "Al-Hasakah Governorate, Syria",
+    "period": "9th century BC",
+    "geography": {
+      "description": "Tell Fekheriye was a settlement and administrative center in the orbit of Guzana and Bit-Bahiani in the Khabur basin. The site is represented by important bilingual and royal evidence, but the repository does not establish the proposed name Suru as an ancient identification for Tell Fekheriye. The mapped point is a broad approximate site reference.",
+      "lat": 36.84,
+      "lng": 40.2,
+      "precision": "broad approximate site reference; coordinate and Suru identification require source-checking"
+    },
+    "sections": [
+      {
+        "heading": "Settlement and Khabur Setting",
+        "body": "Tell Fekheriye lies in the Khabur basin of Upper Mesopotamia, within the network of settlements connected to Guzana. Its location links the Khabur corridor with routes toward the Euphrates and Upper Tigris."
+      },
+      {
+        "heading": "Guzana and Bit-Bahiani Context",
+        "body": "The archaeology catalogue places Tell Fekheriye in the orbit of Guzana and Bit-Bahiani. This association identifies a political and administrative context; it does not make Tell Fekheriye identical with Guzana or establish it as a separate polity."
+      },
+      {
+        "heading": "Bilingual and Royal Evidence",
+        "body": "The Hadad-yis’i bilingual inscription and the Tell Fekheriye statue are important evidence for the use of Assyrian and Aramaic in the same political environment. They document an official, language, and administrative setting without defining the identity of every inhabitant."
+      },
+      {
+        "heading": "The Suru Identification",
+        "body": "The current repository does not explicitly identify Tell Fekheriye with Suru. The Geography profile therefore uses the securely documented archaeological name Tell Fekheriye and keeps the proposed Suru connection open rather than presenting it as established."
+      }
+    ],
+    "note": "Tell Fekheriye is included as a cautious archaeological settlement associated with Guzana and Bit-Bahiani. It is not presented as a confirmed Suru city, a separate polity, or a replacement for the Guzana profile.",
+    "related": [
+      {
+        "label": "Bit-Bahiani",
+        "href": "research/geography/ancient/polity.html?name=Bit-Bahiani",
+        "description": "Polity associated with Guzana and the Tell Fekheriye administrative context."
+      },
+      {
+        "label": "Guzana/Tell Halaf",
+        "href": "research/geography/ancient/place.html?name=Guzana-Tell-Halaf",
+        "description": "Principal Khabur-basin urban center associated with Bit-Bahiani."
+      },
+      {
+        "label": "Hadatu",
+        "href": "research/geography/ancient/place.html?name=Hadatu-Arslan-Tash",
+        "description": "Northern Euphrates settlement in the wider network of changing administrations."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Sirqu-Tell-Ashara": {
+    "title": "Sirqu (Tell Ashara; Laqe)",
+    "category": "Archaeological city",
+    "type": "Iron Age Middle Euphrates urban and political center",
+    "region": "Aram Nahrin / Middle Euphrates",
+    "modern_location": "Tell Ashara, Deir ez-Zor Governorate, Syria",
+    "period": "Iron Age, especially the 9th-8th centuries BC; earlier occupation also attested",
+    "geography": {
+      "description": "Sirqu is the Iron Age name associated with the archaeological city at Tell Ashara on the Middle Euphrates. The site became a political center in the Laqe region during the reorganization of local communities in the early first millennium BC. The city, Laqe polity, and earlier Bronze Age Terqa are related but should not be treated as identical categories.",
+      "lat": 34.9222,
+      "lng": 40.5681,
+      "precision": "approximate archaeological-site reference; Iron Age Sirqu and its relationship to Laqe are interpreted cautiously"
+    },
+    "sections": [
+      {
+        "heading": "Middle Euphrates Location",
+        "body": "Tell Ashara lies on the west bank of the Euphrates in the lower Middle Euphrates valley. Its river setting connected local settlements with routes toward the Khabur, Syria, Iraq, and the wider Euphrates corridor."
+      },
+      {
+        "heading": "Sirqu and Laqe",
+        "body": "In the Iron Age, the site is associated with Sirqu and with the Laqe political region. Archaeological and historical studies describe the area as a setting where local Aramean communities and political structures interacted with Assyrian and Babylonian powers. This does not establish that every inhabitant or every period of the settlement had one uniform identity."
+      },
+      {
+        "heading": "Terqa and Chronological Distinction",
+        "body": "Tell Ashara is also identified with the Bronze Age city of Terqa. The earlier Terqa identification should be distinguished from the Iron Age name Sirqu and from the Laqe polity, even though the same long-lived urban site is involved."
+      },
+      {
+        "heading": "Evidence and Map Framing",
+        "body": "Excavations and regional research provide a secure archaeological location for Tell Ashara, while the interpretation of its Iron Age political organization remains historical reconstruction. The marker identifies the site approximately and does not show Laqe boundaries."
+      }
+    ],
+    "note": "Sirqu (Tell Ashara) is included as a cautious Aramean-associated urban and political center connected with Laqe. It is not presented as a city with an exclusively Aramean population or as the full extent of the Laqe polity.",
+    "related": [
+      {
+        "label": "Laqe",
+        "href": "research/geography/ancient/polity.html?name=Laqe",
+        "description": "Middle Euphrates polity associated with the Iron Age Sirqu setting."
+      },
+      {
+        "label": "Suhu",
+        "href": "research/geography/ancient/polity.html?name=Suhu",
+        "description": "Neighboring Middle Euphrates polity in the wider regional network."
+      },
+      {
+        "label": "Tell Ashara archaeological project",
+        "href": "https://archeologie.culture.gouv.fr/en/ashara-and-its-region",
+        "description": "Archaeological overview of Tell Ashara/Terqa and the Middle Euphrates region."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Abel-Beth-Maacah": {
+    "title": "Abel-Maacah (Tell Abil el-Qameh; identification debated)",
+    "category": "Archaeological city",
+    "type": "Iron Age border city with possible Aramean association",
+    "region": "Aram Taḥtāyā / Upper Jordan and northern Levant",
+    "modern_location": "Tell Abil el-Qameh, northern Israel near the Lebanon border",
+    "period": "Iron Age, especially the 10th-8th centuries BC; earlier and later occupation also attested",
+    "geography": {
+      "description": "Abel-Maacah is the Aramaic-oriented display label used here for the archaeological site commonly identified with Abel Beth Maacah at Tell Abil el-Qameh. The site stood at a crossroads between the Upper Jordan, Lebanon, Phoenicia, and Syria. Its association with the Aramean polity of Maacah is plausible but remains debated.",
+      "lat": 33.2561,
+      "lng": 35.5786,
+      "precision": "approximate archaeological-site reference; Abel Beth Maacah and Maacah relationship remain interpretive"
+    },
+    "sections": [
+      {
+        "heading": "Border Location",
+        "body": "Tell Abil el-Qameh lies near the northern border of modern Israel, west of Tel Dan and south of Metulla. Ancient routes from the Upper Jordan led north toward the Beqaa, the Phoenician coast, Damascus, and inner Syria."
+      },
+      {
+        "heading": "Abel Beth Maacah and Aram-Maacah",
+        "body": "Ancient textual traditions connect Abel Beth Maacah with conflicts involving Aramean rulers and separately mention a polity called Maacah. The relationship between the city and the polity is not securely established, so this profile presents the site as Aramean-associated rather than as a confirmed capital."
+      },
+      {
+        "heading": "Archaeological Evidence",
+        "body": "Survey and excavation have documented occupation from the Bronze Age through the Iron Age and later periods. The site is useful for studying interaction among Aramean, Israelite, Phoenician, and other neighboring communities, but archaeological layers should be interpreted by period rather than assigned automatically to one identity."
+      },
+      {
+        "heading": "Evidence and Map Framing",
+        "body": "The map marker identifies Tell Abil el-Qameh approximately. It does not establish the boundaries of Maacah, prove that the site was its capital, or imply that all inhabitants were Aramean."
+      }
+    ],
+    "note": "Abel-Maacah is included as a cautious archaeological city associated with the Aramean polity of Maacah. The city-polity relationship and the identification of the site with every textual reference remain debated.",
+    "related": [
+      {
+        "label": "Maacah",
+        "href": "research/geography/ancient/polity.html?name=Maacah",
+        "description": "Aramean-associated polity whose possible center is connected with Abel Beth Maacah."
+      },
+      {
+        "label": "Beth-Rehob",
+        "href": "research/geography/ancient/polity.html?name=Beth-Rehob",
+        "description": "Neighboring Aramean-associated polity in the Upper Jordan and Beqaa setting."
+      },
+      {
+        "label": "Tel Abel Beth Maacah archaeological project",
+        "href": "https://archaeology.cornell.edu/tel-abel-beth-maacah",
+        "description": "Archaeological overview of the site, its location, occupation, and regional questions."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  },
+  "Suru-Tell-Fiden": {
+    "title": "Suru (Tell Fiden; identification debated)",
+    "category": "Possible archaeological city",
+    "type": "Iron Age Aramean-associated urban center; identification uncertain",
+    "region": "Aram Nahrin / Lower Khabur and Euphrates corridor",
+    "modern_location": "Lower Khabur region, eastern Syria; Tell Fiden identification remains debated",
+    "period": "Iron Age, especially the 9th century BC; Assyrian and Aramean political context",
+    "geography": {
+      "description": "Suru is described in Assyrian-period historical accounts as the principal city of Bit-Halupe. Earlier scholarship associated the name with al-Suwar, while later identification has placed Suru at nearby Tell Fiden. The current marker is a broad regional reference and does not claim that the displayed point is a surveyed Tell Fiden coordinate.",
+      "lat": 35.8333,
+      "lng": 40.65,
+      "precision": "broad regional reference only; Suru/Tell Fiden identification and exact site coordinate remain uncertain"
+    },
+    "sections": [
+      {
+        "heading": "Khabur-Euphrates Setting",
+        "body": "The proposed Suru setting lies in the lower Khabur and Euphrates corridor of eastern Syria. This region connected the Khabur basin with the Middle Euphrates and formed a zone of interaction among local Aramean groups, Assyria, and neighboring powers."
+      },
+      {
+        "heading": "Suru and Bit-Halupe",
+        "body": "Suru is associated with Bit-Halupe and is described as that polity’s principal city in Assyrian-period accounts. The city profile is kept separate from the Bit-Halupe polity profile, and the political association should not be read as proof that every settlement layer or inhabitant had one uniform identity."
+      },
+      {
+        "heading": "Identification and Naming",
+        "body": "The display label Suru preserves the ancient name used for the proposed Aramean-associated center. The relationship between Suru, modern al-Suwar, and Tell Fiden has been discussed differently by scholars, so the modern place identification remains explicitly uncertain."
+      },
+      {
+        "heading": "Evidence and Map Framing",
+        "body": "The repository does not currently contain a dedicated archaeological excavation or secure coordinate record for Tell Fiden as Suru. The marker therefore indicates the wider regional setting rather than a confirmed site location."
+      }
+    ],
+    "note": "Suru is included as a cautious possible Aramean-associated city and Bit-Halupe center. The proposed Tell Fiden identification and the marker coordinate remain uncertain and should not be treated as a confirmed archaeological equivalence.",
+    "related": [
+      {
+        "label": "Bit-Halupe",
+        "href": "research/geography/ancient/polity.html?name=Bit-Halupe",
+        "description": "Aramean polity associated with the proposed Suru center."
+      },
+      {
+        "label": "Laqe",
+        "href": "research/geography/ancient/polity.html?name=Laqe",
+        "description": "Neighboring Middle Euphrates polity in the wider Khabur-Euphrates network."
+      },
+      {
+        "label": "Suru identification overview",
+        "href": "https://en.wikipedia.org/wiki/Al-Suwar",
+        "description": "External overview of the competing al-Suwar and Tell Fiden identifications."
+      }
+    ],
+    "published": "2026-08-11",
+    "updated": "2026-08-11"
+  }
+}

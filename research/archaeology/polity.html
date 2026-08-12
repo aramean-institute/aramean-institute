@@ -1,38 +1,44 @@
 <script src="https://cdn.front.nu/nightly/front.js"></script>
-<template srcdoc="../../../index" src="../../../_templates/archaelogy"></template>
+<template srcdoc="../../index" src="../../_templates/archaeology"></template>
 <title>Polity</title>
 
 <section class="pauto">
   <h1 bindquery="name:name">{name}</h1>
-  <nav class="crumbs pointer pt05">
-    <ol>
+  <nav class="pointer" margintop="0.5rem">
+    <ol padding="0">
       <li><a href="#">Research</a></li>
       <li><a href="research/archaeology">Archaeology</a></li>
       <li>Polity</li>
     </ol>
   </nav>
 
-  <article class="mt2" data-src="assets/json/polities.json">
-    <p data-get="{name}.description" bindquery="name:name"></p>
+  <article margintop="2rem" data-src="assets/json/polities.json">
+    <h2>Archaeological profile</h2>
+    <p bindquery="name:name" data-get="{name}.archaeology.description"></p>
     <p class="mt1">
-      <b>Region:</b> <span data-get="{name}.region" bindquery="name:name"></span><br>
-      <b>Capital:</b> <span data-get="{name}.capital" bindquery="name:name"></span><br>
-      <b>Modern location:</b> <span data-get="{name}.modern_location" bindquery="name:name"></span><br>
-      <b>Period:</b> <span data-get="{name}.period" bindquery="name:name"></span><br>
-      <b>Peak:</b> <span data-get="{name}.peak" bindquery="name:name"></span><br>
-      <b>Fall:</b> <span data-get="{name}.fall" bindquery="name:name"></span>
+      <b>Region:</b> <span bindquery="name:name" data-get="{name}.region"></span><br>
+      <b>Capital:</b> <span bindquery="name:name" data-get="{name}.capital"></span><br>
+      <b>Modern location:</b> <span bindquery="name:name" data-get="{name}.modern_location"></span><br>
+      <b>Period:</b> <span bindquery="name:name" data-get="{name}.period"></span><br>
+      <b>Peak:</b> <span bindquery="name:name" data-get="{name}.peak"></span><br>
+      <b>Fall:</b> <span bindquery="name:name" data-get="{name}.fall"></span>
+    </p>
+    <p margintop="2rem">
+      <a href="research/history/early-antiquity/kingdoms.html" color="red" fw="bold">← Back to Aramean Kingdoms (History)</a><br>
+      <a href="research/geography" color="red" fw="bold">← View Geography</a>
     </p>
   </article>
 
   <hr bgcolor="red" height="1px" margin="2rem 0">
 
-  <h3 margintop="2rem">Archaeological Finds</h3>
-  <div data-iterate="artifacts" data-src="assets/json/archaeology.json" bindquery="name:name" data-filterkey="artifacts"
+  <h3 margintop="2rem">Archaeological Evidence</h3>
+  <div data-iterate="evidence" data-src="assets/json/archaeological-evidence.json" bindquery="name:name" data-filterkey="evidence"
     data-filteritem="polity:'{name}'" data-onempty="show:#no-finds">
     <article margintop="1rem" overflow="hidden">
       <h4 data-get="title"></h4>
       <p data-get="description"></p>
       <p class="mt05">
+        <b>Type:</b> <span data-get="evidence_type"></span><br>
         <b>Period:</b> <span data-get="period"></span><br>
         <b>Location:</b> <span data-get="location"></span><br>
         <b>Museum:</b> <span data-get="museum"></span><br>
@@ -42,7 +48,7 @@
   </div>
 
   <div id="no-finds" class="gray" hide>
-    <p>No archaeological finds registered for this polity yet.</p>
+    <p>No archaeological evidence is registered for this polity yet.</p>
   </div>
 
   <hr bgcolor="red" height="1px" margin="2rem 0">
@@ -51,8 +57,7 @@
   <div data-iterate="figures" data-src="assets/json/figures.json" bindquery="name:name" data-filterkey="figures"
     data-filteritem="polity:'{name}';category:'King'" data-onempty="show:#no-rulers">
     <article margintop="1rem">
-      <h4 data-get="name">
-      </h4>
+      <h4 data-get="name"></h4>
       <p data-get="description"></p>
       <p class="mt05">
         <b>Period:</b> <span data-get="period"></span><br>
@@ -67,3 +72,4 @@
 
   <hr bgcolor="red" height="1px" margin="2rem 0">
 </section>
+</content>

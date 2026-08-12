@@ -1,5 +1,5 @@
 {
-  "artifacts": [
+  "evidence": [
     {
       "id": 1,
       "title": "Tel Dan Stele",
@@ -10,7 +10,8 @@
       "significance": "Earliest known reference to the House of David outside the Bible.",
       "polity": "Aram-Damascus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Tel_dan_inscription.JPG/400px-Tel_dan_inscription.JPG",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "inscription"
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "significance": "Important source for Aramean political history and the Aramaic language.",
       "polity": "Hamath",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zakkur_Stele_0157b.jpg/400px-Zakkur_Stele_0157b.jpg",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "inscription"
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
       "significance": "Longest known Old Aramaic inscription. Key source for Aramaic treaty language and diplomacy.",
       "polity": "Bit-Agusi",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "inscription"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "significance": "Major example of Aramean monumental art blending Syro-Hittite and Mesopotamian styles.",
       "polity": "Bit-Bahiani",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Statue_TellHalaf_01.jpg/400px-Statue_TellHalaf_01.jpg",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "sculpture"
     },
     {
       "id": 5,
@@ -58,7 +62,8 @@
       "significance": "One of the earliest known Aramaic inscriptions and key evidence for early Aramaic script development.",
       "polity": "Bit-Bahiani",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tell_Fekheriyeh_statue.jpg/400px-Tell_Fekheriyeh_statue.jpg",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "inscription"
     },
     {
       "id": 6,
@@ -70,7 +75,8 @@
       "significance": "Documents the political history of Bit-Gabbar and its relations with Assyria.",
       "polity": "Bit-Gabbar",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Samal_Text.jpg/400px-Samal_Text.jpg",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "inscription"
     },
     {
       "id": 7,
@@ -82,7 +88,8 @@
       "significance": "Key source for the Samalian dialect and Aramean religious practices.",
       "polity": "Bit-Gabbar",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sam%27al_Hadad_statue.jpg/400px-Sam%27al_Hadad_statue.jpg",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "inscription"
     },
     {
       "id": 8,
@@ -94,7 +101,8 @@
       "significance": "Key source for the Samalian dialect and the political history of Bit-Gabbar.",
       "polity": "Bit-Gabbar",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "funerary"
     },
     {
       "id": 9,
@@ -106,7 +114,8 @@
       "significance": "Among the earliest records using Imperial Aramaic, showing the spread of standardized Aramaic.",
       "polity": "Bit-Gabbar",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/20131205_Istanbul_067.jpg/400px-20131205_Istanbul_067.jpg",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "inscription"
     },
     {
       "id": 10,
@@ -118,7 +127,8 @@
       "significance": "Unique evidence for Aramean beliefs about the afterlife and soul.",
       "polity": "Bit-Gabbar",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kuttamuwa_stele.jpg/400px-Kuttamuwa_stele.jpg",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "funerary"
     },
     {
       "id": 11,
@@ -130,7 +140,8 @@
       "significance": "Royal artifact demonstrating the material culture of Aramean kingship.",
       "polity": "Bit-Gabbar",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "artifact"
     },
     {
       "id": 12,
@@ -142,7 +153,8 @@
       "significance": "Evidence of the wealth and reach of Aram-Damascus under Hazael.",
       "polity": "Aram-Damascus",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "artifact"
     },
     {
       "id": 13,
@@ -154,7 +166,8 @@
       "significance": "Evidence of Aramean diplomatic or trade connections reaching the Aegean world.",
       "polity": "Aram-Damascus",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "artifact"
     },
     {
       "id": 14,
@@ -166,7 +179,8 @@
       "significance": "Important evidence for Aramean royal dedications and religious practices.",
       "polity": "Aram-Damascus",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "religious"
     },
     {
       "id": 15,
@@ -178,7 +192,8 @@
       "significance": "If authentic, rare evidence of Aramaic magical and religious practices.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "religious"
     },
     {
       "id": 16,
@@ -190,7 +205,8 @@
       "significance": "Evidence of Aramean artistic production and luxury goods.",
       "polity": "Bit-Adini",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "artifact"
     },
     {
       "id": 17,
@@ -202,7 +218,8 @@
       "significance": "Rare surviving examples of ancient Near Eastern wall painting from a site with Aramean heritage.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "artifact"
     },
     {
       "id": 18,
@@ -214,7 +231,8 @@
       "significance": "Shows the bilingual nature of the Hamath kingdom and Aramean cultural influence.",
       "polity": "Hamath",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "inscription"
     },
     {
       "id": 19,
@@ -226,7 +244,8 @@
       "significance": "Evidence of everyday Aramaic use in the kingdom of Hamath.",
       "polity": "Hamath",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "inscription"
     },
     {
       "id": 20,
@@ -238,7 +257,8 @@
       "significance": "Best-preserved example of Aramean palatial architecture.",
       "polity": "Bit-Bahiani",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "architecture"
     },
     {
       "id": 21,
@@ -250,7 +270,8 @@
       "significance": "Lost artifact documenting Aramean presence at Guzana.",
       "polity": "Bit-Bahiani",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "inscription"
     },
     {
       "id": 22,
@@ -262,7 +283,8 @@
       "significance": "Demonstrates the spread of Aramaic language and culture far beyond the Levant.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "inscription"
     },
     {
       "id": 23,
@@ -274,7 +296,8 @@
       "significance": "Important evidence for Aramean funerary practices and religious beliefs.",
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Funerary_stele_-_Neirab_-_Louvre_AO_3027.JPG/400px-Funerary_stele_-_Neirab_-_Louvre_AO_3027.JPG",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "funerary"
     },
     {
       "id": 24,
@@ -286,7 +309,8 @@
       "significance": "Evidence of Aramaic use in the Arabian Peninsula during the Achaemenid period.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "inscription"
     },
     {
       "id": 25,
@@ -298,7 +322,8 @@
       "significance": "Evidence that Aramaic was used alongside Akkadian in Assyrian administration.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "document"
     },
     {
       "id": 26,
@@ -310,7 +335,8 @@
       "significance": "Evidence of Aramean presence in Egypt during the Achaemenid period.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "funerary"
     },
     {
       "id": 27,
@@ -322,7 +348,8 @@
       "significance": "Major source for Imperial Aramaic and daily life in the Persian Empire.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "document"
     },
     {
       "id": 28,
@@ -334,7 +361,8 @@
       "significance": "Evidence of Aramaic-speaking communities in Egypt and their social networks.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "document"
     },
     {
       "id": 29,
@@ -346,7 +374,8 @@
       "significance": "Evidence of Aramaic use in Anatolia during the Achaemenid period.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "inscription"
     },
     {
       "id": 30,
@@ -358,7 +387,8 @@
       "significance": "Evidence of Aramaic as the administrative language of the Persian Empire in western Anatolia.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "funerary"
     },
     {
       "id": 31,
@@ -370,7 +400,8 @@
       "significance": "Evidence of Aramaic penetration into the Iranian highlands.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "inscription"
     },
     {
       "id": 32,
@@ -382,7 +413,8 @@
       "significance": "Demonstrates Aramaic as a language of international communication reaching Central Asia.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "inscription"
     },
     {
       "id": 33,
@@ -394,7 +426,8 @@
       "significance": "Easternmost known Aramaic inscription, showing the language's reach to the Indian subcontinent.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "inscription"
     },
     {
       "id": 34,
@@ -406,7 +439,8 @@
       "significance": "Further evidence of Aramaic use in the Mauryan Empire's western provinces.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "inscription"
     },
     {
       "id": 35,
@@ -418,7 +452,8 @@
       "significance": "Shows Aramaic functioning as the bureaucratic language of the Persian Empire in Central Asia.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "document"
     },
     {
       "id": 36,
@@ -430,7 +465,8 @@
       "significance": "Part of the Ashokan edicts demonstrating Aramaic's role as a lingua franca in the East.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "inscription"
     },
     {
       "id": 37,
@@ -442,7 +478,8 @@
       "significance": "Largest corpus of Aramaic inscriptions from a single site. Documents Aramean culture in the Roman period.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "text-corpus"
     },
     {
       "id": 38,
@@ -454,7 +491,8 @@
       "significance": "One of the earliest and best-preserved examples of Edessan Syriac art and epigraphy.",
       "polity": "Bet-Urhay",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "funerary"
     },
     {
       "id": 39,
@@ -466,7 +504,8 @@
       "significance": "Contains one of the earliest dated Syriac inscriptions known.",
       "polity": "Bet-Urhay",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "funerary"
     },
     {
       "id": 40,
@@ -478,7 +517,8 @@
       "significance": "Primary archaeological evidence for the language and culture of ancient Urhay.",
       "polity": "Bet-Urhay",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "funerary"
     },
     {
       "id": 41,
@@ -490,7 +530,8 @@
       "significance": "Provides vivid physical evidence of Aramean religious iconography, cultic practices, and political influence within the kingdom of Geshur.",
       "polity": "Geshur",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Israel_Museum_P1060383_%284042893808%29.jpg/400px-Israel_Museum_P1060383_%284042893808%29.jpg",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "religious"
     },
     {
       "id": 42,
@@ -502,7 +543,8 @@
       "significance": "Evidence of Aramean luxury goods reaching Assyria, likely as tribute or war booty.",
       "polity": "Aram-Damascus",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "artifact"
     },
     {
       "id": 43,
@@ -514,7 +556,8 @@
       "significance": "Major examples of Aramean monumental sculpture combining local and Syro-Hittite traditions.",
       "polity": "Bit-Gabbar",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "sculpture"
     },
     {
       "id": 44,
@@ -526,7 +569,8 @@
       "significance": "One of the best-known depictions of an Aramean king, showing court life and royal iconography.",
       "polity": "Bit-Gabbar",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "sculpture"
     },
     {
       "id": 45,
@@ -538,7 +582,8 @@
       "significance": "Rare complete Aramean royal sculpture; key artifact for understanding early Aramaic script.",
       "polity": "Bit-Bahiani",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tell_Fekheriyeh_statue.jpg/400px-Tell_Fekheriyeh_statue.jpg",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "sculpture"
     },
     {
       "id": 46,
@@ -550,7 +595,8 @@
       "significance": "Best-preserved example of Aramean urban architecture in the southern Levant.",
       "polity": "Geshur",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "architecture"
     },
     {
       "id": 47,
@@ -562,7 +608,8 @@
       "significance": "Evidence of Aramean administrative presence in the Galilee region.",
       "polity": "Aram-Damascus",
       "image": "",
-      "origin": "aramean"
+      "origin": "aramean",
+      "evidence_type": "inscription"
     },
     {
       "id": 48,
@@ -574,7 +621,8 @@
       "significance": "Key Imperial Aramaic text demonstrating the language's official status in the Achaemenid Empire.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "inscription"
     },
     {
       "id": 49,
@@ -586,7 +634,8 @@
       "significance": "Important source for Aramaic legal language and Persian-period administration in the Levant.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "document"
     },
     {
       "id": 50,
@@ -598,7 +647,8 @@
       "significance": "Major corpus documenting a late Aramaic dialect that evolved into early Arabic script.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "text-corpus"
     },
     {
       "id": 51,
@@ -610,7 +660,8 @@
       "significance": "Documents a distinct Eastern Aramaic dialect and the culture of a major Aramaic-speaking city in Parthian Mesopotamia.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "text-corpus"
     },
     {
       "id": 52,
@@ -622,7 +673,8 @@
       "significance": "Evidence of multilingual Aramaic use in a diverse frontier community.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "text-corpus"
     },
     {
       "id": 53,
@@ -634,7 +686,8 @@
       "significance": "Major corpus of Jewish Aramaic literature preserving religious and literary traditions.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "text-corpus"
     },
     {
       "id": 54,
@@ -646,7 +699,8 @@
       "significance": "Evidence of Aramaic as the administrative language of the Persian province of Samaria.",
       "polity": "",
       "image": "",
-      "origin": "aramaic"
+      "origin": "aramaic",
+      "evidence_type": "document"
     }
   ]
 }

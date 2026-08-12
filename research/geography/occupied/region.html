@@ -1,0 +1,42 @@
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../../../index" src="../../../_templates/geography"></template>
+<title>Occupied Aram Geography</title>
+
+<section class="pauto" relative data-src="../../../assets/json/occupied-geography.json">
+  <h1 bindquery="name:name" data-get="{name}.title">Occupied Aram Geography</h1>
+  <nav class="pointer" margintop="0.5rem" aria-label="Breadcrumb">
+    <ol padding="0">
+      <li><a href="#" globalize-get>Research</a></li>
+      <li><a href="research/geography" globalize-get>Geography</a></li>
+      <li><a href="research/geography/occupied/region.html?name={name}">Occupied Aram</a></li>
+      <li bindquery="name:name" data-get="{name}.title" aria-current="page">Region</li>
+    </ol>
+  </nav>
+
+  <article margintop="2rem">
+    <div bindquery="name:name" data-iterate="{name}.sections">
+      <h2 data-get="heading"></h2>
+      <p data-get="body" margintop="1rem"></p>
+    </div>
+
+    <p class="gray" role="note" margintop="1.5rem" bindquery="name:name" data-get="{name}.note"></p>
+
+    <section bindquery="name:name" if="([{name}]~[Tur-Abdin])/hide">
+      <h2 margintop="2rem">Related Geography</h2>
+      <ul marginleft="1.5rem" margintop="1rem" data-iterate="{name}.related">
+        <li>
+          <a data-set="link:href" data-get="label" href="{link}" color="red"></a>
+          <span> - </span><span data-get="description"></span>
+        </li>
+      </ul>
+    </section>
+
+    <hr class="mt2 bcblack">
+    <small class="gray" bindquery="name:name">
+      Published: <span data-get="{name}.published"></span>,
+      Last update: <span data-get="{name}.updated"></span>
+    </small>
+  </article>
+</section>
+
+</content>

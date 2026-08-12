@@ -1,76 +1,34 @@
 <template>
   <aside></aside>
-  <main inherit="false"></main>
-  <aside screen-xxs="hide" screen-md="hide" screen-lg="hide;width:[15rem]" screen-xl="show;width:[15rem]"
-    screen-xxxl="width:[20rem]">
-    <nav id="submenuitems" name="archaeology" bgcolor="red" class="sidebar" paddingtop="1rem">
+  <main inherit="false" content="prepend"></main>
+  <aside screen-xxs="hide" screen-md="hide" screen-lg="hide;width:[17rem]" screen-xl="show;width:[19rem]"
+    screen-xxxl="width:[22rem]">
+    <nav id="submenuitems" name="archaelogy" bgcolor="red" class="sidebar" paddingtop="1rem">
       <details open>
-        <summary color="white">Overview</summary>
-        <a color="yellow" href="./research/archaeology/index.html">Summary</a>
+        <summary class="white">Overview</summary>
+        <a color="yellow" href="./research/archaeology">Archaeology Overview</a>
+      </details>
+
+      <details open>
+        <summary class="white">Archaeological Locations</summary>
+        <a color="yellow" href="./research/archaeology/sites.html">All Sites</a>
+        <a color="yellow" href="./research/archaeology/cities.html">Cities</a>
+        <a color="yellow" href="./research/archaeology/settlements.html">Settlements</a>
+        <a color="yellow" href="./research/archaeology/map.html">Location Index</a>
+      </details>
+
+      <details open>
+        <summary class="white">Archaeological Evidence</summary>
         <a color="yellow" href="./research/archaeology/artifacts.html">Artifacts</a>
-        <a color="yellow" href="./research/archaeology/map.html">Map</a>
+        <a color="yellow" href="./research/archaeology/inscriptions.html">Inscriptions</a>
+        <a color="yellow" href="./research/archaeology/temples.html">Temples &amp; Cultic Sites</a>
+        <a color="yellow" href="./research/archaeology/churches.html">Churches</a>
+        <a color="yellow" href="./research/archaeology/tombs.html">Tombs &amp; Funerary Sites</a>
       </details>
 
       <details open>
-        <summary color="white">Polities</summary>
-        <details>
-          <summary color="white">Aram Taḥtāyā</summary>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Beth-Rehob">Bet-Rehob</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Aram-Damascus">Damascus</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Geshur">Geshur</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Maacah">Maacah</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Tob">Tob</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Zobah">Zobah</a>
-        </details>
-
-        <details>
-          <summary color="white">Aram ʿElyā</summary>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Adini">Bit-Adini</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Agusi">Bit-Agusi</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Gabbar">Bit-Gabbar</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Hamath">Hamath</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Hatallu">Hatallu</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Luash">Lu'ash</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Pattin-Unqi">Pattin/Unqi</a>
-        </details>
-
-        <details>
-          <summary color="white">Aram Nahrin</summary>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Bet-Urhay">Bet-Urhay</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Bahiani">Bit-Bahiani</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Hadipe">Bit-Hadipe</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Halupe">Bit-Halupe</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Zamani">Bit-Zamani</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Hindanu">Hindanu</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Laqe">Laqe</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Suhu">Suhu</a>
-        </details>
-
-        <details>
-          <summary color="white">Bet Aramaye</summary>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Amukani">Bit-Amukani</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Dakkuri">Bit-Dakkuri</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Saalli">Bit-Sa'alli</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Shilani">Bit-Shilani</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Yakini">Bit-Yakini</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Gambulu">Gambulu</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Itua">Itu'a</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Litau">Litau</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Puqudu">Puqudu</a>
-          <a color="yellow" href="./research/archaeology/polity.html?name=Railu">Ra'ilu</a>
-        </details>
-      </details>
-
-      <details>
-        <summary color="white">Tribes (disputed)</summary>
-        <a color="yellow" href="./research/archaeology/polity.html?name=Adile">Adilê</a>
-        <a color="yellow" href="./research/archaeology/polity.html?name=Bit-Kapsi">Bit-Kapsi</a>
-        <a color="yellow" href="./research/archaeology/polity.html?name=Gibre">Gibrê</a>
-        <a color="yellow" href="./research/archaeology/polity.html?name=Gurumu">Gurumu</a>
-        <a color="yellow" href="./research/archaeology/polity.html?name=Hagaranu">Hagaranu</a>
-        <a color="yellow" href="./research/archaeology/polity.html?name=Nabatu">Nabatu</a>
-        <a color="yellow" href="./research/archaeology/polity.html?name=Ruua">Ru'ua</a>
-        <a color="yellow" href="./research/archaeology/polity.html?name=Ubidu">Ubūdu</a>
+        <summary class="white">Fieldwork &amp; Methods</summary>
+        <a color="yellow" href="./research/archaeology/excavations.html">Excavations</a>
       </details>
 
       <hr>

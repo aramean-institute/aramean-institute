@@ -1,0 +1,41 @@
+<template>
+  <aside></aside>
+  <main inherit="false" content="prepend">
+    <button absolute top="1rem" right="1rem" screen-xxs="show" screen-xl="hide" color="red" absolute top="20px"
+      right="20px" click="toggledisplay:#submenu" class="bc0" radius="500px" zindex="100"><i
+        class="icon16">≣</i></button>
+    <nav id="submenu" clone="#submenuitems" ontoggledisplay="scroll:*main:[top]" bgcolor="red" color="yellow" flex
+      flexdirection="column" class="sidebar" height="100%" overflow="visible" paddingtop="1rem" hide>
+    </nav>
+  </main>
+  <aside screen-xxs="hide" screen-md="hide" screen-lg="hide;width:[17rem]" screen-xl="show;width:[19rem]"
+    screen-xxxl="width:[22rem]">
+    <nav id="submenuitems" bgcolor="red" class="sidebar" paddingtop="1rem">
+      <details open>
+        <summary class="white">Overview</summary>
+        <a color="yellow" href="./research/sources">Sources Overview</a>
+      </details>
+
+      <details open>
+        <summary class="white">Primary Sources</summary>
+        <a color="yellow" href="./research/sources/manuscripts.html">Manuscripts</a>
+        <a color="yellow" href="./research/sources/inscriptions.html">Inscriptions</a>
+      </details>
+
+      <details open>
+        <summary class="white">Materials</summary>
+        <a color="yellow" href="./research/sources/books.html">Books</a>
+        <a color="yellow" href="./research/sources/academic-papers.html">Academic Papers</a>
+      </details>
+
+      <details open>
+        <summary class="white">Resources</summary>
+        <a color="yellow" href="./research/sources/maps.html">Maps</a>
+        <a color="yellow" href="./research/sources/images.html">Images</a>
+        <a color="yellow" href="./research/sources/archives.html">Archives</a>
+      </details>
+
+      <hr>
+    </nav>
+  </aside>
+</template>

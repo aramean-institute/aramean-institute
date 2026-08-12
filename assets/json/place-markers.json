@@ -406,5 +406,101 @@
     "labelColor": "#d63031",
     "precision": "approximate place reference",
     "label": "Karkamis"
+  },
+  {
+    "name": "Helbon-Halbun",
+    "lat": 33.62,
+    "lng": 36.18,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#d63031",
+    "borderColor": "#ffeaa7",
+    "labelColor": "#d63031",
+    "precision": "approximate modern reference; ancient Helbon and modern Halbun identification and anti-Lebanon setting should be treated cautiously",
+    "label": "Helbon"
+  },
+  {
+    "name": "Geshur",
+    "lat": 32.8,
+    "lng": 35.8,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#d63031",
+    "borderColor": "#ffeaa7",
+    "labelColor": "#d63031",
+    "precision": "broad regional reference only; Geshur's political center and extent remain uncertain; et-Tell/Bethsaida is a possible associated center",
+    "label": "Geshur"
+  },
+  {
+    "name": "Kir",
+    "lat": 35.0,
+    "lng": 40.5,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#d63031",
+    "borderColor": "#ffeaa7",
+    "labelColor": "#d63031",
+    "precision": "broad regional reference only; biblical Kir's location and relationship to Aramean origin and deportation traditions remain uncertain",
+    "label": "Kir"
+  },
+  {
+    "name": "Rehob-Beth-Rehob",
+    "lat": 33.0,
+    "lng": 35.6,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#d63031",
+    "borderColor": "#ffeaa7",
+    "labelColor": "#d63031",
+    "precision": "broad regional reference only; Beth-Rehob is commonly placed near the upper Jordan Valley or southern Beqaa, but its location remains debated",
+    "label": "Beth-Rehob"
+  },
+  {
+    "name": "Aphiq-Fiq",
+    "lat": 32.8,
+    "lng": 35.7,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#d63031",
+    "borderColor": "#ffeaa7",
+    "labelColor": "#d63031",
+    "precision": "approximate place reference; identification with Fiq/En Gev and the biblical Aphek remains interpretive",
+    "label": "Aphiq"
+  },
+  {
+    "name": "Kun-Berothai",
+    "lat": 34.2,
+    "lng": 36.5,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#d63031",
+    "borderColor": "#ffeaa7",
+    "labelColor": "#d63031",
+    "precision": "broad regional reference only; Kun/Chun and Berothai/Berothah identification and exact location uncertain; associated with Aram-Zobah",
+    "label": "Kun"
+  },
+  {
+    "name": "Qarne-Tell-Qarnine",
+    "lat": 35.6833,
+    "lng": 36.3833,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#d63031",
+    "borderColor": "#ffeaa7",
+    "labelColor": "#d63031",
+    "precision": "approximate place reference; Orontes valley outpost",
+    "label": "Qarne"
+  },
+  {
+    "name": "Til-Abni-Tell-Abda",
+    "lat": 36.7833,
+    "lng": 40.8167,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#d63031",
+    "borderColor": "#ffeaa7",
+    "labelColor": "#d63031",
+    "precision": "broad regional reference; Khabur basin town",
+    "label": "Tel-Abni"
   }
 ]

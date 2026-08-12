@@ -1,0 +1,41 @@
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../../index" src="../../_templates/archaeology"></template>
+<title>Excavations</title>
+
+<section class="pauto" relative>
+  <h1>Excavations</h1>
+  <nav class="pointer" margintop="0.5rem">
+    <ol padding="0">
+      <li><a href="#" globalize-get="research">Research</a></li>
+      <li><a href="research/archaeology">Archaeology</a></li>
+      <li>Excavations</li>
+    </ol>
+  </nav>
+
+  <article margintop="2rem" data-src="assets/json/archaeological-fieldwork.json">
+    <p>
+      This catalogue records documented excavation and fieldwork contexts connected with the Archaeology section. An
+      excavation record describes the research focus; it is not a complete publication bibliography or a claim that every
+      layer at a site has been investigated equally.
+    </p>
+
+    <hr class="mt2 bcblack">
+    <section data-iterate="excavations">
+      <article margintop="2rem">
+        <h2 data-get="site"></h2>
+        <p>
+          <b>Location:</b> <span data-get="location"></span><br>
+          <b>Period studied:</b> <span data-get="period_studied"></span><br>
+          <b>Research focus:</b> <span data-get="research_focus"></span>
+        </p>
+        <p class="pt1" data-get="description"></p>
+      </article>
+    </section>
+
+    <hr class="mt2 bcblack">
+    <p>Excavation results should be read together with the <a href="research/archaeology/sites.html" color="red">location catalogue</a> and the <a href="research/archaeology/artifacts.html" color="red">evidence catalogue</a>.</p>
+    <small class="gray">Published: 2025-01-15, Last update: 2026-07-15</small>
+  </article>
+
+</section>
+</content>

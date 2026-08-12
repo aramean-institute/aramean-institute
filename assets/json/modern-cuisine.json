@@ -1,0 +1,80 @@
+{
+  "cuisine": {
+    "overview": {
+      "description": "Modern Aramean cuisine is a living family and community practice. Recipes vary among Syriac, Assyrian, Chaldean, Mandaic, and other communities and across homeland and diaspora settings; no single menu represents every Aramean household.",
+      "regions": ["Syria", "Iraq", "Turkey", "Lebanon", "Iran", "Europe", "North America", "Australia"],
+      "foundational_ingredients": ["wheat", "bulgur", "rice", "lentils", "chickpeas", "olive oil", "herbs", "seasonal vegetables", "lamb", "goat", "yogurt", "cheese"]
+    },
+    "staple_dishes": [
+      {
+        "id": 1,
+        "name": "Mujadra",
+        "category": "Legume dish",
+        "description": "Lentils cooked with bulgur or rice and onions. Families prepare it in different ways, and it remains a practical everyday and meatless meal.",
+        "ingredients": ["lentils", "bulgur or rice", "onions", "cumin", "olive oil"],
+        "significance": "A familiar home dish whose preparation varies by region and family."
+      },
+      {
+        "id": 2,
+        "name": "Kibbeh and Kuba",
+        "category": "Celebration dish",
+        "description": "Ground meat combined with bulgur, rice, herbs, or spices and shaped or prepared in several regional forms.",
+        "ingredients": ["lamb or beef", "bulgur or rice", "herbs", "onions", "spices"],
+        "significance": "Often associated with hospitality, celebrations, and collective preparation."
+      },
+      {
+        "id": 3,
+        "name": "Dolma",
+        "category": "Stuffed vegetables",
+        "description": "Grape leaves and vegetables filled with rice, herbs, and sometimes meat. Ingredients and names differ across households.",
+        "ingredients": ["grape leaves", "rice", "vegetables", "herbs", "tomato", "meat"]
+      },
+      {
+        "id": 4,
+        "name": "Tepsi and baked vegetable dishes",
+        "category": "Home cooking",
+        "description": "Layered vegetables, meat, and sauce baked in a tray, with versions adapted to local ingredients and contemporary kitchens.",
+        "ingredients": ["eggplant", "potatoes", "peppers", "onions", "tomatoes", "meat"]
+      },
+      {
+        "id": 5,
+        "name": "Rice and wheat dishes",
+        "category": "Staple meals",
+        "description": "Rice, bulgur, wheat berries, and noodles accompany stews and vegetables; recipes reflect both Mesopotamian and Levantine regional practices.",
+        "ingredients": ["rice", "bulgur", "wheat", "noodles", "vegetables", "spices"]
+      }
+    ],
+    "breads_and_grains": [
+      {"id": 1, "name": "Flatbreads", "description": "Pita, thin breads, and locally available breads remain part of daily meals and shared hospitality.", "significance": "Bread connects household meals with regional and family practice."},
+      {"id": 2, "name": "Bulgur and wheat", "description": "Bulgur, freekeh, and other wheat products are used in pilafs, soups, salads, and meat dishes.", "significance": "These grains preserve a connection to older agricultural foodways while remaining adaptable."},
+      {"id": 3, "name": "Rice", "description": "Rice is prepared in plain, spiced, vegetable, and celebratory forms, especially in Mesopotamian family traditions.", "significance": "Rice dishes are commonly served at gatherings and life-cycle events."}
+    ],
+    "preserved_foods": [
+      {"id": 1, "name": "Pickled vegetables", "description": "Turnips, cucumbers, peppers, eggplant, and olives are preserved in salt, vinegar, or brine.", "preservation_method": "Salting, brining, or vinegar", "significance": "Preserves extend seasonal food supplies and accompany daily meals."},
+      {"id": 2, "name": "Dried herbs and fruit", "description": "Herbs, grapes, figs, dates, and other produce may be dried for later use.", "preservation_method": "Air drying or sun drying", "significance": "Drying remains a household practice where time and ingredients permit."},
+      {"id": 3, "name": "Labneh and aged cheese", "description": "Strained yogurt and brined or aged cheeses are served with bread and prepared foods.", "preservation_method": "Straining, salting, or aging", "significance": "Preserved dairy links everyday meals with regional food knowledge."}
+    ],
+    "festive_dishes": [
+      {"id": 1, "name": "Kleicha and Kulecheh", "category": "Festive pastry", "description": "Date- or nut-filled pastries prepared in some Christian households for Christmas, Easter, and family visits.", "occasions": ["Christmas", "Easter", "Family gatherings"], "significance": "Preparation and distribution reinforce family and church-community ties."},
+      {"id": 2, "name": "Ma'amoul and baklava", "category": "Festive sweets", "description": "Pastries and sweets served at religious holidays, weddings, and visits, with recipes differing by community.", "occasions": ["Religious holidays", "Weddings", "Social gatherings"], "significance": "Sweets mark hospitality and collective celebration."},
+      {"id": 3, "name": "Celebration meals", "category": "Communal meal", "description": "Rice, meat, stuffed vegetables, stews, breads, and salads may be prepared for weddings, baptisms, funerals, and community events.", "occasions": ["Weddings", "Baptisms", "Funerals", "Community events"], "significance": "Shared meals organize social support and public belonging."}
+    ],
+    "beverages": [
+      {"id": 1, "name": "Coffee", "type": "Hot beverage", "description": "Coffee is prepared and served to guests in many homeland and diaspora households.", "consumption": "Visits, ceremonies, and everyday hospitality", "significance": "Serving coffee expresses welcome and social reciprocity."},
+      {"id": 2, "name": "Tea", "type": "Hot beverage", "description": "Black and herbal teas are common in homes and social gatherings, with regional preferences.", "consumption": "Daily meals and visits", "significance": "Tea accompanies conversation and informal community life."},
+      {"id": 3, "name": "Yogurt drinks", "type": "Cold beverage", "description": "Salted or mint-flavored yogurt drinks are served with meals, especially in warm weather.", "consumption": "Family meals and summer gatherings", "significance": "A practical drink associated with regional foodways."}
+    ],
+    "regional_variations": [
+      {"region": "Syrian and Lebanese communities", "characteristics": "Levantine salads, breads, legumes, herbs, and vegetable dishes are common, with substantial local and family variation.", "key_dishes": ["Mujadra", "Kibbeh", "Dolma", "Flatbreads"]},
+      {"region": "Iraqi and Mesopotamian communities", "characteristics": "Rice, wheat, stews, stuffed vegetables, fish, and distinctive Assyrian or Chaldean family recipes are prominent in many households.", "key_dishes": ["Rice dishes", "Kuba", "Dolma", "Stews"]},
+      {"region": "Tur Abdin and Anatolian communities", "characteristics": "Breads, grains, dairy, preserved foods, and recipes shaped by southeastern Anatolian experience remain important.", "key_dishes": ["Flatbreads", "Bulgur dishes", "Preserved foods"]},
+      {"region": "Diaspora communities", "characteristics": "Families combine inherited recipes with available ingredients, restaurant practices, and food traditions of their countries of residence.", "key_dishes": ["Family recipes", "Festival pastries", "Adapted home dishes"]}
+    ],
+    "cultural_significance": {
+      "family_practice": "Cooking is often a form of intergenerational teaching in which recipes, vocabulary, and memories are shared.",
+      "diaspora_role": "Food links diaspora families to relatives, places of origin, and community celebrations while allowing adaptation to new circumstances.",
+      "community_centers": "Churches, cultural associations, restaurants, and festivals can provide settings for shared meals and culinary teaching.",
+      "cultural_bridge": "Modern cuisine preserves continuity through practice rather than through one fixed or universally representative menu."
+    }
+  }
+}

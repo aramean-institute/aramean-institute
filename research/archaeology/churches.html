@@ -1,0 +1,43 @@
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../../index" src="../../_templates/archaeology"></template>
+<title>Churches</title>
+
+<section class="pauto" relative>
+  <h1>Churches</h1>
+  <nav class="pointer" margintop="0.5rem">
+    <ol padding="0">
+      <li><a href="#" globalize-get="research">Research</a></li>
+      <li><a href="research/archaeology">Archaeology</a></li>
+      <li>Churches</li>
+    </ol>
+  </nav>
+
+  <article margintop="2rem" data-src="assets/json/archaeological-locations.json">
+    <p>
+      This catalogue presents Christian buildings and urban Christian contexts in Aramaic-speaking or multilingual
+      communities. A Christian site is not automatically an ethnic Aramean site; the period, language, architecture, and
+      local history must be considered together.
+    </p>
+
+    <hr class="mt2 bcblack">
+    <section data-iterate="locations" data-filterkey="locations" data-filteritem="site_type:'church'">
+      <article margintop="2rem">
+        <h2 data-get="name"></h2>
+        <p>
+          <b>Classification:</b> <span data-get="classification"></span><br>
+          <b>Region:</b> <span data-get="region"></span><br>
+          <b>Modern location:</b> <span data-get="modern_location"></span><br>
+          <b>Period:</b> <span data-get="period"></span><br>
+          <b>Associated context:</b> <span data-get="associated_context"></span>
+        </p>
+        <p class="pt1" data-get="description"></p>
+      </article>
+    </section>
+
+    <hr class="mt2 bcblack">
+    <p>For Syriac inscriptions and funerary mosaics, see <a href="research/archaeology/inscriptions.html" color="red">Inscriptions</a> and <a href="research/archaeology/tombs.html" color="red">Tombs and Funerary Sites</a>.</p>
+    <small class="gray">Published: 2025-01-15, Last update: 2026-07-15</small>
+  </article>
+
+</section>
+</content>

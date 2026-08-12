@@ -1,0 +1,39 @@
+<template>
+  <aside></aside>
+  <main inherit="false" content="prepend">
+    <button absolute top="1rem" right="1rem" screen-xxs="show" screen-xl="hide" color="red" absolute top="20px"
+      right="20px" click="toggledisplay:#submenu" class="bc0" radius="500px" zindex="100"><i
+        class="icon16">≣</i></button>
+    <nav id="submenu" clone="#submenuitems" ontoggledisplay="scroll:*main:[top]" bgcolor="red" color="yellow" flex
+      flexdirection="column" class="sidebar" height="100%" overflow="visible" paddingtop="1rem" hide>
+    </nav>
+  </main>
+  <aside screen-xxs="hide" screen-md="hide" screen-lg="hide;width:[17rem]" screen-xl="show;width:[19rem]"
+    screen-xxxl="width:[22rem]">
+    <nav id="submenuitems" bgcolor="red" class="sidebar" paddingtop="1rem">
+      <details open>
+        <summary class="white">Overview</summary>
+        <a color="yellow" href="./research/literature">Literature Overview</a>
+      </details>
+
+      <details open>
+        <summary class="white">Works & Texts</summary>
+        <a color="yellow" href="./research/literature/ancient-texts.html">Ancient Texts</a>
+        <a color="yellow" href="./research/literature/inscriptions.html">Inscriptions</a>
+        <a color="yellow" href="./research/literature/chronicles.html">Chronicles</a>
+        <a color="yellow" href="./research/literature/manuscripts.html">Manuscripts</a>
+        <a color="yellow" href="./research/literature/syriac-literature.html">Syriac Literature</a>
+      </details>
+
+      <details open>
+        <summary class="white">Literary Forms</summary>
+        <a color="yellow" href="./research/literature/poetry.html">Poetry</a>
+        <a color="yellow" href="./research/literature/hymns.html">Hymns</a>
+        <a color="yellow" href="./research/literature/philosophy.html">Philosophy</a>
+        <a color="yellow" href="./research/literature/modern-literature.html">Modern Literature</a>
+      </details>
+
+      <hr>
+    </nav>
+  </aside>
+</template>
