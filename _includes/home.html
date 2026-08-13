@@ -7,7 +7,7 @@
       <article class="white w70 xm_w80p">
         <h1 class="fs17" data-get="title"></h1>
         <h3 class="beige tshade1" data-get="summary"></h3>
-        <a data-set="link:link" href="{link}" class="button p1 bcblack white mt2 br05 xm_w100p" globalize-get>Read
+        <a data-set="link:link" href="{link}" class="button p1 bcblack white mt2 xm_w100p" radius="2rem" padding="1rem 2rem" globalize-get>Read
           more</a>
       </article>
       <figure data-set="img:image" bgimage="{img}">
@@ -19,21 +19,52 @@
 </section>
 
 <section class="light">
-  <article class="pauto xs_p0 sm_p0 xm_p0 md_1r lg_p1r xl_p1r xxl_p1r wm70">
-    <div class="box cards m1- p1- br05- bcwhite- border- bo0- tac md_gtc2 xl_gtc3 xxl_gtc3 xxxl_gtc4"
-      data-iterate="articles" data-src="assets/json/articles.json">
-      <figure class="shade0 p1">
+  <article class="pauto xs_p0 sm_p0 xm_p0 md_1r lg_p1r xl_p1r xxl_p1r wm70" >
+    <div
+      screen-xxs="gridcolumns:[1fr]"
+      screen-lg="gridcolumns:[1fr 1fr]"
+      screen-xl="gridcolumns:[1fr 1fr 1fr]"
+      screen-wide="gridcolumns:[1fr 1fr 1fr 1fr]"
+      radius="0.5rem"
+      gap="0.5rem" class="box cards m1- bcwhite- border- bo0- tac"
+      data-src="assets/json/articles.json"
+      data-iterate="articles" 
+    >
+      <figure class="shade0" padding="1.25rem">
         <a data-set="link:link" href="{link}">
           <img data-set="t:thumbnail"
             onifdata-set="([{t}]![])/setattr:[src][{t}]?setattr:[src][/assets/img/placeholder_article.png]"
             width="100%">
-          <p class="fwb pt1" data-get="title">...</p>
+          <p bold margintop="1.5rem" data-get="title">...</p>
           <figcaption data-get="summary">...</figcaption>
         </a>
       </figure>
     </div>
+    <div flex margin="1rem" justifycontent="right">
+      <a href="research/publications/" class="button shade1" justifycontent="right" radius="0.5rem" bgcolor="white" color="red" padding="1rem 2rem" globalize-get>
+        View all publications &#8594;
+      </a>
+    </div>
   </article>
 </section>
-
-<section include="./_includes/footer.html" class="bcred white white- p1"></section>
+<hr>
+<section bgcolor="snow" color="black" justifycontent="center" flex padding="3rem">
+  <article screen-xxs="width:[100%]" screen-lg="width:[50%]" padding="3rem 1rem">
+    <div class="tac">
+      <h2>Aramean Studies</h2>
+      <p color="gray" fontsize="110%">
+        Explore the history, language, ethnology, archaeology, geography, religion,
+        literature,<br>and communities of the Aramean people.
+      </p>
+      <div flex flexdirection="column" screen-md="flexdirection:[row]"
+        justifycontent="center" alignitems="center" gap="1rem" margintop="1.5rem">
+        <a href="research/" padding="1rem 2rem" bgcolor="red" color="white" radius="2rem" bold class="button">
+          Explore Research
+        </a>
+      </div>
+    </div>
+  </article>
+</section>
+<hr>
+<section include="./_includes/footer.html" bgcolor="red" color="white" padding="1rem" class="white- p1"></section>
 </content>
