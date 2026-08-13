@@ -7,7 +7,7 @@
       <article class="white w70 xm_w80p">
         <h1 class="fs17" data-get="title"></h1>
         <h3 class="beige tshade1" data-get="summary"></h3>
-        <a data-set="link:link" href="{link}" class="button p1 bcblack white mt2 xm_w100p" radius="2rem" padding="1rem 2rem" globalize-get>Read
+        <a data-set="link:link" href="{link}" class="button mt2 xm_w100p" bgcolor="black" color="white" radius="2rem" padding="1rem 2rem" globalize-get>Read
           more</a>
       </article>
       <figure data-set="img:image" bgimage="{img}">
@@ -18,8 +18,8 @@
   </nav>
 </section>
 
-<section class="light">
-  <article class="pauto xs_p0 sm_p0 xm_p0 md_1r lg_p1r xl_p1r xxl_p1r wm70" >
+<section justifycontent="center" bgcolor="whitesmoke" flex>
+  <article class="pauto" maxwidth="130rem">
     <div
       screen-xxs="gridcolumns:[1fr]"
       screen-lg="gridcolumns:[1fr 1fr]"
@@ -30,7 +30,7 @@
       data-src="assets/json/articles.json"
       data-iterate="articles" 
     >
-      <figure class="shade0" padding="1.25rem">
+      <figure class="shade0" bgcolor="white" padding="1.25rem">
         <a data-set="link:link" href="{link}">
           <img data-set="t:thumbnail"
             onifdata-set="([{t}]![])/setattr:[src][{t}]?setattr:[src][/assets/img/placeholder_article.png]"
@@ -48,7 +48,7 @@
   </article>
 </section>
 <hr>
-<section bgcolor="snow" color="black" justifycontent="center" flex padding="3rem">
+<section color="black" justifycontent="center" flex padding="3rem">
   <article screen-xxs="width:[100%]" screen-lg="width:[50%]" padding="3rem 1rem">
     <div class="tac">
       <h2>Aramean Studies</h2>
@@ -58,7 +58,7 @@
       </p>
       <div flex flexdirection="column" screen-md="flexdirection:[row]"
         justifycontent="center" alignitems="center" gap="1rem" margintop="1.5rem">
-        <a href="research/" padding="1rem 2rem" bgcolor="red" color="white" radius="2rem" bold class="button">
+        <a href="research/" padding="1rem 2rem" bgcolor="red" color="white" radius="2rem" class="button">
           Explore Research
         </a>
       </div>
