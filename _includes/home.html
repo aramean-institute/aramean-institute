@@ -7,7 +7,8 @@
       <article class="white w70 xm_w80p">
         <h1 class="fs17" data-get="title"></h1>
         <h3 class="beige tshade1" data-get="summary"></h3>
-        <a data-set="link:link" href="{link}" class="button mt2 xm_w100p" bgcolor="black" color="white" radius="2rem" padding="1rem 2rem" globalize-get>Read
+        <a data-set="link:link" href="{link}" class="button mt2 xm_w100p" bgcolor="black" color="white" radius="2rem"
+          padding="1rem 2rem" globalize-get>Read
           more</a>
       </article>
       <figure data-set="img:image" bgimage="{img}">
@@ -19,17 +20,10 @@
 </section>
 
 <section justifycontent="center" bgcolor="whitesmoke" flex>
-  <article class="pauto" maxwidth="130rem">
-    <div
-      screen-xxs="gridcolumns:[1fr]"
-      screen-lg="gridcolumns:[1fr 1fr]"
-      screen-xl="gridcolumns:[1fr 1fr 1fr]"
-      screen-wide="gridcolumns:[1fr 1fr 1fr 1fr]"
-      radius="0.5rem"
-      gap="0.5rem" class="box cards m1- bcwhite- border- bo0- tac"
-      data-src="assets/json/articles.json"
-      data-iterate="articles" 
-    >
+  <article maxwidth="130rem" maxwidth="130rem" screen-xxs="padding:[0]" screen-md="padding:[1rem]" screen-lg="padding:[2.5rem]" screen-xl="padding:[3.5rem]">
+    <div screen-xxs="gridcolumns:[1fr]" screen-lg="gridcolumns:[1fr 1fr]" screen-xl="gridcolumns:[1fr 1fr 1fr]"
+      screen-wide="gridcolumns:[1fr 1fr 1fr 1fr]" radius="0.5rem" screen-xxs="gap:[0]" screen-lg="gap:[0.5rem]"
+      class="box cards m1- bcwhite- border- bo0- tac" data-src="assets/json/articles.json" data-iterate="articles">
       <figure class="shade0" bgcolor="white" padding="1.25rem">
         <a data-set="link:link" href="{link}">
           <img data-set="t:thumbnail"
@@ -40,27 +34,27 @@
         </a>
       </figure>
     </div>
-    <div flex margin="1rem" justifycontent="right">
-      <a href="research/publications/" class="button shade1" justifycontent="right" radius="0.5rem" bgcolor="white" color="red" padding="1rem 2rem" globalize-get>
+    <div flex margin="2rem 1rem" screen-xxs="justifycontent:[center]" screen-md="justifycontent:[right]">
+      <a href="research/publications/" class="button shade1" justifycontent="right" radius="0.5rem" bgcolor="white"
+        color="red" padding="1rem 2rem" globalize-get>
         View all publications &#8594;
       </a>
     </div>
   </article>
 </section>
 <hr>
-<section color="black" justifycontent="center" flex padding="3rem">
-  <article screen-xxs="width:[100%]" screen-lg="width:[50%]" padding="3rem 1rem">
+<section color="black" justifycontent="center" flex>
+  <article screen-xxs="width:[100%];padding:[3rem]" screen-lg="width:[90%];padding:[4rem]" screen-xl="width:[80%];padding:[5rem]">
     <div class="tac">
       <h2>Aramean Studies</h2>
       <p color="gray" fontsize="110%">
         Explore the history, language, ethnology, archaeology, geography, religion,
         literature,<br>and communities of the Aramean people.
       </p>
-      <div flex flexdirection="column" screen-md="flexdirection:[row]"
-        justifycontent="center" alignitems="center" gap="1rem" margintop="1.5rem">
-        <a href="research/" padding="1rem 2rem" bgcolor="red" color="white" radius="2rem" class="button">
-          Explore Research
-        </a>
+      <div flex flexdirection="column" screen-md="flexdirection:[row]" justifycontent="center" alignitems="center"
+        gap="1rem" margintop="1.5rem">
+        <a href="research/" padding="1rem 2rem" bgcolor="red" color="white" radius="2rem" class="button">Explore
+          Research</a>
       </div>
     </div>
   </article>

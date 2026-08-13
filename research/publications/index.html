@@ -2,21 +2,31 @@
 <template srcdoc="../../index" src="../../_templates/default"></template>
 <title globalize-get>Publications</title>
 
-<section class="pauto">
-        <article class="pauto xs_p0 sm_p0 xm_p0 md_1r lg_p1r xl_p1r xxl_p1r wm70">
-                <div class="box cards m1- p1- br05- bcwhite- border- bo0- tac md_gtc2 xl_gtc3 xxl_gtc3 xxxl_gtc4"
-                        data-iterate="articles" data-src="assets/json/articles.json">
-                        <figure class="shade0 p1">
-                                <a data-set="link:link" href="{link}">
-                                        <img data-set="t:thumbnail"
-                                                onifdata-set="([{t}]![])/setattr:[src][{t}]?setattr:[src][/assets/img/placeholder_article.png]"
-                                                width="100%">
-                                        <p class="fwb pt1" data-get="title">...</p>
-                                        <figcaption data-get="summary">...</figcaption>
-                                </a>
-                        </figure>
-                </div>
-        </article>
+<div class="alert banner shade1 br0 pauto pt2 pb2 bcred white-">
+  <h1 bindglobal="title:title">{title}</h1>
+</div>
+
+
+<article screen-xxs="padding:[0]" screen-xl="padding[4rem]">
+
+<section justifycontent="center" bgcolor="whitesmoke" flex>
+  <article maxwidth="130rem" screen-xxs="padding:[0]" screen-md="padding:[1rem]" screen-lg="padding:[2.5rem]" screen-xl="padding:[3.5rem]">
+    <div screen-xxs="gridcolumns:[1fr]" screen-lg="gridcolumns:[1fr 1fr]" screen-xl="gridcolumns:[1fr 1fr 1fr]"
+      screen-wide="gridcolumns:[1fr 1fr 1fr 1fr]" radius="0.5rem" screen-xxs="gap:[0]" screen-lg="gap:[0.5rem]"
+      class="box cards m1- bcwhite- border- bo0- tac" data-src="assets/json/articles.json" data-iterate="articles">
+      <figure class="shade0" bgcolor="white" padding="1.25rem">
+        <a data-set="link:link" href="{link}">
+          <img data-set="t:thumbnail"
+            onifdata-set="([{t}]![])/setattr:[src][{t}]?setattr:[src][/assets/img/placeholder_article.png]"
+            width="100%">
+          <p bold margintop="1.5rem" data-get="title">...</p>
+          <figcaption data-get="summary">...</figcaption>
+        </a>
+      </figure>
+    </div>
+  </article>
 </section>
+
+</article>
 
 <section include="./_includes/footer.html" class="bcred white white- p1"></section>
