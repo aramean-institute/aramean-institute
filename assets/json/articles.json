@@ -26,8 +26,8 @@
     },
     {
       "id": 4,
-      "title": "The holy language of Tur Abdin",
-      "summary": "The Aramaic of Tur Abdin (Turabdium) is the Aramaic of Urhoy (Edessa). \"Aramaya\" became \"Suryaya\" and \"Suryaya\" became \"Suryoyo\".",
+      "title": "The Aramaic of Tur Abdin: Urhay, Suryaya, and Turoyo",
+      "summary": "Tur Abdin preserves a living Aramaic heritage linking the Edessan literary tradition with the spoken Turoyo/Surayt variety.",
       "thumbnail": "assets/img/thumb/mardin-turabdin-paddan.jpg",
       "image": "assets/img/mardin-turabdin-paddan.jpg",
       "link": "article/aramaya-arhaya-suryaya-suryoyo-urhoyo-turabdin.html"
@@ -43,18 +43,18 @@
     {
       "id": 6,
       "title": "The Aramean Genocide (Sayfo)",
-      "summary": "Turks and Kurds kills over 500 thousand Arameans between 1915 and 1917.",
+      "summary": "Seyfo was the mass killing, deportation, and destruction of Aramean communities under Ottoman rule during World War I, especially from 1915 to 1918.",
       "thumbnail": "",
       "image": "",
       "link": "article/aramean-genocide-sayfo-seyfo.html"
     },
     {
       "id": 7,
-      "title": "Kurdish heroes saves Arameans during the Genocide (Sayfo)",
-      "summary": "Kurdish heroes saves thousands of Arameans during the Genocide.",
+      "title": "Max von Oppenheim and Tell Halaf",
+      "summary": "Max von Oppenheim’s excavations at Tell Halaf revealed Guzana, an important Aramean center in ancient northern Mesopotamia.",
       "thumbnail": "",
       "image": "",
-      "link": ""
+      "link": "article/max-von-oppenheim-tell-halaf.html"
     },
     {
       "id": 8,
@@ -63,6 +63,22 @@
       "thumbnail": "assets/img/thumb/urhay-cross-addai.jpg",
       "image": "assets/img/urhay-cross-addai.jpg",
       "link": "article/mor-aday-apostle-thaddeus-syria-urhoy.html"
+    },
+    {
+      "id": 9,
+      "title": "The Simele Massacre (1933)",
+      "summary": "The Simele Massacre was a campaign of mass killings, displacement, and destruction against Aramean communities in northern Iraq in August 1933.",
+      "thumbnail": "",
+      "image": "",
+      "link": "article/simele-massacre.html"
+    },
+    {
+      "id": 10,
+      "title": "The Abgar Dynasty: Aramean Kings of Edessa",
+      "summary": "The Abgarid dynasty ruled the Aramean kingdom of Osroene from Edessa, linking Aramean political life to Roman-Parthian history and later Christian tradition.",
+      "thumbnail": "",
+      "image": "",
+      "link": "article/abgar-dynasty-aramean-kings-edessa.html"
     }
   ]
 }
