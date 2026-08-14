@@ -6,27 +6,25 @@
   <h1 bindglobal="title:title">{title}</h1>
 </div>
 
-
 <article screen-xxs="padding:[0]" screen-xl="padding:[1rem]" bgcolor="whitesmoke">
-
-<section justifycontent="center" flex>
-  <article maxwidth="130rem" screen-xxs="padding:[0]" screen-md="padding:[1rem]" screen-lg="padding:[2.5rem]" screen-xl="padding:[3.5rem]">
-    <div screen-xxs="gridcolumns:[1fr]" screen-lg="gridcolumns:[1fr 1fr]" screen-xl="gridcolumns:[1fr 1fr 1fr]"
-      screen-wide="gridcolumns:[1fr 1fr 1fr 1fr]" radius="0.5rem" screen-xxs="gap:[0]" screen-lg="gap:[0.5rem]"
-      class="box cards m1- bcwhite- border- bo0- tac" data-src="assets/json/articles.json" data-iterate="articles">
-      <figure class="shade0" bgcolor="white" padding="1.25rem">
-        <a data-set="link:link" href="{link}">
-          <img data-set="t:thumbnail"
-            onifdata-set="([{t}]![])/setattr:[src][{t}]?setattr:[src][/assets/img/placeholder_article.png]"
-            width="100%">
-          <p bold margintop="1.5rem" data-get="title">...</p>
-          <figcaption data-get="summary">...</figcaption>
-        </a>
-      </figure>
-    </div>
-  </article>
-</section>
-
+  <section justifycontent="center" flex>
+    <article maxwidth="130rem" screen-xxs="padding:[0]" screen-md="padding:[1rem]" screen-lg="padding:[2.5rem]"
+      screen-xl="padding:[3.5rem]">
+      <div screen-xxs="gridcolumns:[1fr]" screen-lg="gridcolumns:[1fr 1fr]" screen-xl="gridcolumns:[1fr 1fr 1fr]"
+        screen-wide="gridcolumns:[1fr 1fr 1fr 1fr]" radius="0.5rem" screen-xxs="gap:[0]" screen-lg="gap:[0.5rem]"
+        class="box cards m1- bcwhite- border- bo0- tac" data-src="assets/json/articles.json" data-iterate="articles">
+        <figure class="shade0" bgcolor="white" padding="1.25rem">
+          <a data-set="link:link" href="{link}">
+            <img data-set="t:thumbnail"
+              onifdata-set="([{t}]![])/setattr:[src][{t}]?setattr:[src][/assets/img/placeholder_article.png]"
+              width="100%">
+            <p bold margintop="1.5rem" data-get="title">...</p>
+            <figcaption data-get="summary">...</figcaption>
+          </a>
+        </figure>
+      </div>
+    </article>
+  </section>
 </article>
 
 <section include="./_includes/footer.html" class="bcred white white- p1"></section>

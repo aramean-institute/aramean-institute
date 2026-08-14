@@ -2,9 +2,11 @@
 <template srcdoc="../../index" src="../../_templates/default"></template>
 <title>Research</title>
 
-<section class="pauto" relative>
+<div bgcolor="red" color="white" padding="2rem 3rem">
   <h1 bindglobal="title:title">{title}</h1>
+</div>
 
+<section class="pauto" relative>
   <article margintop="2rem">
     <p>
       The Aramean Institute’s research brings together historical, cultural, geographic, linguistic, and archaeological
@@ -12,38 +14,15 @@
       distinctions between historical development, ethnology, material evidence, and sources.
     </p>
 
-    <h2 margintop="2rem">Research Areas</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin-top: 1rem;">
-      <a href="./history/" style="display: block; border: 1px solid #ccc; padding: 1.25rem; border-radius: 8px;">
-        <h3 margintop="0">History</h3>
-        <p>Periods, rulers, migrations, conflicts, and political change.</p>
-      </a>
-      <a href="./ethnology/" style="display: block; border: 1px solid #ccc; padding: 1.25rem; border-radius: 8px;">
-        <h3 margintop="0">Ethnology</h3>
-        <p>Language, identity, community life, religion, customs, and culture.</p>
-      </a>
-      <a href="./geography/" style="display: block; border: 1px solid #ccc; padding: 1.25rem; border-radius: 8px;">
-        <h3 margintop="0">Geography</h3>
-        <p>Regions, cities, settlements, landscapes, and diaspora locations.</p>
-      </a>
-      <a href="./archaeology/" style="display: block; border: 1px solid #ccc; padding: 1.25rem; border-radius: 8px;">
-        <h3 margintop="0">Archaeology</h3>
-        <p>Sites, inscriptions, artifacts, architecture, and fieldwork.</p>
+    <h2 margin="2rem 0">Research Areas</h2>
+
+    <div grid screen-xxs="gridcolumns:[1fr]" screen-lg="gridcolumns:[1fr 1fr]" screen-xl="gridcolumns:[1fr 1fr 1fr]"
+      screen-wide="gridcolumns:[1fr 1fr 1fr 1fr]" radius="0.5rem" iterate="#menuitems a;index;name;href;alt" gap="1rem">
+      <a href="{href}" flex flexdirection="column" padding="2rem" radius="1rem" border="1px solid black">
+        <h2>{index}</h2>
+        <h3 bold color="red">{name}</h3>
+        <p>{alt}</p>
       </a>
     </div>
-
-    <p margintop="2rem">
-      <b>More research:</b>
-      <a href="./language/">Language</a>,
-      <a href="./literature/">Literature</a>,
-      <a href="./religion/">Religion</a>,
-      <a href="./sources/">Historical Sources</a>,
-      <a href="./figures/">Figures</a>,
-      <a href="./publications/">Publications</a>, and
-      <a href="./statistics/">Statistics</a>.
-    </p>
-
-    <hr class="mt2 bcblack">
-    <small class="gray">Published: 2025-01-15, Last update: 2026-08-12</small>
   </article>
 </section>
