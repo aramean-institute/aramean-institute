@@ -1,0 +1,28 @@
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../../../index" src="../../../_templates/geography"></template>
+<title>Geography Map</title>
+
+<section class="pauto" relative>
+  <h1>Geography Map</h1>
+  <nav class="pointer" margintop="0.5rem" screen-xs="hide" screen-lg="show" aria-label="Breadcrumb">
+    <ol padding="0">
+      <li><a href="/research" globalize-get="research">Research</a></li>
+      <li><a href="research/geography">Geography</a></li>
+      <li aria-current="page">Map</li>
+    </ol>
+  </nav>
+
+  <article margintop="2rem">
+    <div id="geography-map" width="100%" margintop="1rem" title="Selected cities and places reference map"
+      svgworldmap--render svgworldmap--markers="/assets/json/place-markers.json" svgworldmap--lat="35"
+      svgworldmap--lng="40" svgworldmap--zoom="15" fixed-marker="true"
+      svgworldmap--oceancolor="#9BBFF4" svgworldmap--landcolor="#E4DAB9"
+      svgworldmap--bordercolor="#F18D00" svgworldmap--label="Selected cities and places"
+      svgworldmap-filter="City:[city];Place:[place]"
+
+>
+    </div>
+  </article>
+</section>
+
+</content>
