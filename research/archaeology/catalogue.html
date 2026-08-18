@@ -1,0 +1,91 @@
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../../../index" src="../../../_templates/archaeology"></template>
+<title>Archaeological Catalogue</title>
+
+<article class="pauto">
+  <h1 bindglobal="title:title">{title}</h1>
+
+  <section margintop="2rem">
+    <p>
+      This catalogue brings together documented archaeological fieldwork and material evidence connected with Aramean
+      history. Fieldwork records describe excavation contexts and research priorities; evidence records describe
+      artifacts, architecture, inscriptions, documents, and other material remains. These categories are related but
+      should not be treated as interchangeable.
+    </p>
+
+    <h2 margintop="2rem">Documented Excavations and Fieldwork</h2>
+    <p class="mt05">Sites and campaigns for which the archaeological record, research history, and historical significance are documented.</p>
+    <table class="mt1 bocred bos5 bw1 z08 w100">
+      <caption class="tal fwb mb1 mt1">Archaeological Fieldwork</caption>
+      <thead class="bcred yellow p1">
+        <tr>
+          <th>Site</th>
+          <th>Period studied</th>
+          <th>Location</th>
+          <th>Research focus</th>
+        </tr>
+      </thead>
+      <tbody data-iterate="excavations" data-src="assets/json/archaeological-fieldwork.json">
+        <tr>
+          <td><a data-set="excavationId:id" data-get="site" href="/research/archaeology/excavation.html?id={excavationId}" color="red"></a></td>
+          <td data-get="period_studied"></td>
+          <td data-get="location"></td>
+          <td data-get="research_focus"></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2 margintop="2rem">Aramean-Associated Material Evidence</h2>
+    <p class="mt05">Evidence produced by, commissioned by, or directly associated with Aramean polities and communities.</p>
+    <table class="mt1 bocred bos5 bw1 z08 w100">
+      <caption class="tal fwb mb1 mt1">Aramean-Associated Evidence</caption>
+      <thead class="bcred yellow p1">
+        <tr>
+          <th>Record</th>
+          <th>Type</th>
+          <th>Period</th>
+          <th>Polity or context</th>
+          <th>Location</th>
+        </tr>
+      </thead>
+      <tbody data-iterate="evidence" data-src="assets/json/archaeological-evidence.json" data-filterkey="evidence"
+        data-filteritem="origin:'aramean'">
+        <tr>
+          <td><a data-set="evidenceId:id" data-get="title" href="/research/archaeology/evidence.html?id={evidenceId}" color="red"></a></td>
+          <td data-get="evidence_type"></td>
+          <td data-get="period"></td>
+          <td data-get="polity"></td>
+          <td data-get="location"></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2 margintop="2rem">Aramaic Evidence in Wider Contexts</h2>
+    <p class="mt05">Evidence bearing Aramaic language or script from communities and administrations beyond Aramean polities.</p>
+    <table class="mt1 bocred bos5 bw1 z08 w100">
+      <caption class="tal fwb mb1 mt1">Aramaic Evidence</caption>
+      <thead class="bcred yellow p1">
+        <tr>
+          <th>Record</th>
+          <th>Type</th>
+          <th>Period</th>
+          <th>Location</th>
+          <th>Museum or repository</th>
+        </tr>
+      </thead>
+      <tbody data-iterate="evidence" data-src="assets/json/archaeological-evidence.json" data-filterkey="evidence"
+        data-filteritem="origin:'aramaic'">
+        <tr>
+          <td><a data-set="evidenceId:id" data-get="title" href="/research/archaeology/evidence.html?id={evidenceId}" color="red"></a></td>
+          <td data-get="evidence_type"></td>
+          <td data-get="period"></td>
+          <td data-get="location"></td>
+          <td data-get="museum"></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+</article>
+
+<section include="./_includes/footer.html" bgcolor="red" color="white" padding="1rem" class="white-"></section>
+</content>

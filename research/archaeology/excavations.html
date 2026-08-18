@@ -1,41 +1,27 @@
 <script src="https://cdn.front.nu/nightly/front.js"></script>
-<template srcdoc="../../index" src="../../_templates/archaeology"></template>
-<title>Excavations</title>
+<template srcdoc="../../../index" src="../../../_templates/archaeology"></template>
+<title>Archaeological Sites</title>
 
 <section class="pauto" relative>
-  <h1>Excavations</h1>
-  <nav class="pointer" margintop="0.5rem">
+  <h1>Archaeological Sites</h1>
+  <nav class="pointer" margintop="0.5rem" aria-label="Breadcrumb">
     <ol padding="0">
       <li><a href="/research" globalize-get="research">Research</a></li>
-      <li><a href="research/archaeology">Archaeology</a></li>
-      <li>Excavations</li>
+      <li><a href="/research/archaeology">Archaeology</a></li>
+      <li>Archaeological Sites</li>
     </ol>
   </nav>
 
-  <article margintop="2rem" data-src="assets/json/archaeological-fieldwork.json">
+  <article margintop="2rem">
     <p>
-      This catalogue records documented excavation and fieldwork contexts connected with the Archaeology section. An
-      excavation record describes the research focus; it is not a complete publication bibliography or a claim that every
-      layer at a site has been investigated equally.
+      The Archaeological Sites catalogue now combines site context, documented fieldwork, excavation history, findings,
+      and related archaeological locations in one place.
     </p>
-
-    <hr class="mt2 bcblack">
-    <section data-iterate="excavations">
-      <article margintop="2rem">
-        <h2 data-get="site"></h2>
-        <p>
-          <b>Location:</b> <span data-get="location"></span><br>
-          <b>Period studied:</b> <span data-get="period_studied"></span><br>
-          <b>Research focus:</b> <span data-get="research_focus"></span>
-        </p>
-        <p class="pt1" data-get="description"></p>
-      </article>
-    </section>
-
-    <hr class="mt2 bcblack">
-    <p>Excavation results should be read together with the <a href="research/archaeology/sites.html" color="red">location catalogue</a> and the <a href="research/archaeology/artifacts.html" color="red">evidence catalogue</a>.</p>
-    <small class="gray">Published: 2025-01-15, Last update: 2026-07-15</small>
+    <p margintop="1rem">
+      This older fieldwork index is retained as a compatibility page. Continue to the canonical
+      <a href="/research/archaeology/sites.html" color="red">Archaeological Sites catalogue</a>.
+    </p>
+    <small class="gray">Published: 2025-01-15, Last update: 2026-08-16</small>
   </article>
-
 </section>
 </content>

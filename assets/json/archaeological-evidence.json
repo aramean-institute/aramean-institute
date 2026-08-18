@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "Tel Dan Stele",
+      "excavation_id": "tel-dan",
       "period": "9th century BC",
       "location": "Tel Dan, Israel",
       "museum": "Israel Museum, Jerusalem",
@@ -42,6 +43,7 @@
     {
       "id": 4,
       "title": "Tell Halaf Sculptures",
+      "excavation_id": "tell-halaf",
       "period": "10th-9th century BC",
       "location": "Tell Halaf (Guzana), Syria",
       "museum": "Pergamon Museum, Berlin",
@@ -55,6 +57,7 @@
     {
       "id": 5,
       "title": "Hadad-yis'i Bilingual (Tell Fekheriye)",
+      "excavation_id": "tell-fekheriye",
       "period": "9th century BC",
       "location": "Tell Fekheriye, Syria",
       "museum": "Damascus National Museum",
@@ -68,6 +71,7 @@
     {
       "id": 6,
       "title": "Kilamuwa Stele",
+      "excavation_id": "zincirli",
       "period": "c. 830 BC",
       "location": "Zincirli, Turkey",
       "museum": "Pergamon Museum, Berlin",
@@ -81,6 +85,7 @@
     {
       "id": 7,
       "title": "Panamuwa I Inscription (Hadad Statue)",
+      "excavation_id": "zincirli",
       "period": "c. 750 BC",
       "location": "Zincirli, Turkey",
       "museum": "Pergamon Museum, Berlin",
@@ -94,6 +99,7 @@
     {
       "id": 8,
       "title": "Panamuwa II Inscription",
+      "excavation_id": "zincirli",
       "period": "c. 733-732 BC",
       "location": "Zincirli, Turkey",
       "museum": "Pergamon Museum, Berlin",
@@ -107,6 +113,7 @@
     {
       "id": 9,
       "title": "Bar-Rakib Inscriptions",
+      "excavation_id": "zincirli",
       "period": "c. 730 BC",
       "location": "Zincirli, Turkey",
       "museum": "Pergamon Museum, Berlin",
@@ -120,6 +127,7 @@
     {
       "id": 10,
       "title": "Katumuwa Stele",
+      "excavation_id": "zincirli",
       "period": "c. 735 BC",
       "location": "Zincirli, Turkey",
       "museum": "Gaziantep Museum of Archaeology",
@@ -133,6 +141,7 @@
     {
       "id": 11,
       "title": "Kilamuwa Scepter",
+      "excavation_id": "zincirli",
       "period": "c. 830 BC",
       "location": "Zincirli, Turkey",
       "museum": "Unknown",
@@ -146,6 +155,7 @@
     {
       "id": 12,
       "title": "Hazael Booty Inscriptions",
+      "excavation_id": "arslan-tash",
       "period": "c. 840 BC",
       "location": "Arslan Tash, Syria",
       "museum": "Louvre Museum, Paris",
@@ -185,6 +195,7 @@
     {
       "id": 15,
       "title": "Arslan Tash Amulets",
+      "excavation_id": "arslan-tash",
       "period": "7th century BC",
       "location": "Arslan Tash, Syria",
       "museum": "Aleppo National Museum",
@@ -198,6 +209,7 @@
     {
       "id": 16,
       "title": "Arslan Tash Ivory Inscription",
+      "excavation_id": "arslan-tash",
       "period": "9th-8th century BC",
       "location": "Arslan Tash, Syria",
       "museum": "Louvre Museum, Paris",
@@ -211,6 +223,7 @@
     {
       "id": 17,
       "title": "Til Barsip Wall Paintings",
+      "excavation_id": "tell-ahmar",
       "period": "8th century BC",
       "location": "Tell Ahmar (Til Barsip), Syria",
       "museum": "Louvre Museum, Paris / Aleppo Museum",
@@ -224,6 +237,7 @@
     {
       "id": 18,
       "title": "Hamath Inscriptions",
+      "excavation_id": "hama",
       "period": "9th-8th century BC",
       "location": "Hama, Syria",
       "museum": "Istanbul Archaeological Museum",
@@ -237,6 +251,7 @@
     {
       "id": 19,
       "title": "Hama Graffiti",
+      "excavation_id": "hama",
       "period": "Various",
       "location": "Hama, Syria",
       "museum": "Various",
@@ -250,6 +265,7 @@
     {
       "id": 20,
       "title": "Tell Halaf Bit-Hilani Palace",
+      "excavation_id": "tell-halaf",
       "period": "10th-9th century BC",
       "location": "Tell Halaf (Guzana), Syria",
       "museum": "Pergamon Museum, Berlin",
@@ -263,6 +279,7 @@
     {
       "id": 21,
       "title": "Tell Halaf Inscription",
+      "excavation_id": "tell-halaf",
       "period": "9th century BC",
       "location": "Tell Halaf (Guzana), Syria",
       "museum": "Destroyed (WWII)",
@@ -289,6 +306,7 @@
     {
       "id": 23,
       "title": "Neirab Steles",
+      "excavation_id": "neirab",
       "period": "7th century BC",
       "location": "Al-Nayrab, Syria",
       "museum": "Louvre Museum, Paris",
@@ -302,6 +320,7 @@
     {
       "id": 24,
       "title": "Tayma Stones",
+      "excavation_id": "tayma",
       "period": "5th-4th century BC",
       "location": "Tayma, Saudi Arabia",
       "museum": "Louvre Museum, Paris",
@@ -341,6 +360,7 @@
     {
       "id": 27,
       "title": "Elephantine Papyri",
+      "excavation_id": "elephantine",
       "period": "5th century BC",
       "location": "Elephantine, Egypt",
       "museum": "Various (Brooklyn Museum, Cairo Museum, Bodleian Library)",
@@ -471,6 +491,7 @@
     {
       "id": 37,
       "title": "Palmyrene Inscriptions",
+      "excavation_id": "palmyra",
       "period": "1st century BC - 3rd century AD",
       "location": "Palmyra, Syria",
       "museum": "Various (Louvre, Damascus Museum, Hermitage)",
@@ -484,6 +505,7 @@
     {
       "id": 38,
       "title": "Aftuha Family Mosaic",
+      "excavation_id": "urhay",
       "period": "3rd century AD",
       "location": "Edessa (Urhay), Turkey",
       "museum": "Şanlıurfa Museum",
@@ -497,6 +519,7 @@
     {
       "id": 39,
       "title": "Orpheus Mosaic",
+      "excavation_id": "urhay",
       "period": "194 AD",
       "location": "Edessa (Urhay), Turkey",
       "museum": "Şanlıurfa Museum",
@@ -510,6 +533,7 @@
     {
       "id": 40,
       "title": "Funerary Inscriptions",
+      "excavation_id": "urhay",
       "period": "2nd-3rd century AD",
       "location": "Edessa (Urhay), Turkey",
       "museum": "Şanlıurfa Museum",
@@ -523,6 +547,7 @@
     {
       "id": 41,
       "title": "Bethsaida Cultic Stele",
+      "excavation_id": "bethsaida",
       "period": "9th-8th century BC",
       "location": "Bethsaida (et-Tell), Israel",
       "museum": "Israel Museum, Jerusalem",
@@ -549,6 +574,7 @@
     {
       "id": 43,
       "title": "Sam'al Citadel Gate Lions",
+      "excavation_id": "zincirli",
       "period": "9th century BC",
       "location": "Zincirli, Turkey",
       "museum": "Pergamon Museum, Berlin",
@@ -562,6 +588,7 @@
     {
       "id": 44,
       "title": "Bar-Rakib Relief",
+      "excavation_id": "zincirli",
       "period": "c. 730 BC",
       "location": "Zincirli, Turkey",
       "museum": "Pergamon Museum, Berlin",
@@ -575,6 +602,7 @@
     {
       "id": 45,
       "title": "Tell Fekheriye Statue",
+      "excavation_id": "tell-fekheriye",
       "period": "9th century BC",
       "location": "Tell Fekheriye, Syria",
       "museum": "Damascus National Museum",
@@ -588,6 +616,7 @@
     {
       "id": 46,
       "title": "Bethsaida City Gate",
+      "excavation_id": "bethsaida",
       "period": "10th-9th century BC",
       "location": "Bethsaida (et-Tell), Israel",
       "museum": "In situ",
@@ -601,6 +630,7 @@
     {
       "id": 47,
       "title": "Ein Gev Inscription",
+      "excavation_id": "ein-gev",
       "period": "9th century BC",
       "location": "Ein Gev, Israel",
       "museum": "Israel Antiquities Authority",
@@ -653,6 +683,7 @@
     {
       "id": 51,
       "title": "Hatran Inscriptions",
+      "excavation_id": "hatra",
       "period": "1st-3rd century AD",
       "location": "Hatra, Iraq",
       "museum": "Iraq Museum, Baghdad",
@@ -666,6 +697,7 @@
     {
       "id": 52,
       "title": "Dura-Europos Aramaic Texts",
+      "excavation_id": "dura-europos",
       "period": "1st-3rd century AD",
       "location": "Dura-Europos, Syria",
       "museum": "Yale University Art Gallery / Damascus National Museum",

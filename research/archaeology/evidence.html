@@ -1,0 +1,47 @@
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../../../index" src="../../../_templates/archaeology"></template>
+<title>Archaeological Evidence</title>
+
+<section class="pauto" relative bindquery="id:id" data-src="assets/json/archaeological-evidence.json"
+  data-filterkey="evidence" data-filteritem="id:'{id}'">
+  <h1 data-get="title">Archaeological Evidence</h1>
+  <nav class="pointer" margintop="0.5rem" aria-label="Breadcrumb">
+    <ol padding="0">
+      <li><a href="/research" globalize-get="research">Research</a></li>
+      <li><a href="research/archaeology">Archaeology</a></li>
+      <li><a href="research/archaeology/catalogue.html">Archaeological Catalogue</a></li>
+      <li data-get="title" aria-current="page">Evidence</li>
+    </ol>
+  </nav>
+
+  <article margintop="2rem">
+    <p class="gray" role="note">
+      <b>Evidence type:</b> <span data-get="evidence_type"></span><br>
+      <b>Origin or context:</b> <span data-get="origin"></span>
+    </p>
+
+    <h2 margintop="2rem">At a glance</h2>
+    <p>
+      <b>Period:</b> <span data-get="period"></span><br>
+      <b>Location:</b> <span data-get="location"></span><br>
+      <b>Polity or context:</b> <span data-get="polity"></span><br>
+      <b>Museum or repository:</b> <span data-get="museum"></span>
+    </p>
+
+    <figure hide data-if="image" margintop="2rem">
+      <img data-set="src:image;alt:title" width="100%">
+    </figure>
+
+    <h2 margintop="2rem">Description</h2>
+    <p data-get="description"></p>
+
+    <h2 margintop="2rem">Significance</h2>
+    <p data-get="significance"></p>
+
+    <hr class="mt2 bcblack">
+    <p>Return to the <a href="research/archaeology/catalogue.html" color="red">Archaeological Catalogue</a>.</p>
+    <small class="gray">Published: 2026-08-12, Last update: 2026-08-12</small>
+  </article>
+</section>
+
+</content>

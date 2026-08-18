@@ -6,31 +6,19 @@
     <nav id="submenuitems" name="archaelogy" bgcolor="red" color="white" class="sidebar" paddingtop="1rem">
       <details open>
         <summary bold>Overview</summary>
-        <a color="yellow" href="./research/archaeology">Archaeology Overview</a>
+        <a color="yellow" href="/research/archaeology">Summary</a>
+        <a color="yellow" href="/research/archaeology/catalogue.html">Catalogue</a>
       </details>
 
       <details open>
-        <summary bold>Archaeological Locations</summary>
-        <a color="yellow" href="./research/archaeology/sites.html">All Sites</a>
-        <a color="yellow" href="./research/archaeology/cities.html">Cities</a>
-        <a color="yellow" href="./research/archaeology/settlements.html">Settlements</a>
-        <a color="yellow" href="./research/archaeology/map.html">Location Index</a>
+        <summary bold>Sites</summary>
+        <div data-src="/assets/json/archaeological-fieldwork.json">
+          <ul data-iterate="excavations" style="list-style:none; margin:0; padding:0;">
+            <li style="margin-top:0.35rem;"><a color="yellow" data-set="excavationId:id" data-get="site"
+                href="/research/archaeology/excavation.html?id={excavationId}" target="main"></a></li>
+          </ul>
+        </div>
       </details>
-
-      <details open>
-        <summary bold>Archaeological Evidence</summary>
-        <a color="yellow" href="./research/archaeology/artifacts.html">Artifacts</a>
-        <a color="yellow" href="./research/archaeology/inscriptions.html">Inscriptions</a>
-        <a color="yellow" href="./research/archaeology/temples.html">Temples &amp; Cultic Sites</a>
-        <a color="yellow" href="./research/archaeology/churches.html">Churches</a>
-        <a color="yellow" href="./research/archaeology/tombs.html">Tombs &amp; Funerary Sites</a>
-      </details>
-
-      <details open>
-        <summary bold>Fieldwork &amp; Methods</summary>
-        <a color="yellow" href="./research/archaeology/excavations.html">Excavations</a>
-      </details>
-
       <hr>
     </nav>
   </aside>

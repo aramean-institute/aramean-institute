@@ -59,23 +59,6 @@
 
     <p class="gray" role="note" margintop="1.5rem" bindquery="name:name" data-get="{name}.note"></p>
   </article>
-
-  <hr bgcolor="red" height="1px" margin="2rem 0">
-  <h2>Related Geography</h2>
-  <nav aria-label="Related geography">
-    <ul flex flexdirection="column" class="list" margin="1rem 2rem" data-iterate="{name}.related">
-      <li>
-        <a data-set="link:href" data-get="label" href="{link}" color="red" fw="bold"></a>
-        <span> - </span><span data-get="description"></span>
-      </li>
-    </ul>
-  </nav>
-
-  <hr bgcolor="red" height="1px" margin="2rem 0">
-  <small class="gray" bindquery="name:name">
-    Published: <span data-get="{name}.published"></span>,
-    Last update: <span data-get="{name}.updated"></span>
-  </small>
 </section>
 
 </content>

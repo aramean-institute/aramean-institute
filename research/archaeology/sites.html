@@ -4,30 +4,55 @@
 
 <section class="pauto" relative>
   <h1>Archaeological Sites</h1>
-  <nav class="pointer" margintop="0.5rem">
+  <nav class="pointer" margintop="0.5rem" aria-label="Breadcrumb">
     <ol padding="0">
       <li><a href="/research" globalize-get="research">Research</a></li>
-      <li><a href="research/archaeology">Archaeology</a></li>
+      <li><a href="/research/archaeology">Archaeology</a></li>
       <li>Archaeological Sites</li>
     </ol>
   </nav>
 
-  <article margintop="2rem" data-src="assets/json/archaeological-locations.json">
+  <article margintop="2rem">
     <p>
-      This is the complete location catalogue for the Archaeology section. It includes urban centers, settlements,
-      inscription localities, religious sites, churches, and funerary contexts. Cities and settlements are filtered views
-      of the same location dataset rather than separate collections.
+      This is the main site catalogue for the Archaeology section. It combines documented fieldwork records with
+      broader archaeological locations and site contexts. A site record may include excavation history, research
+      findings, images, or contextual information without implying that every period or area has been excavated equally.
     </p>
     <p margintop="1rem">
-      A location’s association with a polity, language, or community is recorded as historical context. It does not by
-      itself establish a uniform identity for every period or population represented at the site.
+      Associations with a polity, language, or community are recorded as historical context. They do not by themselves
+      establish a uniform identity for every period or population represented at a site.
     </p>
 
     <hr class="mt2 bcblack">
 
-    <h2 margintop="3rem">All Archaeological Locations</h2>
-    <section data-iterate="locations">
-      <article margintop="2rem">
+    <h2 margintop="3rem">Documented Archaeological Sites and Fieldwork</h2>
+    <p>
+      These site records include excavation history, research focus, documented findings, and links to detailed
+      fieldwork pages.
+    </p>
+    <section data-src="../../../assets/json/archaeological-fieldwork.json">
+      <article margintop="2rem" data-iterate="excavations">
+        <h3><a data-set="excavationId:id" data-get="site"
+            href="/research/archaeology/excavation.html?id={excavationId}" color="red"></a></h3>
+        <p>
+          <b>Location:</b> <span data-get="location"></span><br>
+          <b>Period studied:</b> <span data-get="period_studied"></span><br>
+          <b>Research focus:</b> <span data-get="research_focus"></span>
+        </p>
+        <p class="pt1" data-get="description"></p>
+        <p><a data-set="detailId:id" href="/research/archaeology/excavation.html?id={detailId}" color="red">View site and fieldwork details</a></p>
+      </article>
+    </section>
+
+    <hr class="mt2 bcblack">
+
+    <h2 margintop="3rem">Related Archaeological Locations and Contexts</h2>
+    <p>
+      These entries include locations, inscription localities, religious sites, churches, and funerary contexts. They
+      remain part of the site catalogue even when they do not have a separate fieldwork record.
+    </p>
+    <section data-src="assets/json/archaeological-locations.json">
+      <article margintop="2rem" data-iterate="locations">
         <h3 data-get="name"></h3>
         <p>
           <b>Category:</b> <span data-get="category"></span><br>
@@ -44,11 +69,12 @@
 
     <hr class="mt2 bcblack">
     <p>
-      For objects and texts connected with these locations, see
-      <a href="research/archaeology/artifacts.html" color="red">Archaeological Evidence</a>.
+      For artifacts, inscriptions, architecture, and other evidence connected with these locations, see
+      <a href="/research/archaeology/catalogue.html" color="red">Archaeological Catalogue</a>.
     </p>
-    <small class="gray">Published: 2025-01-15, Last update: 2026-07-15</small>
+    <small class="gray">Published: 2025-01-15, Last update: 2026-08-16</small>
   </article>
-
 </section>
+</content>
+
 </content>
