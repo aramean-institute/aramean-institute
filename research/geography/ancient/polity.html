@@ -3,7 +3,7 @@
 <title>Ancient Aram Polity</title>
 
 <section class="pauto">
-  <h1 bindquery="name:name" data-get="{name}.name">Ancient Aram Polity</h1>
+  <h1 id="polity-title" bindquery="name:name" data-get="{name}.name">Ancient Aram Polity</h1>
   <nav class="pointer" margintop="0.5rem" aria-label="Breadcrumb">
     <ol padding="0">
       <li><a href="/research" globalize-get>Research</a></li>
@@ -13,7 +13,8 @@
     </ol>
   </nav>
 
-  <article margintop="2rem" data-src="../../../assets/json/polities.json">
+  <article margintop="2rem" bindquery="name:name" data-src="../../../assets/json/polities.json"
+    data-set="{name}.name:#polity-title;pageTitle:{name}.name" data-onfinish="doctitle:[{pageTitle}]">
     <h2>Geographic profile</h2>
     <p bindquery="name:name" data-get="{name}.geography.description"></p>
 

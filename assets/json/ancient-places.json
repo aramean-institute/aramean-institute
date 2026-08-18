@@ -301,7 +301,7 @@
     "updated": "2026-08-11"
   },
   "Damascus": {
-    "title": "Damascus",
+    "title": "Damasq",
     "category": "Ancient city",
     "type": "Iron Age urban center and later city",
     "region": "Aram Taḥtāyā / Southern Levant",
@@ -330,7 +330,7 @@
     "note": "Damascus is included as a city profile associated with Aram-Damascus. Its marker identifies the urban reference point and does not show the extent of the polity.",
     "related": [
       {
-        "label": "Aram-Damascus",
+        "label": "Aram-Damasq",
         "href": "research/geography/ancient/polity.html?name=Aram-Damascus",
         "description": "Polity associated with Damascus and the Barada region."
       },
@@ -344,7 +344,7 @@
     "updated": "2026-08-11"
   },
   "Hamath-Hama": {
-    "title": "Hamath (Hama)",
+    "title": "Hamath",
     "category": "Ancient city",
     "type": "Iron Age urban center and capital",
     "region": "Aram ʿElyā / Central Syria",

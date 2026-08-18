@@ -1,9 +1,10 @@
 <script src="https://cdn.front.nu/nightly/front.js"></script>
-<template srcdoc="../../../index" src="../../../_templates/geography"></template>
+<template srcdoc="../../../../index" src="../../../../_templates/geography"></template>
 <title>Ancient Place</title>
 
-<section class="pauto" relative data-src="../../../assets/json/ancient-places.json">
-  <h1 bindquery="name:name" data-get="{name}.title">Ancient Place</h1>
+<section class="pauto" relative bindquery="name:name" data-src="../../../assets/json/ancient-places.json"
+  data-set="{name}.title:#place-title;pageTitle:{name}.title" data-onfinish="doctitle:[{pageTitle}]">
+  <h1 id="place-title" bindquery="name:name" data-get="{name}.title">Ancient Place</h1>
   <nav class="pointer" margintop="0.5rem" aria-label="Breadcrumb">
     <ol padding="0">
       <li><a href="/research" globalize-get>Research</a></li>
