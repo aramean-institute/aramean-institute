@@ -270,7 +270,7 @@
     }
   },
   "Bit-Gabbar": {
-    "name": "Bit-Gabbar / Sam'al",
+    "name": "Bit-Gabbar",
     "region": "Aram ʿElyā",
     "capital": "Sam'al (Zincirli)",
     "modern_location": "Turkey (Gaziantep Province)",
@@ -297,7 +297,8 @@
     }
   },
   "Pattin-Unqi": {
-    "name": "Pattin/Unqi",
+    "name": "ʿUmqā",
+    "etymology": "The name ʿUmqā is associated with the Aramaic root ʿ-m-q, meaning ‘deep’ or ‘depth’. It may refer to the low-lying Amuq plain or its geographical setting. This interpretation does not by itself establish the polity’s ethnic identity or prove how every ancient source named the region.",
     "region": "Aram ʿElyā",
     "capital": "Kunulua (Tell Tayinat)",
     "modern_location": "Turkey (Hatay Province)",

@@ -1186,5 +1186,363 @@
     ],
     "published": "2026-08-11",
     "updated": "2026-08-11"
+  },
+  "Mahuze": {
+    "title": "Mahuze (Mahoze)",
+    "category": "Syriac textual urban reference",
+    "type": "Major urban complex associated with Seleucia-Ctesiphon; exact identification within the complex uncertain",
+    "region": "Beth Aramaye / Lower Mesopotamia",
+    "modern_location": "Al-Mada'in area, Iraq (Seleucia-Ctesiphon region)",
+    "period": "Seleucia-Ctesiphon complex from the Hellenistic period onward; Mahoze as a Syriac designation in late-antique and early-Islamic sources",
+    "geography": {
+      "description": "Mahuze (Mahoze, ܡܚܘܙܐ) was a Syriac designation associated with the Seleucia-Ctesiphon metropolitan area in southern Mesopotamia. Syriac sources place the city within Beth Aramaye, but the exact relationship between the name Mahuze and the different cities and districts of the metropolitan complex remains a historical question.",
+      "lat": 32.55,
+      "lng": 44.63,
+      "precision": "approximate Seleucia-Ctesiphon urban-region reference; exact Mahuze location within the complex uncertain"
+    },
+    "sections": [
+      {
+        "heading": "Mahuze and Seleucia-Ctesiphon",
+        "body": "Mahuze/Mahoze is associated with Seleucia-Ctesiphon, the major metropolitan and capital complex of southern Mesopotamia. Syriac sources also use Mahoze Rabba, 'the great Mahoze,' and Mdinatha d-Beth Aramaye, 'the cities of Beth Aramaye,' for this urban setting."
+      },
+      {
+        "heading": "Beth Aramaye in Syriac Sources",
+        "body": "The Martyrdom of Simon Bar Sabbae and his companions describes Mahuze as a city belonging to Beth Aramaye. Beth Aramaye is rendered in some modern scholarship as 'land of the Arameans.' This evidence supports placing Mahuze within a Syriac geographic framework associated with Beth Aramaye, while the regional designation should not be treated as proof that every resident of the metropolitan area had one ethnic identity."
+      },
+      {
+        "heading": "Urban and Historical Identification",
+        "body": "Mahuze is best treated here as a Syriac urban designation associated with a metropolitan complex rather than as the name of a separate ancient polity. The modern Al-Mada'in area provides geographic orientation, but the marker does not claim that Mahuze was a single excavated site or that its name maps exactly onto every part of Seleucia-Ctesiphon."
+      },
+      {
+        "heading": "Geographic Uncertainty",
+        "body": "The map marker indicates the wider Seleucia-Ctesiphon urban region. It is not a surveyed coordinate for Mahuze and does not define the boundaries of Beth Aramaye or the extent of the historical population associated with the city."
+      }
+    ],
+    "note": "Mahuze/Mahoze is included as a Syriac textual urban reference associated with Seleucia-Ctesiphon and Beth Aramaye. The source connection is important evidence for historical geography, but it should not be converted into a claim that the entire metropolitan population was ethnically uniform.",
+    "related": [
+      {
+        "label": "Bet Aramaye",
+        "href": "research/geography/occupied/region.html?name=Mesopotamia",
+        "description": "Broader Mesopotamian geographic framework used for the Beth Aramaye setting."
+      },
+      {
+        "label": "Mesopotamia",
+        "href": "research/geography/occupied/region.html?name=Mesopotamia",
+        "description": "Physical and regional geography of the Tigris-Euphrates area."
+      }
+    ],
+    "published": "2026-08-16",
+    "updated": "2026-08-16"
+  },
+  "Beth-Arsham": {
+    "title": "Beth Arsham",
+    "category": "Syriac textual place",
+    "type": "Late antique locality near Seleucia-Ctesiphon; exact identification uncertain",
+    "region": "Beth Aramaye / Lower Mesopotamia",
+    "modern_location": "Near the Al-Mada'in area, Iraq; exact location uncertain",
+    "period": "Late antique Syriac sources; exact chronology of the locality uncertain",
+    "geography": {
+      "description": "According to Syriac tradition, Beth Arsham was located in Beth Aramaye, near Seleucia-Ctesiphon in Lower Mesopotamia. Its exact site has not been securely identified, so the wider Al-Mada'in area is used only as a geographic reference.",
+      "lat": 32.55,
+      "lng": 44.63,
+      "precision": "broad Seleucia-Ctesiphon regional reference; exact Beth Arsham location uncertain"
+    },
+    "sections": [
+      {
+        "heading": "Location and Identification",
+        "body": "Beth Arsham is traditionally associated with the area near Seleucia-Ctesiphon on the Tigris. The modern Al-Mada'in area provides geographic orientation, but the available Syriac evidence does not establish a precise modern village, mound, or excavated site for Beth Arsham."
+      },
+      {
+        "heading": "Simeon of Beth Arsham",
+        "body": "The place-name is preserved especially through Simeon of Beth Arsham, also known as the Persian Debater, a sixth-century bishop and diplomat. The name may identify his native locality rather than a securely documented episcopal see; the historical identification therefore remains cautious."
+      },
+      {
+        "heading": "Relation to Beth Aramaye",
+        "body": "Beth Arsham belongs in the wider Lower Mesopotamian setting associated with Beth Aramaye, but the two names are not identical. Beth Aramaye is a broader regional designation, while Beth Arsham is treated here as a separate and uncertain locality."
+      },
+      {
+        "heading": "Geographic Uncertainty",
+        "body": "The map marker indicates the wider Seleucia-Ctesiphon region in modern Iraq. It is not a surveyed Beth Arsham coordinate and should not be read as proof of a fixed settlement boundary, episcopal territory, or a single uniform population."
+      }
+    ],
+    "note": "Beth Arsham is included as a cautious Syriac textual place near Seleucia-Ctesiphon. Its exact location is unknown, and the profile does not treat it as an archaeological site, a separate polity, or a synonym for Beth Aramaye.",
+    "related": [
+      {
+        "label": "Mahuze",
+        "href": "research/geography/ancient/place.html?name=Mahuze",
+        "description": "Syriac urban designation associated with the Seleucia-Ctesiphon metropolitan area."
+      },
+      {
+        "label": "Mesopotamia",
+        "href": "research/geography/occupied/region.html?name=Mesopotamia",
+        "description": "Physical and regional geography of the Tigris-Euphrates area."
+      }
+    ],
+    "published": "2026-08-16",
+    "updated": "2026-08-16"
+  },
+  "Kashkar": {
+    "title": "Kashkar",
+    "category": "Beth Aramaye place and bishopric",
+    "type": "Ancient urban center and directly attested Beth Aramaye bishopric",
+    "region": "Beth Aramaye / Central Mesopotamia",
+    "modern_location": "Wasit and al-Kut region, Iraq; exact ancient site identification uncertain",
+    "period": "Late antique and early Islamic ecclesiastical sources; earlier urban history uncertain",
+    "beth_aramaye_status": "Directly attested in the Beth Aramaye ecclesiastical province",
+    "geography": {
+      "description": "Kashkar (ܟܫܟܪ) was an important Mesopotamian urban and ecclesiastical center listed among the bishoprics of Beth Aramaye. It is commonly associated with the Wasit and al-Kut region of central Iraq, but the exact ancient site and the relationship between the city, district, and bishopric remain subject to source-critical study.",
+      "lat": 32.5,
+      "lng": 45.8,
+      "precision": "broad Wasit-al-Kut regional reference; exact Kashkar identification uncertain"
+    },
+    "sections": [
+      {
+        "heading": "Kashkar and Beth Aramaye",
+        "body": "Kashkar is listed by the Encyclopaedia Iranica among the bishoprics of the Beth Aramaye ecclesiastical province. This is direct evidence for its place within the late antique and early Islamic Syriac geographic and ecclesiastical framework of Beth Aramaye."
+      },
+      {
+        "heading": "Location and Identification",
+        "body": "The place is generally associated with central Iraq and the Wasit region, but the modern location of ancient Kashkar is not treated here as securely identified. The broad regional marker is used for orientation rather than as a surveyed archaeological coordinate."
+      },
+      {
+        "heading": "Historical Framing",
+        "body": "Kashkar is presented as an urban and bishopric center, not as a separately reconstructed Aramean kingdom. Its inclusion in Beth Aramaye documents a regional and ecclesiastical connection and does not establish a uniform ethnic identity for all inhabitants."
+      }
+    ],
+    "note": "Kashkar is a directly attested Beth Aramaye place and bishopric in Syriac ecclesiastical sources. Its exact archaeological identification and political history remain separate questions.",
+    "related": [
+      {
+        "label": "Beth Aramaye source",
+        "href": "https://iranicaonline.org/articles/be-aramaye",
+        "description": "Encyclopaedia Iranica overview of Beth Aramaye and its documented bishoprics."
+      },
+      {
+        "label": "Mesopotamia",
+        "href": "research/geography/occupied/region.html?name=Mesopotamia",
+        "description": "Broader geographic framework for central and southern Mesopotamia."
+      }
+    ],
+    "published": "2026-08-16",
+    "updated": "2026-08-16"
+  },
+  "Hirta-Hira": {
+    "title": "Hirta (Hira)",
+    "category": "Beth Aramaye place and bishopric",
+    "type": "Ancient city and directly attested Beth Aramaye bishopric",
+    "region": "Beth Aramaye / Lower Mesopotamia",
+    "modern_location": "Al-Hira near Kufa and Najaf, Iraq; ancient identification is approximate",
+    "period": "Late antique and early Islamic ecclesiastical sources; earlier settlement history also attested",
+    "beth_aramaye_status": "Directly attested in the Beth Aramaye ecclesiastical province",
+    "geography": {
+      "description": "Hirta (ܚܝܪܬܐ), commonly identified with Hira, was a major settlement in Lower Mesopotamia and a bishopric within the Beth Aramaye ecclesiastical province. The place is associated with the al-Hira region near Kufa and Najaf in modern Iraq, while the exact relationship between the ancient city, its surrounding settlement, and the bishopric should be kept distinct.",
+      "lat": 31.85,
+      "lng": 44.43,
+      "precision": "approximate al-Hira regional reference; ancient city and bishopric extent not identical"
+    },
+    "sections": [
+      {
+        "heading": "Hirta and Beth Aramaye",
+        "body": "Hirta/Hira is listed among the bishoprics of Beth Aramaye in the Syriac ecclesiastical record. This provides direct evidence for its place in the Beth Aramaye regional and church framework during late antiquity and the early Islamic period."
+      },
+      {
+        "heading": "City and Regional Setting",
+        "body": "Hira stood in the Lower Mesopotamian setting near the Euphrates and the routes linking central Iraq with the southern riverlands. The modern al-Hira area supplies geographic orientation, but the map marker does not claim a complete ancient city boundary."
+      },
+      {
+        "heading": "Historical Framing",
+        "body": "The city, its bishopric, and the broader Beth Aramaye region are related but different categories. The Beth Aramaye connection is evidence for historical geography and ecclesiastical organization, not a claim that the whole population of Hira shared one ethnic identity."
+      }
+    ],
+    "note": "Hirta/Hira is a directly attested Beth Aramaye place and bishopric. The map identifies the wider al-Hira setting and does not represent a confirmed boundary for the city or diocese.",
+    "related": [
+      {
+        "label": "Beth Aramaye source",
+        "href": "https://iranicaonline.org/articles/be-aramaye",
+        "description": "Encyclopaedia Iranica overview of Beth Aramaye and its documented bishoprics."
+      },
+      {
+        "label": "Mahuze",
+        "href": "research/geography/ancient/place.html?name=Mahuze",
+        "description": "Seleucia-Ctesiphon urban reference within the wider Beth Aramaye setting."
+      }
+    ],
+    "published": "2026-08-16",
+    "updated": "2026-08-16"
+  },
+  "Anbar-Peroz-Shapur": {
+    "title": "Anbar (Peroz-Shapur)",
+    "category": "Beth Aramaye place and bishopric",
+    "type": "Ancient Euphrates city and directly attested Beth Aramaye bishopric",
+    "region": "Beth Aramaye / Middle Euphrates",
+    "modern_location": "Near Fallujah and Saqlawiyah, Al-Anbar Governorate, Iraq; exact site identification uncertain",
+    "period": "Late antique and early Islamic ecclesiastical sources; Sasanian and earlier settlement history",
+    "beth_aramaye_status": "Directly attested in the Beth Aramaye ecclesiastical province",
+    "geography": {
+      "description": "Anbar, also known in Syriac and Persian forms as Peroz-Shapur (ܐܢܒܪ), was a city on the Euphrates and a bishopric within the Beth Aramaye ecclesiastical province. Its historical setting is associated with the Fallujah and Saqlawiyah area of modern Iraq, but the exact ancient site should not be treated as securely established here.",
+      "lat": 33.35,
+      "lng": 43.78,
+      "precision": "broad Fallujah-Saqlawiyah regional reference; exact Anbar/Peroz-Shapur site uncertain"
+    },
+    "sections": [
+      {
+        "heading": "Anbar and Beth Aramaye",
+        "body": "Anbar/Peroz-Shapur is listed among the bishoprics of Beth Aramaye in the Syriac ecclesiastical record. Its inclusion provides direct evidence for the city and bishopric within the Beth Aramaye framework."
+      },
+      {
+        "heading": "Euphrates Location",
+        "body": "The city belonged to the Euphrates corridor of central Iraq, linking river transport and settlement routes between Upper Mesopotamia, Babylonia, and the lower riverlands. The marker indicates the broad Anbar setting rather than a surveyed ancient-city coordinate."
+      },
+      {
+        "heading": "Name and Historical Framing",
+        "body": "Anbar and Peroz-Shapur are treated here as historical names associated with one urban reference, not as separate Beth Aramaye cities. The city’s ecclesiastical connection does not establish a uniform ethnic identity for all residents or every historical period."
+      }
+    ],
+    "note": "Anbar/Peroz-Shapur is a directly attested Beth Aramaye place and bishopric on the Euphrates. Its exact archaeological location and changing political status require separate source criticism.",
+    "related": [
+      {
+        "label": "Beth Aramaye source",
+        "href": "https://iranicaonline.org/articles/be-aramaye",
+        "description": "Encyclopaedia Iranica overview of Beth Aramaye and its documented bishoprics."
+      },
+      {
+        "label": "Mesopotamia",
+        "href": "research/geography/occupied/region.html?name=Mesopotamia",
+        "description": "Broader geographic framework for the Euphrates and Tigris riverlands."
+      }
+    ],
+    "published": "2026-08-16",
+    "updated": "2026-08-16"
+  },
+  "Beth-Daraye": {
+    "title": "Beth Daraye",
+    "category": "Beth Aramaye district and bishopric",
+    "type": "Ancient district and directly attested Beth Aramaye bishopric; identification debated",
+    "region": "Beth Aramaye / Central Mesopotamia",
+    "modern_location": "Badra and Tell al-Aqr area, Wasit Governorate, Iraq; identification debated",
+    "period": "Late antique and early Islamic ecclesiastical sources; district history and exact chronology uncertain",
+    "beth_aramaye_status": "Directly attested in the Beth Aramaye ecclesiastical province",
+    "geography": {
+      "description": "Beth Daraye (ܒܝܬ ܕܪܝܐ), also rendered Bēṯ Darayē or Bādarāyā, was a district and bishopric in the Beth Aramaye ecclesiastical province. Encyclopaedia Iranica places the district southeast of the lower Nahrawan canal and notes a proposed identification near Tell al-Aqr and Badra; the identification remains debated.",
+      "lat": 33.12,
+      "lng": 45.94,
+      "precision": "broad Badra-Tell al-Aqr reference; Beth Daraye identification and boundaries debated"
+    },
+    "sections": [
+      {
+        "heading": "Beth Daraye and Beth Aramaye",
+        "body": "Beth Daraye is directly listed among the bishoprics of the Beth Aramaye ecclesiastical province. The name therefore belongs in the historical geography of Beth Aramaye, while the ecclesiastical designation should not be treated as proof of a separate kingdom or fixed ethnic boundary."
+      },
+      {
+        "heading": "District and Modern Orientation",
+        "body": "The district is described in relation to the lower Nahrawan canal and central Iraq. A proposed identification with Tell al-Aqr near Badra provides only a cautious modern orientation; the map marker does not claim a confirmed city site or district boundary."
+      },
+      {
+        "heading": "Evidence and Uncertainty",
+        "body": "Beth Daraye is better represented as a textual district and bishopric than as a securely located archaeological city. Its source attestation is stronger than its exact modern identification, so both aspects are recorded separately."
+      }
+    ],
+    "note": "Beth Daraye is a directly attested Beth Aramaye district and bishopric. Its proposed modern identification near Badra and Tell al-Aqr remains debated.",
+    "related": [
+      {
+        "label": "Beth Aramaye source",
+        "href": "https://iranicaonline.org/articles/be-aramaye",
+        "description": "Encyclopaedia Iranica overview of Beth Aramaye and its documented bishoprics."
+      },
+      {
+        "label": "Beth Daraye source",
+        "href": "https://www.iranicaonline.org/articles/be-daraye/",
+        "description": "Encyclopaedia Iranica entry on the district, its location, and proposed identification."
+      }
+    ],
+    "published": "2026-08-16",
+    "updated": "2026-08-16"
+  },
+  "Zawabi": {
+    "title": "Zawabi",
+    "category": "Beth Aramaye place and bishopric",
+    "type": "Textual place and directly attested Beth Aramaye bishopric; location uncertain",
+    "region": "Beth Aramaye / Central Mesopotamia",
+    "modern_location": "Central Iraq; exact ancient location uncertain",
+    "period": "Late antique and early Islamic ecclesiastical sources; exact chronology uncertain",
+    "beth_aramaye_status": "Directly attested in the Beth Aramaye ecclesiastical province",
+    "geography": {
+      "description": "Zawabi (ܙܘܒܝ) was a bishopric included in the Beth Aramaye ecclesiastical province. Its exact ancient location and modern identification are not securely established in the present catalogue, so it is represented as a textual place with a broad central Iraqi reference.",
+      "lat": 32.5,
+      "lng": 45.2,
+      "precision": "broad central Iraq reference only; Zawabi location uncertain"
+    },
+    "sections": [
+      {
+        "heading": "Zawabi and Beth Aramaye",
+        "body": "Zawabi is directly listed among the bishoprics of Beth Aramaye in the Syriac ecclesiastical record. This establishes its place in the province’s historical geography, even though the exact settlement and modern location remain uncertain."
+      },
+      {
+        "heading": "Textual Geography",
+        "body": "The present evidence supports treating Zawabi as a textual place and bishopric rather than assigning it a precise archaeological site. Its broad central Iraqi placement is a regional reference only."
+      },
+      {
+        "heading": "Historical Framing",
+        "body": "The bishopric connection identifies an ecclesiastical and regional relationship. It should not be converted into a fixed political border, a separate polity, or a claim that all inhabitants of the region shared one identity."
+      }
+    ],
+    "note": "Zawabi is a directly attested Beth Aramaye bishopric, but its exact location is uncertain. The map marker is only a broad central Iraqi reference.",
+    "related": [
+      {
+        "label": "Beth Aramaye source",
+        "href": "https://iranicaonline.org/articles/be-aramaye",
+        "description": "Encyclopaedia Iranica overview of Beth Aramaye and its documented bishoprics."
+      },
+      {
+        "label": "Mesopotamia",
+        "href": "research/geography/occupied/region.html?name=Mesopotamia",
+        "description": "Broader geographic framework for central and southern Mesopotamia."
+      }
+    ],
+    "published": "2026-08-16",
+    "updated": "2026-08-16"
+  },
+  "Kokhe": {
+    "title": "Kokhe",
+    "category": "Beth Aramaye associated settlement",
+    "type": "Settlement associated with the Seleucia-Ctesiphon center; Beth Aramaye connection associated rather than a separate bishopric profile",
+    "region": "Beth Aramaye / Seleucia-Ctesiphon",
+    "modern_location": "Al-Mada'in area, Iraq; exact ancient settlement boundaries uncertain",
+    "period": "Late antique and early Islamic Syriac ecclesiastical sources; urban complex has earlier history",
+    "beth_aramaye_status": "Associated central settlement",
+    "geography": {
+      "description": "Kokhe (ܟܘܟܐ) was a settlement associated with the patriarchal center at Seleucia-Ctesiphon and the wider Beth Aramaye ecclesiastical province. It is treated here as an associated central settlement rather than as one of the directly listed Beth Aramaye bishoprics or as a separate polity.",
+      "lat": 32.55,
+      "lng": 44.63,
+      "precision": "broad Seleucia-Ctesiphon urban-region reference; Kokhe boundaries and exact site uncertain"
+    },
+    "sections": [
+      {
+        "heading": "Kokhe and the Beth Aramaye Center",
+        "body": "Kokhe is associated with the patriarchal see at Seleucia-Ctesiphon, the administrative and spiritual center of Beth Aramaye. Its significance in this catalogue is therefore regional and ecclesiastical rather than evidence for a separate Kokhe polity."
+      },
+      {
+        "heading": "Urban Setting",
+        "body": "The settlement belongs to the wider metropolitan landscape of Seleucia-Ctesiphon and Mahoze. The modern Al-Mada'in area provides geographic orientation, but the map marker does not identify a surveyed Kokhe site or fixed settlement boundary."
+      },
+      {
+        "heading": "Evidence Level",
+        "body": "Kokhe is classified as an associated settlement because the available overview connects it with the Beth Aramaye center, while the direct bishopric list and exact archaeological identification are treated separately. This distinction avoids equating every settlement in the region with a polity or a uniform ethnic population."
+      }
+    ],
+    "note": "Kokhe is an associated Beth Aramaye central settlement near Seleucia-Ctesiphon. It is not presented as a separately reconstructed polity or as a securely located archaeological site.",
+    "related": [
+      {
+        "label": "Beth Aramaye source",
+        "href": "https://gedsh.bethmardutho.org/entry/Beth-Aramaye",
+        "description": "Gorgias Encyclopedic Dictionary overview of Beth Aramaye and the Kokhe/Seleucia-Ctesiphon center."
+      },
+      {
+        "label": "Mahuze",
+        "href": "research/geography/ancient/place.html?name=Mahuze",
+        "description": "Syriac urban designation associated with the Seleucia-Ctesiphon metropolitan area."
+      }
+    ],
+    "published": "2026-08-16",
+    "updated": "2026-08-16"
   }
 }

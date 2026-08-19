@@ -10,14 +10,68 @@
         <a color="yellow" href="/research/archaeology/catalogue.html">Catalogue</a>
       </details>
 
-      <details open>
+      <details open data-src="/assets/json/archaeological-fieldwork.json">
         <summary bold>Sites</summary>
-        <div data-src="/assets/json/archaeological-fieldwork.json">
-          <ul data-iterate="excavations" style="list-style:none; margin:0; padding:0;">
-            <li style="margin-top:0.35rem;"><a color="yellow" data-set="excavationId:id" data-get="site"
-                href="/research/archaeology/excavation.html?id={excavationId}" target="main"></a></li>
+
+        <details open>
+          <summary>🇸🇾 Syria</summary>
+          <ul data-filterkey="excavations"
+            data-filteritem="country:'Syria'" data-iterate="excavations" style="list-style:none; margin:0; padding:0;">
+            <li style="margin-top:0.35rem;"><a color="yellow" data-set="excavationId:id"
+                href="/research/archaeology/excavation.html?id={excavationId}" target="main"><span
+                  data-get="modern_name"></span></a></li>
           </ul>
-        </div>
+        </details>
+
+        <details open>
+          <summary>🇹🇷 Turkey</summary>
+          <ul data-filterkey="excavations"
+            data-filteritem="country:'Turkey'" data-iterate="excavations" style="list-style:none; margin:0; padding:0;">
+            <li style="margin-top:0.35rem;"><a color="yellow" data-set="excavationId:id"
+                href="/research/archaeology/excavation.html?id={excavationId}" target="main"><span
+                  data-get="modern_name"></span></a></li>
+          </ul>
+        </details>
+
+        <details open>
+          <summary>🇮🇱 Israel</summary>
+          <ul data-filterkey="excavations"
+            data-filteritem="country:'Israel'" data-iterate="excavations" style="list-style:none; margin:0; padding:0;">
+            <li style="margin-top:0.35rem;"><a color="yellow" data-set="excavationId:id"
+                href="/research/archaeology/excavation.html?id={excavationId}" target="main"><span
+                  data-get="modern_name"></span></a></li>
+          </ul>
+        </details>
+
+        <details open>
+          <summary>🇮🇶 Iraq</summary>
+          <ul data-filterkey="excavations"
+            data-filteritem="country:'Iraq'" data-iterate="excavations" style="list-style:none; margin:0; padding:0;">
+            <li style="margin-top:0.35rem;"><a color="yellow" data-set="excavationId:id"
+                href="/research/archaeology/excavation.html?id={excavationId}" target="main"><span
+                  data-get="modern_name"></span></a></li>
+          </ul>
+        </details>
+
+        <details open>
+          <summary>🇪🇬 Egypt</summary>
+          <ul data-filterkey="excavations"
+            data-filteritem="country:'Egypt'" data-iterate="excavations" style="list-style:none; margin:0; padding:0;">
+            <li style="margin-top:0.35rem;"><a color="yellow" data-set="excavationId:id"
+                href="/research/archaeology/excavation.html?id={excavationId}" target="main"><span
+                  data-get="modern_name"></span></a></li>
+          </ul>
+        </details>
+
+        <details open>
+          <summary>🇸🇦 Saudi Arabia</summary>
+          <ul data-filterkey="excavations"
+            data-filteritem="country:'Saudi Arabia'" data-iterate="excavations" style="list-style:none; margin:0; padding:0;">
+            <li style="margin-top:0.35rem;"><a color="yellow" data-set="excavationId:id"
+                href="/research/archaeology/excavation.html?id={excavationId}" target="main"><span
+                  data-get="modern_name"></span></a></li>
+          </ul>
+        </details>
       </details>
       <hr>
     </nav>
