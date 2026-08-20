@@ -7,7 +7,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Harran"
@@ -20,7 +19,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "broad regional reference only; identification uncertain",
     "tags": ["place", "ancient"],
     "label": "Nahor"
@@ -33,7 +31,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Urhay"
@@ -46,7 +43,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "broad regional reference only; Gidara/Raqamatu identification and modern location uncertain",
     "tags": ["place", "ancient"],
     "label": "Raqamatu"
@@ -59,7 +55,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Guzana"
@@ -72,7 +67,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Tarbusip"
@@ -85,7 +79,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Dammasq"
@@ -98,7 +91,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Hamath"
@@ -111,7 +103,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Arpad"
@@ -124,7 +115,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Sam’al"
@@ -137,7 +127,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Kunulua"
@@ -150,7 +139,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Hazrak"
@@ -163,7 +151,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "broad regional reference only; Iron Age identification uncertain",
     "tags": ["place", "ancient"],
     "label": "Amid"
@@ -176,7 +163,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "broad regional reference only; identification uncertain",
     "tags": ["place", "ancient"],
     "label": "Riblah"
@@ -189,7 +175,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate modern site reference; coordinate should be source-checked",
     "tags": ["place", "ancient"],
     "label": "Hadatu"
@@ -202,7 +187,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate urban reference; identification and chronology should be source-checked",
     "tags": ["place", "ancient"],
     "label": "Ana"
@@ -215,7 +199,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate archaeological-site reference; Bethsaida/et-Tell identification remains interpretive",
     "tags": ["place", "ancient"],
     "label": "Bethsaida"
@@ -228,7 +211,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "broad approximate site reference; coordinate and Suru identification require source-checking",
     "tags": ["place", "ancient"],
     "label": "Sikkan"
@@ -241,7 +223,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate modern town/mound reference; Arne identification debated; not a confirmed Bit-Agusi capital coordinate",
     "tags": ["place", "ancient"],
     "label": "Arne"
@@ -254,7 +235,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate modern urban reference; ancient identification uncertain; not a surveyed Nampigi site coordinate",
     "tags": ["place", "ancient"],
     "label": "Mabbug"
@@ -267,7 +247,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate modern urban reference; not a surveyed Iron Age site coordinate",
     "tags": ["place", "ancient"],
     "label": "Nisibin"
@@ -280,7 +259,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Halab"
@@ -293,7 +271,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Tadmor"
@@ -306,7 +283,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Qarqar"
@@ -319,7 +295,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "broad regional reference; identification debated",
     "tags": ["place", "ancient"],
     "label": "Hadrach"
@@ -332,7 +307,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Nerab"
@@ -345,7 +319,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Sefire"
@@ -358,7 +331,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "broad regional reference; modern site identification uncertain",
     "tags": ["place", "ancient"],
     "label": "Pitru"
@@ -371,7 +343,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Abel-Maacah"
@@ -384,7 +355,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate archaeological-site reference",
     "tags": ["place", "ancient"],
     "label": "Ramoth"
@@ -397,7 +367,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "broad regional reference only; exact location in Beqaa Valley uncertain",
     "tags": ["place", "ancient"],
     "label": "Tibhath"
@@ -410,7 +379,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "broad regional reference only; Suru/Tell Fiden identification and exact site coordinate remain uncertain",
     "tags": ["place", "ancient"],
     "label": "Suru"
@@ -423,7 +391,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate archaeological-site reference; Iron Age Sirqu and its relationship to Laqe are interpreted cautiously",
     "tags": ["place", "ancient"],
     "label": "Sirqu"
@@ -436,7 +403,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
     "label": "Karkamis"
@@ -449,7 +415,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate modern reference; ancient Helbon and modern Halbun identification and anti-Lebanon setting should be treated cautiously",
     "tags": ["place", "ancient"],
     "label": "Helbon"
@@ -462,7 +427,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "broad regional reference only; Geshur's political center and extent remain uncertain; et-Tell/Bethsaida is a possible associated center",
     "tags": ["place", "ancient"],
     "label": "Geshur"
@@ -475,7 +439,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "broad regional reference only; biblical Kir's location and relationship to Aramean origin and deportation traditions remain uncertain",
     "tags": ["place", "ancient"],
     "label": "Kir"
@@ -488,7 +451,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "broad regional reference only; Beth-Rehob is commonly placed near the upper Jordan Valley or southern Beqaa, but its location remains debated",
     "tags": ["place", "ancient"],
     "label": "Beth-Rehob"
@@ -501,7 +463,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference; identification with Fiq/En Gev and the biblical Aphek remains interpretive",
     "tags": ["place", "ancient"],
     "label": "Aphiq"
@@ -514,7 +475,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "broad regional reference only; Kun/Chun and Berothai/Berothah identification and exact location uncertain; associated with Aram-Zobah",
     "tags": ["place", "ancient"],
     "label": "Kun"
@@ -527,7 +487,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "approximate place reference; Orontes valley outpost",
     "tags": ["place", "ancient"],
     "label": "Qarne"
@@ -540,7 +499,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "red",
     "precision": "broad regional reference; Khabur basin town",
     "tags": ["place", "ancient"],
     "label": "Tel-Abni"
@@ -553,7 +511,6 @@
     "symbol": "circle",
     "color": "red",
     "borderColor": "#ffeaa7",
-    "labelColor": "#636e72",
     "precision": "approximate archaeological-site reference; major Bronze Age city, not identified here as an Aramean city",
     "tags": ["place", "ancient", "city", "archaeological-site", "Bronze-Age", "pre-Aramean", "Syria"],
     "label": "Qatna"

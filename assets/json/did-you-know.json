@@ -1,0 +1,658 @@
+{
+  "facts": [
+    {
+      "id": 1,
+      "text": "The biblical text says King David’s wife Maacah was the daughter of Talmai, king of Geshur, a polity commonly associated with the Arameans.",
+      "source_label": "2 Samuel 3:3",
+      "source_url": "https://www.biblegateway.com/passage/?search=2%20Samuel%203%3A3&version=NRSVUE"
+    },
+    {
+      "id": 2,
+      "text": "Genesis places Rebekah, Leah, and Rachel in an Aramean family tradition: Rebekah is the daughter of Bethuel the Aramean, while Leah and Rachel are daughters of Laban the Aramean.",
+      "source_label": "Genesis 25:20; 29:16-30; 31:20-24",
+      "source_url": "https://www.biblegateway.com/passage/?search=Genesis%2025%3A20%3B%20Genesis%2029%3A16-30%3B%20Genesis%2031%3A20-24&version=NRSVUE"
+    },
+    {
+      "id": 3,
+      "text": "Jesus likely spoke a form of Aramaic in daily life, and the Gospels preserve expressions such as Talitha koum and Eloi, Eloi, lema sabachthani.",
+      "source_label": "Mark 5:41; 15:34",
+      "source_url": "https://www.biblegateway.com/passage/?search=Mark%205%3A41%3B%20Mark%2015%3A34&version=NRSVUE"
+    },
+    {
+      "id": 4,
+      "text": "The Tel Dan Stele, written in Old Aramaic, contains an early extra-biblical reference commonly read as House of David.",
+      "source_label": "Tel Dan Stele overview",
+      "source_url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/the-tel-dan-inscription-the-first-historical-evidence-of-the-king-david-bible-story/"
+    },
+    {
+      "id": 5,
+      "text": "Aramaic served as an administrative language across much of the Achaemenid Persian Empire.",
+      "source_label": "Aramaic language overview",
+      "source_url": "https://www.britannica.com/topic/Aramaic-language"
+    },
+    {
+      "id": 6,
+      "text": "Syriac is a later literary form of Aramaic that became an important language of Christian writing.",
+      "source_label": "Syriac language overview",
+      "source_url": "https://www.britannica.com/topic/Syriac-language"
+    },
+    {
+      "id": 7,
+      "text": "Edessa, known in Aramaic as Urhay, became a major center of Syriac literary and Christian traditions.",
+      "source_label": "The Abgar Dynasty of Edessa",
+      "source_url": "article/abgar-dynasty-aramean-kings-edessa.html"
+    },
+    {
+      "id": 8,
+      "text": "Hatra preserved a distinct Eastern Aramaic tradition known as Hatran Aramaic.",
+      "source_label": "Hatra archaeological record",
+      "source_url": "research/archaeology/excavation.html?id=hatra"
+    },
+    {
+      "id": 9,
+      "text": "Palmyra preserves a large corpus of Palmyrene Aramaic inscriptions documenting civic, religious, and family life.",
+      "source_label": "Roman inscriptions at the Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/roman-inscriptions"
+    },
+    {
+      "id": 10,
+      "text": "A cuneiform name resembling Aramu or A-ra-mu appears in early inscriptions from Upper Mesopotamia, although its connection to later Iron Age Arameans remains debated.",
+      "source_label": "Historical timeline: Earliest Epigraphic Mention of Aram, 2300 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 11,
+      "text": "Early Aramean conflicts could involve disputes over pasture, water access, and leadership rather than large imperial battles.",
+      "source_label": "Historical timeline: Early Aramean Tribal Conflicts, 1200 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 12,
+      "text": "Assyrian king Tiglath-Pileser I recorded campaigns against Aramean groups in desert regions during the early twelfth century BC.",
+      "source_label": "Historical timeline: Assyrian Campaigns of Tiglath-Pileser I, 1114 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 13,
+      "text": "After the Bronze Age Collapse, Aramean groups formed or supported royal polities in Upper Mesopotamia and Syria, including Damascus, Bit-Adini, Bit-Agusi, Hamath, and Samal.",
+      "source_label": "Historical timeline: Emergence of the Aramean Kingdoms, 1100 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 14,
+      "text": "Assyrian records describe conflict with Ahlame and other Aramean groups as Assyria expanded westward.",
+      "source_label": "Historical timeline: Assyrian Tribal Wars, 1100 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 15,
+      "text": "The Old Aramaic alphabet developed from the wider Northwest Semitic alphabetic writing tradition and offered a simpler alternative to cuneiform for many uses.",
+      "source_label": "Historical timeline: Development of the Old Aramaic Alphabet, 1000 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 16,
+      "text": "Rivalries among Damascus, Hamath, Samal, and Bit-Agusi helped shape the political landscape of the Iron Age Levant.",
+      "source_label": "Historical timeline: Inter-Kingdom Rivalries, 1000 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 17,
+      "text": "Assyrian conquest absorbed many independent Aramean polities while Aramaic-speaking communities became important within imperial administration.",
+      "source_label": "Historical timeline: Neo-Assyrian Expansion and Adoption of Aramaic, 911 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 18,
+      "text": "Aram-Damascus and the Kingdom of Israel repeatedly competed for territory and influence in the southern Levant.",
+      "source_label": "Historical timeline: Aram-Damascus vs Israel, 900 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 19,
+      "text": "At Qarqar, Aramean kingdoms joined Israel and other regional powers in a coalition against Assyrian expansion.",
+      "source_label": "Historical timeline: Battle of Qarqar, 853 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 20,
+      "text": "Hazael transformed Aram-Damascus into a major regional power through campaigns against Israel, Judah, and Philistia.",
+      "source_label": "Historical timeline: Rise of Hazael of Aram-Damascus, 850 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 21,
+      "text": "The Zakkur Stele records a king of Hamath and Luash dedicating an inscription to the storm god Baalshamin after surviving a siege.",
+      "source_label": "Historical timeline: Stele of Zakkur, 805 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 22,
+      "text": "Inscriptions of Sargon II mention campaigns against Aramean forces and refer to territories such as Bit-Amukkani and Bit-Dakkuri.",
+      "source_label": "Historical timeline: Sargon II Inscriptions on Arameans, 760 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 23,
+      "text": "The Sefire stelae preserve an Aramaic treaty involving Mati’el of Arpad and Bar-Gayah of KTK, offering evidence for ancient diplomacy and legal language.",
+      "source_label": "Historical timeline: The Sefire Treaties and State Diplomacy, 750 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 24,
+      "text": "Tiglath-Pileser III’s campaigns brought the remaining independent Aramean kingdoms under Assyrian control, including Damascus in 732 BC.",
+      "source_label": "Historical timeline: Tiglath-Pileser III Campaigns, 745 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 25,
+      "text": "Sargon II continued the Assyrian conquest of western territories and ended the independence of several Aramean-associated polities.",
+      "source_label": "Historical timeline: Sargon II Campaigns, 720 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 26,
+      "text": "The Kaldu tribes of southern Babylonia established the Neo-Babylonian Empire under Nabopolassar and Nebuchadnezzar II; their relationship to Aramean groups is discussed cautiously in scholarship.",
+      "source_label": "Historical timeline: Neo-Babylonian Period, 626 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 27,
+      "text": "Imperial Aramaic reached from Egypt to the Indus as a standardized chancery language of the Achaemenid Empire.",
+      "source_label": "Historical timeline: Achaemenid Persia and Imperial Aramaic, 539 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 28,
+      "text": "The Tale of Ahikar is an Imperial Aramaic wisdom story associated with the Achaemenid period and later Near Eastern literary traditions.",
+      "source_label": "Historical timeline: The Tale of Ahikar, 500 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 29,
+      "text": "An Elephantine legal receipt records a grain loan involving Pakhnum, described in the timeline as an Aramean resident of Egypt.",
+      "source_label": "Historical timeline: Elephantine Receipt for a Grain Loan, 402 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 30,
+      "text": "During the Hellenistic period, Aramaic continued in daily life and local law while regional dialects such as Palmyrene, Nabataean, Hatran, and Edessan developed.",
+      "source_label": "Historical timeline: Hellenistic Period and Dialect Branching, 332 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 31,
+      "text": "Aramaic literary works preserved among the Dead Sea Scrolls include the Genesis Apocryphon, Enoch literature, and targumic translations.",
+      "source_label": "Historical timeline: Aramaic Portions of the Dead Sea Scrolls, 200 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 32,
+      "text": "The Abgarid dynasty ruled Osroene from Edessa, or Urhoy, between Roman and Parthian spheres of power.",
+      "source_label": "Historical timeline: Kingdom of Osroene, 132 BC",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 33,
+      "text": "The bilingual Hadad-yis'i statue from Tell Fekheriye pairs an Assyrian text with an Aramaic text dedicated to the storm god Hadad, preserving rare evidence of elite bilingualism in 9th-century Guzana.",
+      "source_label": "Archaeological evidence: Hadad-yis'i bilingual statue",
+      "source_url": "research/archaeology/evidence.html?id=5"
+    },
+    {
+      "id": 34,
+      "text": "The Katumuwa funerary stele from Zincirli says the official's soul would dwell in the monument, offering unusual evidence for mortuary beliefs in an Iron Age Aramean polity.",
+      "source_label": "Archaeological evidence: Katumuwa Stele",
+      "source_url": "research/archaeology/evidence.html?id=10"
+    },
+    {
+      "id": 35,
+      "text": "During the first centuries AD, Palmyra and Edessa became major urban centers of Aramaic trade, writing, and cultural exchange.",
+      "source_label": "Historical timeline: Rise of Palmyra and Edessa, 1 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 36,
+      "text": "Antioch became an important center for the development of Syriac Christianity and the later Syriac Orthodox tradition.",
+      "source_label": "Historical timeline: Establishment of the Church of Antioch, 33 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 37,
+      "text": "Christianity spread among Aramaic-speaking communities through networks connecting Jerusalem, Antioch, Syria, and Upper Mesopotamia.",
+      "source_label": "Historical timeline: Early Christianization of the Arameans, 50 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 38,
+      "text": "A mosaic from Edessa dated AD 194 depicts Orpheus and names both the tomb owner and the artist in Syriac, making it one of the earliest dated Syriac inscriptions known.",
+      "source_label": "Archaeological evidence: Orpheus Mosaic",
+      "source_url": "research/archaeology/evidence.html?id=39"
+    },
+    {
+      "id": 39,
+      "text": "Edessa became one of the earliest Christian centers in the Aramaic-speaking world, and the Peshitta emerged as a Syriac translation tradition.",
+      "source_label": "Historical timeline: Christianization of Edessa and the Peshitta, 150 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 40,
+      "text": "Tatian’s Diatessaron combined the four Gospels into a continuous harmony written for the Syriac-speaking Christian world.",
+      "source_label": "Historical timeline: Tatian’s Diatessaron and Bardaisan, 170 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 41,
+      "text": "The Curetonian and Sinaitic witnesses preserve early Old Syriac Gospel traditions connected with Edessa’s Aramaic Christian culture.",
+      "source_label": "Historical timeline: Old Syriac Gospels, 200 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 42,
+      "text": "A funerary mosaic from Urhoy commemorates Barhadad, preserving an ancient Aramaic royal name in the Christian city of Edessa.",
+      "source_label": "Historical timeline: Barhadad Mosaic of Urhoy, 201 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 43,
+      "text": "A bronze horse frontlet found at the Heraion of Samos bears the name of Hazael, king of Aram-Damascus, suggesting that his court's goods or political connections reached the Aegean world.",
+      "source_label": "Archaeological evidence: Hazael Horse Frontlet",
+      "source_url": "research/archaeology/evidence.html?id=13"
+    },
+    {
+      "id": 44,
+      "text": "A Babylonian incantation bowl in the archaeological record refers to Aramaean demons, showing that Aramaean identity could remain a named category in late antique religious texts.",
+      "source_label": "Historical timeline: Babylonian Aramaic Incantation Bowl, 250 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 45,
+      "text": "Queen Zenobia ruled a Palmyrene empire that briefly extended across Syria, Egypt, and parts of Asia Minor before Roman reconquest.",
+      "source_label": "Historical timeline: Palmyrene Empire under Zenobia, 260 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 46,
+      "text": "Mor Ephrem the Syrian composed hymns and homilies in Syriac, contributing to the poetic and theological heritage of Aramaic Christianity.",
+      "source_label": "Historical timeline: Mor Ephrem the Syrian, 306 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 47,
+      "text": "Mor Ephrem’s writings include arguments against Bardaisan and other theological positions, showing the intellectual diversity of Syriac Christianity.",
+      "source_label": "Historical timeline: Ephrem against Bardaisan, 306 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 48,
+      "text": "The Nisibene Hymns are part of the Syriac poetic tradition associated with Ephrem and the communities of northern Mesopotamia.",
+      "source_label": "Historical timeline: Nisibene Hymns, 306 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 49,
+      "text": "Dura-Europos preserved a painted synagogue and one of the earliest known Christian house churches in the same frontier city, alongside Aramaic documents and inscriptions.",
+      "source_label": "Archaeological fieldwork: Dura-Europos",
+      "source_url": "research/archaeology/excavation.html?id=dura-europos"
+    },
+    {
+      "id": 50,
+      "text": "Sasanian references to Beth Oromoye connect central Mesopotamia with a name interpreted in the timeline as the land of the Arameans.",
+      "source_label": "Historical timeline: Shemon Bar Sabbae and Beth Oromoye, 325 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 51,
+      "text": "After Nisibis passed to Persia, Ephrem relocated to Edessa and became a major voice in Syriac hymnography and theology.",
+      "source_label": "Historical timeline: Ephrem and the School of Nisibis, 363 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 52,
+      "text": "The 2008–2009 excavations at Tell Tayinat recovered burned cultic objects and eleven cuneiform tablets or fragments from the inner sanctum of a Neo-Assyrian temple; the site's identification with Kunulua remains a reconstruction.",
+      "source_label": "Archaeological fieldwork: Tell Tayinat",
+      "source_url": "research/archaeology/excavation.html?id=tell-tayinat"
+    },
+    {
+      "id": 53,
+      "text": "The Council of Chalcedon contributed to lasting ecclesial divisions among Aramaic-speaking Christian communities.",
+      "source_label": "Historical timeline: Council of Chalcedon and Ecclesial Division, 451 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 54,
+      "text": "Persian-period Samaria left Aramaic papyri recording sales, loans, and other legal transactions, showing how ordinary administration survived outside royal inscriptions.",
+      "source_label": "Archaeological evidence: Samaria Papyri",
+      "source_url": "research/archaeology/evidence.html?id=54"
+    },
+    {
+      "id": 55,
+      "text": "The Syriac homiletic tradition used works on the Church to explain theology, worship, and communal identity in Aramaic-speaking communities.",
+      "source_label": "Historical timeline: Jacob of Serugh on the Church, 451 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 56,
+      "text": "By about AD 540, Byzantine purges had reduced the active non-Chalcedonian Syriac episcopate to three surviving bishops; Jacob Baradaeus then rebuilt the hierarchy through clandestine ordinations.",
+      "source_label": "Historical timeline: Byzantine Persecution of Syriac Christians, 518 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 57,
+      "text": "A letter attributed to Simeon of Beth Arsham provides evidence for church politics and the use of Beth Oromoye as a regional Aramean designation.",
+      "source_label": "Historical timeline: Letter of Simeon of Beth Arsham, 485 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 58,
+      "text": "The Peshitta became a central Syriac biblical tradition used by Aramaic-speaking Christian communities across a wide region.",
+      "source_label": "Historical timeline: Peshitta Canon Standardized, 500 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 59,
+      "text": "The Syriac work Cave of Treasures presents a theological account of language and human history within the Aramaic Christian tradition.",
+      "source_label": "Historical timeline: Cave of Treasures, 500 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 60,
+      "text": "An East Syriac canon-law tradition refers to Ephrem as Mor Ephrem the Aramean, illustrating the continued use of Aramean identity language in Syriac sources.",
+      "source_label": "Historical timeline: Letter of the Western Fathers to Mar Papa, 500 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 61,
+      "text": "The story of Bishop Bar-Hadad of Tella preserves an example of an ancient Aramean royal name carried by a Christian Syriac leader.",
+      "source_label": "Historical timeline: Bishop Bar-Hadad of Tella, 502 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 62,
+      "text": "Byzantine persecution after Chalcedon affected non-Chalcedonian Syriac Christians, monasteries, bishops, and regional communities.",
+      "source_label": "Historical timeline: Byzantine Persecution of Syriac Christians, 518 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 63,
+      "text": "Jacob Baradaeus rebuilt a Syriac ecclesiastical hierarchy after imperial persecution, leaving a lasting mark on Syriac Orthodox history.",
+      "source_label": "Historical timeline: Jacob Baradaeus Restores the Hierarchy, 543 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 64,
+      "text": "The Rabula Gospels are a richly illuminated Syriac manuscript associated with the artistic culture of Christian Syria.",
+      "source_label": "Historical timeline: Production of the Rabula Gospels, 586 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 65,
+      "text": "East Syriac missionaries carried Aramaic Christian texts along the Silk Road to China, where the Nestorian Stele records their presence.",
+      "source_label": "Historical timeline: East Syriac Missions Reach China, 636 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 66,
+      "text": "After the Arab-Islamic conquest, Aramaic-speaking Christian communities continued under new political rule while Arabic gradually expanded in administration.",
+      "source_label": "Historical timeline: Arab-Islamic Conquest of Mesopotamia, 637 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 67,
+      "text": "The Khuzistan Chronicle identifies Queen Shirin as an Aramean Christian within the Sasanian royal world.",
+      "source_label": "Historical timeline: Khuzistan Chronicle and Queen Shirin, 680 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 68,
+      "text": "A copied manuscript of Michael the Great’s Chronicle lost the word Oromoye and a comma, changing ‘Arameans, that is Syriacs’ into the misleading reading ‘Assyrians that is Syriacs’; a 2006 critical edition restored the passage.",
+      "source_label": "Manuscript study: Michael the Great Chronicle correction",
+      "source_url": "article/mor-michael-rabo-missing-comma-word.html"
+    },
+    {
+      "id": 69,
+      "text": "The Chronicle of Zuqnin uses both Syriac and Sons of Aram language when describing Christian populations in Mesopotamia.",
+      "source_label": "Historical timeline: Umayyad Census on the Sons of Aram, 691 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 70,
+      "text": "Three basalt Sefire stelae preserve one of the longest Old Aramaic treaties, recording diplomacy, obligations, curses, and divine witnesses between Iron Age rulers.",
+      "source_label": "Archaeological evidence: Sefire Stelae",
+      "source_url": "research/archaeology/evidence.html?id=3"
+    },
+    {
+      "id": 71,
+      "text": "The palace of Kapara at Tell Halaf was decorated with monumental basalt lions, sphinxes, and reliefs blending Syro-Hittite and Mesopotamian artistic traditions.",
+      "source_label": "Archaeological evidence: Tell Halaf Sculptures",
+      "source_url": "research/archaeology/evidence.html?id=4"
+    },
+    {
+      "id": 72,
+      "text": "King Kilamuwa of Bit-Gabbar left a royal stele showing him in ceremonial dress beside a Phoenician inscription about his achievements.",
+      "source_label": "Archaeological evidence: Kilamuwa Stele",
+      "source_url": "research/archaeology/evidence.html?id=6"
+    },
+    {
+      "id": 73,
+      "text": "A statue of the storm god Hadad carries an inscription in Samalian Aramaic erected by King Panamuwa I of Bit-Gabbar.",
+      "source_label": "Archaeological evidence: Panamuwa I Inscription",
+      "source_url": "research/archaeology/evidence.html?id=7"
+    },
+    {
+      "id": 74,
+      "text": "The funerary inscription for Panamuwa II says the king died during Tiglath-Pileser III’s campaign against Damascus, linking a royal memorial to a major Assyrian conquest.",
+      "source_label": "Archaeological evidence: Panamuwa II Inscription",
+      "source_url": "research/archaeology/evidence.html?id=8"
+    },
+    {
+      "id": 75,
+      "text": "Bar-Rakib’s inscriptions are among the earliest records written in Imperial Aramaic rather than the local Samalian dialect, revealing a language shift inside an Aramean court.",
+      "source_label": "Archaeological evidence: Bar-Rakib Inscriptions",
+      "source_url": "research/archaeology/evidence.html?id=9"
+    },
+    {
+      "id": 76,
+      "text": "Ivory pieces bearing Hazael’s name were found at Arslan Tash, an Assyrian provincial capital—possible traces of Aram-Damascus wealth carried far from Damascus.",
+      "source_label": "Archaeological evidence: Hazael Booty Inscriptions",
+      "source_url": "research/archaeology/evidence.html?id=12"
+    },
+    {
+      "id": 77,
+      "text": "A basalt stele near Aleppo names Bar-Hadad, king of Aram, and records a royal dedication to the god Melqart.",
+      "source_label": "Archaeological evidence: Melqart Stele",
+      "source_url": "research/archaeology/evidence.html?id=14"
+    },
+    {
+      "id": 78,
+      "text": "Small limestone amulets from Arslan Tash contain Aramaic incantations against demons and evil spirits, although their authenticity remains debated.",
+      "source_label": "Archaeological evidence: Arslan Tash Amulets",
+      "source_url": "research/archaeology/evidence.html?id=15"
+    },
+    {
+      "id": 79,
+      "text": "Painted palace walls from Til Barsip preserve military scenes and court life from a former Aramean capital later absorbed into the Assyrian system.",
+      "source_label": "Archaeological evidence: Til Barsip Wall Paintings",
+      "source_url": "research/archaeology/evidence.html?id=17"
+    },
+    {
+      "id": 80,
+      "text": "The kingdom of Hamath left inscriptions in both Luwian hieroglyphs and Aramaic, revealing a bilingual political environment in the Iron Age Levant.",
+      "source_label": "Archaeological evidence: Hamath Inscriptions",
+      "source_url": "research/archaeology/evidence.html?id=18"
+    },
+    {
+      "id": 81,
+      "text": "An Old Aramaic stele from Bukan in western Iran is one of the easternmost texts of its period, showing the language far beyond the Levant.",
+      "source_label": "Archaeological evidence: Bukan Stele",
+      "source_url": "research/archaeology/evidence.html?id=22"
+    },
+    {
+      "id": 82,
+      "text": "Funerary stelae from Neirab portray priests of the moon god and preserve Aramaic evidence for religious practice near ancient Aleppo.",
+      "source_label": "Archaeological evidence: Neirab Steles",
+      "source_url": "research/archaeology/evidence.html?id=23"
+    },
+    {
+      "id": 83,
+      "text": "Aramaic inscriptions at Tayma in northwestern Arabia show the language being used at a Persian-period oasis far south of the Levant.",
+      "source_label": "Archaeological evidence: Tayma Stones",
+      "source_url": "research/archaeology/evidence.html?id=24"
+    },
+    {
+      "id": 84,
+      "text": "Aramaic ostraca and clay tablets found at Assur show the language being used alongside Akkadian in the former Assyrian capital’s administration.",
+      "source_label": "Archaeological evidence: Assur Ostracon and Tablets",
+      "source_url": "research/archaeology/evidence.html?id=25"
+    },
+    {
+      "id": 85,
+      "text": "The Elephantine papyri preserve contracts, letters, and legal disputes from a Persian-period island community on the Nile, making Aramaic daily life unusually visible.",
+      "source_label": "Archaeological evidence: Elephantine Papyri",
+      "source_url": "research/archaeology/evidence.html?id=27"
+    },
+    {
+      "id": 86,
+      "text": "Aramaic funerary stelae from Daskyleion show that the Persian Empire’s administrative language reached its satrapal capital in western Anatolia.",
+      "source_label": "Archaeological evidence: Daskyleion Steles",
+      "source_url": "research/archaeology/evidence.html?id=30"
+    },
+    {
+      "id": 87,
+      "text": "An Aramaic rock inscription of Ashoka was carved near Jalalabad in Afghanistan, evidence of the language’s use in the Mauryan Empire’s western provinces.",
+      "source_label": "Archaeological evidence: Pul-i-Darunteh Inscription",
+      "source_url": "research/archaeology/evidence.html?id=34"
+    },
+    {
+      "id": 88,
+      "text": "Aramaic inscriptions from Luristan show the language penetrating the highlands of western Iran across different periods.",
+      "source_label": "Archaeological evidence: Luristan Aramaic Inscriptions",
+      "source_url": "research/archaeology/evidence.html?id=31"
+    },
+    {
+      "id": 89,
+      "text": "Eight Aramaic letters found at Hermopolis in Egypt preserve personal correspondence, giving an unusually intimate view of communication far from the Levant.",
+      "source_label": "Archaeological evidence: Hermopolis Aramaic Papyri",
+      "source_url": "research/archaeology/evidence.html?id=28"
+    },
+    {
+      "id": 90,
+      "text": "Aramaic legal papyri from Wadi Daliyeh were hidden in a cave by refugees from Samaria, preserving documents from a community displaced in the Persian period.",
+      "source_label": "Archaeological evidence: Wadi Daliyeh Papyri",
+      "source_url": "research/archaeology/evidence.html?id=49"
+    },
+    {
+      "id": 91,
+      "text": "A Persian-period Aramaic rock inscription survives at Sarıaydın in southern Turkey, showing the language’s use in Cilicia during the Achaemenid era.",
+      "source_label": "Archaeological evidence: Sarıaydın Inscription",
+      "source_url": "research/archaeology/evidence.html?id=29"
+    },
+    {
+      "id": 92,
+      "text": "Timur’s campaigns caused severe destruction in Tur Abdin, Mardin, and other centers of Syriac Christian life.",
+      "source_label": "Historical timeline: Campaigns of Timur, 1394 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 93,
+      "text": "Under Ottoman rule, Aramaic-speaking Christian communities persisted especially in Tur Abdin and other village regions of the historic homeland.",
+      "source_label": "Historical timeline: Ottoman Conquest of Syria and Mesopotamia, 1516 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 94,
+      "text": "A bilingual Greek-Aramaic rock inscription of the Mauryan emperor Ashoka was carved at Kandahar in modern Afghanistan, showing Aramaic reaching deep into Central Asia.",
+      "source_label": "Archaeological evidence: Kandahar Bilingual Rock Inscription",
+      "source_url": "research/archaeology/evidence.html?id=32"
+    },
+    {
+      "id": 95,
+      "text": "An Aramaic inscription found at Taxila in modern Pakistan is described in the repository as the easternmost known Aramaic inscription, marking the language’s reach to the Indian subcontinent.",
+      "source_label": "Archaeological evidence: Aramaic Inscription of Taxila",
+      "source_url": "research/archaeology/evidence.html?id=33"
+    },
+    {
+      "id": 96,
+      "text": "Late-Achaemenid Bactria produced Aramaic administrative documents, evidence that the language served imperial bureaucracy in Central Asia.",
+      "source_label": "Archaeological evidence: Bactria Aramaic Documents",
+      "source_url": "research/archaeology/evidence.html?id=35"
+    },
+    {
+      "id": 97,
+      "text": "One of Ashoka’s Aramaic rock inscriptions survives in the Laghman valley of Afghanistan, far east of the language’s original Levantine heartlands.",
+      "source_label": "Archaeological evidence: Aramaic Inscription of Laghman",
+      "source_url": "research/archaeology/evidence.html?id=36"
+    },
+    {
+      "id": 98,
+      "text": "Palmyra has yielded more than 3,500 Palmyrene Aramaic inscriptions covering trade, religion, civic life, and family memory.",
+      "source_label": "Archaeological evidence: Palmyrene Inscriptions",
+      "source_url": "research/archaeology/evidence.html?id=37"
+    },
+    {
+      "id": 99,
+      "text": "A 3rd-century funerary mosaic from Edessa portrays Aftuha and his family with a Syriac inscription, giving a rare glimpse of family identity in ancient Urhay.",
+      "source_label": "Archaeological evidence: Aftuha Family Mosaic",
+      "source_url": "research/archaeology/evidence.html?id=38"
+    },
+    {
+      "id": 100,
+      "text": "A broken basalt stele from Bethsaida depicts a horned bull-headed deity with a dagger, vivid evidence of cultic imagery in the kingdom of Geshur.",
+      "source_label": "Archaeological evidence: Bethsaida Cultic Stele",
+      "source_url": "research/archaeology/evidence.html?id=41"
+    },
+    {
+      "id": 101,
+      "text": "An ivory bed-head fragment found at Nimrud bears the name of Hazael, showing Aram-Damascus luxury goods reaching the Assyrian capital as tribute or war booty.",
+      "source_label": "Archaeological evidence: Hazael Ivory Bed",
+      "source_url": "research/archaeology/evidence.html?id=42"
+    },
+    {
+      "id": 102,
+      "text": "Monumental basalt lions once guarded the citadel gate of Sam’al, the capital of the Aramean kingdom of Bit-Gabbar.",
+      "source_label": "Archaeological evidence: Sam’al Citadel Gate Lions",
+      "source_url": "research/archaeology/evidence.html?id=43"
+    },
+    {
+      "id": 103,
+      "text": "A relief from Zincirli shows King Bar-Rakib seated before a scribe, an unusually direct image of an Aramean court at work.",
+      "source_label": "Archaeological evidence: Bar-Rakib Relief",
+      "source_url": "research/archaeology/evidence.html?id=44"
+    },
+    {
+      "id": 104,
+      "text": "The Behistun monument included an Aramaic version of Darius I’s famous multilingual royal inscription, reflecting Aramaic’s official reach across the Achaemenid Empire.",
+      "source_label": "Archaeological evidence: Behistun Aramaic Inscription",
+      "source_url": "research/archaeology/evidence.html?id=48"
+    },
+    {
+      "id": 105,
+      "text": "Thousands of Nabataean inscriptions preserve a late Aramaic dialect that developed into an important ancestor of early Arabic script.",
+      "source_label": "Archaeological evidence: Nabataean Inscriptions",
+      "source_url": "research/archaeology/evidence.html?id=50"
+    },
+    {
+      "id": 106,
+      "text": "Max von Oppenheim’s excavations at Tell Halaf brought the ancient center of Guzana and its monumental remains to wider archaeological attention.",
+      "source_label": "Historical timeline: Max von Oppenheim, 1899 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 107,
+      "text": "The Seyfo genocide and related deportations from 1915 to 1918 caused mass death, displacement, and long-term demographic change in Aramaic-speaking homelands.",
+      "source_label": "Historical timeline: Seyfo Genocide and Modern Displacement, 1915 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 108,
+      "text": "Aramean diaspora communities established churches, schools, associations, and publishing projects to preserve language and identity outside the historic homeland.",
+      "source_label": "Historical timeline: Diaspora Formation and Language Preservation, 1918 AD",
+      "source_url": "research/history/timeline.html"
+    },
+    {
+      "id": 109,
+      "text": "In a 1919 Beth-Nahrin periodical, Naum Faiq urged the ‘son of Aram’ to awaken, turning a printed slogan into an early record of modern Aramean cultural revival.",
+      "source_label": "Historical timeline: Naum Faiq, 1919 AD",
+      "source_url": "research/history/timeline.html"
+    }
+  ]
+}

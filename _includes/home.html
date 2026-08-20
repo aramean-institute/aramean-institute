@@ -20,7 +20,9 @@
 </section>
 
 <section justifycontent="center" bgcolor="whitesmoke" flex>
-  <article maxwidth="130rem" maxwidth="130rem" screen-xxs="padding:[0]" screen-md="padding:[1rem]" screen-lg="padding:[2.5rem]" screen-xl="padding:[3.5rem]">
+  <article maxwidth="130rem" maxwidth="130rem" screen-xxs="padding:[0]" screen-md="padding:[1rem]"
+    screen-lg="padding:[2.5rem]" screen-xl="padding:[3.5rem]">
+    <h2 class="tac" margintop="0.5rem" marginbottom="1rem">Publications</h2>
     <div screen-xxs="gridcolumns:[1fr]" screen-lg="gridcolumns:[1fr 1fr]" screen-xl="gridcolumns:[1fr 1fr 1fr]"
       screen-wide="gridcolumns:[1fr 1fr 1fr 1fr]" radius="0.5rem" screen-xxs="gap:[0]" screen-lg="gap:[0.5rem]"
       class="box cards m1- bcwhite- border- bo0- tac" data-src="assets/json/articles.json" data-iterate="articles">
@@ -42,10 +44,27 @@
     </div>
   </article>
 </section>
-<hr>
+
+<section justifycontent="center" bgcolor="#f7f3ea" color="black" flex screen-xxs="padding:[2rem 1rem]" screen-lg="padding:[5rem 1rem]">
+  <article maxwidth="60rem" width="100%" data-src="assets/json/did-you-know.json" data-iterate="facts"
+    data-sort="random" data-limit="1">
+    <div bgcolor="white" border="1px solid #eadfbe" radius="0.25rem" padding="2rem" >
+      <h2 marginbottom="0.75rem" color="#7a5a00">Did you know?</h2>
+      <p fontsize="1.05rem" lineheight="1.7" data-get="text"></p>
+      <div align="center" margintop="1rem" color="#665d45" style="text-align:center;overflow-wrap:anywhere;">
+        <small>
+          <b>Source:</b>&nbsp;
+          <a data-set="href:source_url" data-get="source_label" target="_blank" rel="noopener"></a>
+        </small>
+      </div>
+    </div>
+  </article>
+</section>
+
 <section color="black" justifycontent="center" flex>
-  <article screen-xxs="width:[100%];padding:[3rem]" screen-lg="width:[90%];padding:[4rem]" screen-xl="width:[80%];padding:[5rem]">
-    <div class="tac">
+  <article screen-xxs="width:[100%];padding:[3rem]" screen-lg="width:[90%];padding:[4rem]"
+    screen-xl="width:[80%];padding:[5rem]">
+    <div align="center" lineheight="1.75">
       <h2>Aramean Studies</h2>
       <p color="gray" fontsize="110%">
         Explore the history, language, ethnology, archaeology, geography, religion,
@@ -59,6 +78,5 @@
     </div>
   </article>
 </section>
-<hr>
 <section include="./_includes/footer.html" bgcolor="red" color="white" padding="1rem" class="white- p1"></section>
 </content>
