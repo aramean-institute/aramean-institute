@@ -1196,8 +1196,8 @@
     "period": "Seleucia-Ctesiphon complex from the Hellenistic period onward; Mahoze as a Syriac designation in late-antique and early-Islamic sources",
     "geography": {
       "description": "Mahuze (Mahoze, ܡܚܘܙܐ) was a Syriac designation associated with the Seleucia-Ctesiphon metropolitan area in southern Mesopotamia. Syriac sources place the city within Beth Aramaye, but the exact relationship between the name Mahuze and the different cities and districts of the metropolitan complex remains a historical question.",
-      "lat": 32.55,
-      "lng": 44.63,
+      "lat": 33.093611,
+      "lng": 44.580833,
       "precision": "approximate Seleucia-Ctesiphon urban-region reference; exact Mahuze location within the complex uncertain"
     },
     "sections": [
@@ -1243,8 +1243,8 @@
     "period": "Late antique Syriac sources; exact chronology of the locality uncertain",
     "geography": {
       "description": "According to Syriac tradition, Beth Arsham was located in Beth Aramaye, near Seleucia-Ctesiphon in Lower Mesopotamia. Its exact site has not been securely identified, so the wider Al-Mada'in area is used only as a geographic reference.",
-      "lat": 32.55,
-      "lng": 44.63,
+      "lat": 33.093611,
+      "lng": 44.580833,
       "precision": "broad Seleucia-Ctesiphon regional reference; exact Beth Arsham location uncertain"
     },
     "sections": [
@@ -1511,8 +1511,8 @@
     "beth_aramaye_status": "Associated central settlement",
     "geography": {
       "description": "Kokhe (ܟܘܟܐ) was a settlement associated with the patriarchal center at Seleucia-Ctesiphon and the wider Beth Aramaye ecclesiastical province. It is treated here as an associated central settlement rather than as one of the directly listed Beth Aramaye bishoprics or as a separate polity.",
-      "lat": 32.55,
-      "lng": 44.63,
+      "lat": 33.093611,
+      "lng": 44.580833,
       "precision": "broad Seleucia-Ctesiphon urban-region reference; Kokhe boundaries and exact site uncertain"
     },
     "sections": [

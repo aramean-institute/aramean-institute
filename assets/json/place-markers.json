@@ -5,10 +5,11 @@
     "lng": 39.03,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Harran"
   },
   {
@@ -17,10 +18,11 @@
     "lng": 39.0,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; identification uncertain",
     "tags": ["place", "ancient"],
+    "settlementType": "town",
     "label": "Nahor"
   },
   {
@@ -29,10 +31,11 @@
     "lng": 38.7939,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Urhay"
   },
   {
@@ -41,10 +44,11 @@
     "lng": 40.1,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; Gidara/Raqamatu identification and modern location uncertain",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Raqamatu"
   },
   {
@@ -53,10 +57,11 @@
     "lng": 40.07,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Guzana"
   },
   {
@@ -65,10 +70,11 @@
     "lng": 38.22,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Tarbusip"
   },
   {
@@ -77,11 +83,12 @@
     "lng": 36.2765,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
-    "label": "Dammasq"
+    "settlementType": "city",
+    "label": "Damasq"
   },
   {
     "name": "Hamath-Hama",
@@ -89,10 +96,11 @@
     "lng": 36.75,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Hamath"
   },
   {
@@ -101,10 +109,11 @@
     "lng": 37.094722,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Arpad"
   },
   {
@@ -113,10 +122,11 @@
     "lng": 36.6786,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Sam’al"
   },
   {
@@ -125,10 +135,11 @@
     "lng": 36.376389,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Kunulua"
   },
   {
@@ -137,11 +148,12 @@
     "lng": 36.798611,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
-    "label": "Hazrak"
+    "settlementType": "city",
+    "label": "Hazrek"
   },
   {
     "name": "Amida-Diyarbakir",
@@ -149,10 +161,11 @@
     "lng": 40.240872,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; Iron Age identification uncertain",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Amid"
   },
   {
@@ -161,10 +174,11 @@
     "lng": 36.54,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; identification uncertain",
     "tags": ["place", "ancient"],
+    "settlementType": "town",
     "label": "Riblah"
   },
   {
@@ -173,10 +187,11 @@
     "lng": 37.7,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "approximate modern site reference; coordinate should be source-checked",
     "tags": ["place", "ancient"],
+    "settlementType": "town",
     "label": "Hadatu"
   },
   {
@@ -185,10 +200,11 @@
     "lng": 41.92,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "approximate urban reference; identification and chronology should be source-checked",
     "tags": ["place", "ancient"],
+    "settlementType": "town",
     "label": "Ana"
   },
   {
@@ -197,10 +213,11 @@
     "lng": 35.63,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "approximate archaeological-site reference; Bethsaida/et-Tell identification remains interpretive",
     "tags": ["place", "ancient"],
+    "settlementType": "town",
     "label": "Bethsaida"
   },
   {
@@ -209,10 +226,11 @@
     "lng": 40.2,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "broad approximate site reference; coordinate and Suru identification require source-checking",
     "tags": ["place", "ancient"],
+    "settlementType": "town",
     "label": "Sikkan"
   },
   {
@@ -221,10 +239,11 @@
     "lng": 37.3369,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "approximate modern town/mound reference; Arne identification debated; not a confirmed Bit-Agusi capital coordinate",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Arne"
   },
   {
@@ -233,11 +252,12 @@
     "lng": 37.95,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "approximate modern urban reference; ancient identification uncertain; not a surveyed Nampigi site coordinate",
     "tags": ["place", "ancient"],
-    "label": "Mabbug"
+    "settlementType": "city",
+    "label": "Mabug"
   },
   {
     "name": "Nisibis-Nusaybin",
@@ -245,10 +265,11 @@
     "lng": 41.215,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate modern urban reference; not a surveyed Iron Age site coordinate",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Nisibin"
   },
   {
@@ -257,10 +278,11 @@
     "lng": 37.1628,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Halab"
   },
   {
@@ -269,10 +291,11 @@
     "lng": 38.2672,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Tadmor"
   },
   {
@@ -281,10 +304,11 @@
     "lng": 36.3325,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Qarqar"
   },
   {
@@ -293,10 +317,11 @@
     "lng": 36.78,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference; identification debated",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Hadrach"
   },
   {
@@ -305,10 +330,11 @@
     "lng": 37.2189,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#009E73",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "village",
     "label": "Nerab"
   },
   {
@@ -317,10 +343,11 @@
     "lng": 37.28,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "town",
     "label": "Sefire"
   },
   {
@@ -329,10 +356,11 @@
     "lng": 38.15,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference; modern site identification uncertain",
     "tags": ["place", "ancient"],
+    "settlementType": "town",
     "label": "Pitru"
   },
   {
@@ -341,10 +369,11 @@
     "lng": 35.5786,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Abel-Maacah"
   },
   {
@@ -353,10 +382,11 @@
     "lng": 36.0183,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "approximate archaeological-site reference",
     "tags": ["place", "ancient"],
+    "settlementType": null,
     "label": "Ramoth"
   },
   {
@@ -365,10 +395,11 @@
     "lng": 35.9,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; exact location in Beqaa Valley uncertain",
     "tags": ["place", "ancient"],
+    "settlementType": null,
     "label": "Tibhath"
   },
   {
@@ -377,10 +408,11 @@
     "lng": 40.65,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; Suru/Tell Fiden identification and exact site coordinate remain uncertain",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Suru"
   },
   {
@@ -389,10 +421,11 @@
     "lng": 40.5681,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate archaeological-site reference; Iron Age Sirqu and its relationship to Laqe are interpreted cautiously",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Sirqu"
   },
   {
@@ -401,10 +434,11 @@
     "lng": 38.0153,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference",
     "tags": ["place", "ancient"],
+    "settlementType": "city",
     "label": "Karkamis"
   },
   {
@@ -413,10 +447,11 @@
     "lng": 36.18,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "approximate modern reference; ancient Helbon and modern Halbun identification and anti-Lebanon setting should be treated cautiously",
     "tags": ["place", "ancient"],
+    "settlementType": null,
     "label": "Helbon"
   },
   {
@@ -425,10 +460,11 @@
     "lng": 35.8,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; Geshur's political center and extent remain uncertain; et-Tell/Bethsaida is a possible associated center",
     "tags": ["place", "ancient"],
+    "settlementType": null,
     "label": "Geshur"
   },
   {
@@ -437,10 +473,11 @@
     "lng": 40.5,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; biblical Kir's location and relationship to Aramean origin and deportation traditions remain uncertain",
     "tags": ["place", "ancient"],
+    "settlementType": null,
     "label": "Kir"
   },
   {
@@ -449,10 +486,11 @@
     "lng": 35.6,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; Beth-Rehob is commonly placed near the upper Jordan Valley or southern Beqaa, but its location remains debated",
     "tags": ["place", "ancient"],
+    "settlementType": null,
     "label": "Beth-Rehob"
   },
   {
@@ -461,10 +499,11 @@
     "lng": 35.7,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference; identification with Fiq/En Gev and the biblical Aphek remains interpretive",
     "tags": ["place", "ancient"],
+    "settlementType": "town",
     "label": "Aphiq"
   },
   {
@@ -473,10 +512,11 @@
     "lng": 36.5,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; Kun/Chun and Berothai/Berothah identification and exact location uncertain; associated with Aram-Zobah",
     "tags": ["place", "ancient"],
+    "settlementType": null,
     "label": "Kun"
   },
   {
@@ -485,10 +525,11 @@
     "lng": 36.3833,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#6B7280",
     "borderColor": "#ffeaa7",
     "precision": "approximate place reference; Orontes valley outpost",
     "tags": ["place", "ancient"],
+    "settlementType": "town",
     "label": "Qarne"
   },
   {
@@ -497,10 +538,11 @@
     "lng": 40.8167,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference; Khabur basin town",
     "tags": ["place", "ancient"],
+    "settlementType": "town",
     "label": "Tel-Abni"
   },
   {
@@ -509,11 +551,220 @@
     "lng": 36.865833,
     "kind": "place",
     "symbol": "circle",
-    "color": "red",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate archaeological-site reference; major Bronze Age city, not identified here as an Aramean city",
     "tags": ["place", "ancient", "city", "archaeological-site", "Bronze-Age", "pre-Aramean", "Syria"],
+    "settlementType": "city",
     "label": "Qatna"
+  },
+  {
+    "name": "Mahuze",
+    "lat": 33.093611,
+    "lng": 44.580833,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#0072B2",
+    "borderColor": "#ffeaa7",
+    "precision": "approximate Seleucia-Ctesiphon urban-region reference; exact Mahuze location within the complex uncertain",
+    "tags": ["place", "ancient", "textual", "Beth-Aramaye", "Lower-Mesopotamia", "Iraq"],
+    "settlementType": "city",
+    "label": "Mahoze"
+  },
+  {
+    "name": "Beth-Arsham",
+    "lat": 33.093611,
+    "lng": 44.580833,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#6B7280",
+    "borderColor": "#ffeaa7",
+    "precision": "broad Seleucia-Ctesiphon regional reference; exact Beth Arsham location uncertain",
+    "tags": ["place", "ancient", "textual", "Beth-Aramaye", "Lower-Mesopotamia", "Iraq"],
+    "settlementType": "village",
+    "label": "Beth Arsham"
+  },
+  {
+    "name": "Kashkar",
+    "lat": 32.5,
+    "lng": 45.8,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#0072B2",
+    "borderColor": "#ffeaa7",
+    "precision": "broad Wasit-al-Kut regional reference; exact Kashkar identification uncertain",
+    "tags": ["place", "ancient", "bishopric", "Beth-Aramaye", "Central-Mesopotamia", "Iraq"],
+    "settlementType": "city",
+    "label": "Kashkar"
+  },
+  {
+    "name": "Hirta-Hira",
+    "lat": 31.85,
+    "lng": 44.43,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#0072B2",
+    "borderColor": "#ffeaa7",
+    "precision": "approximate al-Hira regional reference; ancient city and bishopric extent not identical",
+    "tags": ["place", "ancient", "city", "bishopric", "Beth-Aramaye", "Lower-Mesopotamia", "Iraq"],
+    "settlementType": "city",
+    "label": "Hirta"
+  },
+  {
+    "name": "Anbar-Peroz-Shapur",
+    "lat": 33.35,
+    "lng": 43.78,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#0072B2",
+    "borderColor": "#ffeaa7",
+    "precision": "broad Fallujah-Saqlawiyah regional reference; exact Anbar/Peroz-Shapur site uncertain",
+    "tags": ["place", "ancient", "city", "bishopric", "Beth-Aramaye", "Middle-Euphrates", "Iraq"],
+    "settlementType": "city",
+    "label": "Anbar"
+  },
+  {
+    "name": "Beth-Daraye",
+    "lat": 33.12,
+    "lng": 45.94,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#6B7280",
+    "borderColor": "#ffeaa7",
+    "precision": "broad Badra-Tell al-Aqr reference; Beth Daraye identification and boundaries debated",
+    "tags": ["place", "ancient", "district", "bishopric", "Beth-Aramaye", "Central-Mesopotamia", "Iraq"],
+    "settlementType": "village",
+    "label": "Beth Daraye"
+  },
+  {
+    "name": "Zawabi",
+    "lat": 32.5,
+    "lng": 45.2,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#6B7280",
+    "borderColor": "transparent",
+    "precision": "broad central Iraq reference only; Zawabi location uncertain",
+    "tags": ["place", "ancient", "bishopric", "Beth-Aramaye", "Central-Mesopotamia", "Iraq"],
+    "settlementType": null,
+    "label": "Beth Zawabe"
+  },
+  {
+    "name": "Kokhe",
+    "lat": 33.093611,
+    "lng": 44.580833,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#6B7280",
+    "borderColor": "#ffeaa7",
+    "precision": "broad Seleucia-Ctesiphon urban-region reference; Kokhe boundaries and exact site uncertain",
+    "tags": ["place", "ancient", "settlement", "Beth-Aramaye", "Lower-Mesopotamia", "Iraq"],
+    "settlementType": "town",
+    "label": "Kokhe"
+  },
+  {
+    "name": "Kapar-Mariyaba",
+    "lat": 36.82,
+    "lng": 40.07,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#6B7280",
+    "borderColor": "#ffeaa7",
+    "precision": "shared Guzana/Bit-Bahiani territorial proxy coordinate; exact Kapar-Mariyaba location uncertain; Aramean association is territorial, not a confirmed foundation claim",
+    "tags": ["place", "ancient", "Aramean-associated", "Guzana", "Bit-Bahiani"],
+    "settlementType": "hamlet",
+    "label": "Kapar-Mariyaba"
+  },
+  {
+    "name": "Kapar-diqarati",
+    "lat": 36.86,
+    "lng": 38.22,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#009E73",
+    "borderColor": "#ffeaa7",
+    "precision": "shared broad northern Aramaic/Aramean regional proxy coordinate; exact site location and political affiliation uncertain; settlement name is associated with the Aramaic word kapru",
+    "tags": ["place", "ancient", "Aramean-associated", "Aramaic-name"],
+    "settlementType": "hamlet",
+    "label": "Kapar-diqarati"
+  },
+  {
+    "name": "Bet-Rapa",
+    "lat": 36.86,
+    "lng": 38.22,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#6B7280",
+    "borderColor": "#ffeaa7",
+    "precision": "shared broad northern Aramaic/Aramean regional proxy coordinate; exact site location and political affiliation uncertain; Bēt is an Aramaic-associated house/estate element",
+    "tags": ["place", "ancient", "Aramean-associated", "Aramaic-name"],
+    "settlementType": "hamlet",
+    "label": "Bēt-Rāpʾa"
+  },
+  {
+    "name": "Dabigu",
+    "lat": 36.86,
+    "lng": 38.22,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#009E73",
+    "borderColor": "#ffeaa7",
+    "precision": "shared Bit-Adini territorial proxy at Til Barsip; exact individual site location uncertain; Neo-Assyrian annalistic context associates the city with Ahunu of Bit-Adini",
+    "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "Neo-Assyrian-annals"],
+    "settlementType": "city",
+    "label": "Dabigu"
+  },
+  {
+    "name": "Dummetu",
+    "lat": 36.86,
+    "lng": 38.22,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#009E73",
+    "borderColor": "#ffeaa7",
+    "precision": "shared Bit-Adini territorial proxy at Til Barsip; exact individual site location uncertain; listed in the Neo-Assyrian context of the Aramean polity Bit-Adini",
+    "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "Neo-Assyrian-annals"],
+    "settlementType": "village",
+    "label": "Dummetu"
+  },
+  {
+    "name": "Azmu",
+    "lat": 36.86,
+    "lng": 38.22,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#009E73",
+    "borderColor": "#ffeaa7",
+    "precision": "shared Bit-Adini territorial proxy at Til Barsip; exact individual site location uncertain; listed in the Neo-Assyrian context of the Aramean polity Bit-Adini",
+    "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "Neo-Assyrian-annals"],
+    "settlementType": "village",
+    "label": "Azmu"
+  },
+  {
+    "name": "Lal-aru",
+    "lat": 36.86,
+    "lng": 38.22,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#009E73",
+    "borderColor": "#ffeaa7",
+    "precision": "shared Bit-Adini territorial proxy at Til Barsip; exact individual site location uncertain; listed in the Neo-Assyrian context of the Aramean polity Bit-Adini",
+    "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "Neo-Assyrian-annals"],
+    "settlementType": "village",
+    "label": "Lal'aru"
+  },
+  {
+    "name": "Kaprabu",
+    "lat": 36.86,
+    "lng": 38.22,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#D55E00",
+    "borderColor": "#ffeaa7",
+    "precision": "shared Bit-Adini territorial proxy at Til Barsip; exact individual site location uncertain; fortified stronghold associated with the Aramean polity Bit-Adini, not a minor hamlet",
+    "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "fortified-stronghold", "Neo-Assyrian-annals"],
+    "settlementType": "town",
+    "label": "Kaprabu"
   },
   {
     "name": "Tur-Abdin",
@@ -525,6 +776,7 @@
     "labelSize": "14px",
     "precision": "broad regional reference only; approximate point at 37.45° N, 41.1° E; regional range approximately 37.4°–37.5° N and 40.7°–41.5° E; no boundaries shown",
     "tags": ["region", "historic-heartland", "modern-geography", "Upper-Mesopotamia", "Turkey"],
+    "settlementType": null,
     "label": "Tur Abdin"
   },
   {
@@ -536,6 +788,7 @@
     "labelSize": "14px",
     "precision": "broad regional reference only; label indicates the region and does not show historical or modern boundaries",
     "tags": ["region", "community-geography", "modern-geography", "Upper-Mesopotamia", "Iraq"],
+    "settlementType": null,
     "label": "Nineveh Plains"
   },
   {
@@ -547,6 +800,7 @@
     "labelSize": "14px",
     "precision": "broad regional reference only; Gozarto/Jazira is a regional name and the label does not show fixed boundaries",
     "tags": ["region", "regional-name", "Syriac-geography", "Upper-Mesopotamia", "northeastern-Syria"],
+    "settlementType": null,
     "label": "Gozarto"
   }
 ]
