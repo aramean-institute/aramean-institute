@@ -46,7 +46,7 @@
     },
     {
       "id": "zincirli",
-      "ancient_name_native": "",
+      "ancient_name_native": "𐤎𐤌𐤏𐤋",
       "modern_name": "Zincirli",
       "ancient_name": "Sam’al",
       "country": "Turkey",
@@ -76,7 +76,7 @@
     },
     {
       "id": "hama",
-      "ancient_name_native": "",
+      "ancient_name_native": "𐡇𐡌𐡕",
       "modern_name": "Hama",
       "ancient_name": "Hamath",
       "country": "Syria",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tell-afis",
-      "ancient_name_native": "",
+      "ancient_name_native": "𐤇𐤆𐤓𐤊",
       "modern_name": "Tell Afis",
       "ancient_name": "Hazrek",
       "country": "Syria",
@@ -160,7 +160,7 @@
     },
     {
       "id": "bethsaida",
-      "ancient_name_native": "",
+      "ancient_name_native": "𐡁𐡉𐡕 𐡑𐡉𐡃𐡀",
       "modern_name": "et-Tell",
       "ancient_name": "Bethsaida",
       "country": "Israel",
@@ -254,7 +254,7 @@
     },
     {
       "id": "damascus",
-      "ancient_name_native": "",
+      "ancient_name_native": "𐡃𐡌𐡔𐡒",
       "modern_name": "Damascus",
       "ancient_name": "Damasq",
       "country": "Syria",
@@ -272,7 +272,7 @@
     },
     {
       "id": "arpad",
-      "ancient_name_native": "",
+      "ancient_name_native": "𐡀𐡓𐡐𐡃",
       "modern_name": "Tell Rifaat",
       "ancient_name": "Arpad",
       "country": "Syria",
@@ -290,7 +290,7 @@
     },
     {
       "id": "urhay",
-      "ancient_name_native": "",
+      "ancient_name_native": "ܐܘܪܗܝ",
       "modern_name": "Şanlıurfa",
       "ancient_name": "Urhay",
       "country": "Turkey",
@@ -309,7 +309,7 @@
     {
       "id": "palmyra",
       "ancient_name": "Tadmur",
-      "ancient_name_native": "",
+      "ancient_name_native": "𐡶𐡣𐡬𐡥𐡴",
       "modern_name": "Palmyra",
       "country": "Syria",
       "location": "Palmyra, Syria",
@@ -345,7 +345,7 @@
     {
       "id": "neirab",
       "ancient_name": "Neirab",
-      "ancient_name_native": "",
+      "ancient_name_native": "𐤍𐤓𐤁",
       "modern_name": "Al-Nayrab",
       "country": "Syria",
       "location": "Near Aleppo, Syria",
