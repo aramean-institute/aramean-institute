@@ -336,6 +336,21 @@
     "label": "Qarqar"
   },
   {
+    "name": "Sibraim",
+    "lat": 34.4,
+    "lng": 36.6,
+    "kind": "place",
+    "symbol": "circle",
+    "color": "#6B7280",
+    "borderColor": "#ffeaa7",
+    "precision": "illustrative central-Syrian proxy only; Sibraim is named in Ezekiel 47:16 between Damascus and Hamath, but its identification and exact location remain uncertain",
+    "tags": ["place", "ancient", "biblical-textual", "Aramean-associated", "Central-Syria"],
+    "settlementType": "town",
+    "labelSize": "10px",
+    "symbolSize": 7,
+    "label": "Sibraim"
+  },
+  {
     "name": "Hadrach-Hatarikka",
     "lat": 35.85,
     "lng": 36.78,
