@@ -10,7 +10,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Harran"
   },
   {
@@ -24,7 +24,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "town",
     "labelSize": "10px",
-    "symbolSize": 7,
+    "symbolSize": 5,
     "label": "Nahor"
   },
   {
@@ -38,7 +38,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Urhay"
   },
   {
@@ -52,7 +52,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Raqamatu"
   },
   {
@@ -66,7 +66,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Guzana"
   },
   {
@@ -80,7 +80,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Tarbusip"
   },
   {
@@ -94,7 +94,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Damasq"
   },
   {
@@ -108,7 +108,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Hamath"
   },
   {
@@ -122,7 +122,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Arpad"
   },
   {
@@ -136,7 +136,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Sam’al"
   },
   {
@@ -150,7 +150,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Kunulua"
   },
   {
@@ -164,7 +164,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Hazrek"
   },
   {
@@ -178,7 +178,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Amid"
   },
   {
@@ -192,7 +192,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "town",
     "labelSize": "10px",
-    "symbolSize": 7,
+    "symbolSize": 5,
     "label": "Riblah"
   },
   {
@@ -206,7 +206,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "town",
     "labelSize": "10px",
-    "symbolSize": 7,
+    "symbolSize": 5,
     "label": "Hadatu"
   },
   {
@@ -220,7 +220,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "town",
     "labelSize": "10px",
-    "symbolSize": 7,
+    "symbolSize": 5,
     "label": "Ana"
   },
   {
@@ -234,7 +234,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "town",
     "labelSize": "10px",
-    "symbolSize": 7,
+    "symbolSize": 5,
     "label": "Bethsaida"
   },
   {
@@ -248,7 +248,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "town",
     "labelSize": "10px",
-    "symbolSize": 7,
+    "symbolSize": 5,
     "label": "Sikkan"
   },
   {
@@ -262,7 +262,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Arne"
   },
   {
@@ -276,7 +276,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Mabug"
   },
   {
@@ -290,7 +290,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Nisibin"
   },
   {
@@ -304,7 +304,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Halab"
   },
   {
@@ -318,7 +318,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Tadmor"
   },
   {
@@ -332,7 +332,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Qarqar"
   },
   {
@@ -357,7 +357,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "village",
     "labelSize": "10px",
-    "symbolSize": 5,
+    "symbolSize": 4,
     "label": "Nerab"
   },
   {
@@ -371,7 +371,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "town",
     "labelSize": "10px",
-    "symbolSize": 7,
+    "symbolSize": 5,
     "label": "Sefire"
   },
   {
@@ -385,7 +385,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "town",
     "labelSize": "10px",
-    "symbolSize": 7,
+    "symbolSize": 5,
     "label": "Pitru"
   },
   {
@@ -399,7 +399,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Abel-Maacah"
   },
   {
@@ -413,7 +413,7 @@
     "tags": ["place", "ancient", "fortress", "border-site"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Ramoth"
   },
   {
@@ -421,11 +421,13 @@
     "lat": 33.8,
     "lng": 35.9,
     "symbol": "circle",
-    "color": "#6B7280",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; exact location in Beqaa Valley uncertain",
     "tags": ["region", "ancient"],
-    "settlementType": "region",
+    "settlementType": "city",
+    "labelSize": "11px",
+    "symbolSize": 6,
     "label": "Tibhath"
   },
   {
@@ -439,7 +441,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Suru"
   },
   {
@@ -453,7 +455,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Sirqu"
   },
   {
@@ -467,7 +469,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Karkamis"
   },
   {
@@ -475,20 +477,21 @@
     "lat": 33.62,
     "lng": 36.18,
     "symbol": "circle",
-    "color": "#6B7280",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate modern reference; ancient Helbon and modern Halbun identification and anti-Lebanon setting should be treated cautiously",
     "tags": ["region", "ancient"],
-    "settlementType": "region",
+    "settlementType": "city",
+    "labelSize": "11px",
+    "symbolSize": 6,
     "label": "Helbon"
   },
   {
     "name": "Geshur",
     "lat": 32.8,
     "lng": 35.8,
-    "symbol": "circle",
-    "color": "#6B7280",
-    "borderColor": "#ffeaa7",
+    "labelColor": "rgba(0,0,0, .15)",
+    "labelSize": "14px",
     "precision": "broad regional reference only; Geshur's political center and extent remain uncertain; et-Tell/Bethsaida is a possible associated center",
     "tags": ["region", "ancient"],
     "settlementType": "region",
@@ -510,11 +513,13 @@
     "lat": 33.0,
     "lng": 35.6,
     "symbol": "circle",
-    "color": "#6B7280",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; Beth-Rehob is commonly placed near the upper Jordan Valley or southern Beqaa, but its location remains debated",
     "tags": ["region", "ancient"],
-    "settlementType": "region",
+    "settlementType": "city",
+    "labelSize": "11px",
+    "symbolSize": 6,
     "label": "Beth-Rehob"
   },
   {
@@ -528,7 +533,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "town",
     "labelSize": "10px",
-    "symbolSize": 7,
+    "symbolSize": 5,
     "label": "Aphiq"
   },
   {
@@ -536,11 +541,13 @@
     "lat": 34.2,
     "lng": 36.5,
     "symbol": "circle",
-    "color": "#6B7280",
+    "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; Kun/Chun and Berothai/Berothah identification and exact location uncertain; associated with Aram-Zobah",
     "tags": ["region", "ancient"],
-    "settlementType": "region",
+    "settlementType": "city",
+    "labelSize": "11px",
+    "symbolSize": 6,
     "label": "Kun"
   },
   {
@@ -554,7 +561,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "town",
     "labelSize": "10px",
-    "symbolSize": 7,
+    "symbolSize": 5,
     "label": "Qarne"
   },
   {
@@ -568,7 +575,7 @@
     "tags": ["place", "ancient"],
     "settlementType": "town",
     "labelSize": "10px",
-    "symbolSize": 7,
+    "symbolSize": 5,
     "label": "Tel-Abni"
   },
   {
@@ -582,7 +589,7 @@
     "tags": ["place", "ancient", "city", "archaeological-site", "Bronze-Age", "pre-Aramean", "Syria"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Qatna"
   },
   {
@@ -596,7 +603,7 @@
     "tags": ["place", "ancient", "textual", "Beth-Aramaye", "Lower-Mesopotamia", "Iraq"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Mahoze"
   },
   {
@@ -610,7 +617,7 @@
     "tags": ["place", "ancient", "textual", "Beth-Aramaye", "Lower-Mesopotamia", "Iraq"],
     "settlementType": "village",
     "labelSize": "10px",
-    "symbolSize": 5,
+    "symbolSize": 4,
     "label": "Beth Arsham"
   },
   {
@@ -624,7 +631,7 @@
     "tags": ["place", "ancient", "bishopric", "Beth-Aramaye", "Central-Mesopotamia", "Iraq"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Kashkar"
   },
   {
@@ -638,7 +645,7 @@
     "tags": ["place", "ancient", "city", "bishopric", "Beth-Aramaye", "Lower-Mesopotamia", "Iraq"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Hirta"
   },
   {
@@ -652,7 +659,7 @@
     "tags": ["place", "ancient", "city", "bishopric", "Beth-Aramaye", "Middle-Euphrates", "Iraq"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Anbar"
   },
   {
@@ -687,7 +694,7 @@
     "tags": ["place", "ancient", "settlement", "Beth-Aramaye", "Lower-Mesopotamia", "Iraq"],
     "settlementType": "town",
     "labelSize": "10px",
-    "symbolSize": 7,
+    "symbolSize": 5,
     "label": "Kokhe"
   },
   {
@@ -749,7 +756,7 @@
     "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "Neo-Assyrian-annals"],
     "settlementType": "city",
     "labelSize": "11px",
-    "symbolSize": 9,
+    "symbolSize": 6,
     "label": "Dabigu"
   },
   {
@@ -763,7 +770,7 @@
     "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "Neo-Assyrian-annals"],
     "settlementType": "village",
     "labelSize": "10px",
-    "symbolSize": 5,
+    "symbolSize": 4,
     "label": "Dummetu"
   },
   {
@@ -777,7 +784,7 @@
     "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "Neo-Assyrian-annals"],
     "settlementType": "village",
     "labelSize": "10px",
-    "symbolSize": 5,
+    "symbolSize": 4,
     "label": "Azmu"
   },
   {
@@ -791,7 +798,7 @@
     "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "Neo-Assyrian-annals"],
     "settlementType": "village",
     "labelSize": "10px",
-    "symbolSize": 5,
+    "symbolSize": 4,
     "label": "Lal'aru"
   },
   {
@@ -805,7 +812,7 @@
     "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "fortified-stronghold", "Neo-Assyrian-annals"],
     "settlementType": "town",
     "labelSize": "10px",
-    "symbolSize": 7,
+    "symbolSize": 5,
     "label": "Kaprabu"
   },
   {
