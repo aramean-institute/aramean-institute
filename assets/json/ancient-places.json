@@ -720,7 +720,7 @@
     "updated": "2026-08-11"
   },
   "Tell-Aran": {
-    "title": "Tell Aran (Arne; identification debated)",
+    "title": "Arne",
     "category": "Possible archaeological place",
     "type": "Iron Age settlement; possible Aramean/Neo-Hittite urban center",
     "region": "Aram ʿElyā / Northern Syria",
@@ -1542,6 +1542,101 @@
         "description": "Syriac urban designation associated with the Seleucia-Ctesiphon metropolitan area."
       }
     ],
+    "published": "2026-08-16",
+    "updated": "2026-08-16"
+  },
+  "Kapar-Mariyaba": {
+    "title": "Kapar-Mariyaba",
+    "category": "Ancient hamlet reference",
+    "type": "Hamlet reference associated with Bit-Bahiani; exact site unknown",
+    "region": "Aram Nahrin / Khabur basin",
+    "modern_location": "Upper Khabur region, northeastern Syria; exact modern identification uncertain",
+    "period": "Iron Age; date and context uncertain",
+    "geography": {
+      "description": "Kapar-Mariyaba is preserved in the marker catalogue as a cautious hamlet reference associated with Guzana and Bit-Bahiani. Its exact site is unknown, and the map point is a territorial proxy relative to the Bit-Bahiani center rather than a surveyed location.",
+      "lat": 36.832,
+      "lng": 40.081,
+      "precision": "territorial offset proxy relative to Guzana/Bit-Bahiani center"
+    },
+    "sections": [
+      {
+        "heading": "Bit-Bahiani Context",
+        "body": "Kapar-Mariyaba is grouped with the Guzana/Bit-Bahiani setting because the marker record explicitly associates it with that Khabur-basin context. This is a catalogue association, not proof that the hamlet's exact location or political status is securely known."
+      },
+      {
+        "heading": "Geographic Framing",
+        "body": "The hamlet is placed within a broad Upper Mesopotamian reference zone. Its approximate marker should not be read as the exact settlement location, a boundary, or proof of a uniform population or continuous control across the surrounding landscape."
+      }
+    ],
+    "note": "Kapar-Mariyaba is included as a cautious ancient hamlet reference associated with Bit-Bahiani. Its name, exact location, and historical affiliation remain uncertain.",
+    "related": [
+      {
+        "label": "Bit-Bahiani",
+        "href": "research/geography/ancient/polity.html?name=Bit-Bahiani",
+        "description": "Polity associated with Guzana and the Khabur basin."
+      },
+      {
+        "label": "Guzana/Tell Halaf",
+        "href": "research/geography/ancient/place.html?name=Guzana-Tell-Halaf",
+        "description": "Khabur-basin urban center used as the regional reference."
+      }
+    ],
+    "published": "2026-08-16",
+    "updated": "2026-08-16"
+  },
+  "Kapar-Diqarati": {
+    "title": "Kapar-Diqarati",
+    "category": "Ancient hamlet reference",
+    "type": "Hamlet reference; exact site unknown",
+    "region": "Aram ʿElyā / Northern Syria",
+    "modern_location": "Northern Syria; exact modern identification uncertain",
+    "period": "Iron Age; date and context uncertain",
+    "geography": {
+      "description": "Kapar-Diqarati is preserved in the marker catalogue as a cautious hamlet reference in northern Syria. Its exact site is unknown, and the map point is a territorial proxy rather than a surveyed location.",
+      "lat": 36.872,
+      "lng": 38.231,
+      "precision": "territorial proxy offset; exact site unknown"
+    },
+    "sections": [
+      {
+        "heading": "Name and Evidence",
+        "body": "The name is recorded as an ancient place reference associated with the Aramaic term kapru. This linguistic association is useful evidence for historical naming practices, but it does not by itself establish a distinct polity or a uniform population."
+      },
+      {
+        "heading": "Geographic Framing",
+        "body": "Kapar-Diqarati is placed within a broad northern-Syrian setting for catalogue organization. The approximate marker should not be read as the exact settlement location, a boundary, or proof of political control by a named Aramean kingdom."
+      }
+    ],
+    "note": "Kapar-Diqarati is included as a cautious ancient hamlet reference. Its name, location, and historical affiliation remain uncertain.",
+    "related": [],
+    "published": "2026-08-16",
+    "updated": "2026-08-16"
+  },
+  "Bet-Rapa": {
+    "title": "Bēt-Rāpʾa",
+    "category": "Ancient hamlet reference",
+    "type": "Hamlet reference; exact site unknown",
+    "region": "Aram ʿElyā / Northern Syria",
+    "modern_location": "Northern Syria; exact modern identification uncertain",
+    "period": "Iron Age; date and context uncertain",
+    "geography": {
+      "description": "Bēt-Rāpʾa is preserved in the marker catalogue as a cautious hamlet reference in northern Syria. Its exact site is unknown, and the map point is a territorial proxy rather than a surveyed location.",
+      "lat": 36.848,
+      "lng": 38.209,
+      "precision": "territorial proxy offset; exact site unknown"
+    },
+    "sections": [
+      {
+        "heading": "Name and Evidence",
+        "body": "The Bēt element indicates an estate or house name in an Aramaic naming pattern. That linguistic observation does not by itself establish a polity, an ethnic identity, or continuous settlement history."
+      },
+      {
+        "heading": "Geographic Framing",
+        "body": "Bēt-Rāpʾa is placed within a broad northern-Syrian setting for catalogue organization. The approximate marker should not be read as the exact settlement location, a boundary, or proof of political control by a named Aramean kingdom."
+      }
+    ],
+    "note": "Bēt-Rāpʾa is included as a cautious ancient hamlet reference. Its name, location, and historical affiliation remain uncertain.",
+    "related": [],
     "published": "2026-08-16",
     "updated": "2026-08-16"
   }

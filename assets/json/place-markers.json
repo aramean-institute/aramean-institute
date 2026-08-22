@@ -728,7 +728,7 @@
     "label": "Kapar-Mariyaba"
   },
   {
-    "name": "Kapar-diqarati",
+    "name": "Kapar-Diqarati",
     "lat": 36.872,
     "lng": 38.231,
     "symbol": "circle",
@@ -741,7 +741,7 @@
     "symbolSize": 4,
     "labelMinZoom": 30,
     "labelPosition": "right",
-    "label": "Kapar-diqarati"
+    "label": "Kapar-Diqarati"
   },
   {
     "name": "Bet-Rapa",
@@ -897,7 +897,7 @@
     "tags": ["region", "ancient", "polity", "Aramean-associated", "Levant"],
     "settlementType": "region",
     "symbolSize": 30,
-    "label": "Aram-Damascus"
+    "label": "Aram-Damasq"
   },
   {
     "name": "Aram-Zobah",

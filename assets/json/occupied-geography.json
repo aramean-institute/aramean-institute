@@ -28,6 +28,48 @@
     "published": "2026-08-11",
     "updated": "2026-08-11"
   },
+  "Bet-Aramaye": {
+    "title": "Beth Aramaye",
+    "sections": [
+      {
+        "heading": "Historical-Geographic Profile",
+        "body": "Beth Aramaye is a historical regional name associated with Lower Mesopotamia, especially the landscape around Seleucia-Ctesiphon and the lower Tigris-Euphrates system. Its extent and application vary by period and source, so it should be presented as an approximate region rather than a fixed territory."
+      },
+      {
+        "heading": "Regional Setting",
+        "body": "The region is represented on the map by a broad reference point near the Lower Mesopotamian river corridors. Related places include Mahoze, Beth Arsham, Kashkar, Hirta, Anbar, Beth-Daraye, Zawabi, and Kokhe, but the historical relationship and exact boundaries of the wider region should not be inferred from a single marker."
+      },
+      {
+        "heading": "Modern Geographic Framing",
+        "body": "Beth Aramaye is discussed here as a historical Aramean-associated region within the geography of modern Iraq. Modern national borders and present-day communities provide orientation but do not reproduce the region's historical extent or establish a continuous political territory."
+      }
+    ],
+    "note": "This profile describes Beth Aramaye as a changing historical-geographic term. Detailed chronology belongs in History, source terminology and evidence belong in Historical Sources, and community life belongs in Ethnology.",
+    "related": [
+      {
+        "label": "Mahoze",
+        "href": "research/geography/ancient/place.html?name=Mahuze",
+        "description": "Seleucia-Ctesiphon urban-region reference."
+      },
+      {
+        "label": "Kashkar",
+        "href": "research/geography/ancient/place.html?name=Kashkar",
+        "description": "Central Mesopotamian city and bishopric reference."
+      },
+      {
+        "label": "Hirta",
+        "href": "research/geography/ancient/place.html?name=Hirta-Hira",
+        "description": "Lower Mesopotamian city and bishopric reference."
+      },
+      {
+        "label": "Kokhe",
+        "href": "research/geography/ancient/place.html?name=Kokhe",
+        "description": "Church and settlement reference near Ctesiphon."
+      }
+    ],
+    "published": "2026-08-16",
+    "updated": "2026-08-16"
+  },
   "Syria": {
     "title": "Syria",
     "sections": [
