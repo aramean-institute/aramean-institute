@@ -112,6 +112,7 @@
       "historical_significance": "Hama is valuable because it connects a long-lived urban mound with the political history of Hamath and the wider Orontes valley. Its evidence supports historical reconstruction, but the site cannot be reduced to one language, dynasty, or ethnic identity across all periods.",
       "source_label": "Hama excavations: Danish expedition research overview",
       "source_url": "https://hal.science/hal-02003498v1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Noria_of_Hama%2C_Hama%2C_Syria.jpg",
       "images": []
     },
     {
@@ -160,6 +161,7 @@
       "historical_significance": "The site is important for tracing interaction among local Iron Age kingdoms, Anatolian and Levantine traditions, and the Neo-Assyrian provincial system. The identification of Tell Tayinat with Kunulua is widely used but remains an archaeological and historical reconstruction based on the evidence.",
       "source_label": "Tayinat Archaeological Project: University of Toronto",
       "source_url": "https://tayinat.artsci.utoronto.ca/",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Tayinat_Flyover_%28Photo_credit_Murat_Akar%29.jpg",
       "images": []
     },
     {
@@ -178,6 +180,7 @@
       "historical_significance": "Til Barsip is especially useful for studying political change along the Euphrates, from local and regional rule to Assyrian provincial administration. The site’s names and political affiliations changed over time, so the archaeological record should not be treated as evidence for one unchanging polity.",
       "source_label": "Til Barsip research and excavation overview",
       "source_url": "https://learningsites.com/Barsib/Til-Barsib_home.php",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Detail_of_the_wall_paintings_from_the_governor%27s_palace_at_Til_Barsip_%28Tell_Ahmar%2C_Syria%29.jpg",
       "images": []
     },
     {
@@ -254,6 +257,7 @@
       "historical_significance": "Dura-Europos is a comparative site for studying religious plurality, administration, military life, and language use in a frontier city. Its evidence documents coexistence and interaction among communities, but it should not be used to imply that all inhabitants shared one identity or language.",
       "source_label": "Yale University Art Gallery: Dura-Europos excavation history and discoveries",
       "source_url": "https://duraeuropos.artgallery.yale.edu/",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Aerial_view_of_Dura_in_late_1930s.jpg",
       "images": []
     },
     {
@@ -272,6 +276,7 @@
       "historical_significance": "Tell Fekheriye is important for reconstructing the relationship between Assyrian and Aramaic language use in the Khabur region and for studying the administrative setting associated with Guzana and Bit-Bahiani. The site evidence documents a political and linguistic environment without establishing a uniform identity for every period or population.",
       "source_label": "Excavation record; source citation pending",
       "source_url": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/TellFecheriyeSyria.jpg",
       "images": []
     },
     {
@@ -290,6 +295,7 @@
       "historical_significance": "Damascus is central to the history of Aram-Damascus, but its archaeological record reflects successive periods and populations. The city should not be treated as evidence for one uniform identity across its entire history.",
       "source_label": "Excavation record; source citation pending",
       "source_url": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Tombs_of_the_caliphs_in_Damascus%2C_Syria.jpg",
       "images": []
     },
     {
@@ -308,6 +314,7 @@
       "historical_significance": "Arpad is important for reconstructing Iron Age political organization in northern Syria. The identification of Tell Rifaat with ancient Arpad is presented as an interpretation rather than as an automatic equivalence between every layer and the named kingdom.",
       "source_label": "Excavation record; source citation pending",
       "source_url": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Tell_Rifaat_nahiyah.svg",
       "images": []
     },
     {
@@ -326,6 +333,7 @@
       "historical_significance": "Urhay is important for the archaeology of later Aramaic-speaking urban communities and the development of Syriac culture. Its later history must be distinguished from the Iron Age kingdoms represented elsewhere in the catalogue.",
       "source_label": "Excavation record; source citation pending",
       "source_url": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg",
       "images": []
     },
     {
@@ -344,6 +352,7 @@
       "historical_significance": "Palmyra is essential for studying later Aramaic language and culture in a cosmopolitan urban setting. Its evidence belongs to a later period than the Iron Age Aramean kingdoms and should be interpreted within its Palmyrene and Roman contexts.",
       "source_label": "Excavation record; source citation pending",
       "source_url": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Palmyra_theater02%28js%29.jpg",
       "images": []
     },
     {
@@ -362,6 +371,7 @@
       "historical_significance": "Hatra is important for the study of a later Aramaic-speaking urban kingdom and for the relationship between local religious traditions and wider Mesopotamian political systems.",
       "source_label": "Excavation record; source citation pending",
       "source_url": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Hatra-71339.jpg",
       "images": []
     },
     {
@@ -380,6 +390,7 @@
       "historical_significance": "Neirab is valuable for studying Aramaic funerary language and religious practice in northern Syria. Its evidence should not be expanded into a claim for a separate Neirab kingdom or uniform community identity.",
       "source_label": "Excavation record; source citation pending",
       "source_url": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Funerary_stele_-_Neirab_-_Louvre_AO_3027.JPG",
       "images": []
     },
     {
@@ -397,6 +408,7 @@
       "historical_significance": "Ein Gev helps place Aramaic political and administrative evidence within the wider regional history of the Galilee and Golan. Its attribution remains cautious because the evidence is limited and belongs to a changing political landscape.",
       "source_label": "Excavation record; source citation pending",
       "source_url": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/EinGev056a.jpg",
       "images": []
     },
     {
@@ -415,6 +427,7 @@
       "historical_significance": "Arslan Tash is important for studying political change along the Euphrates and the transformation of Aramean-associated centers under Assyrian rule. Its archaeological record should be read as a sequence of changing administrations.",
       "source_label": "Excavation record; source citation pending",
       "source_url": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png",
       "images": []
     },
     {
@@ -432,6 +445,7 @@
       "historical_significance": "Elephantine is a key site for studying Imperial Aramaic and the daily life of an Aramaic-using community within the Persian Empire. It should not be presented as an Iron Age Aramean political center.",
       "source_label": "Excavation record; source citation pending",
       "source_url": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Papyrus_narrating_the_story_of_the_wise_chancellor_Ahiqar._Aramaic_script._5th_century_BCE._From_Elephantine%2C_Egypt._Neues_Museum.jpg",
       "images": []
     },
     {
@@ -449,6 +463,7 @@
       "historical_significance": "Tayma demonstrates the wide geographic use of Aramaic in the Achaemenid period. Its evidence belongs to an oasis and administrative context rather than to an Aramean kingdom.",
       "source_label": "Excavation record; source citation pending",
       "source_url": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Old_town_of_Tayma_2020.jpg",
       "images": []
     }
   ],
@@ -495,7 +510,7 @@
       "description": "Three basalt stelae containing an Aramaic treaty between Mati'el of Arpad (Bit-Agusi) and Bar-Ga'yah of KTK.",
       "significance": "Longest known Old Aramaic inscription. Key source for Aramaic treaty language and diplomacy.",
       "polity": "Bit-Agusi",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ronzevalle%27s_publication_of_the_Sefire_steles_-_Plate_XXXIX.jpg/1280px-Ronzevalle%27s_publication_of_the_Sefire_steles_-_Plate_XXXIX.jpg",
       "origin": "aramean",
       "evidence_type": "inscription"
     },
@@ -575,7 +590,7 @@
       "description": "Funerary inscription in Samalian Aramaic erected by Bar-Rakib to honor his father Panamuwa II, who died during Tiglath-Pileser III's campaign against Damascus.",
       "significance": "Key source for the Samalian dialect and the political history of Bit-Gabbar.",
       "polity": "Bit-Gabbar",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Zincirli1.jpg",
       "origin": "aramean",
       "evidence_type": "funerary"
     },
@@ -623,7 +638,7 @@
       "description": "Inscribed scepter belonging to King Kilamuwa of Bit-Gabbar.",
       "significance": "Royal artifact demonstrating the material culture of Aramean kingship.",
       "polity": "Bit-Gabbar",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Zincirli1.jpg",
       "origin": "aramean",
       "evidence_type": "artifact"
     },
@@ -639,7 +654,7 @@
       "description": "Ivory pieces inscribed with the name of Hazael, king of Aram-Damascus, found at the Assyrian provincial capital of Arslan Tash.",
       "significance": "Evidence of the wealth and reach of Aram-Damascus under Hazael.",
       "polity": "Aram-Damascus",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png",
       "origin": "aramean",
       "evidence_type": "artifact"
     },
@@ -654,7 +669,7 @@
       "description": "Bronze horse frontlet inscribed with the name of Hazael, king of Aram-Damascus, found at the Heraion of Samos.",
       "significance": "Evidence of Aramean diplomatic or trade connections reaching the Aegean world.",
       "polity": "Aram-Damascus",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hazael_horse_frontlet_in_the_Archaeological_Museum_of_Vathi_in_Samos.jpg",
       "origin": "aramean",
       "evidence_type": "artifact"
     },
@@ -669,7 +684,7 @@
       "description": "Basalt stele erected by Bar-Hadad, king of Aram, dedicated to the god Melqart. Contains an Aramaic inscription.",
       "significance": "Important evidence for Aramean royal dedications and religious practices.",
       "polity": "Aram-Damascus",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zakkur_Stele_0154.jpg/1280px-Zakkur_Stele_0154.jpg",
       "origin": "aramean",
       "evidence_type": "religious"
     },
@@ -685,7 +700,7 @@
       "description": "Small limestone amulets with Aramaic incantation texts against demons and evil spirits. Found at the former Bit-Adini capital, then under Assyrian rule. Authenticity debated by scholars.",
       "significance": "If authentic, rare evidence of Aramaic magical and religious practices.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png",
       "origin": "aramaic",
       "evidence_type": "religious"
     },
@@ -701,7 +716,7 @@
       "description": "Inscribed ivory piece found at Arslan Tash (ancient Hadatu), capital of Bit-Adini after Assyrian conquest.",
       "significance": "Evidence of Aramean artistic production and luxury goods.",
       "polity": "Bit-Adini",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png",
       "origin": "aramean",
       "evidence_type": "artifact"
     },
@@ -717,7 +732,7 @@
       "description": "Polychrome wall paintings from the Assyrian-period palace at Til Barsip, former capital of Bit-Adini, showing military scenes and court life.",
       "significance": "Rare surviving examples of ancient Near Eastern wall painting from a site with Aramean heritage.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Detail_of_the_wall_paintings_from_the_governor%27s_palace_at_Til_Barsip_%28Tell_Ahmar%2C_Syria%29.jpg",
       "origin": "aramaic",
       "evidence_type": "artifact"
     },
@@ -733,7 +748,7 @@
       "description": "Multiple stone inscriptions in Luwian hieroglyphs and Aramaic from the kingdom of Hamath, documenting its rulers.",
       "significance": "Shows the bilingual nature of the Hamath kingdom and Aramean cultural influence.",
       "polity": "Hamath",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Noria_of_Hama%2C_Hama%2C_Syria.jpg",
       "origin": "aramean",
       "evidence_type": "inscription"
     },
@@ -749,7 +764,7 @@
       "description": "Aramaic graffiti found during excavations at Hama (ancient Hamath), including short texts and names.",
       "significance": "Evidence of everyday Aramaic use in the kingdom of Hamath.",
       "polity": "Hamath",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Noria_of_Hama%2C_Hama%2C_Syria.jpg",
       "origin": "aramean",
       "evidence_type": "inscription"
     },
@@ -765,7 +780,7 @@
       "description": "Remains of a monumental bit-hilani palace with carved basalt orthostats, caryatid figures, and a scorpion gate.",
       "significance": "Best-preserved example of Aramean palatial architecture.",
       "polity": "Bit-Bahiani",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Statue_TellHalaf_01.jpg",
       "origin": "aramean",
       "evidence_type": "architecture"
     },
@@ -781,7 +796,7 @@
       "description": "Aramaic inscription from Tell Halaf, destroyed during World War II bombing of Berlin.",
       "significance": "Lost artifact documenting Aramean presence at Guzana.",
       "polity": "Bit-Bahiani",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Statue_TellHalaf_01.jpg",
       "origin": "aramean",
       "evidence_type": "inscription"
     },
@@ -796,7 +811,7 @@
       "description": "Aramaic inscription found in western Iran, one of the easternmost Old Aramaic texts discovered.",
       "significance": "Demonstrates the spread of Aramaic language and culture far beyond the Levant.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bukan_summer_2012.jpg/1280px-Bukan_summer_2012.jpg",
       "origin": "aramaic",
       "evidence_type": "inscription"
     },
@@ -828,7 +843,7 @@
       "description": "Aramaic inscriptions found at the oasis of Tayma in northwestern Arabia, dating to the Persian period.",
       "significance": "Evidence of Aramaic use in the Arabian Peninsula during the Achaemenid period.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Old_town_of_Tayma_2020.jpg/1280px-Old_town_of_Tayma_2020.jpg",
       "origin": "aramaic",
       "evidence_type": "inscription"
     },
@@ -843,7 +858,7 @@
       "description": "Aramaic ostraca and clay tablets found at the ancient Assyrian capital of Assur, showing administrative use of Aramaic.",
       "significance": "Evidence that Aramaic was used alongside Akkadian in Assyrian administration.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Iraq%3B_Nimrud_-_Assyria%2C_Lamassu%27s_Guarding_Palace_Entrance.jpg",
       "origin": "aramaic",
       "evidence_type": "document"
     },
@@ -858,7 +873,7 @@
       "description": "Aramaic funerary stele found at Saqqara in Egypt, dating to the Persian period.",
       "significance": "Evidence of Aramean presence in Egypt during the Achaemenid period.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Saqqara_pyramid_ver_2.jpg",
       "origin": "aramaic",
       "evidence_type": "funerary"
     },
@@ -874,7 +889,7 @@
       "description": "Large collection of Aramaic papyri from a Jewish military community on Elephantine Island in the Nile, documenting administration, legal affairs, and daily life under Persian rule.",
       "significance": "Major source for Imperial Aramaic and daily life in the Persian Empire.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Papyrus_narrating_the_story_of_the_wise_chancellor_Ahiqar._Aramaic_script._5th_century_BCE._From_Elephantine%2C_Egypt._Neues_Museum.jpg",
       "origin": "aramaic",
       "evidence_type": "document"
     },
@@ -889,7 +904,7 @@
       "description": "Eight Aramaic letters found at Hermopolis in Egypt, containing personal correspondence.",
       "significance": "Evidence of Aramaic-speaking communities in Egypt and their social networks.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AshmuneinBasilica.jpg",
       "origin": "aramaic",
       "evidence_type": "document"
     },
@@ -904,7 +919,7 @@
       "description": "Aramaic rock inscription in Cilicia (southern Turkey), dating to the Persian period.",
       "significance": "Evidence of Aramaic use in Anatolia during the Achaemenid period.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg",
       "origin": "aramaic",
       "evidence_type": "inscription"
     },
@@ -919,7 +934,7 @@
       "description": "Aramaic funerary steles found at Daskyleion, the satrapal capital of Hellespontine Phrygia.",
       "significance": "Evidence of Aramaic as the administrative language of the Persian Empire in western Anatolia.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Hellespontine_Phrygia.jpg",
       "origin": "aramaic",
       "evidence_type": "funerary"
     },
@@ -934,7 +949,7 @@
       "description": "Aramaic inscriptions found in the Luristan region of western Iran.",
       "significance": "Evidence of Aramaic penetration into the Iranian highlands.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Khorramabad_-_Kouhdasht_road.jpg/3840px-Khorramabad_-_Kouhdasht_road.jpg",
       "origin": "aramaic",
       "evidence_type": "inscription"
     },
@@ -967,7 +982,7 @@
       "description": "Aramaic inscription found at the ancient city of Taxila in modern Pakistan.",
       "significance": "Easternmost known Aramaic inscription, showing the language's reach to the Indian subcontinent.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dharmarajika_stupa%2CTaxila.jpg/3840px-Dharmarajika_stupa%2CTaxila.jpg",
       "origin": "aramaic",
       "evidence_type": "inscription"
     },
@@ -982,7 +997,7 @@
       "description": "Aramaic rock inscription of Ashoka found near Jalalabad in Afghanistan.",
       "significance": "Further evidence of Aramaic use in the Mauryan Empire's western provinces.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/BactriaMap.jpg",
       "origin": "aramaic",
       "evidence_type": "inscription"
     },
@@ -997,7 +1012,7 @@
       "description": "Collection of Aramaic administrative documents from Bactria, dating to the late Achaemenid period.",
       "significance": "Shows Aramaic functioning as the bureaucratic language of the Persian Empire in Central Asia.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/BactriaMap.jpg",
       "origin": "aramaic",
       "evidence_type": "document"
     },
@@ -1012,7 +1027,7 @@
       "description": "Aramaic rock inscription of Ashoka found in the Laghman valley of Afghanistan.",
       "significance": "Part of the Ashokan edicts demonstrating Aramaic's role as a lingua franca in the East.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/BactriaMap.jpg",
       "origin": "aramaic",
       "evidence_type": "inscription"
     },
@@ -1028,7 +1043,7 @@
       "description": "Over 3,500 inscriptions in Palmyrene Aramaic from the ancient city of Palmyra, covering trade, religion, and civic life.",
       "significance": "Largest corpus of Aramaic inscriptions from a single site. Documents Aramean culture in the Roman period.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Palmyra_theater02%28js%29.jpg",
       "origin": "aramaic",
       "evidence_type": "text-corpus"
     },
@@ -1044,7 +1059,7 @@
       "description": "Funerary mosaic depicting Aftuha and his family with a Syriac inscription.",
       "significance": "One of the earliest and best-preserved examples of Edessan Syriac art and epigraphy.",
       "polity": "Bet-Urhay",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg",
       "origin": "aramean",
       "evidence_type": "funerary"
     },
@@ -1060,7 +1075,7 @@
       "description": "Mosaic depicting Orpheus with a Syriac inscription naming the tomb owner and artist.",
       "significance": "Contains one of the earliest dated Syriac inscriptions known.",
       "polity": "Bet-Urhay",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg",
       "origin": "aramean",
       "evidence_type": "funerary"
     },
@@ -1076,7 +1091,7 @@
       "description": "Collection of Syriac funerary inscriptions from tombs around Edessa.",
       "significance": "Primary archaeological evidence for the language and culture of ancient Urhay.",
       "polity": "Bet-Urhay",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg",
       "origin": "aramean",
       "evidence_type": "funerary"
     },
@@ -1107,7 +1122,7 @@
       "description": "Inscribed ivory bed-head fragment bearing the name of Hazael, king of Aram-Damascus, found among the Nimrud ivories.",
       "significance": "Evidence of Aramean luxury goods reaching Assyria, likely as tribute or war booty.",
       "polity": "Aram-Damascus",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Iraq%3B_Nimrud_-_Assyria%2C_Lamassu%27s_Guarding_Palace_Entrance.jpg",
       "origin": "aramean",
       "evidence_type": "artifact"
     },
@@ -1123,7 +1138,7 @@
       "description": "Monumental basalt guardian lion sculptures flanking the citadel gate at Sam'al, capital of Bit-Gabbar.",
       "significance": "Major examples of Aramean monumental sculpture combining local and Syro-Hittite traditions.",
       "polity": "Bit-Gabbar",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Zincirli1.jpg",
       "origin": "aramean",
       "evidence_type": "sculpture"
     },
@@ -1139,7 +1154,7 @@
       "description": "Orthostat relief showing King Bar-Rakib of Bit-Gabbar seated on his throne before a scribe, with an Aramaic inscription.",
       "significance": "One of the best-known depictions of an Aramean king, showing court life and royal iconography.",
       "polity": "Bit-Gabbar",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Zincirli1.jpg",
       "origin": "aramean",
       "evidence_type": "sculpture"
     },
@@ -1171,7 +1186,7 @@
       "description": "Monumental four-chambered city gate complex from the Aramean kingdom of Geshur, with a high place and cultic installations.",
       "significance": "Best-preserved example of Aramean urban architecture in the southern Levant.",
       "polity": "Geshur",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Location_of_Bethsaida_map.png",
       "origin": "aramean",
       "evidence_type": "architecture"
     },
@@ -1187,7 +1202,7 @@
       "description": "Aramaic inscription found at the Sea of Galilee shore site of Ein Gev, within the territory of Aram-Damascus.",
       "significance": "Evidence of Aramean administrative presence in the Galilee region.",
       "polity": "Aram-Damascus",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/EinGev056a.jpg",
       "origin": "aramean",
       "evidence_type": "inscription"
     },
@@ -1202,7 +1217,7 @@
       "description": "Aramaic version of the famous trilingual inscription of Darius I carved into the rock face at Behistun.",
       "significance": "Key Imperial Aramaic text demonstrating the language's official status in the Achaemenid Empire.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_%28_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86%28.jpg",
       "origin": "aramaic",
       "evidence_type": "inscription"
     },
@@ -1217,7 +1232,7 @@
       "description": "Collection of Aramaic legal and administrative papyri from a cave in Wadi Daliyeh, left by refugees from Samaria.",
       "significance": "Important source for Aramaic legal language and Persian-period administration in the Levant.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Wadi-Daliya-KWD-819.jpg",
       "origin": "aramaic",
       "evidence_type": "document"
     },
@@ -1232,7 +1247,7 @@
       "description": "Thousands of inscriptions in Nabataean Aramaic from the Nabataean kingdom, covering trade, religion, and dedications.",
       "significance": "Major corpus documenting a late Aramaic dialect that evolved into early Arabic script.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Al_Deir_Petra.JPG",
       "origin": "aramaic",
       "evidence_type": "text-corpus"
     },
@@ -1303,7 +1318,7 @@
       "description": "Administrative Aramaic papyri from Persian-period Samaria, documenting sales, loans, and legal transactions.",
       "significance": "Evidence of Aramaic as the administrative language of the Persian province of Samaria.",
       "polity": "",
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Wadi-Daliya-KWD-819.jpg",
       "origin": "aramaic",
       "evidence_type": "document"
     }
@@ -1857,60 +1872,60 @@
     }
   ],
   "location_evidence": [
-    {"location_id": "tel-dan", "evidence_id": 1, "title": "Tel Dan Stele"},
-    {"location_id": "tell-afis", "evidence_id": 2, "title": "Zakkur Stele"},
-    {"location_id": "sefire", "evidence_id": 3, "title": "Sefire Stelae"},
-    {"location_id": "tell-halaf", "evidence_id": 4, "title": "Tell Halaf Sculptures"},
-    {"location_id": "tell-fekheriye", "evidence_id": 5, "title": "Hadad-yis'i Bilingual (Tell Fekheriye)"},
-    {"location_id": "zincirli", "evidence_id": 6, "title": "Kilamuwa Stele"},
-    {"location_id": "zincirli", "evidence_id": 7, "title": "Panamuwa I Inscription (Hadad Statue)"},
-    {"location_id": "zincirli", "evidence_id": 8, "title": "Panamuwa II Inscription"},
-    {"location_id": "zincirli", "evidence_id": 9, "title": "Bar-Rakib Inscriptions"},
-    {"location_id": "zincirli", "evidence_id": 10, "title": "Katumuwa Stele"},
-    {"location_id": "zincirli", "evidence_id": 11, "title": "Kilamuwa Scepter"},
-    {"location_id": "arslan-tash", "evidence_id": 12, "title": "Hazael Booty Inscriptions"},
-    {"location_id": "samos", "evidence_id": 13, "title": "Hazael Horse Frontlet"},
-    {"location_id": "near-aleppo", "evidence_id": 14, "title": "Melqart Stele"},
-    {"location_id": "arslan-tash", "evidence_id": 15, "title": "Arslan Tash Amulets"},
-    {"location_id": "arslan-tash", "evidence_id": 16, "title": "Arslan Tash Ivory Inscription"},
-    {"location_id": "tell-ahmar", "evidence_id": 17, "title": "Til Barsip Wall Paintings"},
-    {"location_id": "hama", "evidence_id": 18, "title": "Hamath Inscriptions"},
-    {"location_id": "hama", "evidence_id": 19, "title": "Hama Graffiti"},
-    {"location_id": "tell-halaf", "evidence_id": 20, "title": "Tell Halaf Bit-Hilani Palace"},
-    {"location_id": "tell-halaf", "evidence_id": 21, "title": "Tell Halaf Inscription"},
-    {"location_id": "bukan", "evidence_id": 22, "title": "Bukan Stele"},
-    {"location_id": "al-nayrab", "evidence_id": 23, "title": "Neirab Steles"},
-    {"location_id": "tayma", "evidence_id": 24, "title": "Tayma Stones"},
-    {"location_id": "assur", "evidence_id": 25, "title": "Assur Ostracon and Tablets"},
-    {"location_id": "saqqara", "evidence_id": 26, "title": "Saqqara Aramaic Stele"},
-    {"location_id": "elephantine", "evidence_id": 27, "title": "Elephantine Papyri"},
-    {"location_id": "hermopolis", "evidence_id": 28, "title": "Hermopolis Aramaic Papyri"},
-    {"location_id": "sariaydin", "evidence_id": 29, "title": "Sarıaydın Inscription"},
-    {"location_id": "dascylium", "evidence_id": 30, "title": "Daskyleion Steles"},
-    {"location_id": "luristan", "evidence_id": 31, "title": "Luristan Aramaic Inscriptions"},
-    {"location_id": "kandahar", "evidence_id": 32, "title": "Kandahar Bilingual Rock Inscription"},
-    {"location_id": "taxila", "evidence_id": 33, "title": "Aramaic Inscription of Taxila"},
-    {"location_id": "pul-i-darunteh", "evidence_id": 34, "title": "Pul-i-Darunteh Inscription"},
-    {"location_id": "bactria", "evidence_id": 35, "title": "Bactria Aramaic Documents"},
-    {"location_id": "laghman", "evidence_id": 36, "title": "Aramaic Inscription of Laghman"},
-    {"location_id": "palmyra", "evidence_id": 37, "title": "Palmyrene Inscriptions"},
-    {"location_id": "sanliurfa", "evidence_id": 38, "title": "Aftuha Family Mosaic"},
-    {"location_id": "sanliurfa", "evidence_id": 39, "title": "Orpheus Mosaic"},
-    {"location_id": "sanliurfa", "evidence_id": 40, "title": "Funerary Inscriptions"},
-    {"location_id": "et-tell", "evidence_id": 41, "title": "Bethsaida Cultic Stele"},
-    {"location_id": "nimrud", "evidence_id": 42, "title": "Hazael Ivory Bed (Nimrud)"},
-    {"location_id": "zincirli", "evidence_id": 43, "title": "Sam'al Citadel Gate Lions"},
-    {"location_id": "zincirli", "evidence_id": 44, "title": "Bar-Rakib Relief"},
-    {"location_id": "tell-fekheriye", "evidence_id": 45, "title": "Tell Fekheriye Statue"},
-    {"location_id": "et-tell", "evidence_id": 46, "title": "Bethsaida City Gate"},
-    {"location_id": "ein-gev", "evidence_id": 47, "title": "Ein Gev Inscription"},
-    {"location_id": "behistun", "evidence_id": 48, "title": "Behistun Aramaic Inscription"},
-    {"location_id": "wadi-daliyeh", "evidence_id": 49, "title": "Wadi Daliyeh Papyri"},
-    {"location_id": "petra", "evidence_id": 50, "title": "Nabataean Inscriptions"},
-    {"location_id": "hatra", "evidence_id": 51, "title": "Hatran Inscriptions"},
-    {"location_id": "dura-europos", "evidence_id": 52, "title": "Dura-Europos Aramaic Texts"},
-    {"location_id": "qumran", "evidence_id": 53, "title": "Dead Sea Scrolls (Aramaic texts)"},
-    {"location_id": "samaria", "evidence_id": 54, "title": "Samaria Papyri"}
+    {"location_id": "tel-dan", "evidence_id": 1, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Tel_dan_inscription.JPG", "title": "Tel Dan Stele"},
+    {"location_id": "tell-afis", "evidence_id": 2, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Zakkur_Stele_0157b.jpg", "title": "Zakkur Stele"},
+    {"location_id": "sefire", "evidence_id": 3, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ronzevalle%27s_publication_of_the_Sefire_steles_-_Plate_XXXIX.jpg/1280px-Ronzevalle%27s_publication_of_the_Sefire_steles_-_Plate_XXXIX.jpg", "title": "Sefire Stelae"},
+    {"location_id": "tell-halaf", "evidence_id": 4, "type": "Sculpture", "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Statue_TellHalaf_01.jpg", "title": "Tell Halaf Sculptures"},
+    {"location_id": "tell-fekheriye", "evidence_id": 5, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Tell_Fekheriyeh_statue.jpg", "title": "Hadad-yis'i Bilingual (Tell Fekheriye)"},
+    {"location_id": "zincirli", "evidence_id": 6, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Samal_Text.jpg", "title": "Kilamuwa Stele"},
+    {"location_id": "zincirli", "evidence_id": 7, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pergamon_Museum_Hadad_statue_from_Sam%27al_aka_Zincirli_7968.jpg", "title": "Panamuwa I Inscription (Hadad Statue)"},
+    {"location_id": "zincirli", "evidence_id": 8, "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Zincirli1.jpg", "title": "Panamuwa II Inscription"},
+    {"location_id": "zincirli", "evidence_id": 9, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/20131205_Istanbul_067.jpg", "title": "Bar-Rakib Inscriptions"},
+    {"location_id": "zincirli", "evidence_id": 10, "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gaziantep_Archaeology_museum_Kuttamuwa_stele_4270.jpg", "title": "Katumuwa Stele"},
+    {"location_id": "zincirli", "evidence_id": 11, "type": "Artifact", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Zincirli1.jpg", "title": "Kilamuwa Scepter"},
+    {"location_id": "arslan-tash", "evidence_id": 12, "type": "Artifact", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png", "title": "Hazael Booty Inscriptions"},
+    {"location_id": "samos", "evidence_id": 13, "type": "Artifact", "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hazael_horse_frontlet_in_the_Archaeological_Museum_of_Vathi_in_Samos.jpg", "title": "Hazael Horse Frontlet"},
+    {"location_id": "near-aleppo", "evidence_id": 14, "type": "Religious", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zakkur_Stele_0154.jpg/1280px-Zakkur_Stele_0154.jpg", "title": "Melqart Stele"},
+    {"location_id": "arslan-tash", "evidence_id": 15, "type": "Religious", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png", "title": "Arslan Tash Amulets"},
+    {"location_id": "arslan-tash", "evidence_id": 16, "type": "Artifact", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png", "title": "Arslan Tash Ivory Inscription"},
+    {"location_id": "tell-ahmar", "evidence_id": 17, "type": "Artifact", "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Detail_of_the_wall_paintings_from_the_governor%27s_palace_at_Til_Barsip_%28Tell_Ahmar%2C_Syria%29.jpg", "title": "Til Barsip Wall Paintings"},
+    {"location_id": "hama", "evidence_id": 18, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Noria_of_Hama%2C_Hama%2C_Syria.jpg", "title": "Hamath Inscriptions"},
+    {"location_id": "hama", "evidence_id": 19, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Noria_of_Hama%2C_Hama%2C_Syria.jpg", "title": "Hama Graffiti"},
+    {"location_id": "tell-halaf", "evidence_id": 20, "type": "Architecture", "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Statue_TellHalaf_01.jpg", "title": "Tell Halaf Bit-Hilani Palace"},
+    {"location_id": "tell-halaf", "evidence_id": 21, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Statue_TellHalaf_01.jpg", "title": "Tell Halaf Inscription"},
+    {"location_id": "bukan", "evidence_id": 22, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bukan_summer_2012.jpg/1280px-Bukan_summer_2012.jpg", "title": "Bukan Stele"},
+    {"location_id": "al-nayrab", "evidence_id": 23, "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Funerary_stele_-_Neirab_-_Louvre_AO_3027.JPG", "title": "Neirab Steles"},
+    {"location_id": "tayma", "evidence_id": 24, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Old_town_of_Tayma_2020.jpg/1280px-Old_town_of_Tayma_2020.jpg", "title": "Tayma Stones"},
+    {"location_id": "assur", "evidence_id": 25, "type": "Document", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Iraq%3B_Nimrud_-_Assyria%2C_Lamassu%27s_Guarding_Palace_Entrance.jpg", "title": "Assur Ostracon and Tablets"},
+    {"location_id": "saqqara", "evidence_id": 26, "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Saqqara_pyramid_ver_2.jpg", "title": "Saqqara Aramaic Stele"},
+    {"location_id": "elephantine", "evidence_id": 27, "type": "Document", "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Papyrus_narrating_the_story_of_the_wise_chancellor_Ahiqar._Aramaic_script._5th_century_BCE._From_Elephantine%2C_Egypt._Neues_Museum.jpg", "title": "Elephantine Papyri"},
+    {"location_id": "hermopolis", "evidence_id": 28, "type": "Document", "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AshmuneinBasilica.jpg", "title": "Hermopolis Aramaic Papyri"},
+    {"location_id": "sariaydin", "evidence_id": 29, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg", "title": "Sarıaydın Inscription"},
+    {"location_id": "dascylium", "evidence_id": 30, "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Hellespontine_Phrygia.jpg", "title": "Daskyleion Steles"},
+    {"location_id": "luristan", "evidence_id": 31, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Khorramabad_-_Kouhdasht_road.jpg/3840px-Khorramabad_-_Kouhdasht_road.jpg", "title": "Luristan Aramaic Inscriptions"},
+    {"location_id": "kandahar", "evidence_id": 32, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kandahar_Sophytes_Inscription.jpg/1280px-Kandahar_Sophytes_Inscription.jpg", "title": "Kandahar Bilingual Rock Inscription"},
+    {"location_id": "taxila", "evidence_id": 33, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dharmarajika_stupa%2CTaxila.jpg/3840px-Dharmarajika_stupa%2CTaxila.jpg", "title": "Aramaic Inscription of Taxila"},
+    {"location_id": "pul-i-darunteh", "evidence_id": 34, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/BactriaMap.jpg", "title": "Pul-i-Darunteh Inscription"},
+    {"location_id": "bactria", "evidence_id": 35, "type": "Document", "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/BactriaMap.jpg", "title": "Bactria Aramaic Documents"},
+    {"location_id": "laghman", "evidence_id": 36, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/BactriaMap.jpg", "title": "Aramaic Inscription of Laghman"},
+    {"location_id": "palmyra", "evidence_id": 37, "type": "Text corpus", "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Palmyra_theater02%28js%29.jpg", "title": "Palmyrene Inscriptions"},
+    {"location_id": "sanliurfa", "evidence_id": 38, "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg", "title": "Aftuha Family Mosaic"},
+    {"location_id": "sanliurfa", "evidence_id": 39, "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg", "title": "Orpheus Mosaic"},
+    {"location_id": "sanliurfa", "evidence_id": 40, "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg", "title": "Funerary Inscriptions"},
+    {"location_id": "et-tell", "evidence_id": 41, "type": "Religious", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JRSLM_300116_Bethsaida.jpg", "title": "Bethsaida Cultic Stele"},
+    {"location_id": "nimrud", "evidence_id": 42, "type": "Artifact", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Iraq%3B_Nimrud_-_Assyria%2C_Lamassu%27s_Guarding_Palace_Entrance.jpg", "title": "Hazael Ivory Bed (Nimrud)"},
+    {"location_id": "zincirli", "evidence_id": 43, "type": "Sculpture", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Zincirli1.jpg", "title": "Sam'al Citadel Gate Lions"},
+    {"location_id": "zincirli", "evidence_id": 44, "type": "Sculpture", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Zincirli1.jpg", "title": "Bar-Rakib Relief"},
+    {"location_id": "tell-fekheriye", "evidence_id": 45, "type": "Sculpture", "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Tell_Fekheriyeh_statue.jpg", "title": "Tell Fekheriye Statue"},
+    {"location_id": "et-tell", "evidence_id": 46, "type": "Architecture", "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Location_of_Bethsaida_map.png", "title": "Bethsaida City Gate"},
+    {"location_id": "ein-gev", "evidence_id": 47, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/EinGev056a.jpg", "title": "Ein Gev Inscription"},
+    {"location_id": "behistun", "evidence_id": 48, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_%28_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86%28.jpg", "title": "Behistun Aramaic Inscription"},
+    {"location_id": "wadi-daliyeh", "evidence_id": 49, "type": "Document", "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Wadi-Daliya-KWD-819.jpg", "title": "Wadi Daliyeh Papyri"},
+    {"location_id": "petra", "evidence_id": 50, "type": "Text corpus", "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Al_Deir_Petra.JPG", "title": "Nabataean Inscriptions"},
+    {"location_id": "hatra", "evidence_id": 51, "type": "Text corpus", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Slab_with_Aramaic_Hatran_Inscription_from_Hatra%2C_Iraq%2C_Iraq_Museum.jpg/1280px-Slab_with_Aramaic_Hatran_Inscription_from_Hatra%2C_Iraq%2C_Iraq_Museum.jpg", "title": "Hatran Inscriptions"},
+    {"location_id": "dura-europos", "evidence_id": 52, "type": "Text corpus", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fouilles.28.png/1280px-Fouilles.28.png", "title": "Dura-Europos Aramaic Texts"},
+    {"location_id": "qumran", "evidence_id": 53, "type": "Text corpus", "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Genesis_apocryphon.jpg", "title": "Dead Sea Scrolls (Aramaic texts)"},
+    {"location_id": "samaria", "evidence_id": 54, "type": "Document", "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Wadi-Daliya-KWD-819.jpg", "title": "Samaria Papyri"}
   ],
   "images": [
     {
