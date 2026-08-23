@@ -68,6 +68,31 @@
     <h2 margintop="2rem">Description</h2>
     <p data-get="description"></p>
 
+    <section data-if="inscription_lines" margintop="2rem">
+      <h2>Inscription text</h2>
+      <p class="gray">Transcription and transliteration of the recorded inscription lines.</p>
+      <div style="overflow-x:auto;">
+        <table class="mt1 bocred bos5 bw1 z08 w100" style="min-width:48rem;">
+          <thead bgcolor="red" color="yellow" padding="1rem">
+            <tr align="center">
+              <th scope="col" width="4rem" align="center">Line</th>
+              <th scope="col" width="45%">Aramaic script</th>
+              <th scope="col" width="35%">Transliteration</th>
+              <th scope="col" width="30%">English translation</th>
+            </tr>
+          </thead>
+          <tbody data-iterate="inscription_lines">
+            <tr align="center">
+              <td data-get="line_number" fontsize="130%" bold></td>
+              <td><span data-get="original_script" dir="rtl" lang="arc" bold fontsize="130%"></span></td>
+              <td><span data-get="transliteration" fontsize="100%"></span></td>
+              <td><span data-get="english_translation" fontsize="100%"></span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
     <h2 margintop="2rem">Significance</h2>
     <p data-get="significance"></p>
   </article>

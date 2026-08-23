@@ -865,7 +865,7 @@
     "label": "Bit-Bahiani"
   },
   {
-    "name": "Beth-Eden / Bit-Adini",
+    "name": "Bit-Adini",
     "lat": 36.7014,
     "lng": 38.0865,
     "labelColor": "rgba(0,0,0, .15)",
@@ -873,7 +873,7 @@
     "precision": "approximate polity-center reference only; Beth-Eden is a biblical toponym commonly identified with Bit-Adini, an ancient Aramean-associated polity near the Euphrates, but its extent and exact location remain debated; no boundaries shown",
     "tags": ["region", "ancient", "polity", "Aramean-associated", "biblical-geography", "Beth-Eden", "Upper-Mesopotamia"],
     "settlementType": "region",
-    "label": "Beth-Eden / Bit-Adini"
+    "label": "Bit-Adini"
   },
   {
     "name": "Bit-Agusi",
