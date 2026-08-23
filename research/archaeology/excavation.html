@@ -2,7 +2,7 @@
 <template srcdoc="../../../index" src="../../../_templates/archaeology"></template>
 <title>Archaeological Site</title>
 
-<section class="pauto" relative bindquery="id:id" data-src="../../../assets/json/archaeological-fieldwork.json"
+<section class="pauto" relative bindquery="id:id" data-src="/assets/json/archaeology.json"
   data-filterkey="excavations" data-filteritem="id:'{id}'">
   <h1 data-get="modern_name">Archaeological Site</h1>
   <nav class="pointer" margintop="0.5rem" aria-label="Breadcrumb" screen-xxs="hide" screen-xl="show">
@@ -33,7 +33,7 @@
 
     <section margintop="2rem">
       <h2>Documented findings</h2>
-      <div data-iterate="evidence" data-src="../../../assets/json/archaeological-evidence.json" bindquery="id:id"
+      <div data-iterate="evidence" data-src="/assets/json/archaeology.json" bindquery="id:id"
         data-filterkey="evidence" data-filteritem="excavation_id:'{id}'" data-onempty="show:#no-findings">
         <article margintop="1rem" overflow="hidden">
           <h3><a data-set="evidenceId:id" data-get="title"

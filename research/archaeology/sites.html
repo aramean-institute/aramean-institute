@@ -30,7 +30,7 @@
       These site records include excavation history, research focus, documented findings, and links to detailed
       fieldwork pages.
     </p>
-    <section data-src="../../../assets/json/archaeological-fieldwork.json">
+    <section data-src="/assets/json/archaeology.json">
       <article margintop="2rem" data-iterate="excavations">
         <h3><a data-set="excavationId:id" data-get="modern_name"
             href="/research/archaeology/excavation.html?id={excavationId}" color="red"></a></h3>
@@ -46,14 +46,15 @@
 
     <hr class="mt2 bcblack">
 
-    <h2 margintop="3rem">Related Archaeological Locations and Contexts</h2>
+    <h2 margintop="3rem">Archaeological Locations</h2>
     <p>
-      These entries include locations, inscription localities, religious sites, churches, and funerary contexts. They
-      remain part of the site catalogue even when they do not have a separate fieldwork record.
+      These entries are cities, settlements, and evidence findspots with their own location pages. Each location page lists
+      the evidence explicitly associated with that place, including inscriptions, documents, architecture, and other remains.
     </p>
-    <section data-src="assets/json/archaeological-locations.json">
+    <section data-src="/assets/json/archaeology.json">
       <article margintop="2rem" data-iterate="locations">
-        <h3 data-get="name"></h3>
+        <h3><a data-set="locationId:id" data-get="name"
+            href="/research/archaeology/location.html?id={locationId}" color="red"></a></h3>
         <p>
           <b>Category:</b> <span data-get="category"></span><br>
           <b>Classification:</b> <span data-get="classification"></span><br>
@@ -64,13 +65,14 @@
           <b>Associated context:</b> <span data-get="associated_context"></span>
         </p>
         <p class="pt1" data-get="description"></p>
+        <p><a data-set="detailId:id" href="/research/archaeology/location.html?id={detailId}" color="red">View location details and evidence</a></p>
       </article>
     </section>
 
     <hr class="mt2 bcblack">
     <p>
       For artifacts, inscriptions, architecture, and other evidence connected with these locations, see
-      <a href="/research/archaeology/catalogue.html" color="red">Archaeological Catalogue</a>.
+      <a href="/research/archaeology/evidence.html" color="red">Archaeological Evidence</a>.
     </p>
     <small class="gray">Published: 2025-01-15, Last update: 2026-08-16</small>
   </article>

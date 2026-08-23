@@ -25,7 +25,7 @@
           <th>Location</th>
         </tr>
       </thead>
-      <tbody data-iterate="evidence" data-src="assets/json/archaeological-evidence.json" data-filterkey="evidence"
+      <tbody data-iterate="evidence" data-src="/assets/json/archaeology.json" data-filterkey="evidence"
         data-filteritem="origin:'aramean'">
         <tr>
           <td><a data-set="evidenceId:id" data-get="title" href="/research/archaeology/evidence.html?id={evidenceId}" color="red"></a></td>
@@ -50,7 +50,7 @@
           <th>Museum or repository</th>
         </tr>
       </thead>
-      <tbody data-iterate="evidence" data-src="assets/json/archaeological-evidence.json" data-filterkey="evidence"
+      <tbody data-iterate="evidence" data-src="/assets/json/archaeology.json" data-filterkey="evidence"
         data-filteritem="origin:'aramaic'">
         <tr>
           <td><a data-set="evidenceId:id" data-get="title" href="/research/archaeology/evidence.html?id={evidenceId}" color="red"></a></td>
@@ -65,3 +65,5 @@
 </article>
 
 <section include="./_includes/footer.html" bgcolor="red" color="white" padding="1rem" class="white-"></section>
+
+</content>

@@ -1,0 +1,47 @@
+<script src="https://cdn.front.nu/nightly/front.js"></script>
+<template srcdoc="../../../index" src="../../../_templates/archaeology"></template>
+<title>Archaeological Location</title>
+
+<section class="pauto" relative bindquery="id:id" data-src="/assets/json/archaeology.json"
+  data-filterkey="locations" data-filteritem="id:'{id}'">
+  <h1 data-get="name">Archaeological Location</h1>
+  <nav class="pointer" margintop="0.5rem" aria-label="Breadcrumb" screen-xxs="hide" screen-xl="show">
+    <ol padding="0">
+      <li><a href="/research" globalize-get="research">Research</a></li>
+      <li><a href="/research/archaeology">Archaeology</a></li>
+      <li><a href="/research/archaeology/sites.html">Locations</a></li>
+      <li data-get="name" aria-current="page">Archaeological Location</li>
+    </ol>
+  </nav>
+
+  <article margintop="2rem">
+    <h2>At a glance</h2>
+    <p>
+      <b>Category:</b> <span data-get="category"></span><br>
+      <b>Classification:</b> <span data-get="classification"></span><br>
+      <b>Site type:</b> <span data-get="site_type"></span><br>
+      <b>Region:</b> <span data-get="region"></span><br>
+      <b>Modern location:</b> <span data-get="modern_location"></span><br>
+      <b>Period:</b> <span data-get="period"></span><br>
+      <b>Associated context:</b> <span data-get="associated_context"></span>
+    </p>
+
+    <h2 margintop="2rem">Location description</h2>
+    <p data-get="description"></p>
+
+    <section margintop="2rem">
+      <h2>Related evidence</h2>
+      <p class="gray">Evidence is listed here only where an explicit location relationship has been reviewed.</p>
+      <ul data-iterate="location_evidence" data-src="/assets/json/archaeology.json" bindquery="id:id"
+        data-filterkey="location_evidence" data-filteritem="location_id:'{id}'" data-onempty="show:#no-evidence">
+        <li><a data-set="evidenceId:evidence_id" data-get="title"
+            href="/research/archaeology/evidence.html?id={evidenceId}" color="red"></a></li>
+      </ul>
+      <p id="no-evidence" class="gray" hide>No directly linked evidence is registered for this location yet.</p>
+    </section>
+
+    <hr class="mt2 bcblack">
+  </article>
+</section>
+
+</content>
