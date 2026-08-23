@@ -1200,10 +1200,10 @@
         }
       ],
       "polity": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/The_word_%22Tadmor%22_in_the_Laghman_inscription%2C_Imperial_Aramaic_script%2C_and_modern_Hebrew_script.jpg",
-      "image_caption": "The word \"Tadmor\" in the Laghman inscription, with Imperial Aramaic and modern Hebrew comparisons; a text-detail graphic, not a photograph of the rock.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Aramaic_inscription_of_Laghman.jpg",
+      "image_caption": "Aramaic inscription of Laghman, an Aramaic rock inscription from the Laghman Valley in Afghanistan.",
       "image_source": "Wikimedia Commons; Pataliputra",
-      "image_source_url": "https://commons.wikimedia.org/wiki/File:The_word_%22Tadmor%22_in_the_Laghman_inscription,_Imperial_Aramaic_script,_and_modern_Hebrew_script.jpg",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Aramaic_inscription_of_Laghman.jpg",
       "origin": "aramaic",
       "evidence_type": "inscription"
     },
@@ -2112,7 +2112,7 @@
     {"location_id": "taxila", "evidence_id": 33, "identifier": "KAI 273", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Aramaic_inscription_at_Taxila_Museum.jpg", "title": "Aramaic Inscription of Taxila"},
     {"location_id": "pul-i-darunteh", "evidence_id": 34, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lampaka_inscription.jpg", "title": "Pul-i-Darunteh Inscription"},
     {"location_id": "bactria", "evidence_id": 35, "identifier": "IA 17", "type": "Document", "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Khalili_Collection_Aramaic_Documents_manuscript_Bactria.jpg", "title": "Bactria Aramaic Documents"},
-    {"location_id": "laghman", "evidence_id": 36, "identifier": "Laghman I", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/The_word_%22Tadmor%22_in_the_Laghman_inscription%2C_Imperial_Aramaic_script%2C_and_modern_Hebrew_script.jpg", "title": "Aramaic Inscription of Laghman"},
+    {"location_id": "laghman", "evidence_id": 36, "identifier": "Laghman I", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Aramaic_inscription_of_Laghman.jpg", "title": "Aramaic Inscription of Laghman"},
     {"location_id": "palmyra", "evidence_id": 37, "type": "Text corpus", "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Inscription_Palmyra_Louvre_AO2205.jpg", "title": "Palmyrene Inscriptions"},
     {"location_id": "sanliurfa", "evidence_id": 38, "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg", "title": "Aftuha Family Mosaic"},
     {"location_id": "sanliurfa", "evidence_id": 39, "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg", "title": "Orpheus Mosaic"},
