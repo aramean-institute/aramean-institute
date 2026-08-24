@@ -1532,24 +1532,24 @@
     },
     {
       "id": 44,
-      "title": "Bar-Rakib Relief",
-      "identifier": "KAI 216",
+      "title": "Bar-Rakib II",
+      "identifier": "KAI 218",
       "excavation_id": "zincirli",
       "period": "c. 730 BC",
       "location": "Zincirli, Turkey",
       "country": "Turkey",
       "place": "Zincirli",
       "museum": "Pergamon Museum, Berlin",
-      "description": "The Bar-Rakib Relief is an orthostat showing the ruler seated before a scribe and accompanied by an Aramaic inscription. The scene presents kingship through the relationship between monarch, courtly record-keeping, and monumental text, offering evidence for royal representation at Sam'al without providing a complete picture of court life.",
+      "description": "The Bar-Rakib I relief is an orthostat showing the ruler seated before a scribe and accompanied by an Aramaic inscription reading 'I am Barrakib, son of Panammuwa'. The scene presents kingship through the relationship between monarch, courtly record-keeping, and monumental text.",
       "significance": "One of the best-known depictions of an Aramean king, showing court life and royal iconography.",
       "polity": "Bit-Gabbar",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Relief_of_king_Barrakib_from_Zincirli_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg",
-      "image_caption": "Relief of King Bar-Rakib from Zincirli, displayed in the Pergamon Museum, Berlin.",
+      "image_caption": "Relief of King Bar-Rakib I from Zincirli, displayed in the Pergamon Museum, Berlin.",
       "image_source": "Wikimedia Commons; José Luiz Bernardes Ribeiro",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Relief_of_king_Barrakib_from_Zincirli_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg",
       "origin": "aramean",
       "evidence_type": "sculpture",
-      "inscription": false
+      "inscription": true
     },
     {
       "id": 45,
@@ -2356,10 +2356,10 @@
     {
       "location_id": "zincirli",
       "evidence_id": 9,
-      "identifier": "KAI 216–218",
+      "identifier": "KAI 216",
       "type": "Inscription",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/20131205_Istanbul_067.jpg",
-      "title": "Bar-Rakib Inscriptions"
+      "title": "Bar-Rakib I"
     },
     {
       "location_id": "zincirli",
@@ -2620,10 +2620,10 @@
     {
       "location_id": "zincirli",
       "evidence_id": 44,
-      "identifier": "KAI 216",
+      "identifier": "KAI 218",
       "type": "Sculpture",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Relief_of_king_Barrakib_from_Zincirli_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg",
-      "title": "Bar-Rakib Relief"
+      "title": "Bar-Rakib II"
     },
     {
       "location_id": "tell-fekheriye",
