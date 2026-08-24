@@ -1304,7 +1304,40 @@
       "place": "Palmyra",
       "museum": "Various (Louvre, Damascus Museum, Hermitage)",
       "description": "The Palmyrene Inscriptions are a large corpus of texts in the Palmyrene form of Aramaic, dating from the late Hellenistic and Roman periods. Funerary, dedicatory, civic, and commercial inscriptions record people, institutions, religious practices, and connections across the oasis city and its wider trading world; the corpus belongs to Palmyrene society rather than being a direct record of the Iron Age Aramean kingdoms.",
-      "significance": "Largest corpus of Aramaic inscriptions from a single site. Documents Aramean culture in the Roman period.",
+      "significance": "Largest corpus of Aramaic inscriptions from a single site. Documents Palmyrene society and Aramaic culture in the Roman period.",
+      "inscription_note": "The lines below are a representative Palmyrene dedicatory inscription from the wider corpus. Line divisions follow the sense of the text rather than a publication layout; they should not be read as a complete transcription of every Palmyrene inscription or as a transcription of the pictured Louvre AO 2205 slab.",
+      "inscription_lines": [
+        {
+          "line_number": 1,
+          "original_script": "𐡋𐡆𐡊𐡓 𐡀𐡋𐡄𐡉𐡀 𐡔𐡌𐡄 𐡁𐡓𐡊",
+          "transliteration": "l-zkr ʾlhyʾ šmh brk",
+          "english_translation": "In commemoration of the One whose name is blessed."
+        },
+        {
+          "line_number": 2,
+          "original_script": "𐡏𐡁𐡃 𐡆𐡁𐡃𐡏𐡕𐡄 𐡁𐡓 𐡇𐡂𐡂𐡅",
+          "transliteration": "ʿbd Zabdʿateh br Ḥagagu",
+          "english_translation": "Zabd'ateh, son of Hagagu, made it."
+        },
+        {
+          "line_number": 3,
+          "original_script": "𐡁𐡓 𐡏𐡕𐡄 𐡏𐡋𐡉𐡁𐡏𐡋",
+          "transliteration": "br ʿAteh ʿAlaybʿal",
+          "english_translation": "He was the son of Bar'ateh 'Alayb'al."
+        },
+        {
+          "line_number": 4,
+          "original_script": "𐡌𐡃𐡁𐡇 𐡏𐡈𐡓𐡀 𐡃𐡍𐡄 𐡋𐡇𐡉𐡉",
+          "transliteration": "mdbḥ ʿṭrʾ dnh l-ḥyy",
+          "english_translation": "He made this incense altar for his life,"
+        },
+        {
+          "line_number": 5,
+          "original_script": "𐡅𐡋𐡇𐡉𐡉 𐡁𐡍𐡅𐡄𐡉 𐡅𐡀𐡇𐡅𐡄𐡉 𐡁𐡉𐡓𐡇 𐡍𐡉𐡎𐡍 𐡔𐡍𐡕 453",
+          "transliteration": "w-l-ḥyy bnhwy w-ʾḥwhy b-yrḥ Nysan šnt 453",
+          "english_translation": "and for the lives of his sons and brothers, in the month of Nisan, year 453."
+        }
+      ],
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Inscription_Palmyra_Louvre_AO2205.jpg",
       "image_caption": "Representative Palmyrene funerary inscription on a limestone slab from Palmyra (Louvre AO 2205), dated 4 BC; one artifact within the wider Palmyrene inscription corpus.",
@@ -1312,7 +1345,7 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Inscription_Palmyra_Louvre_AO2205.jpg",
       "origin": "aramaic",
       "evidence_type": "text-corpus",
-      "inscription": false
+      "inscription": true
     },
     {
       "id": 38,
