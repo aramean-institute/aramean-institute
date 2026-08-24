@@ -15,10 +15,8 @@
   </nav>
 
   <article margintop="2rem">
-    <figure width="100%" maxwidth="20rem" bgcolor="white" margin="0 0 1.5rem 2rem"
-      border="1px solid gainsboro"
-      padding="1rem"
-      radius="1rem"
+    <figure width="100%" maxwidth="20rem" bgcolor="white" margin="0 0 1.5rem 2rem" border="1px solid gainsboro"
+      padding="1rem" radius="1rem"
       style="display:block; box-sizing:border-box; float:right; clear:right; overflow:hidden;">
       <a data-if="image" data-set="href:image" target="_blank" rel="noopener" title="Open full-size image"
         style="display:block; max-height:34rem; overflow:hidden; border-radius:0.65rem; background:linear-gradient(145deg,#f7f8f9,#eceff1);">
@@ -68,7 +66,7 @@
     <h2 margintop="2rem">Description</h2>
     <p data-get="description"></p>
 
-    <section data-if="inscription_lines" margintop="2rem">
+    <section data-get="inscription:inscription" if="([{inscription}]:[true])/show?hide" margintop="2rem">
       <h2>Inscription text</h2>
       <p class="gray">Transcription and transliteration of the recorded inscription lines.</p>
       <div style="overflow-x:auto;">

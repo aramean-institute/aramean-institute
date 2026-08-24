@@ -492,7 +492,8 @@
       "polity": "Aram-Damascus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Tel_dan_inscription.JPG",
       "origin": "aramean",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 2,
@@ -508,7 +509,8 @@
       "polity": "Hamath",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Zakkur_Stele_0157b.jpg",
       "origin": "aramean",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 3,
@@ -524,7 +526,8 @@
       "polity": "Bit-Agusi",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ronzevalle%27s_publication_of_the_Sefire_steles_-_Plate_XXXIX.jpg/1280px-Ronzevalle%27s_publication_of_the_Sefire_steles_-_Plate_XXXIX.jpg",
       "origin": "aramean",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 4,
@@ -540,7 +543,8 @@
       "polity": "Bit-Bahiani",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Statue_TellHalaf_01.jpg",
       "origin": "aramean",
-      "evidence_type": "sculpture"
+      "evidence_type": "sculpture",
+      "inscription": false
     },
     {
       "id": 5,
@@ -557,7 +561,8 @@
       "polity": "Bit-Bahiani",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Tell_Fekheriyeh_statue.jpg",
       "origin": "aramean",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 6,
@@ -574,7 +579,8 @@
       "polity": "Bit-Gabbar",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Samal_Text.jpg",
       "origin": "aramean",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 7,
@@ -591,7 +597,8 @@
       "polity": "Bit-Gabbar",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pergamon_Museum_Hadad_statue_from_Sam%27al_aka_Zincirli_7968.jpg",
       "origin": "aramean",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 8,
@@ -611,7 +618,8 @@
       "image_source": "Wikimedia Commons; Felix von Luschan et al. (public domain)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Panamuwa_II_torso_inscription_(KAI_215)_stretched.jpg",
       "origin": "aramean",
-      "evidence_type": "funerary"
+      "evidence_type": "funerary",
+      "inscription": false
     },
     {
       "id": 9,
@@ -628,7 +636,8 @@
       "polity": "Bit-Gabbar",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/20131205_Istanbul_067.jpg",
       "origin": "aramean",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 10,
@@ -644,7 +653,8 @@
       "polity": "Bit-Gabbar",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gaziantep_Archaeology_museum_Kuttamuwa_stele_4270.jpg",
       "origin": "aramean",
-      "evidence_type": "funerary"
+      "evidence_type": "funerary",
+      "inscription": false
     },
     {
       "id": 11,
@@ -664,7 +674,8 @@
       "image_source": "Wikimedia Commons; Pergamon Museum",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Kilamuwa_scepter_in_the_Pergamon_Museum.jpg",
       "origin": "aramean",
-      "evidence_type": "artifact"
+      "evidence_type": "artifact",
+      "inscription": false
     },
     {
       "id": 12,
@@ -680,7 +691,8 @@
       "polity": "Aram-Damascus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png",
       "origin": "aramean",
-      "evidence_type": "artifact"
+      "evidence_type": "artifact",
+      "inscription": false
     },
     {
       "id": 13,
@@ -705,7 +717,8 @@
       "polity": "Aram-Damascus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hazael_horse_frontlet_in_the_Archaeological_Museum_of_Vathi_in_Samos.jpg",
       "origin": "aramean",
-      "evidence_type": "artifact"
+      "evidence_type": "artifact",
+      "inscription": true
     },
     {
       "id": 14,
@@ -721,7 +734,8 @@
       "polity": "Aram-Damascus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zakkur_Stele_0154.jpg/1280px-Zakkur_Stele_0154.jpg",
       "origin": "aramean",
-      "evidence_type": "religious"
+      "evidence_type": "religious",
+      "inscription": false
     },
     {
       "id": 15,
@@ -738,7 +752,8 @@
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png",
       "origin": "aramaic",
-      "evidence_type": "religious"
+      "evidence_type": "religious",
+      "inscription": false
     },
     {
       "id": 16,
@@ -755,7 +770,8 @@
       "polity": "Bit-Adini",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png",
       "origin": "aramean",
-      "evidence_type": "artifact"
+      "evidence_type": "artifact",
+      "inscription": false
     },
     {
       "id": 17,
@@ -771,7 +787,8 @@
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Detail_of_the_wall_paintings_from_the_governor%27s_palace_at_Til_Barsip_%28Tell_Ahmar%2C_Syria%29.jpg",
       "origin": "aramaic",
-      "evidence_type": "artifact"
+      "evidence_type": "artifact",
+      "inscription": false
     },
     {
       "id": 18,
@@ -790,7 +807,8 @@
       "image_source": "Wikimedia Commons; William Wright, The Empire of the Hittites (1886, public domain)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hamath_inscription.jpg",
       "origin": "aramean",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 19,
@@ -806,7 +824,8 @@
       "polity": "Hamath",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Noria_of_Hama%2C_Hama%2C_Syria.jpg",
       "origin": "aramean",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 20,
@@ -822,7 +841,8 @@
       "polity": "Bit-Bahiani",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Statue_TellHalaf_01.jpg",
       "origin": "aramean",
-      "evidence_type": "architecture"
+      "evidence_type": "architecture",
+      "inscription": false
     },
     {
       "id": 21,
@@ -842,7 +862,8 @@
       "image_source": "Wikimedia Commons; Max von Oppenheim archive, Free University of Berlin (public domain)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Photographs_of_the_Tell_Halaf_inscription_discovered_in_1933_and_published_in_1940.png",
       "origin": "aramean",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 22,
@@ -861,7 +882,8 @@
       "image_source": "Wikimedia Commons; Negar Abdali",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Qalichi_glazed_brick.jpg",
       "origin": "aramaic",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 23,
@@ -878,7 +900,8 @@
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Funerary_stele_-_Neirab_-_Louvre_AO_3027.JPG",
       "origin": "aramaic",
-      "evidence_type": "funerary"
+      "evidence_type": "funerary",
+      "inscription": false
     },
     {
       "id": 24,
@@ -898,7 +921,8 @@
       "image_source": "Wikimedia Commons; User:Onceinawhile (CC BY-SA 4.0)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Tayma_stones_(171).jpg",
       "origin": "aramaic",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 25,
@@ -916,7 +940,8 @@
       "image_source": "Wikimedia Commons; scan from M. Lidzbarski, Altaramäische Urkunden aus Assur (1921, public domain)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Assur_ostracon.jpg",
       "origin": "aramaic",
-      "evidence_type": "document"
+      "evidence_type": "document",
+      "inscription": false
     },
     {
       "id": 26,
@@ -935,7 +960,8 @@
       "image_source": "Wikimedia Commons; Palaeographical Society (public domain)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Saqqara_Aramaic_Stele.jpg",
       "origin": "aramaic",
-      "evidence_type": "funerary"
+      "evidence_type": "funerary",
+      "inscription": false
     },
     {
       "id": 27,
@@ -952,7 +978,8 @@
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Papyrus_narrating_the_story_of_the_wise_chancellor_Ahiqar._Aramaic_script._5th_century_BCE._From_Elephantine%2C_Egypt._Neues_Museum.jpg",
       "origin": "aramaic",
-      "evidence_type": "document"
+      "evidence_type": "document",
+      "inscription": false
     },
     {
       "id": 28,
@@ -971,7 +998,8 @@
       "image_source": "Wikimedia Commons; Ancient Egyptian papyri (public domain)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
-      "evidence_type": "document"
+      "evidence_type": "document",
+      "inscription": false
     },
     {
       "id": 29,
@@ -986,7 +1014,8 @@
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg",
       "origin": "aramaic",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 30,
@@ -1005,7 +1034,8 @@
       "image_source": "Wikimedia Commons; Istanbul Museum of the Ancient Orient (public domain)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Aramaic_inscription_on_Daskyleion_stele.png",
       "origin": "aramaic",
-      "evidence_type": "funerary"
+      "evidence_type": "funerary",
+      "inscription": false
     },
     {
       "id": 31,
@@ -1023,7 +1053,8 @@
       "image_source": "Wikimedia Commons; SpeakingArch",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:A_spike-butted_axe_from_Luristan,_Museum_of_Archaeology_and_Anthropology,_Cambridge.jpg",
       "origin": "aramaic",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 32,
@@ -1042,7 +1073,8 @@
       "image_source": "Wikimedia Commons (public domain)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Kandahar_Sophytes_Inscription.jpg",
       "origin": "aramaic",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 33,
@@ -1061,7 +1093,8 @@
       "image_source": "Wikimedia Commons; Onceinawhile (CC BY-SA 4.0)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Aramaic_inscription_at_Taxila_Museum.jpg",
       "origin": "aramaic",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 34,
@@ -1129,7 +1162,8 @@
       "image_source": "Wikimedia Commons; Pataliputra",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Lampaka_inscription.jpg",
       "origin": "aramaic",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": true
     },
     {
       "id": 35,
@@ -1148,7 +1182,8 @@
       "image_source": "Wikimedia Commons; Khalili Collections",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Khalili_Collection_Aramaic_Documents_manuscript_Bactria.jpg",
       "origin": "aramaic",
-      "evidence_type": "document"
+      "evidence_type": "document",
+      "inscription": false
     },
     {
       "id": 36,
@@ -1205,7 +1240,8 @@
       "image_source": "Wikimedia Commons; Pataliputra",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Aramaic_inscription_of_Laghman.jpg",
       "origin": "aramaic",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": true
     },
     {
       "id": 37,
@@ -1224,7 +1260,8 @@
       "image_source": "Wikimedia Commons; Marie-Lan Nguyen (Jastrow) (public domain)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Inscription_Palmyra_Louvre_AO2205.jpg",
       "origin": "aramaic",
-      "evidence_type": "text-corpus"
+      "evidence_type": "text-corpus",
+      "inscription": false
     },
     {
       "id": 38,
@@ -1240,7 +1277,8 @@
       "polity": "Bet-Urhay",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg",
       "origin": "aramean",
-      "evidence_type": "funerary"
+      "evidence_type": "funerary",
+      "inscription": false
     },
     {
       "id": 39,
@@ -1256,7 +1294,8 @@
       "polity": "Bet-Urhay",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg",
       "origin": "aramean",
-      "evidence_type": "funerary"
+      "evidence_type": "funerary",
+      "inscription": false
     },
     {
       "id": 40,
@@ -1272,7 +1311,8 @@
       "polity": "Bet-Urhay",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg",
       "origin": "aramean",
-      "evidence_type": "funerary"
+      "evidence_type": "funerary",
+      "inscription": false
     },
     {
       "id": 41,
@@ -1288,7 +1328,8 @@
       "polity": "Geshur",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JRSLM_300116_Bethsaida.jpg",
       "origin": "aramean",
-      "evidence_type": "religious"
+      "evidence_type": "religious",
+      "inscription": false
     },
     {
       "id": 42,
@@ -1306,7 +1347,8 @@
       "image_source": "Wikimedia Commons; Lamashtu2006 (CC BY-SA 4.0); Louvre object record",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Arslan_Tash_-_ivory_plaque_mentioning_Hazael.jpg",
       "origin": "aramean",
-      "evidence_type": "artifact"
+      "evidence_type": "artifact",
+      "inscription": false
     },
     {
       "id": 43,
@@ -1326,7 +1368,8 @@
       "image_source": "Wikimedia Commons; User:Lusitana",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Lion_Zincirli.JPG",
       "origin": "aramean",
-      "evidence_type": "sculpture"
+      "evidence_type": "sculpture",
+      "inscription": false
     },
     {
       "id": 44,
@@ -1346,7 +1389,8 @@
       "image_source": "Wikimedia Commons; José Luiz Bernardes Ribeiro",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Relief_of_king_Barrakib_from_Zincirli_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg",
       "origin": "aramean",
-      "evidence_type": "sculpture"
+      "evidence_type": "sculpture",
+      "inscription": false
     },
     {
       "id": 45,
@@ -1363,7 +1407,8 @@
       "polity": "Bit-Bahiani",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Tell_Fekheriyeh_statue.jpg",
       "origin": "aramean",
-      "evidence_type": "sculpture"
+      "evidence_type": "sculpture",
+      "inscription": false
     },
     {
       "id": 46,
@@ -1382,7 +1427,8 @@
       "image_source": "Wikimedia Commons; Bukvoed (CC BY 3.0)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Ruins_of_Bethsaida_village_in_summer_2011_(7).JPG",
       "origin": "aramean",
-      "evidence_type": "architecture"
+      "evidence_type": "architecture",
+      "inscription": false
     },
     {
       "id": 47,
@@ -1398,7 +1444,8 @@
       "polity": "Aram-Damascus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/EinGev056a.jpg",
       "origin": "aramean",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 48,
@@ -1414,7 +1461,8 @@
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_%28_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86%28.jpg",
       "origin": "aramaic",
-      "evidence_type": "inscription"
+      "evidence_type": "inscription",
+      "inscription": false
     },
     {
       "id": 49,
@@ -1432,7 +1480,8 @@
       "image_source": "Israel Antiquities Authority, The Dead Sea Scrolls: Historical Timeline",
       "image_source_url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/historical-timeline",
       "origin": "aramaic",
-      "evidence_type": "document"
+      "evidence_type": "document",
+      "inscription": false
     },
     {
       "id": 50,
@@ -1450,7 +1499,8 @@
       "image_source": "Wikimedia Commons; Jean Housen (CC BY-SA 3.0)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:20100926_petra087.JPG",
       "origin": "aramaic",
-      "evidence_type": "text-corpus"
+      "evidence_type": "text-corpus",
+      "inscription": false
     },
     {
       "id": 51,
@@ -1470,7 +1520,8 @@
       "image_source": "Wikimedia Commons, Osama Shukir Muhammed Amin (CC BY-SA 4.0)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Slab_with_Aramaic_Hatran_Inscription_from_Hatra,_Iraq,_Iraq_Museum.jpg",
       "origin": "aramaic",
-      "evidence_type": "text-corpus"
+      "evidence_type": "text-corpus",
+      "inscription": false
     },
     {
       "id": 52,
@@ -1489,7 +1540,8 @@
       "image_source": "Wikimedia Commons, Franz Cumont (public domain)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Fouilles.28.png",
       "origin": "aramaic",
-      "evidence_type": "text-corpus"
+      "evidence_type": "text-corpus",
+      "inscription": false
     },
     {
       "id": 53,
@@ -1507,7 +1559,8 @@
       "image_source": "Wikimedia Commons, Geza Vermes (CC BY-SA 4.0)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Genesis_apocryphon.jpg",
       "origin": "aramaic",
-      "evidence_type": "text-corpus"
+      "evidence_type": "text-corpus",
+      "inscription": false
     },
     {
       "id": 54,
@@ -1525,7 +1578,8 @@
       "image_source": "Israel Antiquities Authority, The Dead Sea Scrolls: Historical Timeline",
       "image_source_url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/historical-timeline",
       "origin": "aramaic",
-      "evidence_type": "document"
+      "evidence_type": "document",
+      "inscription": false
     }
   ],
   "locations": [
@@ -2077,60 +2131,414 @@
     }
   ],
   "location_evidence": [
-    {"location_id": "tel-dan", "evidence_id": 1, "identifier": "KAI 310", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Tel_dan_inscription.JPG", "title": "Tel Dan Stele"},
-    {"location_id": "tell-afis", "evidence_id": 2, "identifier": "KAI 202", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Zakkur_Stele_0157b.jpg", "title": "Zakkur Stele"},
-    {"location_id": "sefire", "evidence_id": 3, "identifier": "KAI 222–224", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ronzevalle%27s_publication_of_the_Sefire_steles_-_Plate_XXXIX.jpg/1280px-Ronzevalle%27s_publication_of_the_Sefire_steles_-_Plate_XXXIX.jpg", "title": "Sefire Stelae"},
-    {"location_id": "tell-halaf", "evidence_id": 4, "type": "Sculpture", "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Statue_TellHalaf_01.jpg", "title": "Tell Halaf Sculptures"},
-    {"location_id": "tell-fekheriye", "evidence_id": 5, "identifier": "KAI 309", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Tell_Fekheriyeh_statue.jpg", "title": "Hadad-yis'i Bilingual (Tell Fekheriye)"},
-    {"location_id": "zincirli", "evidence_id": 6, "identifier": "KAI 24", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Samal_Text.jpg", "title": "Kilamuwa Stele"},
-    {"location_id": "zincirli", "evidence_id": 7, "identifier": "KAI 214", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pergamon_Museum_Hadad_statue_from_Sam%27al_aka_Zincirli_7968.jpg", "title": "Panamuwa I Inscription (Hadad Statue)"},
-    {"location_id": "zincirli", "evidence_id": 8, "identifier": "KAI 215", "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Panamuwa_II_torso_inscription_%28KAI_215%29_stretched.jpg", "title": "Panamuwa II Inscription"},
-    {"location_id": "zincirli", "evidence_id": 9, "identifier": "KAI 216–218", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/20131205_Istanbul_067.jpg", "title": "Bar-Rakib Inscriptions"},
-    {"location_id": "zincirli", "evidence_id": 10, "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gaziantep_Archaeology_museum_Kuttamuwa_stele_4270.jpg", "title": "Katumuwa Stele"},
-    {"location_id": "zincirli", "evidence_id": 11, "identifier": "KAI 25", "type": "Artifact", "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Kilamuwa_scepter_in_the_Pergamon_Museum.jpg", "title": "Kilamuwa Scepter"},
-    {"location_id": "arslan-tash", "evidence_id": 12, "type": "Artifact", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png", "title": "Hazael Booty Inscriptions"},
-    {"location_id": "samos", "evidence_id": 13, "identifier": "KAI 311", "type": "Artifact", "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hazael_horse_frontlet_in_the_Archaeological_Museum_of_Vathi_in_Samos.jpg", "title": "Hazael Horse Frontlet"},
-    {"location_id": "near-aleppo", "evidence_id": 14, "identifier": "KAI 201", "type": "Religious", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zakkur_Stele_0154.jpg/1280px-Zakkur_Stele_0154.jpg", "title": "Melqart Stele"},
-    {"location_id": "arslan-tash", "evidence_id": 15, "identifier": "KAI 27", "type": "Religious", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png", "title": "Arslan Tash Amulets"},
-    {"location_id": "arslan-tash", "evidence_id": 16, "identifier": "KAI 232", "type": "Artifact", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png", "title": "Arslan Tash Ivory Inscription"},
-    {"location_id": "tell-ahmar", "evidence_id": 17, "type": "Artifact", "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Detail_of_the_wall_paintings_from_the_governor%27s_palace_at_Til_Barsip_%28Tell_Ahmar%2C_Syria%29.jpg", "title": "Til Barsip Wall Paintings"},
-    {"location_id": "hama", "evidence_id": 18, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Hamath_inscription.jpg", "title": "Hamath Inscriptions"},
-    {"location_id": "hama", "evidence_id": 19, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Noria_of_Hama%2C_Hama%2C_Syria.jpg", "title": "Hama Graffiti"},
-    {"location_id": "tell-halaf", "evidence_id": 20, "type": "Architecture", "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Statue_TellHalaf_01.jpg", "title": "Tell Halaf Bit-Hilani Palace"},
-    {"location_id": "tell-halaf", "evidence_id": 21, "identifier": "KAI 231", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Photographs_of_the_Tell_Halaf_inscription_discovered_in_1933_and_published_in_1940.png", "title": "Tell Halaf Inscription"},
-    {"location_id": "bukan", "evidence_id": 22, "identifier": "KAI 320", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Qalichi_glazed_brick.jpg", "title": "Bukan Stele"},
-    {"location_id": "al-nayrab", "evidence_id": 23, "identifier": "KAI 225–226", "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Funerary_stele_-_Neirab_-_Louvre_AO_3027.JPG", "title": "Neirab Steles"},
-    {"location_id": "tayma", "evidence_id": 24, "identifier": "KAI 228–230; CIS II 113–116", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tayma_stones_%28171%29.jpg", "title": "Tayma Stones"},
-    {"location_id": "assur", "evidence_id": 25, "type": "Document", "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Assur_ostracon.jpg", "title": "Assur Ostracon and Tablets"},
-    {"location_id": "saqqara", "evidence_id": 26, "identifier": "KAI 267; CIS II 122; TAD C20", "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Saqqara_Aramaic_Stele.jpg", "title": "Saqqara Aramaic Stele"},
-    {"location_id": "elephantine", "evidence_id": 27, "identifier": "TAD", "type": "Document", "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Papyrus_narrating_the_story_of_the_wise_chancellor_Ahiqar._Aramaic_script._5th_century_BCE._From_Elephantine%2C_Egypt._Neues_Museum.jpg", "title": "Elephantine Papyri"},
-    {"location_id": "hermopolis", "evidence_id": 28, "identifier": "TAD A2", "type": "Document", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Hermopolis_Aramaic_papyrus_4.png", "title": "Hermopolis Aramaic Papyri"},
-    {"location_id": "sariaydin", "evidence_id": 29, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg", "title": "Sarıaydın Inscription"},
-    {"location_id": "dascylium", "evidence_id": 30, "identifier": "KAI 318", "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Aramaic_inscription_on_Daskyleion_stele.png", "title": "Daskyleion Steles"},
-    {"location_id": "luristan", "evidence_id": 31, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/A_spike-butted_axe_from_Luristan%2C_Museum_of_Archaeology_and_Anthropology%2C_Cambridge.jpg", "title": "Luristan Aramaic Inscriptions"},
-    {"location_id": "kandahar", "evidence_id": 32, "identifier": "KAI 279", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kandahar_Sophytes_Inscription.jpg/1280px-Kandahar_Sophytes_Inscription.jpg", "title": "Kandahar Bilingual Rock Inscription"},
-    {"location_id": "taxila", "evidence_id": 33, "identifier": "KAI 273", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Aramaic_inscription_at_Taxila_Museum.jpg", "title": "Aramaic Inscription of Taxila"},
-    {"location_id": "pul-i-darunteh", "evidence_id": 34, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lampaka_inscription.jpg", "title": "Pul-i-Darunteh Inscription"},
-    {"location_id": "bactria", "evidence_id": 35, "identifier": "IA 17", "type": "Document", "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Khalili_Collection_Aramaic_Documents_manuscript_Bactria.jpg", "title": "Bactria Aramaic Documents"},
-    {"location_id": "laghman", "evidence_id": 36, "identifier": "Laghman I", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Aramaic_inscription_of_Laghman.jpg", "title": "Aramaic Inscription of Laghman"},
-    {"location_id": "palmyra", "evidence_id": 37, "type": "Text corpus", "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Inscription_Palmyra_Louvre_AO2205.jpg", "title": "Palmyrene Inscriptions"},
-    {"location_id": "sanliurfa", "evidence_id": 38, "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg", "title": "Aftuha Family Mosaic"},
-    {"location_id": "sanliurfa", "evidence_id": 39, "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg", "title": "Orpheus Mosaic"},
-    {"location_id": "sanliurfa", "evidence_id": 40, "type": "Funerary", "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg", "title": "Funerary Inscriptions"},
-    {"location_id": "et-tell", "evidence_id": 41, "type": "Religious", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JRSLM_300116_Bethsaida.jpg", "title": "Bethsaida Cultic Stele"},
-    {"location_id": "nimrud", "evidence_id": 42, "type": "Artifact", "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Arslan_Tash_-_ivory_plaque_mentioning_Hazael.jpg", "title": "Hazael Ivory Bed (Nimrud)"},
-    {"location_id": "zincirli", "evidence_id": 43, "identifier": "VAG 1042; VA 2718–2719; VA 3001", "type": "Sculpture", "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lion_Zincirli.JPG", "title": "Sam'al Citadel Gate Lions"},
-    {"location_id": "zincirli", "evidence_id": 44, "identifier": "KAI 216", "type": "Sculpture", "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Relief_of_king_Barrakib_from_Zincirli_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg", "title": "Bar-Rakib Relief"},
-    {"location_id": "tell-fekheriye", "evidence_id": 45, "identifier": "KAI 309", "type": "Sculpture", "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Tell_Fekheriyeh_statue.jpg", "title": "Tell Fekheriye Statue"},
-    {"location_id": "et-tell", "evidence_id": 46, "type": "Architecture", "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ruins_of_Bethsaida_village_in_summer_2011_%287%29.JPG", "title": "Bethsaida City Gate"},
-    {"location_id": "ein-gev", "evidence_id": 47, "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/EinGev056a.jpg", "title": "Ein Gev Inscription"},
-    {"location_id": "behistun", "evidence_id": 48, "identifier": "DB Aram", "type": "Inscription", "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_%28_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86%28.jpg", "title": "Behistun Aramaic Inscription"},
-    {"location_id": "wadi-daliyeh", "evidence_id": 49, "type": "Document", "image": "https://www.deadseascrolls.org.il/img/papyrus_deed.jpg", "title": "Wadi Daliyeh Papyri"},
-    {"location_id": "petra", "evidence_id": 50, "type": "Text corpus", "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/20100926_petra087.JPG", "title": "Nabataean Inscriptions"},
-    {"location_id": "hatra", "evidence_id": 51, "identifier": "H 1–416; H 424–480; H 1001–1126", "type": "Text corpus", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Slab_with_Aramaic_Hatran_Inscription_from_Hatra%2C_Iraq%2C_Iraq_Museum.jpg/1280px-Slab_with_Aramaic_Hatran_Inscription_from_Hatra%2C_Iraq%2C_Iraq_Museum.jpg", "title": "Hatran Inscriptions"},
-    {"location_id": "dura-europos", "evidence_id": 52, "type": "Text corpus", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fouilles.28.png/1280px-Fouilles.28.png", "title": "Dura-Europos Aramaic Texts"},
-    {"location_id": "qumran", "evidence_id": 53, "type": "Text corpus", "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Genesis_apocryphon.jpg", "title": "Dead Sea Scrolls (Aramaic texts)"},
-    {"location_id": "samaria", "evidence_id": 54, "type": "Document", "image": "https://www.deadseascrolls.org.il/img/papyrus_deed.jpg", "title": "Samaria Papyri"}
+    {
+      "location_id": "tel-dan",
+      "evidence_id": 1,
+      "identifier": "KAI 310",
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Tel_dan_inscription.JPG",
+      "title": "Tel Dan Stele"
+    },
+    {
+      "location_id": "tell-afis",
+      "evidence_id": 2,
+      "identifier": "KAI 202",
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Zakkur_Stele_0157b.jpg",
+      "title": "Zakkur Stele"
+    },
+    {
+      "location_id": "sefire",
+      "evidence_id": 3,
+      "identifier": "KAI 222–224",
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ronzevalle%27s_publication_of_the_Sefire_steles_-_Plate_XXXIX.jpg/1280px-Ronzevalle%27s_publication_of_the_Sefire_steles_-_Plate_XXXIX.jpg",
+      "title": "Sefire Stelae"
+    },
+    {
+      "location_id": "tell-halaf",
+      "evidence_id": 4,
+      "type": "Sculpture",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Statue_TellHalaf_01.jpg",
+      "title": "Tell Halaf Sculptures"
+    },
+    {
+      "location_id": "tell-fekheriye",
+      "evidence_id": 5,
+      "identifier": "KAI 309",
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Tell_Fekheriyeh_statue.jpg",
+      "title": "Hadad-yis'i Bilingual (Tell Fekheriye)"
+    },
+    {
+      "location_id": "zincirli",
+      "evidence_id": 6,
+      "identifier": "KAI 24",
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Samal_Text.jpg",
+      "title": "Kilamuwa Stele"
+    },
+    {
+      "location_id": "zincirli",
+      "evidence_id": 7,
+      "identifier": "KAI 214",
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pergamon_Museum_Hadad_statue_from_Sam%27al_aka_Zincirli_7968.jpg",
+      "title": "Panamuwa I Inscription (Hadad Statue)"
+    },
+    {
+      "location_id": "zincirli",
+      "evidence_id": 8,
+      "identifier": "KAI 215",
+      "type": "Funerary",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Panamuwa_II_torso_inscription_%28KAI_215%29_stretched.jpg",
+      "title": "Panamuwa II Inscription"
+    },
+    {
+      "location_id": "zincirli",
+      "evidence_id": 9,
+      "identifier": "KAI 216–218",
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/20131205_Istanbul_067.jpg",
+      "title": "Bar-Rakib Inscriptions"
+    },
+    {
+      "location_id": "zincirli",
+      "evidence_id": 10,
+      "type": "Funerary",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gaziantep_Archaeology_museum_Kuttamuwa_stele_4270.jpg",
+      "title": "Katumuwa Stele"
+    },
+    {
+      "location_id": "zincirli",
+      "evidence_id": 11,
+      "identifier": "KAI 25",
+      "type": "Artifact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Kilamuwa_scepter_in_the_Pergamon_Museum.jpg",
+      "title": "Kilamuwa Scepter"
+    },
+    {
+      "location_id": "arslan-tash",
+      "evidence_id": 12,
+      "type": "Artifact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png",
+      "title": "Hazael Booty Inscriptions"
+    },
+    {
+      "location_id": "samos",
+      "evidence_id": 13,
+      "identifier": "KAI 311",
+      "type": "Artifact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hazael_horse_frontlet_in_the_Archaeological_Museum_of_Vathi_in_Samos.jpg",
+      "title": "Hazael Horse Frontlet"
+    },
+    {
+      "location_id": "near-aleppo",
+      "evidence_id": 14,
+      "identifier": "KAI 201",
+      "type": "Religious",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zakkur_Stele_0154.jpg/1280px-Zakkur_Stele_0154.jpg",
+      "title": "Melqart Stele"
+    },
+    {
+      "location_id": "arslan-tash",
+      "evidence_id": 15,
+      "identifier": "KAI 27",
+      "type": "Religious",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png",
+      "title": "Arslan Tash Amulets"
+    },
+    {
+      "location_id": "arslan-tash",
+      "evidence_id": 16,
+      "identifier": "KAI 232",
+      "type": "Artifact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arslan_Tash_amulet.png",
+      "title": "Arslan Tash Ivory Inscription"
+    },
+    {
+      "location_id": "tell-ahmar",
+      "evidence_id": 17,
+      "type": "Artifact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Detail_of_the_wall_paintings_from_the_governor%27s_palace_at_Til_Barsip_%28Tell_Ahmar%2C_Syria%29.jpg",
+      "title": "Til Barsip Wall Paintings"
+    },
+    {
+      "location_id": "hama",
+      "evidence_id": 18,
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Hamath_inscription.jpg",
+      "title": "Hamath Inscriptions"
+    },
+    {
+      "location_id": "hama",
+      "evidence_id": 19,
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Noria_of_Hama%2C_Hama%2C_Syria.jpg",
+      "title": "Hama Graffiti"
+    },
+    {
+      "location_id": "tell-halaf",
+      "evidence_id": 20,
+      "type": "Architecture",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Statue_TellHalaf_01.jpg",
+      "title": "Tell Halaf Bit-Hilani Palace"
+    },
+    {
+      "location_id": "tell-halaf",
+      "evidence_id": 21,
+      "identifier": "KAI 231",
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Photographs_of_the_Tell_Halaf_inscription_discovered_in_1933_and_published_in_1940.png",
+      "title": "Tell Halaf Inscription"
+    },
+    {
+      "location_id": "bukan",
+      "evidence_id": 22,
+      "identifier": "KAI 320",
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Qalichi_glazed_brick.jpg",
+      "title": "Bukan Stele"
+    },
+    {
+      "location_id": "al-nayrab",
+      "evidence_id": 23,
+      "identifier": "KAI 225–226",
+      "type": "Funerary",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Funerary_stele_-_Neirab_-_Louvre_AO_3027.JPG",
+      "title": "Neirab Steles"
+    },
+    {
+      "location_id": "tayma",
+      "evidence_id": 24,
+      "identifier": "KAI 228–230; CIS II 113–116",
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tayma_stones_%28171%29.jpg",
+      "title": "Tayma Stones"
+    },
+    {
+      "location_id": "assur",
+      "evidence_id": 25,
+      "type": "Document",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Assur_ostracon.jpg",
+      "title": "Assur Ostracon and Tablets"
+    },
+    {
+      "location_id": "saqqara",
+      "evidence_id": 26,
+      "identifier": "KAI 267; CIS II 122; TAD C20",
+      "type": "Funerary",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Saqqara_Aramaic_Stele.jpg",
+      "title": "Saqqara Aramaic Stele"
+    },
+    {
+      "location_id": "elephantine",
+      "evidence_id": 27,
+      "identifier": "TAD",
+      "type": "Document",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Papyrus_narrating_the_story_of_the_wise_chancellor_Ahiqar._Aramaic_script._5th_century_BCE._From_Elephantine%2C_Egypt._Neues_Museum.jpg",
+      "title": "Elephantine Papyri"
+    },
+    {
+      "location_id": "hermopolis",
+      "evidence_id": 28,
+      "identifier": "TAD A2",
+      "type": "Document",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Hermopolis_Aramaic_papyrus_4.png",
+      "title": "Hermopolis Aramaic Papyri"
+    },
+    {
+      "location_id": "sariaydin",
+      "evidence_id": 29,
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg",
+      "title": "Sarıaydın Inscription"
+    },
+    {
+      "location_id": "dascylium",
+      "evidence_id": 30,
+      "identifier": "KAI 318",
+      "type": "Funerary",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Aramaic_inscription_on_Daskyleion_stele.png",
+      "title": "Daskyleion Steles"
+    },
+    {
+      "location_id": "luristan",
+      "evidence_id": 31,
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/A_spike-butted_axe_from_Luristan%2C_Museum_of_Archaeology_and_Anthropology%2C_Cambridge.jpg",
+      "title": "Luristan Aramaic Inscriptions"
+    },
+    {
+      "location_id": "kandahar",
+      "evidence_id": 32,
+      "identifier": "KAI 279",
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kandahar_Sophytes_Inscription.jpg/1280px-Kandahar_Sophytes_Inscription.jpg",
+      "title": "Kandahar Bilingual Rock Inscription"
+    },
+    {
+      "location_id": "taxila",
+      "evidence_id": 33,
+      "identifier": "KAI 273",
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Aramaic_inscription_at_Taxila_Museum.jpg",
+      "title": "Aramaic Inscription of Taxila"
+    },
+    {
+      "location_id": "pul-i-darunteh",
+      "evidence_id": 34,
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lampaka_inscription.jpg",
+      "title": "Pul-i-Darunteh Inscription"
+    },
+    {
+      "location_id": "bactria",
+      "evidence_id": 35,
+      "identifier": "IA 17",
+      "type": "Document",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Khalili_Collection_Aramaic_Documents_manuscript_Bactria.jpg",
+      "title": "Bactria Aramaic Documents"
+    },
+    {
+      "location_id": "laghman",
+      "evidence_id": 36,
+      "identifier": "Laghman I",
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Aramaic_inscription_of_Laghman.jpg",
+      "title": "Aramaic Inscription of Laghman"
+    },
+    {
+      "location_id": "palmyra",
+      "evidence_id": 37,
+      "type": "Text corpus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Inscription_Palmyra_Louvre_AO2205.jpg",
+      "title": "Palmyrene Inscriptions"
+    },
+    {
+      "location_id": "sanliurfa",
+      "evidence_id": 38,
+      "type": "Funerary",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg",
+      "title": "Aftuha Family Mosaic"
+    },
+    {
+      "location_id": "sanliurfa",
+      "evidence_id": 39,
+      "type": "Funerary",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg",
+      "title": "Orpheus Mosaic"
+    },
+    {
+      "location_id": "sanliurfa",
+      "evidence_id": 40,
+      "type": "Funerary",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Moqimu_mosaic_Edessa.jpg",
+      "title": "Funerary Inscriptions"
+    },
+    {
+      "location_id": "et-tell",
+      "evidence_id": 41,
+      "type": "Religious",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JRSLM_300116_Bethsaida.jpg",
+      "title": "Bethsaida Cultic Stele"
+    },
+    {
+      "location_id": "nimrud",
+      "evidence_id": 42,
+      "type": "Artifact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Arslan_Tash_-_ivory_plaque_mentioning_Hazael.jpg",
+      "title": "Hazael Ivory Bed (Nimrud)"
+    },
+    {
+      "location_id": "zincirli",
+      "evidence_id": 43,
+      "identifier": "VAG 1042; VA 2718–2719; VA 3001",
+      "type": "Sculpture",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lion_Zincirli.JPG",
+      "title": "Sam'al Citadel Gate Lions"
+    },
+    {
+      "location_id": "zincirli",
+      "evidence_id": 44,
+      "identifier": "KAI 216",
+      "type": "Sculpture",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Relief_of_king_Barrakib_from_Zincirli_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg",
+      "title": "Bar-Rakib Relief"
+    },
+    {
+      "location_id": "tell-fekheriye",
+      "evidence_id": 45,
+      "identifier": "KAI 309",
+      "type": "Sculpture",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Tell_Fekheriyeh_statue.jpg",
+      "title": "Tell Fekheriye Statue"
+    },
+    {
+      "location_id": "et-tell",
+      "evidence_id": 46,
+      "type": "Architecture",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ruins_of_Bethsaida_village_in_summer_2011_%287%29.JPG",
+      "title": "Bethsaida City Gate"
+    },
+    {
+      "location_id": "ein-gev",
+      "evidence_id": 47,
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/EinGev056a.jpg",
+      "title": "Ein Gev Inscription"
+    },
+    {
+      "location_id": "behistun",
+      "evidence_id": 48,
+      "identifier": "DB Aram",
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_%28_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86%28.jpg",
+      "title": "Behistun Aramaic Inscription"
+    },
+    {
+      "location_id": "wadi-daliyeh",
+      "evidence_id": 49,
+      "type": "Document",
+      "image": "https://www.deadseascrolls.org.il/img/papyrus_deed.jpg",
+      "title": "Wadi Daliyeh Papyri"
+    },
+    {
+      "location_id": "petra",
+      "evidence_id": 50,
+      "type": "Text corpus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/20100926_petra087.JPG",
+      "title": "Nabataean Inscriptions"
+    },
+    {
+      "location_id": "hatra",
+      "evidence_id": 51,
+      "identifier": "H 1–416; H 424–480; H 1001–1126",
+      "type": "Text corpus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Slab_with_Aramaic_Hatran_Inscription_from_Hatra%2C_Iraq%2C_Iraq_Museum.jpg/1280px-Slab_with_Aramaic_Hatran_Inscription_from_Hatra%2C_Iraq%2C_Iraq_Museum.jpg",
+      "title": "Hatran Inscriptions"
+    },
+    {
+      "location_id": "dura-europos",
+      "evidence_id": 52,
+      "type": "Text corpus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fouilles.28.png/1280px-Fouilles.28.png",
+      "title": "Dura-Europos Aramaic Texts"
+    },
+    {
+      "location_id": "qumran",
+      "evidence_id": 53,
+      "type": "Text corpus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Genesis_apocryphon.jpg",
+      "title": "Dead Sea Scrolls (Aramaic texts)"
+    },
+    {
+      "location_id": "samaria",
+      "evidence_id": 54,
+      "type": "Document",
+      "image": "https://www.deadseascrolls.org.il/img/papyrus_deed.jpg",
+      "title": "Samaria Papyri"
+    }
   ],
   "images": [
     {
