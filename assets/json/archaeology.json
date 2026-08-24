@@ -1138,6 +1138,81 @@
       "museum": "Taxila Museum",
       "description": "The Aramaic Inscription of Taxila is a text from the ancient city of Taxila in the northwestern Indian subcontinent, dated here to the third century BC. Its eastern location records the continued use of Aramaic beyond the former Achaemenid heartlands, while its wording and function must be interpreted from the surviving inscription and archaeological context rather than from geographic reach alone.",
       "significance": "Easternmost known Aramaic inscription, showing the language's reach to the Indian subcontinent.",
+      "inscription_note": "The inscription is highly fragmentary. The 12 line divisions below follow the published table; translations are possible interpretations, and ellipses mark missing or uncertain text.",
+      "inscription_lines": [
+        {
+          "line_number": 1,
+          "original_script": "𐡆𐡊𐡓𐡅𐡕𐡀",
+          "transliteration": "zkrwtʾ",
+          "english_translation": "… memorial … (?)"
+        },
+        {
+          "line_number": 2,
+          "original_script": "𐡋 𐡃𐡌𐡉𐡃𐡕𐡉 𐡏𐡋",
+          "transliteration": "l dmydty ʿl",
+          "english_translation": "… for creation(s) upon …; possibly a personal name related to Devadatta."
+        },
+        {
+          "line_number": 3,
+          "original_script": "𐡍𐡂𐡓𐡅𐡕𐡀 𐡏𐡋",
+          "transliteration": "ngrwtʾ ʿl",
+          "english_translation": "… the non-injury upon …"
+        },
+        {
+          "line_number": 4,
+          "original_script": "𐡀𐡓𐡆𐡅𐡔 𐡍𐡂𐡓𐡅𐡕𐡀",
+          "transliteration": "ʾrzwš ngrwtʾ",
+          "english_translation": "Possibly ‘true’ or ‘right’ … the non-injury …"
+        },
+        {
+          "line_number": 5,
+          "original_script": "𐡅 𐡋𐡀𐡁𐡅𐡄𐡉 𐡄𐡅𐡅",
+          "transliteration": "w lʾbwhy hww",
+          "english_translation": "… and to his father …"
+        },
+        {
+          "line_number": 6,
+          "original_script": "𐡄𐡅𐡐𐡕𐡉𐡎𐡕𐡉 𐡆𐡍𐡄",
+          "transliteration": "hwptysty znh",
+          "english_translation": "… good obedience; this …"
+        },
+        {
+          "line_number": 7,
+          "original_script": "𐡆𐡊 𐡁𐡄𐡅𐡅𐡓𐡃𐡄",
+          "transliteration": "zk bhwwrdh",
+          "english_translation": "… that …; possibly ‘good increase’."
+        },
+        {
+          "line_number": 8,
+          "original_script": "𐡄𐡅𐡍𐡔𐡕𐡅𐡍 𐡆𐡉 𐡄𐡅𐡕",
+          "transliteration": "hw nštwn zy hwt",
+          "english_translation": "Possibly ‘this’ or ‘good’ … ‘document’ … which is …"
+        },
+        {
+          "line_number": 9,
+          "original_script": "𐡌𐡓𐡀𐡍 𐡐𐡓𐡉𐡃𐡓",
+          "transliteration": "mrʾn Prydr",
+          "english_translation": "… our lord Priyadasi …"
+        },
+        {
+          "line_number": 10,
+          "original_script": "𐡄𐡋𐡊𐡅𐡕𐡓",
+          "transliteration": "hlkwtr or hlkwtd",
+          "english_translation": "… going …"
+        },
+        {
+          "line_number": 11,
+          "original_script": "𐡅𐡀𐡐 𐡁𐡍𐡅𐡄𐡉",
+          "transliteration": "wʾp bnwhy",
+          "english_translation": "… and also his son(s) …"
+        },
+        {
+          "line_number": 12,
+          "original_script": "𐡋𐡌𐡓𐡀𐡍 𐡐𐡓𐡉𐡃𐡓",
+          "transliteration": "lmrʾn Prydr",
+          "english_translation": "… of our lord Priyadasi …"
+        }
+      ],
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Aramaic_inscription_at_Taxila_Museum.jpg",
       "image_caption": "Aramaic inscription of Taxila (KAI 273), displayed at the Taxila Museum.",
@@ -1145,7 +1220,7 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Aramaic_inscription_at_Taxila_Museum.jpg",
       "origin": "aramaic",
       "evidence_type": "inscription",
-      "inscription": false
+      "inscription": true
     },
     {
       "id": 34,
