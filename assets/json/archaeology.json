@@ -1067,6 +1067,57 @@
       "museum": "National Museum of Afghanistan",
       "description": "The Kandahar Bilingual Rock Inscription combines Greek and Aramaic in an edict of the Mauryan emperor Ashoka, dated to approximately 260 BC. It adapts imperial ethical and administrative communication for a region at the intersection of South Asian, Iranian, and Hellenistic worlds; it is therefore evidence for multilingual governance rather than an Aramean political monument.",
       "significance": "Demonstrates Aramaic as a language of international communication reaching Central Asia.",
+      "inscription_note": "Aramaic script, transliteration, and English translation supplied for the inscription. Line divisions follow the sense of the supplied text and may differ from the original publication.",
+      "inscription_lines": [
+        {
+          "line_number": 1,
+          "original_script": "𐡔𐡍𐡍 𐡉 𐡐𐡕𐡉𐡕𐡅 𐡏𐡁𐡉𐡃 𐡆𐡉 𐡌𐡓𐡀𐡍 𐡐𐡓𐡉𐡃𐡀𐡓𐡔 𐡌𐡋𐡊𐡀 𐡒𐡔𐡉𐡈𐡀",
+          "transliteration": "šnn y ptytw ‘byd zy mr’n pryd’rš mlk’ qšyṭ’",
+          "english_translation": "Ten years having passed (?). It so happened (?) that our lord, King Priyadarśin, became the institutor of Truth."
+        },
+        {
+          "line_number": 2,
+          "original_script": "𐡌𐡄𐡒𐡔𐡈𐡌𐡍 𐡀𐡃𐡉𐡍 𐡆𐡏𐡉𐡓 𐡌𐡓𐡏𐡀 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡅𐡊𐡋𐡄𐡌 𐡀𐡃𐡅𐡔𐡉𐡀 𐡄𐡅𐡁𐡃𐡅𐡁𐡊𐡋 𐡀𐡓𐡒𐡀 𐡓𐡀𐡌 𐡔𐡕𐡉",
+          "transliteration": "mhqšṭmn ’dyn z‘yr mr‘’ lklhm ’nšn wklhm ’dwšy’ hwbdwbkl ’rq’ r’m šty",
+          "english_translation": "Since then, evil diminished among all men and all misfortunes were caused to disappear; and there was peace as well as joy throughout the whole earth."
+        },
+        {
+          "line_number": 3,
+          "original_script": "𐡅𐡀𐡐 𐡆𐡉 𐡆𐡍𐡄 𐡊𐡌𐡀𐡊𐡋𐡀 𐡋𐡌𐡓𐡀𐡍 𐡌𐡋𐡊𐡀 𐡆𐡏𐡉𐡓𐡒𐡈𐡋𐡍",
+          "transliteration": "w’p zy znh km’kl’ lmr’n mlk’ z‘yrqṭln",
+          "english_translation": "Moreover, there was this concerning food: for our lord the king, only a few animals were killed."
+        },
+        {
+          "line_number": 4,
+          "original_script": "𐡆𐡍𐡄 𐡋𐡌𐡇𐡆𐡄 𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡀𐡕𐡄𐡇𐡎𐡉𐡍𐡍 𐡀𐡆𐡉 𐡍𐡅𐡍𐡉𐡀 𐡀𐡇𐡃𐡍𐡀𐡋𐡊",
+          "transliteration": "znh lmḥzh klhm ’nšn ’thḥsynn ’zy nwny’ ’ḥdn’lk",
+          "english_translation": "Having seen this, all men gave up the slaughter of animals; even those men who catch fish—the fishermen—were subject to prohibition."
+        },
+        {
+          "line_number": 5,
+          "original_script": "𐡀𐡍𐡔𐡍 𐡐𐡕𐡉𐡆𐡁𐡕 𐡊𐡍𐡌 𐡆𐡉 𐡐𐡓𐡁𐡎𐡕 𐡄𐡅𐡉𐡍 𐡀𐡋𐡊",
+          "transliteration": "’nšn ptyzbt knm zy prbst hwyn ’lk",
+          "english_translation": "Similarly, those who were without restraint ceased to be without restraint."
+        },
+        {
+          "line_number": 6,
+          "original_script": "𐡀𐡕𐡄𐡇𐡎𐡉𐡍𐡍 𐡌𐡍𐡐𐡓𐡁𐡎𐡕𐡉 𐡅𐡄𐡅𐡐𐡕𐡉𐡎𐡕𐡉 𐡋𐡀𐡌𐡅𐡄𐡉 𐡅𐡋𐡀𐡁𐡅𐡄𐡉 𐡅𐡋𐡌𐡆𐡉𐡔𐡕𐡉𐡀",
+          "transliteration": "’thḥsynn mnprbsty whwptysty l’mwhy wl’bwhy wlmzyšty’",
+          "english_translation": "And obedience to mother, father, and old men reigned in conformity with the obligations imposed by fate on each person."
+        },
+        {
+          "line_number": 7,
+          "original_script": "𐡀𐡍𐡎𐡍𐡀𐡉𐡊 𐡀𐡎𐡓𐡄𐡉 𐡇𐡋𐡒𐡅𐡕𐡀 𐡅𐡋𐡀 𐡀𐡉𐡕𐡉 𐡃𐡉𐡍𐡀 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡉𐡀 𐡇𐡎𐡉𐡍𐡆𐡍𐡄 𐡄𐡅𐡕𐡉𐡓",
+          "transliteration": "’nsn’yk ’srhy ḥlqwt’ wl’ ’yty dyn’ lklhm ’nšy’ ḥsynznh hwtyr",
+          "english_translation": "And there was no Judgment for all the pious men."
+        },
+        {
+          "line_number": 8,
+          "original_script": "𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡅𐡀𐡅𐡎𐡐 𐡉𐡄𐡅𐡕𐡓",
+          "transliteration": "lklhm ’nšn w’wsp yhwtr",
+          "english_translation": "This, the practice of Law, has been profitable to all men and will be more profitable in future."
+        }
+      ],
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kandahar_Sophytes_Inscription.jpg/1280px-Kandahar_Sophytes_Inscription.jpg",
       "image_caption": "The Kandahar Sophytes Inscription, a related Hellenistic-period inscription from the Kandahar region; it is not the Ashoka bilingual rock inscription described here.",
@@ -1074,7 +1125,7 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Kandahar_Sophytes_Inscription.jpg",
       "origin": "aramaic",
       "evidence_type": "inscription",
-      "inscription": false
+      "inscription": true
     },
     {
       "id": 33,
