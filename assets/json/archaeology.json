@@ -623,7 +623,7 @@
     },
     {
       "id": 9,
-      "title": "Bar-Rakib I",
+      "title": "Bar Rakib I",
       "identifier": "KAI 216",
       "excavation_id": "zincirli",
       "period": "c. 730 BC",
@@ -637,7 +637,130 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/20131205_Istanbul_067.jpg",
       "origin": "aramean",
       "evidence_type": "inscription",
-      "inscription": false
+      "inscription": true,
+      "inscription_note": "KAI 216 is reported as a twenty-line building inscription. The twenty line slots are preserved here, but the original script and transliteration still require verification against the primary edition. English translations are intentionally blank.",
+      "inscription_lines": [
+        {
+          "line_number": 1,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 2,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 3,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 4,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 5,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 6,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 7,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 8,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 9,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 10,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 11,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 12,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 13,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 14,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 15,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 16,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 17,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 18,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 19,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        },
+        {
+          "line_number": 20,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": ""
+        }
+      ]
     },
     {
       "id": 10,
@@ -1061,7 +1184,7 @@
     },
     {
       "id": 32,
-      "title": "Kandahar Bilingual Rock Inscription",
+      "title": "Kandahar Bilingual Edict of Ashoka",
       "identifier": "KAI 279",
       "period": "c. 260 BC",
       "location": "Kandahar, Afghanistan",
@@ -1535,7 +1658,7 @@
     },
     {
       "id": 44,
-      "title": "Bar-Rakib II",
+      "title": "Bar Rakib II",
       "identifier": "KAI 218",
       "excavation_id": "zincirli",
       "period": "c. 730 BC",
@@ -1544,6 +1667,21 @@
       "place": "Zincirli",
       "museum": "Pergamon Museum, Berlin",
       "description": "Bar-Rakib II (KAI 218) is the short inscription associated with the Berlin relief from Zincirli. It identifies Bar Rakkib, son of Panamu, and invokes Baal Harran; this object is kept separate from Bar-Rakib I (KAI 216), the twenty-line building inscription.",
+      "inscription_note": "The two lines below follow the sense of the published English reading and use a normalized Aramaic-script reconstruction. They are not presented as a diplomatic facsimile; the exact KAI 218 edition and line layout should be checked against the primary publication.",
+      "inscription_lines": [
+        {
+          "line_number": 1,
+          "original_script": "𐡌𐡓𐡉 𐡁𐡏𐡋 𐡇𐡓𐡍",
+          "transliteration": "mry bʿl ḥrn",
+          "english_translation": "My lord is Baal Harran."
+        },
+        {
+          "line_number": 2,
+          "original_script": "𐡀𐡍𐡊 𐡁𐡓 𐡓𐡊𐡁 𐡁𐡓 𐡐𐡍𐡌𐡅",
+          "transliteration": "ʾnk br rkb br pnmw",
+          "english_translation": "I am Bar Rakkib, son of Panamu."
+        }
+      ],
       "significance": "Evidence for Bar-Rakib’s royal identity, religious language, and monumental self-representation.",
       "polity": "Bit-Gabbar",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Relief_of_king_Barrakib_from_Zincirli_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg",
@@ -15557,6 +15695,25 @@
       "origin": "aramaic",
       "evidence_type": "inscription",
       "inscription": false
+    },
+    {
+      "id": 717,
+      "title": "Xi'an Stele (Jingjiao Stele)",
+      "period": "781 AD",
+      "location": "Xi'an, China",
+      "country": "China",
+      "place": "Xi'an",
+      "museum": "Stele Forest Museum, Xi'an",
+      "description": "The Xi'an Stele, traditionally called the Nestorian Stele, was erected in 781 during the Tang dynasty. Its main text is in Chinese and includes a Syriac inscription identifying the East Syriac Christian presence in China and describing the transmission of the Jingjiao, or Luminous Religion, from Daqin. The traditional label is retained as historical terminology, while Xi'an Stele and Jingjiao Stele are preferred descriptive names.",
+      "significance": "Major evidence for East Syriac Christianity, Syriac literary culture, and Aramaic-speaking religious networks in Tang China.",
+      "polity": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Nestorian_Stele_%28front%29.JPG",
+      "image_caption": "The Xi'an Stele (Jingjiao Stele) in the Beilin Museum, Xi'an, China.",
+      "image_source": "Wikimedia Commons",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Nestorian_Stele_(front).JPG",
+      "origin": "aramaic",
+      "evidence_type": "inscription",
+      "inscription": false
     }
   ],
   "locations": [
@@ -16105,6 +16262,19 @@
       "period": "4th century BC",
       "associated_context": "Aramaic papyrus evidence",
       "description": "Samaria is included as a location because the archaeology catalogue records papyrus evidence from this findspot. The related evidence record provides the detailed historical context."
+    },
+    {
+      "id": "xian",
+      "name": "Xi'an",
+      "category": "site",
+      "classification": "Evidence findspot",
+      "site_type": "evidence-site",
+      "region": "Guanzhong Plain, central China",
+      "modern_location": "Xi'an, Shaanxi, China",
+      "country": "China",
+      "period": "781 AD",
+      "associated_context": "East Syriac Christian and Aramaic inscriptional evidence",
+      "description": "Xi'an is included as a location because the archaeology catalogue records the Xi'an Stele from this findspot. The related evidence record provides the historical and religious context of the Tang-dynasty inscription."
     }
   ],
   "location_evidence": [
@@ -16177,7 +16347,7 @@
       "identifier": "KAI 216",
       "type": "Inscription",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/20131205_Istanbul_067.jpg",
-      "title": "Bar-Rakib I"
+      "title": "Bar Rakib I"
     },
     {
       "location_id": "zincirli",
@@ -16352,7 +16522,7 @@
       "identifier": "KAI 279",
       "type": "Inscription",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kandahar_Sophytes_Inscription.jpg/1280px-Kandahar_Sophytes_Inscription.jpg",
-      "title": "Kandahar Bilingual Rock Inscription"
+      "title": "Kandahar Bilingual Edict of Ashoka"
     },
     {
       "location_id": "taxila",
@@ -16441,7 +16611,7 @@
       "identifier": "KAI 218",
       "type": "Sculpture",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Relief_of_king_Barrakib_from_Zincirli_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg",
-      "title": "Bar-Rakib II"
+      "title": "Bar Rakib II"
     },
     {
       "location_id": "et-tell",
@@ -21801,6 +21971,13 @@
       "type": "Inscription",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Slab_with_Aramaic_Hatran_Inscription_from_Hatra%2C_Iraq%2C_Iraq_Museum.jpg/1280px-Slab_with_Aramaic_Hatran_Inscription_from_Hatra%2C_Iraq%2C_Iraq_Museum.jpg",
       "title": "Hatran Inscription"
+    },
+    {
+      "location_id": "xian",
+      "evidence_id": 717,
+      "type": "Inscription",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Nestorian_Stele_%28front%29.JPG",
+      "title": "Xi'an Stele (Jingjiao Stele)"
     }
   ],
   "images": [
