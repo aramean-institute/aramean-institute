@@ -8,12 +8,12 @@
   <section margintop="2rem">
     <p>
       This catalogue organizes archaeological artifacts, inscriptions, documents, architecture, and other material
-      evidence connected with Aramean history and the wider history of the Aramaic language. For documented sites and
-      excavation records, see the <a href="/research/archaeology/sites.html" color="red">Archaeological Sites</a> page.
+      evidence connected with Aramean history and the wider history of the Aramaic language.
     </p>
 
     <h2 margintop="2rem">Aramean-Associated Material Evidence</h2>
-    <p class="mt05">Evidence produced by, commissioned by, or directly associated with Aramean polities and communities.</p>
+    <p class="mt05">Evidence produced by, commissioned by, or directly associated with Aramean polities and communities.
+    </p>
     <table class="mt1 bocred bos5 bw1 z08 w100">
       <caption class="tal fwb mb1 mt1">Aramean-Associated Evidence</caption>
       <thead class="bcred yellow p1">
@@ -28,7 +28,8 @@
       <tbody data-iterate="evidence" data-src="/assets/json/archaeology.json" data-filterkey="evidence"
         data-filteritem="origin:'aramean'">
         <tr>
-          <td><a data-set="evidenceId:id" data-get="title" href="/research/archaeology/evidence.html?id={evidenceId}" color="red"></a></td>
+          <td><a data-set="evidenceId:id" data-get="title" href="/research/archaeology/evidence.html?id={evidenceId}"
+              color="red"></a></td>
           <td data-get="evidence_type"></td>
           <td data-get="period"></td>
           <td data-get="polity"></td>
@@ -38,7 +39,8 @@
     </table>
 
     <h2 margintop="2rem">Aramaic Evidence in Wider Contexts</h2>
-    <p class="mt05">Evidence bearing Aramaic language or script from communities and administrations beyond Aramean polities.</p>
+    <p class="mt05">Evidence bearing Aramaic language or script from communities and administrations beyond Aramean
+      polities.</p>
     <table class="mt1 bocred bos5 bw1 z08 w100">
       <caption class="tal fwb mb1 mt1">Aramaic Evidence</caption>
       <thead class="bcred yellow p1">
@@ -53,7 +55,8 @@
       <tbody data-iterate="evidence" data-src="/assets/json/archaeology.json" data-filterkey="evidence"
         data-filteritem="origin:'aramaic'">
         <tr>
-          <td><a data-set="evidenceId:id" data-get="title" href="/research/archaeology/evidence.html?id={evidenceId}" color="red"></a></td>
+          <td><a data-set="evidenceId:id" data-get="title" href="/research/archaeology/evidence.html?id={evidenceId}"
+              color="red"></a></td>
           <td data-get="evidence_type"></td>
           <td data-get="period"></td>
           <td data-get="location"></td>
@@ -65,5 +68,3 @@
 </article>
 
 <section include="./_includes/footer.html" bgcolor="red" color="white" padding="1rem" class="white-"></section>
-
-</content>

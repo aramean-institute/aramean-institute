@@ -15,11 +15,11 @@
   <link type="image/x-icon" href="favicon.ico" rel="shortcut icon">
   <link type="text/css" href="https://cdn.front.nu/dist/front.css" rel="stylesheet">
   <link type="text/css" href="https://cdn.front.nu/dist/design/front/theme/front.css" rel="stylesheet">
-  <script src="https://cdn.front.nu/nightly/front.js" module="navigate;data;screen;globalize;form;chronotize"
+  <script src="https://cdn.front.nu/nightly/front.js" module="navigate;data;screen;globalize;form;chronotize;overlay"
     plugin="readingtime;filtersearch;svgworldmap" var="api;enum"
     conf="debug:false;debugLocalhost:true;resetStyle:true;varsDir:assets/json/vars;storageKey:aramean_institute"
-    svgworldmap--conf="hideFilterAll:true"
-    navigate-conf="startpage:/;startpageLocal:/" globalize-conf="folder:assets/json/locales;ttl:3600000"></script>
+    svgworldmap--conf="hideFilterAll:true" navigate-conf="startpage:/;startpageLocal:/"
+    globalize-conf="folder:assets/json/locales;ttl:3600000"></script>
   <script src="https://www.googletagmanager.com/gtag/js?id=G-4Z8JXR2XX0" async></script>
   <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-4Z8JXR2XX0')</script>
   <link rel="icon" href="data:,">
@@ -34,7 +34,8 @@
   <header bgcolor="black" class="topbar dark shade05 fwb">
     <nav gap="1.5rem" justifycontent="right" fontsize="80%" width="100%" height="2rem" screen-xxs="hide"
       screen-xl="show" paddingright="2rem">
-      <a flex="1" bgcolor="red" padding="1rem" href="contribute/" globalize-get><i color="yellow">&#9829;</i> Contribute</a>
+      <a flex="1" bgcolor="red" padding="1rem" href="contribute/" globalize-get><i color="yellow">&#9829;</i>
+        Contribute</a>
       <a href="research/publications/" bindglobal="href:href"
         if="([{href}]~[/research/publications])/color:[yellow]?color:[inherit]" globalize-get>Publications</a>
       <a href="development/projects" bindglobal="href:href"
@@ -61,13 +62,17 @@
       <a href="./" target="_self"><img src="assets/img/logo.png"></a>
     </figure>
     <div id="menuitems" flex screen-xxs="gap:[inherit];hide" screen-xl="gap:[2rem];show">
-      <a href="research/ethnology" alt="Language, identity, community life, religion, customs, and culture." bindglobal="href:href" onbindglobalchange="rerun:if"
+      <a href="research/ethnology" alt="Language, identity, community life, religion, customs, and culture."
+        bindglobal="href:href" onbindglobalchange="rerun:if"
         if="([{href}]~[/research/ethnology])/color:[red]?color:[inherit]" globalize-get>Ethnology</a>
-      <a href="research/history" alt="Periods, rulers, migrations, conflicts, and political change." bindglobal="href:href" onbindglobalchange="rerun:if"
+      <a href="research/history" alt="Periods, rulers, migrations, conflicts, and political change."
+        bindglobal="href:href" onbindglobalchange="rerun:if"
         if="([{href}]~[/research/history])/color:[red]?color:[inherit]" globalize-get>History</a>
-      <a href="research/geography" alt="Regions, cities, settlements, landscapes, and diaspora locations." bindglobal="href:href" onbindglobalchange="rerun:if"
+      <a href="research/geography" alt="Regions, cities, settlements, landscapes, and diaspora locations."
+        bindglobal="href:href" onbindglobalchange="rerun:if"
         if="([{href}]~[/research/geography])/color:[red]?color:[inherit]" globalize-get>Geography</a>
-      <a href="research/archaeology" alt="Sites, inscriptions, artifacts, architecture, and fieldwork." bindglobal="href:href" onbindglobalchange="rerun:if"
+      <a href="research/archaeology" alt="Sites, inscriptions, artifacts, architecture, and fieldwork."
+        bindglobal="href:href" onbindglobalchange="rerun:if"
         if="([{href}]~[/research/archaeology])/color:[red]?color:[inherit]" globalize-get>Archaeology</a>
     </div>
     <div bindglobal="href:href" onbindglobalchange="rerun:if" if="([{href}]~[/research/])/show?hide">

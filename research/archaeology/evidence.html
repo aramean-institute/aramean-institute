@@ -19,9 +19,9 @@
       padding="1rem" radius="1rem"
       style="display:block; box-sizing:border-box; float:right; clear:right; overflow:hidden;">
       <a data-if="image" data-set="href:image" target="_blank" rel="noopener" title="Open full-size image"
-        style="display:block; max-height:34rem; overflow:hidden; border-radius:0.65rem; background:linear-gradient(145deg,#f7f8f9,#eceff1);">
-        <img data-set="src:image;alt:title" data-get="image" width="100%"
-          style="display:block; width:100%; max-height:34rem; object-fit:contain; object-position:center; border-radius:0.65rem;">
+        style="display:block; max-height:30rem; overflow:hidden; border-radius:0.65rem; background:linear-gradient(145deg,#f7f8f9,#eceff1);">
+        <img data-set="src:image;alt:title" maxheight="30rem" data-get="image" overlay-imgsrc width="100%"
+          style="display:block; width:100%;object-fit:contain; object-position:center; border-radius:0.65rem;">
       </a>
       <figcaption data-get="image_caption"
         style="display:block; margin-top:0.85rem; color:#303840; font-size:0.95rem; line-height:1.5;"></figcaption>
@@ -40,28 +40,6 @@
       <b>Polity or context:</b> <span data-get="polity"></span><br>
       <b>Museum or repository:</b> <span data-get="museum"></span>
     </p>
-
-    <section>
-      <article data-iterate="excavations" data-filterkey="excavations" data-filteritem="id:'{excavation_id}'">
-        <section margintop="2rem">
-          <h2>Related excavation images</h2>
-          <article grid data-iterate="images" screen-xs="gridcolumns:[1fr]" screen-md="gridcolumns:[1fr 1fr]"
-            screen-lg="gridcolumns:[1fr 1fr 1fr]" screen-xl="gridcolumns:[1fr 1fr 1fr 1fr]" gap="1.5rem">
-            <figure
-              style="display:flex; min-height:100%; flex:1; flex-direction:column; margin:0; overflow:hidden; border:1px solid #e5e5e5; border-radius:0.5rem; background:#fff;">
-              <a data-set="href:url" target="_blank" rel="noopener" title="Open full-size image" flex
-                minheight="14.5rem" alignitems="center" justifycontent="center" padding="0.75rem" bgcolor="#f5f5f5">
-                <img data-set="src:url;alt:alt" width="100%" loading="lazy"
-                  style="display:block; width:100%; height:13rem; object-fit:contain; object-position:center;">
-              </a>
-              <figcaption data-get="caption" style="padding:0.9rem 1rem 0.5rem; line-height:1.5;"></figcaption>
-              <small data-if="source" style="display:block; margin-top:auto; padding:0 1rem 1rem; color:#666;">Image: <a
-                  data-set="href:source_url" data-get="source" target="_blank" rel="noopener"></a></small>
-            </figure>
-          </article>
-        </section>
-      </article>
-    </section>
 
     <h2 margintop="2rem">Description</h2>
     <p data-get="description"></p>
