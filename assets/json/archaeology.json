@@ -816,7 +816,7 @@
       "excavation_id": "tel-dan",
       "period": "9th century BC",
       "material": "Basalt",
-      "discovered_year": "1993",
+      "discovered_year": 1993,
       "location": "Tel Dan, Israel",
       "country": "Israel",
       "place": "Tel Dan",
@@ -837,7 +837,7 @@
       "identifier": "KAI 202",
       "period": "c. 785 BC",
       "material": "Basalt",
-      "discovered_year": "1903",
+      "discovered_year": 1903,
       "location": "Tell Afis, Syria",
       "country": "Syria",
       "place": "Tell Afis",
@@ -857,7 +857,7 @@
       "identifier": "KAI 222",
       "period": "c. 750 BC",
       "material": "Basalt",
-      "discovered_year": "1930",
+      "discovered_year": 1930,
       "location": "Sefire, Syria",
       "country": "Syria",
       "place": "Sefire",
@@ -877,7 +877,7 @@
       "excavation_id": "tell-halaf",
       "period": "10th-9th century BC",
       "material": "Basalt and limestone",
-      "discovered_year": "1911",
+      "discovered_year": 1911,
       "location": "Tell Halaf (Guzana), Syria",
       "country": "Syria",
       "place": "Tell Halaf",
@@ -898,7 +898,7 @@
       "excavation_id": "tell-fekheriye",
       "period": "9th century BC",
       "material": "Basalt",
-      "discovered_year": "1979",
+      "discovered_year": 1979,
       "location": "Tell Fekheriye, Syria",
       "country": "Syria",
       "place": "Tell Fekheriye",
@@ -918,6 +918,8 @@
       "identifier": "KAI 24",
       "excavation_id": "zincirli",
       "period": "c. 830 BC",
+      "discovered_year": 1902,
+      "material": "Basalt",
       "location": "Zincirli, Turkey",
       "country": "Turkey",
       "place": "Zincirli",
@@ -938,7 +940,7 @@
       "excavation_id": "zincirli",
       "period": "c. 750 BC",
       "material": "Basalt",
-      "discovered_year": "1890",
+      "discovered_year": 1890,
       "location": "Zincirli, Turkey",
       "country": "Turkey",
       "place": "Zincirli",
@@ -959,7 +961,7 @@
       "excavation_id": "zincirli",
       "period": "c. 733-732 BC",
       "material": "Basalt",
-      "discovered_year": "1888",
+      "discovered_year": 1888,
       "location": "Zincirli, Turkey",
       "country": "Turkey",
       "place": "Zincirli",
@@ -983,7 +985,7 @@
       "excavation_id": "zincirli",
       "period": "c. 730 BC",
       "material": "Basalt",
-      "discovered_year": "1891",
+      "discovered_year": 1891,
       "location": "Zincirli, Turkey",
       "country": "Turkey",
       "place": "Zincirli",
@@ -1126,7 +1128,7 @@
       "title": "Katumuwa Stele",
       "excavation_id": "zincirli",
       "period": "c. 735 BC",
-      "discovered_year": "2008",
+      "discovered_year": 2008,
       "material": "Basalt",
       "location": "Zincirli, Turkey",
       "country": "Turkey",
@@ -1230,7 +1232,7 @@
       "excavation_id": "zincirli",
       "period": "c. 830 BC",
       "material": "Gold",
-      "discovered_year": "1943",
+      "discovered_year": 1943,
       "location": "Zincirli, Turkey",
       "country": "Turkey",
       "place": "Zincirli",
@@ -1253,7 +1255,7 @@
       "excavation_id": "arslan-tash",
       "period": "c. 840 BC",
       "material": "Ivory",
-      "discovered_year": "1928",
+      "discovered_year": 1928,
       "location": "Arslan Tash, Syria",
       "country": "Syria",
       "place": "Arslan Tash",
@@ -1273,6 +1275,7 @@
       "identifier": "KAI 311",
       "period": "c. 840 BC",
       "material": "Bronze",
+      "discovered_year": 1984,
       "location": "Samos, Greece",
       "country": "Greece",
       "place": "Samos",
@@ -1302,7 +1305,7 @@
       "identifier": "KAI 201",
       "period": "c. 850 BC",
       "material": "Basalt",
-      "discovered_year": "1939",
+      "discovered_year": 1939,
       "location": "Near Aleppo, Syria",
       "country": "Syria",
       "place": "Near Aleppo",
@@ -1323,7 +1326,7 @@
       "excavation_id": "arslan-tash",
       "period": "7th century BC",
       "material": "Limestone",
-      "discovered_year": "1933",
+      "discovered_year": 1933,
       "location": "Arslan Tash, Syria",
       "country": "Syria",
       "place": "Arslan Tash",
@@ -1344,7 +1347,7 @@
       "excavation_id": "arslan-tash",
       "period": "9th-8th century BC",
       "material": "Ivory",
-      "discovered_year": "1928",
+      "discovered_year": 1928,
       "location": "Arslan Tash, Syria",
       "country": "Syria",
       "place": "Arslan Tash",
@@ -1363,6 +1366,8 @@
       "title": "Til Barsip Wall Paintings",
       "excavation_id": "tell-ahmar",
       "period": "8th century BC",
+      "material": "Painted plaster (raw earth support)",
+      "discovered_year": "1929-1931",
       "location": "Tell Ahmar (Til Barsip), Syria",
       "country": "Syria",
       "place": "Tell Ahmar",
@@ -1442,7 +1447,7 @@
       "identifier": "KAI 231",
       "excavation_id": "tell-halaf",
       "material": "Limestone",
-      "discovered_year": "1933",
+      "discovered_year": 1933,
       "period": "9th century BC",
       "location": "Tell Halaf (Guzana), Syria",
       "country": "Syria",
@@ -1465,7 +1470,7 @@
       "title": "Bukan Stele",
       "identifier": "KAI 320",
       "period": "Late 8th century BC",
-      "discovered_year": "1985",
+      "discovered_year": 1985,
       "location": "Bukan, Iran",
       "country": "Iran",
       "place": "Bukan",
@@ -1480,7 +1485,89 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Qalichi_glazed_brick.jpg",
       "origin": "aramaic",
       "evidence_type": "inscription",
-      "inscription": false
+      "inscription": true,
+      "inscription_note": "The Qalaichi/Bukan find is reported as a unique 13-line Aramaic inscription. The accessible Qalaichi and Cambridge sources confirm the line count and context but do not publish a verifiable line-by-line original-script edition. The transcription, transliteration, and translation are therefore left pending against the primary publications and facsimile.",
+      "inscription_source_url": "https://doi.org/10.15184/S2978855200904384",
+      "inscription_lines": [
+      {
+        "line_number": 1,
+        "original_script": "זי יהנס אית נצב[א] זנה [מן אשרה]",
+        "transliteration": "zy yhns ʾyt nṣb[ʾ] znh [mn ʾšrh]",
+        "english_translation": "Whoever would drag away this stele [and withhold it]"
+      },
+      {
+        "line_number": 2,
+        "original_script": "בלחמה או בשלם [כ]ל מה מותנא [כ]",
+        "transliteration": "blḥmh ʾw bšlm [k]l mh mwtnʾ [k]",
+        "english_translation": "in war or in peace, any kind of pestilence, [as]"
+      },
+      {
+        "line_number": 3,
+        "original_script": "זי הוה בכל ארקא ישמוה אלהן ב[מ]",
+        "transliteration": "zy hwh bkl ʾrqʾ yšmwh ʾlhn b[m]",
+        "english_translation": "much as there is on the whole earth, may the gods impose on the [coun]try"
+      },
+      {
+        "line_number": 4,
+        "original_script": "ת מלכ[א] הוא ולץ הא לאלהן ולץ",
+        "transliteration": "t mlk[ʾ] hwʾ wlṣ hʾ lʾlhn wlṣ",
+        "english_translation": "of that king. And may he be accursed to the gods and may he be accursed"
+      },
+      {
+        "line_number": 5,
+        "original_script": "הא לחלדי זי בזעתר שבע שורה",
+        "transliteration": "hʾ lḥldy zy bzʿtr šbʿ šwrh",
+        "english_translation": "to Ḫaldi who is in Zaʿter. May seven cows"
+      },
+      {
+        "line_number": 6,
+        "original_script": "יהינען עגל חד ואל ישבע ושב",
+        "transliteration": "yhynqn ʿgl ḥd wʾl yšbʿ wšb",
+        "english_translation": "nurse one calf and may it not be satiated. And may seven"
+      },
+      {
+        "line_number": 7,
+        "original_script": "ע נשן יאפו בתנר חד[ ] ואל ימלא",
+        "transliteration": "ʿ nšn yʾpw btnr ḥd[ ] wʾl ymlʾ",
+        "english_translation": "women bake in one oven and may they not fill"
+      },
+      {
+        "line_number": 8,
+        "original_script": "והי ויאבד מן מתה תנן אשה וקל",
+        "transliteration": "why wyʾbd mn mth tnn ʾšh wql",
+        "english_translation": "it. And may vanish from his country the smoke of a furnace and the sound of"
+      },
+      {
+        "line_number": 9,
+        "original_script": "רחין וארקה תהוי ממלח[ה] ויתמד",
+        "transliteration": "rḥyn wʾrqh thwy mmlḥ[h] wytmd",
+        "english_translation": "a mill. And may his land be salted and may sway back and forth"
+      },
+      {
+        "line_number": 10,
+        "original_script": "דה פרע ראש ומלכא הא זי [יכת]ב",
+        "transliteration": "dh prʿ rʾš wmlkʾ hʾ zy [ykt]b",
+        "english_translation": "in it the crack of an earthquake. And that king who would [write]"
+      },
+      {
+        "line_number": 11,
+        "original_script": "על נצבא זנ[ה] כרסאה יהפכה הד[ד]",
+        "transliteration": "ʿl nṣbʾ zn[h] krsʾh yhpkh hd[d]",
+        "english_translation": "on this stele, may Hadad overturn his throne,"
+      },
+      {
+        "line_number": 12,
+        "original_script": "וחלדי ושבע שנין אל יתן הדד ק[לה]",
+        "transliteration": "wḥldy wšbʿ šnn ʾl ytn hdd q[lh]",
+        "english_translation": "as well as Ḫaldi. And during seven years may Hadad not send thunder"
+      },
+      {
+        "line_number": 13,
+        "original_script": "במתה וימחאהי כל לוץ נצ[בא] זנה",
+        "transliteration": "bmth wymḥʾhy kl lwṣ nṣ[bʾ] znh",
+        "english_translation": "in his country and may the entire curse of this stele smite him."
+      }
+      ]
     },
     {
       "id": 23,
@@ -1489,7 +1576,7 @@
       "excavation_id": "al-nayrab",
       "period": "7th century BC",
       "material": "Basalt",
-      "discovered_year": "1891",
+      "discovered_year": 1891,
       "location": "Al-Nayrab, Syria",
       "country": "Syria",
       "place": "Al-Nayrab",
@@ -1551,7 +1638,7 @@
       "title": "Saqqara Aramaic Stele",
       "identifier": "KAI 267; CIS II 122; TAD C20",
       "period": "482 BC",
-      "discovered_year": "1877",
+      "discovered_year": 1877,
       "location": "Saqqara, Egypt",
       "country": "Egypt",
       "place": "Saqqara",
@@ -1595,7 +1682,7 @@
       "identifier": "TAD A2.4",
       "period": "5th century BC",
       "material": "Papyrus",
-      "discovered_year": "1945",
+      "discovered_year": 1945,
       "location": "Hermopolis, Egypt",
       "country": "Egypt",
       "place": "Hermopolis",
@@ -1610,7 +1697,70 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription": false
+      "inscription_note": "The 15 pending line slots follow the published recto/verso line count for TAD A2.4 (10 recto and 5 verso). Original script, transliteration, and English translation are intentionally left blank pending verification against the primary edition.",
+      "inscription_lines": [
+        {
+          "line_number": 1,
+          "original_script": "𐡔𐡋𐡌 𐡁𐡉𐡕 𐡍𐡁𐡅 𐡀𐡋 𐡀𐡇𐡉 𐡐𐡎𐡌𐡉 𐡁𐡓 𐡍𐡁𐡅𐡍𐡕𐡍 𐡌𐡍 𐡀𐡇𐡅𐡊 𐡌𐡊𐡉𐡁𐡍𐡉𐡕",
+          "transliteration": "šlm byt nbw ʾl ʾḥy psmy br nbwntn mn ʾḥwk mkbnyt",
+          "english_translation": "The peace of the temple of Nabu be upon my brother Psami, son of Nabunathan, from your brother Makkibanit."
+        },
+        {
+          "line_number": 2,
+          "original_script": "𐡁𐡓𐡊𐡕𐡊 𐡋𐡐𐡕𐡇 𐡃𐡉 𐡉𐡇𐡆𐡍𐡉 𐡀𐡐𐡉𐡊 𐡁𐡔𐡋𐡌",
+          "transliteration": "brktk lptḥ dy yḥzny ʾpyk bšlm",
+          "english_translation": "I bless you by Ptah, that he may allow me to see your face in peace."
+        },
+        {
+          "line_number": 3,
+          "original_script": "𐡅𐡊𐡏𐡍 𐡇𐡓𐡅𐡆 𐡔𐡋𐡌 𐡄𐡅 𐡕𐡍𐡄 𐡀𐡋 𐡕𐡃𐡇𐡋 𐡋𐡄",
+          "transliteration": "wkʿn ḥrwz šlm hw tnh ʾl tdḥl lh",
+          "english_translation": "And now: Haruz is doing well here; do not worry about him."
+        },
+        {
+          "line_number": 4,
+          "original_script": "𐡊𐡋 𐡌𐡄 𐡃𐡉 𐡕𐡅𐡊𐡋𐡅𐡍 𐡋𐡏𐡁𐡃 𐡋𐡄 𐡀𐡍𐡄 𐡏𐡁𐡃",
+          "transliteration": "kl mh dy twklwn lʿbd lh ʾnh ʿbd",
+          "english_translation": "Whatever you are able to do for him, I am doing."
+        },
+        {
+          "line_number": 5,
+          "original_script": "𐡅𐡊𐡏𐡍 𐡄𐡁𐡅 𐡋𐡉 𐡆𐡉𐡕𐡀 𐡅𐡌𐡔𐡇𐡀 𐡃𐡉 𐡔𐡋𐡇𐡕𐡅𐡍 𐡋𐡉",
+          "transliteration": "wkʿn hbw ly zytʾ wmšḥʾ dy šlḥtwn ly",
+          "english_translation": "And now: give me the olive oil and the oil that you sent for me."
+        },
+        {
+          "line_number": 6,
+          "original_script": "𐡔𐡋𐡌 𐡌𐡌𐡄 𐡀𐡌𐡉 𐡅𐡔𐡋𐡌 𐡊𐡋 𐡁𐡉𐡕𐡀",
+          "transliteration": "šlm mmh ʾmy wšlm kl bytʾ",
+          "english_translation": "Greetings to Mama, my mother, and greetings to the whole household."
+        },
+        {
+          "line_number": 7,
+          "original_script": "𐡔𐡋𐡌 𐡀𐡇𐡉 𐡅𐡁𐡍𐡉 𐡅𐡔𐡋𐡌 𐡊𐡋 𐡔𐡊𐡍𐡉𐡀",
+          "transliteration": "šlm ʾḥy wbny wšlm kl šknyʾ",
+          "english_translation": "Greetings to my brothers and my children, and greetings to all the neighbors."
+        },
+        {
+          "line_number": 8,
+          "original_script": "𐡔𐡋𐡇𐡕 𐡎𐡐𐡓𐡀 𐡆𐡍𐡄 𐡋𐡔𐡋𐡌𐡊𐡅𐡍",
+          "transliteration": "šlḥt sprʾ znh lšlmkwn",
+          "english_translation": "I have sent this letter to inquire of your welfare."
+        },
+        {
+          "line_number": 9,
+          "original_script": "𐡀𐡋 𐡀𐡁𐡉 𐡐𐡎𐡌𐡉 𐡁𐡓 𐡍𐡁𐡅𐡍𐡕𐡍 𐡌𐡍 𐡌𐡊𐡉𐡁𐡍𐡉𐡕",
+          "transliteration": "ʾl ʾby psmy br nbwntn mn mkbnyt",
+          "english_translation": "To my father Psami, son of Nabunathan, from Makkibanit."
+        },
+        {
+          "line_number": 10,
+          "original_script": "𐡉𐡅𐡁𐡋 𐡋𐡎𐡅𐡍",
+          "transliteration": "ywbl lswṇ",
+          "english_translation": "To be delivered to Syene."
+        }
+      ],
+      "inscription": true
     },
     {
       "id": 29,
@@ -1634,6 +1784,8 @@
       "title": "Daskyleion Stele I",
       "identifier": "KAI 318",
       "period": "5th century BC",
+      "material": "Marble",
+      "discovered_year": 1958,
       "location": "Dascylium, Turkey",
       "country": "Turkey",
       "place": "Dascylium",
@@ -1659,8 +1811,24 @@
       "place": "Luristan",
       "location_id": "luristan",
       "museum": "Various",
+      "material": "Bronze",
+      "discovered_year": 1964,
       "description": "The Luristan Aramaic Inscriptions represent a group of texts reported from the highlands of western Iran and spanning more than one context or date. Their distribution is relevant to the history of Imperial and post-Imperial Aramaic writing, but the broad regional label and varied provenance require the individual inscriptions to be assessed separately.",
       "significance": "Evidence of Aramaic penetration into the Iranian highlands.",
+      "inscription_lines": [
+        {
+          "line_number": 1,
+          "original_script": "זי עבדה פיף־יתני בת אלסטר",
+          "transliteration": "zy ʿbdh pyf-ytny bt ʾlsṭr",
+          "english_translation": "The vessel which Pīf-ittanni daughter of ʾElsatar made"
+        },
+        {
+          "line_number": 2,
+          "original_script": "לעתרמשרנו בר נגש",
+          "transliteration": "l-ʿtrmšrnw br ngš",
+          "english_translation": "for ʿAtarmasornu son of NGŠ."
+        }
+      ],
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/A_spike-butted_axe_from_Luristan%2C_Museum_of_Archaeology_and_Anthropology%2C_Cambridge.jpg",
       "image_caption": "Luristan bronze axe shown as regional context; it is not one of the Aramaic inscriptions in this corpus.",
@@ -1668,14 +1836,15 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:A_spike-butted_axe_from_Luristan,_Museum_of_Archaeology_and_Anthropology,_Cambridge.jpg",
       "origin": "aramaic",
       "evidence_type": "inscription",
-      "inscription": false
+      "inscription": true
     },
     {
       "id": 32,
       "title": "Kandahar Bilingual Edict of Ashoka",
       "identifier": "KAI 279",
       "period": "c. 260 BC",
-      "discovered_year": "1958",
+      "material": "Limestone & Basalt",
+      "discovered_year": 1958,
       "location": "Kandahar, Afghanistan",
       "country": "Afghanistan",
       "place": "Kandahar",
@@ -1750,7 +1919,7 @@
       "identifier": "KAI 273",
       "period": "3rd century BC",
       "material": "Marble",
-      "discovered_year": "1915",
+      "discovered_year": 1915,
       "location": "Taxila, Pakistan",
       "country": "Pakistan",
       "place": "Taxila",
@@ -1847,7 +2016,7 @@
       "id": 34,
       "title": "Pul-i-Darunteh Inscription",
       "period": "c. 260 BC",
-      "discovered_year": "1932",
+      "discovered_year": 1932,
       "location": "Afghanistan",
       "country": "Afghanistan",
       "place": "Pul-i-Darunteh",
@@ -2111,6 +2280,7 @@
       "country": "Israel",
       "place": "Bethsaida",
       "museum": "Israel Museum, Jerusalem",
+      "discovered_year": 1997,
       "description": "The Bethsaida Cultic Stele is a broken basalt monument found near the monumental gate complex at et-Tell. Its horned bull-like head and dagger have been interpreted in relation to a storm or lunar deity, but the identification is not certain; the object is secure evidence for a cultic image and ritual setting, not by itself a complete description of the site's religion or political identity.",
       "significance": "Provides vivid physical evidence of Aramean religious iconography, cultic practices, and political influence within the kingdom of Geshur.",
       "polity": "Geshur",
@@ -2123,6 +2293,8 @@
       "id": 42,
       "title": "Hazael Ivory Bed (Nimrud)",
       "period": "c. 840 BC",
+      "material": "Ivory",
+      "discovered_year": 1928,
       "location": "Nimrud, Iraq",
       "country": "Iraq",
       "place": "Nimrud",
@@ -2145,6 +2317,8 @@
       "identifier": "VAG 1042",
       "excavation_id": "zincirli",
       "period": "9th century BC",
+      "material": "Dolerite",
+      "discovered_year": "1890-1891",
       "location": "Zincirli, Turkey",
       "country": "Turkey",
       "place": "Zincirli",
@@ -2167,7 +2341,7 @@
       "identifier": "KAI 218",
       "excavation_id": "zincirli",
       "material": "Basalt",
-      "discovered_year": "1891",
+      "discovered_year": 1891,
       "period": "c. 730 BC",
       "location": "Zincirli, Turkey",
       "country": "Turkey",
@@ -2264,7 +2438,7 @@
       "title": "Wadi Daliyeh Papyri",
       "period": "4th century BC",
       "material": "Papyrus",
-      "discovered_year": "1962",
+      "discovered_year": 1962,
       "location": "Wadi Daliyeh, Israel",
       "country": "Israel",
       "place": "Wadi Daliyeh",
@@ -2455,6 +2629,8 @@
       "identifier": "VA 2718",
       "excavation_id": "zincirli",
       "period": "9th century BC",
+      "material": "Dolerite",
+      "discovered_year": "1890-1891",
       "location": "Zincirli, Turkey",
       "country": "Turkey",
       "place": "Zincirli",
@@ -2477,6 +2653,8 @@
       "identifier": "VA 2719",
       "excavation_id": "zincirli",
       "period": "9th century BC",
+      "material": "Dolerite",
+      "discovered_year": "1890-1891",
       "location": "Zincirli, Turkey",
       "country": "Turkey",
       "place": "Zincirli",
@@ -2499,6 +2677,8 @@
       "identifier": "VA 3001",
       "excavation_id": "zincirli",
       "period": "9th century BC",
+      "material": "Dolerite",
+      "discovered_year": "1890-1891",
       "location": "Zincirli, Turkey",
       "country": "Turkey",
       "place": "Zincirli",
@@ -3508,7 +3688,7 @@
       "identifier": "TAD A2.1",
       "period": "5th century BC",
       "material": "Papyrus",
-      "discovered_year": "1945",
+      "discovered_year": 1945,
       "location": "Hermopolis, Egypt",
       "country": "Egypt",
       "place": "Hermopolis",
@@ -3523,7 +3703,24 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription": false
+      "inscription_note": "The 14 pending line slots follow the published recto/verso line count for TAD A2.1 (7 recto and 7 verso). Original script, transliteration, and English translation are intentionally left blank pending verification against the primary edition.",
+      "inscription_lines": [
+        {"line_number": 1, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 2, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 3, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 4, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 5, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 6, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 7, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 8, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 9, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 10, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 11, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 12, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 13, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 14, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""}
+      ],
+      "inscription": true
     },
     {
       "id": 109,
@@ -3546,7 +3743,28 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription": false
+      "inscription_note": "The 18 pending line slots follow the published recto/verso line count for TAD A2.2 (17 recto and 1 verso). Original script, transliteration, and English translation are intentionally left blank pending verification against the primary edition.",
+      "inscription_lines": [
+        {"line_number": 1, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 2, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 3, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 4, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 5, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 6, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 7, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 8, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 9, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 10, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 11, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 12, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 13, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 14, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 15, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 16, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 17, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 18, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""}
+      ],
+      "inscription": true
     },
     {
       "id": 110,
@@ -3569,6 +3787,8 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
+      "inscription_note": "The following 10-line text was supplied for this record by the project user. The language is Imperial Aramaic. The original_script values below are a normalized Unicode rendering in the Imperial Aramaic block (U+10840–U+1085F), mechanically mapped from the supplied Hebrew-block transcription; they are not a diplomatic facsimile and should be checked against the primary facsimile. The Temple of Nabu opening, Makkibanit/Psami son of Nabunathan address, Harudj context, and delivery to Syene align with Bresciani-Kamil 1 / TAD A2.3. The supplied 10-line segmentation differs from the DEAPS physical layout of 7 recto and 7 verso lines.",
+      "inscription_lines": [],
       "inscription": false
     },
     {
@@ -3592,7 +3812,20 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription": false
+      "inscription_note": "The 10 pending line slots follow the published recto/verso line count for TAD A2.5 (7 recto and 3 verso). Original script, transliteration, and English translation are intentionally left blank pending verification against the primary edition.",
+      "inscription_lines": [
+        {"line_number": 1, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 2, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 3, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 4, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 5, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 6, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 7, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 8, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 9, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 10, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""}
+      ],
+      "inscription": true
     },
     {
       "id": 112,
@@ -3615,7 +3848,21 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription": false
+      "inscription_note": "The 11 pending line slots follow the published recto/verso line count for TAD A2.6 (7 recto and 4 verso). Original script, transliteration, and English translation are intentionally left blank pending verification against the primary edition.",
+      "inscription_lines": [
+        {"line_number": 1, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 2, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 3, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 4, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 5, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 6, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 7, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 8, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 9, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 10, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 11, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""}
+      ],
+      "inscription": true
     },
     {
       "id": 113,
@@ -3638,7 +3885,15 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription": false
+      "inscription_note": "The 5 pending line slots follow the published recto/verso line count for TAD A2.7 (4 recto and 1 verso). Original script, transliteration, and English translation are intentionally left blank pending verification against the primary edition.",
+      "inscription_lines": [
+        {"line_number": 1, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 2, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 3, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 4, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
+        {"line_number": 5, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""}
+      ],
+      "inscription": true
     },
     {
       "id": 114,
@@ -3661,7 +3916,9 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription": false
+      "inscription_note": "The eighth Hermopolis papyrus is listed in secondary catalogues, but no authoritative TAD A2.8 line division was located in the checked digital editions. The line array is therefore intentionally empty rather than guessed; original script, transliteration, and English translation remain pending verification.",
+      "inscription_lines": [],
+      "inscription": true
     },
     {
       "id": 115,
@@ -3711,6 +3968,8 @@
       "id": 117,
       "title": "Daskyleion Stele 2",
       "period": "5th century BC",
+      "material": "Marble",
+      "discovered_year": "1958",
       "location": "Dascylium, Turkey",
       "country": "Turkey",
       "place": "Dascylium",
@@ -3731,6 +3990,8 @@
       "id": 118,
       "title": "Daskyleion Stele 3",
       "period": "5th century BC",
+      "material": "Marble",
+      "discovered_year": "1958",
       "location": "Dascylium, Turkey",
       "country": "Turkey",
       "place": "Dascylium",
@@ -16907,6 +17168,8 @@
       "id": 717,
       "title": "Xi'an Stele (Jingjiao Stele)",
       "period": "781 AD",
+      "material": "Limestone",
+      "discovered_year": "1625",
       "location": "Xi'an, China",
       "country": "China",
       "place": "Xi'an",
@@ -16926,91 +17189,91 @@
       "inscription_note": "The inscription is Aramaic in the East Syriac (Estrangela) script. Line 1 is the Trinitarian invocation heading the stele above the Chinese text. Line 4 (Adam/Jingjing) is a quoted Unicode reading. For lines 2–3 and 5–7 the Syriac columns give editorial reconstructions of the personal names and titles, spelled from well-attested Classical Syriac forms, because the checked public witnesses (Hall 1895; Havret facsimile) preserve the stone's Syriac only as printed or facsimile images and their OCR is unreliable; these reconstructed cells should be verified against the facsimile and are not a diplomatic transcription of the exact letter forms and word order on the stone. Lines 8–14 give the side-edge name lists grouped by Hall's seven columns (Classis I–VII); the English and transliterated names follow Hall 1895, while the Syriac spellings are editorial reconstructions of those names. Name readings vary across editions (for example Yazedbuzid/Iezdebuzid/Yesbuzid and Sabar Jesus/Sabranieshuʿ). Sources: Isaac H. Hall, \"The Syriac Text of the Chinese Nestorian Tablet,\" American Journal of Semitic Languages and Literatures 12 (1895), pp. 119–125; Henri Havret, La Stèle Chrétienne de Si-ngan-fou, facsimile edition.",
       "inscription_source_url": "https://commons.wikimedia.org/wiki/File:Syriac_text_Nestorian_Stele_781AD.png",
       "inscription_lines": [
-        {
-          "line_number": 1,
-          "original_script": "ܒܫܡ ܐܒܐ ܘܒܪܐ ܘܪܘܚܐ ܕܩܘܕܫܐ",
-          "transliteration": "b'shem aba w'bra w'ruha d'qudsha",
-          "english_translation": "In the name of the Father, and the Son, and the Holy Spirit."
-        },
-        {
-          "line_number": 2,
-          "original_script": "ܒܫܢܬ ܐܠܦ ܘܬܫܥܝܢ ܘܬܪܬܝܢ ܕܝܘܢܝܐ ܡܪܝ ܝܙܕܒܘܙܝܕ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ ܕܟܘܡܕܢ ܡܕܝܢܬܐ ܡܠܟܝܬܐ",
-          "transliteration": "b'shnat alp w'tish'in w'tarten d'yawnaye mar Yazedbuzid qshisha w'kurapisqupa d'Kumdan medinta malkayta",
-          "english_translation": "In the year of the Greeks 1092 (AD 781), Lord Yazedbuzid, priest and chorepiscopus of Cumdan (Chang'an), the royal city,"
-        },
-        {
-          "line_number": 3,
-          "original_script": "ܒܪ ܡܝܠܣ ܩܫܝܫܐ ܕܒܠܚ ܡܕܝܢܬܐ ܕܬܚܘܪܣܬܢ ܐܩܝܡ ܗܢܐ ܟܐܦܐ",
-          "transliteration": "bar Milas qshisha d'Balkh medinta d'Tehuristan aqim hana kepa",
-          "english_translation": "son of Milas, priest of Balkh, a city of Turkestan, set up this stone tablet, on which are written the dispensation of our Saviour and the preaching of our fathers to the king of the Chinese."
-        },
-        {
-          "line_number": 4,
-          "original_script": "ܐܕܡ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ ܘܦܐܦܫ ܕܨܝܢܝܣܬܐܢ",
-          "transliteration": "Adam qshisha w'kurapisqupa w'papash d'Sinistan",
-          "english_translation": "Adam, priest, chorepiscopus, and Fapshi of China; he is identified with the Chinese author Jingjing."
-        },
-        {
-          "line_number": 5,
-          "original_script": "ܡܪܝ ܣܪܓܝܣ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ",
-          "transliteration": "mar Sargis qshisha w'kurapisqupa",
-          "english_translation": "Mar Sergius, priest and chorepiscopus."
-        },
-        {
-          "line_number": 6,
-          "original_script": "ܣܒܪܝܫܘܥ ܩܫܝܫܐ",
-          "transliteration": "Sabrisho qshisha",
-          "english_translation": "Sabar Jesus (Sabranieshuʿ), priest."
-        },
-        {
-          "line_number": 7,
-          "original_script": "ܓܒܪܐܝܠ ܩܫܝܫܐ ܘܐܪܟܝܕܝܩܘܢ ܘܪܝܫܐ ܕܥܕܬܐ ܕܟܘܡܕܢ ܘܕܣܪܓ",
-          "transliteration": "Gabriel qshisha w'arkidiqon w'risha d'edta d'Kumdan w'd'Sarag",
-          "english_translation": "Gabriel, priest, archdeacon, and head of the church of Cumdan and Sarag."
-        },
-        {
-          "line_number": 8,
-          "original_script": "ܡܪܝ ܝܘܚܢܢ ܐܦܝܣܩܘܦܐ ܂ ܐܝܣܚܩ ܩܫܝܫܐ ܂ ܝܘܐܝܠ ܩܫܝܫܐ ܂ ܡܝܟܐܝܠ ܩܫܝܫܐ ܂ ܓܝܘܪܓܝܣ ܩܫܝܫܐ ܂ ܡܗܕܕ ܓܘܫܢܣܦ ܩܫܝܫܐ ܂ ܡܫܝܚܕܕ ܩܫܝܫܐ ܂ ܐܦܪܝܡ ܩܫܝܫܐ ܂ ܐܒܝ ܩܫܝܫܐ ܂ ܕܘܝܕ ܩܫܝܫܐ ܂ ܡܘܫܐ ܩܫܝܫܐ",
-          "transliteration": "mar Yohannan episqopa; Ishaq qshisha; Yoel qshisha; Michael qshisha; Giwargis qshisha; Mahadad Gushnasp qshisha; Meshihadad qshisha; Ephraim qshisha; Abi qshisha; Dawid qshisha; Moshe qshisha",
-          "english_translation": "Mar John, bishop; Isaac, priest; Joel, priest; Michael, priest; George, priest; Mahadad Gushnasp, priest; Meshihadad (Beloved of Messiah), priest; Ephraim, priest; Abi, priest; David, priest; Moses, priest."
-        },
-        {
-          "line_number": 9,
-          "original_script": "ܒܟܘܣ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܐܠܝܐ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܡܘܫܐ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܥܒܕܝܫܘܥ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܫܡܥܘܢ ܩܫܝܫܐ ܂ ܝܘܚܢܢ ܡܫܡܫܢܐ ܘܝܚܝܕܝܐ",
-          "transliteration": "Bakos qshisha w'ihidaya; Elia qshisha w'ihidaya; Moshe qshisha w'ihidaya; Abdisho qshisha w'ihidaya; Shem'on qshisha; Yohannan mshamshana w'ihidaya",
-          "english_translation": "Bacchus, priest and monk; Elias, priest and monk; Moses, priest and monk; Ebedieshuʿ (Odishoʿ), priest and monk; Simeon, priest of Cabra; John, deacon and monk."
-        },
-        {
-          "line_number": 10,
-          "original_script": "ܐܗܪܘܢ ܂ ܦܛܪܘܣ ܂ ܐܝܘܒ ܂ ܠܘܩܐ ܂ ܡܬܝ ܂ ܝܘܚܢܢ ܂ ܝܫܘܥܐܡܗ ܂ ܝܘܚܢܢ ܂ ܣܒܪܝܫܘܥ ܂ ܝܫܘܥܕܕ ܂ ܠܘܩܐ ܂ ܩܘܢܣܛܢܛܝܢܘܣ ܂ ܢܘܚ",
-          "transliteration": "Aharon; Petros; Iyob; Luqa; Matai; Yohannan; Yeshu'ammeh; Yohannan; Sabrisho; Yeshu'dad; Luqa; Qonstantinos; Nuh",
-          "english_translation": "Aaron; Peter; Job; Luke; Matthew; John; Yeshuʿammeh; John; Sabarieshuʿ; Yeshuʿdad; Luke; Constantine; Noah."
-        },
-        {
-          "line_number": 11,
-          "original_script": "ܐܝܙܕܣܦܣ ܂ ܝܘܚܢܢ ܂ ܐܢܘܫ ܂ ܡܪܝ ܣܪܓܝܣ ܂ ܐܝܣܚܩ ܂ ܝܘܚܢܢ ܂ ܡܪܝ ܣܪܓܝܣ ܂ ܦܘܣܝ ܂ ܫܡܥܘܢ ܂ ܐܝܣܚܩ ܂ ܝܘܚܢܢ",
-          "transliteration": "Izdespas; Yohannan; Enosh; mar Sargis; Ishaq; Yohannan; mar Sargis; Pusi; Shem'on; Ishaq; Yohannan",
-          "english_translation": "Izdespas; John; Enosh; Mar Sergius; Isaac; John; Mar Sergius; Pusi; Simeon; Isaac; John."
-        },
-        {
-          "line_number": 12,
-          "original_script": "ܝܥܩܘܒ ܩܫܝܫܐ ܂ ܡܪܝ ܣܪܓܝܣ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ ܂ ܓܝܓܘܝ ܩܫܝܫܐ ܘܐܪܟܝܕܝܩܘܢ ܕܟܘܡܕܢ ܂ ܦܘܠܘܣ ܩܫܝܫܐ ܂ ܫܡܥܘܢ ܩܫܝܫܐ ܂ ܐܕܡ ܩܫܝܫܐ ܂ ܐܠܝܐ ܩܫܝܫܐ ܂ ܐܝܣܚܩ ܩܫܝܫܐ ܂ ܝܘܚܢܢ ܩܫܝܫܐ ܂ ܝܘܚܢܢ ܩܫܝܫܐ ܂ ܫܡܥܘܢ ܩܫܝܫܐ ܘܩܫܝܫܐ",
-          "transliteration": "Ya'qob qshisha; mar Sargis qshisha w'kurapisqupa; Gigoi qshisha w'arkidiqon d'Kumdan; Paulos qshisha; Shem'on qshisha; Adam qshisha; Elia qshisha; Ishaq qshisha; Yohannan qshisha; Yohannan qshisha; Shem'on qshisha w'qashisha",
-          "english_translation": "James, priest; Mar Sergius, priest and chorepiscopus; Gigoi, priest and archdeacon of Cumdan and Macrina; Paul, priest; Simeon, priest; Adam, priest; Elias, priest; Isaac, priest; John, priest; John, priest; Simeon, priest and elder."
-        },
-        {
-          "line_number": 13,
-          "original_script": "ܝܥܩܘܒ ܐܡܢܐ ܕܥܕܬܐ ܂ ܥܒܕܝܫܘܥ ܂ ܝܫܘܥܕܕ ܂ ܝܥܩܘܒ ܂ ܝܘܚܢܢ ܂ ܫܘܒܚܠܡܪܢ ܂ ܡܪܝ ܣܪܓܝܣ ܂ ܫܡܥܘܢ ܂ ܐܦܪܝܡ ܂ ܙܟܪܝܐ ܂ ܩܘܪܝܩܘܣ ܂ ܒܟܘܣ ܂ ܥܡܢܘܐܝܠ",
-          "transliteration": "Ya'qob amana d'edta; Abdisho; Yeshu'dad; Ya'qob; Yohannan; Shubhalmaran; mar Sargis; Shem'on; Ephraim; Zakarya; Quriaqos; Bakos; Emmanuel",
-          "english_translation": "James, church custodian; Ebedieshuʿ; Yeshuʿdad; James; John; Shubhalmaran (Praise-the-Lord); Mar Sergius; Simeon; Ephraim; Zacharias; Cyriacus; Bacchus; Immanuel."
-        },
-        {
-          "line_number": 14,
-          "original_script": "ܓܒܪܐܝܠ ܂ ܝܘܚܢܢ ܂ ܫܠܝܡܘܢ ܂ ܐܝܣܚܩ ܂ ܝܘܚܢܢ",
-          "transliteration": "Gabriel; Yohannan; Shleimon; Ishaq; Yohannan",
-          "english_translation": "Gabriel; John; Solomon; Isaac; John."
-        }
-      ]
+      {
+        "line_number": 1,
+        "original_script": "ܒܫܡ ܐܒܐ ܘܒܪܐ ܘܪܘܚܐ ܕܩܘܕܫܐ",
+        "transliteration": "b-šem ʾabā w-brā w-rūḥā d-qudšā",
+        "english_translation": "In the name of the Father and the Son and the Holy Spirit."
+      },
+      {
+        "line_number": 2,
+        "original_script": "ܒܫܢܬ ܐܠܦ ܘܬܫܥܝܢ ܘܬܪܬܝܢ ܕܝܘܢܝܐ ܡܪܝ ܝܙܕܒܘܙܝܕ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ ܕܟܘܡܕܢ ܡܕܝܢܬܐ ܡܠܟܝܬܐ",
+        "transliteration": "b-šnat ʾalp w-tešʿīn w-tartēn d-yawnāyē mār Yazdōbūzīd qaššīšā w-kūrāpīsqōpā d-Kūmdān mdīntā malkāytā",
+        "english_translation": "In the year of the Greeks 1092, Lord Yazdōbūzīd, priest and chorepiscopus of Kūmdān the royal city,"
+      },
+      {
+        "line_number": 3,
+        "original_script": "ܒܪ ܡܝܠܣ ܩܫܝܫܐ ܕܒܠܚ ܡܕܝܢܬܐ ܕܬܚܘܪܣܬܢ ܐܩܝܡ ܗܢܐ ܟܐܦܐ",
+        "transliteration": "bar Mīlas qaššīšā d-Balḥ mdīntā d-Taḥūristān ʾaqīm hānā kēpā",
+        "english_translation": "son of Mīlas, priest of Balkh, a city of Tohōristān, set up this stone,"
+      },
+      {
+        "line_number": 4,
+        "original_script": "ܐܕܡ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ ܘܦܐܦܫ ܕܨܝܢܝܣܬܐܢ",
+        "transliteration": "ʾĀdām qaššīšā w-kūrāpīsqōpā w-pāpš d-Ṣīnīstān",
+        "english_translation": "Adam, priest, chorepiscopus and pāpš of Ṣīnīstān."
+      },
+      {
+        "line_number": 5,
+        "original_script": "ܡܪܝ ܣܪܓܝܣ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ",
+        "transliteration": "mār Sargīs qaššīšā w-kūrāpīsqōpā",
+        "english_translation": "Mār Sargīs, priest and chorepiscopus."
+      },
+      {
+        "line_number": 6,
+        "original_script": "ܣܒܪܝܫܘܥ ܩܫܝܫܐ",
+        "transliteration": "Sabrīšōʿ qaššīšā",
+        "english_translation": "Sabrīšōʿ, priest."
+      },
+      {
+        "line_number": 7,
+        "original_script": "ܓܒܪܐܝܠ ܩܫܝܫܐ ܘܐܪܟܝܕܝܩܘܢ ܘܪܝܫܐ ܕܥܕܬܐ ܕܟܘܡܕܢ ܘܕܣܪܓ",
+        "transliteration": "Gabrāʾīl qaššīšā w-ʾarkīdīqōn w-rēšā d-ʿēdtā d-Kūmdān w-d-Sarg",
+        "english_translation": "Gabriel, priest, archdeacon and head of the church of Kūmdān and of Sarg."
+      },
+      {
+        "line_number": 8,
+        "original_script": "ܡܪܝ ܝܘܚܢܢ ܐܦܝܣܩܘܦܐ ܂ ܐܝܣܚܩ ܩܫܝܫܐ ܂ ܝܘܐܝܠ ܩܫܝܫܐ ܂ ܡܝܟܐܝܠ ܩܫܝܫܐ ܂ ܓܝܘܪܓܝܣ ܩܫܝܫܐ ܂ ܡܗܕܕ ܓܘܫܢܣܦ ܩܫܝܫܐ ܂ ܡܫܝܚܕܕ ܩܫܝܫܐ ܂ ܐܦܪܝܡ ܩܫܝܫܐ ܂ ܐܒܝ ܩܫܝܫܐ ܂ ܕܘܝܕ ܩܫܝܫܐ ܂ ܡܘܫܐ ܩܫܝܫܐ",
+        "transliteration": "mār Yōḥannān ʾepīsqōpā · ʾIsḥāq qaššīšā · Yōʾēl qaššīšā · Mīkāʾēl qaššīšā · Gīwargīs qaššīšā · Māhdād Gušnasp qaššīšā · Mšīḥādād qaššīšā · ʾEprēm qaššīšā · ʾAbī qaššīšā · Dawīd qaššīšā · Mōšē qaššīšā",
+        "english_translation": "Mār Yōḥannān, bishop; Isḥāq, priest; Yōʾēl, priest; Mīkāʾēl, priest; Gīwargīs, priest; Māhdād Gušnasp, priest; Mšīḥādād, priest; Eprēm, priest; ʾAbī, priest; Dawīd, priest; Mōšē, priest."
+      },
+      {
+        "line_number": 9,
+        "original_script": "ܒܟܘܣ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܐܠܝܐ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܡܘܫܐ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܥܒܕܝܫܘܥ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܫܡܥܘܢ ܩܫܝܫܐ ܂ ܝܘܚܢܢ ܡܫܡܫܢܐ ܘܝܚܝܕܝܐ",
+        "transliteration": "Bakōs qaššīšā w-īḥīdāyā · ʾElīyā qaššīšā w-īḥīdāyā · Mōšē qaššīšā w-īḥīdāyā · ʿAbdīšōʿ qaššīšā w-īḥīdāyā · Šemʿōn qaššīšā · Yōḥannān mšamšānā w-īḥīdāyā",
+        "english_translation": "Bakōs, priest and monk; Elīyā, priest and monk; Mōšē, priest and monk; ʿAbdīšōʿ, priest and monk; Šemʿōn, priest; Yōḥannān, deacon and monk."
+      },
+      {
+        "line_number": 10,
+        "original_script": "ܐܗܪܘܢ ܂ ܦܛܪܘܣ ܂ ܐܝܘܒ ܂ ܠܘܩܐ ܂ ܡܬܝ ܂ ܝܘܚܢܢ ܂ ܝܫܘܥܐܡܗ ܂ ܝܘܚܢܢ ܂ ܣܒܪܝܫܘܥ ܂ ܝܫܘܥܕܕ ܂ ܠܘܩܐ ܂ ܩܘܢܣܛܢܛܝܢܘܣ ܂ ܢܘܚ",
+        "transliteration": "ʾAhārōn · Peṭrōs · ʾIyōb · Lūqā · Mattay · Yōḥannān · Īšōʿammeh · Yōḥannān · Sabrīšōʿ · Īšōʿdād · Lūqā · Qōnstanṭīnōs · Nūḥ",
+        "english_translation": "Aharon; Peter; Job; Luke; Matthew; John; Īšōʿammeh; John; Sabrīšōʿ; Īšōʿdād; Luke; Constantine; Noah."
+      },
+      {
+        "line_number": 11,
+        "original_script": "ܐܝܙܕܣܦܣ ܂ ܝܘܚܢܢ ܂ ܐܢܘܫ ܂ ܡܪܝ ܣܪܓܝܣ ܂ ܐܝܣܚܩ ܂ ܝܘܚܢܢ ܂ ܡܪܝ ܣܪܓܝܣ ܂ ܦܘܣܝ ܂ ܫܡܥܘܢ ܂ ܐܝܣܚܩ ܂ ܝܘܚܢܢ",
+        "transliteration": "ʾIzdespas · Yōḥannān · ʾEnōš · mār Sargīs · ʾIsḥāq · Yōḥannān · mār Sargīs · Pūsī · Šemʿōn · ʾIsḥāq · Yōḥannān",
+        "english_translation": "Izdespas; John; Enosh; Mār Sargīs; Isḥāq; John; Mār Sargīs; Pūsī; Šemʿōn; Isḥāq; John."
+      },
+      {
+        "line_number": 12,
+        "original_script": "ܝܥܩܘܒ ܩܫܝܫܐ ܂ ܡܪܝ ܣܪܓܝܣ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ ܂ ܓܝܓܘܝ ܩܫܝܫܐ ܘܐܪܟܝܕܝܩܘܢ ܕܟܘܡܕܢ ܂ ܦܘܠܘܣ ܩܫܝܫܐ ܂ ܫܡܥܘܢ ܩܫܝܫܐ ܂ ܐܕܡ ܩܫܝܫܐ ܂ ܐܠܝܐ ܩܫܝܫܐ ܂ ܐܝܣܚܩ ܩܫܝܫܐ ܂ ܝܘܚܢܢ ܩܫܝܫܐ ܂ ܝܘܚܢܢ ܩܫܝܫܐ ܂ ܫܡܥܘܢ ܩܫܝܫܐ",
+        "transliteration": "Yaʿqōb qaššīšā · mār Sargīs qaššīšā w-kūrāpīsqōpā · Gīgōy qaššīšā w-ʾarkīdīqōn d-Kūmdān · Pawlōs qaššīšā · Šemʿōn qaššīšā · ʾĀdām qaššīšā · ʾElīyā qaššīšā · ʾIsḥāq qaššīšā · Yōḥannān qaššīšā · Yōḥannān qaššīšā · Šemʿōn qaššīšā",
+        "english_translation": "Yaʿqōb, priest; Mār Sargīs, priest and chorepiscopus; Gīgōy, priest and archdeacon of Kūmdān; Paul, priest; Šemʿōn, priest; Adam, priest; Elīyā, priest; Isḥāq, priest; Yōḥannān, priest; Yōḥannān, priest; Šemʿōn, priest."
+      },
+      {
+        "line_number": 13,
+        "original_script": "ܝܥܩܘܒ ܐܡܢܐ ܕܥܕܬܐ ܂ ܥܒܕܝܫܘܥ ܂ ܝܫܘܥܕܕ ܂ ܝܥܩܘܒ ܂ ܝܘܚܢܢ ܂ ܫܘܒܚܠܡܪܢ ܂ ܡܪܝ ܣܪܓܝܣ ܂ ܫܡܥܘܢ ܂ ܐܦܪܝܡ ܂ ܙܟܪܝܐ ܂ ܩܘܪܝܩܘܣ ܂ ܒܟܘܣ ܂ ܥܡܢܘܐܝܠ",
+        "transliteration": "Yaʿqōb ʾamnā d-ʿēdtā · ʿAbdīšōʿ · Īšōʿdād · Yaʿqōb · Yōḥannān · Šūbḥalmarān · mār Sargīs · Šemʿōn · ʾEprēm · Zakaryā · Qūryāqōs · Bakōs · ʿAmmānūʾēl",
+        "english_translation": "Yaʿqōb, church custodian; ʿAbdīšōʿ; Īšōʿdād; Yaʿqōb; Yōḥannān; Šūbḥalmarān; Mār Sargīs; Šemʿōn; Eprēm; Zakaryā; Qūryāqōs; Bakōs; Emmanuel."
+      },
+      {
+        "line_number": 14,
+        "original_script": "ܓܒܪܐܝܠ ܂ ܝܘܚܢܢ ܂ ܫܠܝܡܘܢ ܂ ܐܝܣܚܩ ܂ ܝܘܚܢܢ",
+        "transliteration": "Gabrāʾīl · Yōḥannān · Šlēmōn · ʾIsḥāq · Yōḥannān",
+        "english_translation": "Gabriel; Yōḥannān; Šlēmōn; Isḥāq; Yōḥannān."
+      }
+    ]
     },
     {
       "id": 718,
@@ -17092,6 +17355,7 @@
       "identifier": "AO 5009",
       "excavation_id": "tayma",
       "period": "5th century BC",
+      "material": "Sandstone",
       "location": "Tayma, Saudi Arabia",
       "country": "Saudi Arabia",
       "place": "Tayma",
@@ -17119,6 +17383,7 @@
       "title": "Anthropomorphic Stele (Pergamon Museum)",
       "location_id": "el-maakir-qaryat-al-kaafa",
       "period": "4th millennium BC",
+      "material": "Sandstone",
       "location": "El-Maakir-Qaryat al-Kaafa, Saudi Arabia",
       "country": "Saudi Arabia",
       "place": "El-Maakir-Qaryat al-Kaafa",
