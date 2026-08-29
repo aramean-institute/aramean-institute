@@ -161,6 +161,19 @@
       }
     },
     {
+      "id": "bahadirli",
+      "name": "Bahadirli",
+      "category": "site",
+      "classification": "Evidence findspot",
+      "site_type": "evidence-site",
+      "region": "Cilicia, southern Anatolia",
+      "modern_location": "Bahadirli, near Karatepe, Osmaniye Province, Turkey",
+      "country": "Turkey",
+      "period": "5th-4th century BC",
+      "associated_context": "Aramaic boundary inscription and the cult of Kubaba",
+      "description": "Bahadirli is the reported findspot of an eight-line Aramaic boundary inscription discovered about 6 km north of Karatepe in Cilicia. The stone is associated with the territorial boundary of KRBYL and KRŠY and invokes Kubaba of PWŠD/R, but the ancient place-name identifications remain interpretive."
+    },
+    {
       "id": "tell-afis",
       "name": "Tell Afis",
       "ancient_name_native": "𐤇𐤆𐤓𐤊",
@@ -458,6 +471,19 @@
         "historical_significance": "Tayma demonstrates the wide geographic use of Aramaic in the Achaemenid period. Its evidence belongs to an oasis and administrative context rather than to an Aramean kingdom.",
         "major_findings": "Investigated evidence includes settlement remains, inscriptions, architectural contexts, and material connected with the oasis’s political and commercial networks during the Persian period."
       }
+    },
+    {
+      "id": "el-maakir-qaryat-al-kaafa",
+      "name": "El-Maakir / Qaryat al-Kaafa",
+      "category": "site",
+      "classification": "Evidence provenance",
+      "site_type": "evidence-site",
+      "region": "Arabian Peninsula",
+      "modern_location": "Saudi Arabia",
+      "country": "Saudi Arabia",
+      "period": "4th millennium BC",
+      "associated_context": "Early Arabian anthropomorphic stone sculpture",
+      "description": "El-Maakir / Qaryat al-Kaafa is recorded here as the reported provenance of an early anthropomorphic sandstone stele displayed in the Roads of Arabia exhibition. The catalogue follows the provenance given by the Wikimedia image record and does not infer a more precise archaeological context."
     },
     {
       "id": "najran",
@@ -797,7 +823,8 @@
       "description": "The Tel Dan Stele is preserved in three fragments of an Aramaic royal monument discovered in a secondary architectural context at Tel Dan. Its text is commonly associated with an Aramean ruler, often identified as Hazael of Damascus, and refers to the kings of Israel and the House of David; those historical identifications remain matters of epigraphic interpretation.",
       "significance": "Earliest known reference to the House of David outside the Bible.",
       "polity": "Aram-Damascus",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Tel_dan_inscription.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/JRSLM_300116_Tel_Dan_Stele_01.jpg",
+      "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=JRSLM_300116_Tel_Dan_Stele_01.jpg&width=200",
       "origin": "aramean",
       "evidence_type": "inscription",
       "inscription": false
@@ -1083,6 +1110,8 @@
       "title": "Katumuwa Stele",
       "excavation_id": "zincirli",
       "period": "c. 735 BC",
+      "discovered_year": "2008",
+      "material": "Basalt",
       "location": "Zincirli, Turkey",
       "country": "Turkey",
       "place": "Zincirli",
@@ -1094,7 +1123,89 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gaziantep_Archaeology_museum_Kuttamuwa_stele_4270.jpg",
       "origin": "aramean",
       "evidence_type": "funerary",
-      "inscription": false
+      "inscription": true,
+      "inscription_note": "The inscription is Aramaic written in the Phoenician alphabet. The 13 line divisions below follow the line breaks reproduced in the Wikipedia article’s transcription of Pardee (2009). The English is a cautious line-by-line segmentation and paraphrase of the article’s continuous translation, not a new critical edition; uncertain divine names and readings are retained.",
+      "inscription_source_url": "https://en.wikipedia.org/wiki/Kuttamuwa_stele",
+      "inscription_lines": [
+        {
+          "line_number": 1,
+          "original_script": "𐤀𐤍𐤊 . 𐤊𐤕𐤌𐤅 . 𐤏𐤁𐤃 [.] 𐤐𐤍𐤌𐤅. [𐤆𐤉] . 𐤒𐤍𐤕 . 𐤋[𐤉] . 𐤍𐤑𐤁 . 𐤁",
+          "transliteration": "ʾnk . ktmw . ʿbd [.] pnmw . [zy] . qnt . l[y] . nṣb . b",
+          "english_translation": "I am KTMW (Kuttamuwa), servant of Panamuwa, who commissioned this stele for myself while I was still..."
+        },
+        {
+          "line_number": 2,
+          "original_script": "𐤇𐤉𐤉 . 𐤅𐤔𐤌𐤕 . 𐤅𐤕𐤄 . 𐤁𐤎𐤉𐤓\\𐤃 . 𐤏𐤋𐤌𐤉 . 𐤅𐤇𐤂𐤂𐤕 . 𐤎",
+          "transliteration": "ḥyy . wšmt . wth . bsyr/d . ʿlmy . wḥggt . s",
+          "english_translation": "...alive and placed it in an eternal chamber; I established a feast in that chamber:"
+        },
+        {
+          "line_number": 3,
+          "original_script": "𐤉𐤓\\𐤃 . 𐤆𐤍 . 𐤔𐤅𐤓 . 𐤋𐤄𐤃𐤃 . 𐤒𐤓\\𐤃𐤐𐤃\\𐤓𐤋 . 𐤅𐤉𐤁𐤋 . 𐤋𐤍𐤂",
+          "transliteration": "yr/d . zn . šwr . lhdd . qr/dpd/rl . wybl . lng",
+          "english_translation": "a bull for Hadad Qarpatalli, a ram for NGD/R ṢWD/RN, and a ram..."
+        },
+        {
+          "line_number": 4,
+          "original_script": "𐤃\\𐤓 . 𐤑𐤅𐤃\\𐤓𐤍 . 𐤅𐤉𐤁𐤋 . 𐤋𐤔𐤌𐤔 . 𐤅𐤉𐤁𐤋 . 𐤋𐤄𐤃𐤃 . 𐤊𐤓𐤌𐤍",
+          "transliteration": "d/r . ṣwd/rn . wybl . lšmš . wybl . lhdd . krmn",
+          "english_translation": "...for Šamš, a ram for Hadad of the Vineyards, and a ram..."
+        },
+        {
+          "line_number": 5,
+          "original_script": "𐤅𐤉𐤁𐤋 . 𐤋𐤊𐤁𐤁𐤅 . 𐤅𐤉𐤁𐤋 . 𐤋𐤍𐤁𐤔𐤉 . 𐤆𐤉 . 𐤁𐤍𐤑𐤁 . 𐤆𐤍 .",
+          "transliteration": "wybl . lkbbw . wybl . lnbšy . zy . bnṣb . zn .",
+          "english_translation": "...for Kubaba, and a ram for my soul (NBŠ), which will be in this stele."
+        },
+        {
+          "line_number": 6,
+          "original_script": "𐤅𐤏𐤕 . 𐤌𐤍 . 𐤌𐤍 . 𐤁𐤍𐤉 . 𐤀𐤅 .",
+          "transliteration": "wʿt . mn . mn . bny . ʾw .",
+          "english_translation": "From now on, whichever of my sons—or..."
+        },
+        {
+          "line_number": 7,
+          "original_script": "𐤌𐤍 𐤁𐤍𐤉 𐤀𐤔 . 𐤅𐤉𐤄𐤉 . 𐤋𐤄 .",
+          "transliteration": "mn bny ʾš . wyhy . lh .",
+          "english_translation": "...whichever son of another person—comes to possess this chamber, let him..."
+        },
+        {
+          "line_number": 8,
+          "original_script": "𐤍𐤎𐤉𐤓\\𐤃 . 𐤆𐤍𐤍 . 𐤅𐤋𐤅 𐤉𐤒𐤇 . 𐤌𐤍",
+          "transliteration": "nsyr/d . znn . wlw yqḥ . mn",
+          "english_translation": "...take for the offering from the best produce of this vineyard..."
+        },
+        {
+          "line_number": 9,
+          "original_script": "𐤇𐤉𐤋 . 𐤊𐤓𐤌 . 𐤆𐤍𐤍 . 𐤔𐤀 .",
+          "transliteration": "ḥyl . krm . znn . šʾ .",
+          "english_translation": "...as a presentation offering, year after year."
+        },
+        {
+          "line_number": 10,
+          "original_script": "𐤉𐤅𐤌𐤍 . 𐤋𐤉𐤅𐤌𐤍 . 𐤅𐤉𐤄",
+          "transliteration": "ywmn . lywmn . wyh",
+          "english_translation": "He must also carry out the slaughter described above..."
+        },
+        {
+          "line_number": 11,
+          "original_script": "𐤓𐤂 . 𐤁𐤍𐤁𐤔𐤉 .",
+          "transliteration": "rg . bnbšy .",
+          "english_translation": "...near my soul..."
+        },
+        {
+          "line_number": 12,
+          "original_script": "𐤅𐤉𐤔𐤅𐤉",
+          "transliteration": "wyšwy",
+          "english_translation": "...and apportion..."
+        },
+        {
+          "line_number": 13,
+          "original_script": "𐤋𐤉. 𐤔𐤒",
+          "transliteration": "ly . šq",
+          "english_translation": "...a leg-cut for me."
+        }
+      ]
     },
     {
       "id": 11,
@@ -1159,6 +1270,7 @@
       "significance": "Evidence of Aramean diplomatic or trade connections reaching the Aegean world.",
       "polity": "Aram-Damascus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hazael_horse_frontlet_in_the_Archaeological_Museum_of_Vathi_in_Samos.jpg",
+      "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Hazael_horse_frontlet_in_the_Archaeological_Museum_of_Vathi_in_Samos.jpg&width=200",
       "origin": "aramean",
       "evidence_type": "artifact",
       "inscription": true
@@ -1361,20 +1473,21 @@
     },
     {
       "id": 24,
-      "title": "Tayma Stone",
-      "identifier": "KAI 228",
+      "title": "Tayma Stele",
+      "identifier": "AO 1505; CIS II 113; KAI 228",
       "excavation_id": "tayma",
-      "period": "5th-4th century BC",
+      "period": "5th century BC",
       "location": "Tayma, Saudi Arabia",
       "country": "Saudi Arabia",
       "place": "Tayma",
       "location_id": "tayma",
       "museum": "Louvre Museum, Paris",
-      "description": "The Tayma Stone catalogued as KAI 228 is one of the separately numbered Aramaic stones from the Persian-period oasis of Tayma. The current image is representative of the Tayma inscription group.",
-      "significance": "Evidence of Aramaic use in the Arabian Peninsula during the Achaemenid period.",
+      "description": "The Tayma Stele is a sandstone, arched stele discovered at Teima/Tayma and now held by the Louvre as AO 1505. Its 23-line Imperial Aramaic inscription relates the introduction of the worship of Salm of HGM at Tayma, the appointment of Salmsezeb son of Petosiris as priest, and grants of date-palm land to the sanctuary and priest. The Louvre describes the object as incomplete and identifies the inscription as a donation text.",
+      "significance": "A major Persian-period Aramaic inscription from northwestern Arabia, documenting the religious institutions, personal names, land grants, and administrative language of Tayma without implying that the oasis was an Aramean kingdom.",
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tayma_stones_%28171%29.jpg",
-      "image_caption": "Representative photograph from the Tayma Stones group; object-specific photography is not yet recorded.",
+      "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Tayma_stones_%28171%29.jpg&width=330",
+      "image_caption": "Representative photograph from the Tayma Stones group; this image is not confirmed as a photograph of Louvre AO 1505.",
       "image_source": "Wikimedia Commons; User:Onceinawhile (CC BY-SA 4.0)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Tayma_stones_(171).jpg",
       "origin": "aramaic",
@@ -1685,6 +1798,7 @@
       "image_caption": "Aramaic inscription of Taxila (KAI 273), displayed at the Taxila Museum.",
       "image_source": "Wikimedia Commons; Onceinawhile (CC BY-SA 4.0)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Aramaic_inscription_at_Taxila_Museum.jpg",
+      "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Aramaic_inscription_at_Taxila_Museum.jpg&width=200",
       "origin": "aramaic",
       "evidence_type": "inscription",
       "inscription": true
@@ -1948,6 +2062,7 @@
       "id": 41,
       "title": "Bethsaida Cultic Stele",
       "excavation_id": "et-tell",
+      "location_id": "et-tell",
       "period": "9th-8th century BC",
       "location": "Bethsaida (et-Tell), Israel",
       "country": "Israel",
@@ -2045,6 +2160,7 @@
       "id": 46,
       "title": "Bethsaida City Gate",
       "excavation_id": "et-tell",
+      "location_id": "et-tell",
       "period": "10th-9th century BC",
       "location": "Bethsaida (et-Tell), Israel",
       "country": "Israel",
@@ -16732,9 +16848,98 @@
       "image_caption": "The Xi'an Stele (Jingjiao Stele) in the Beilin Museum, Xi'an, China.",
       "image_source": "Wikimedia Commons",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Nestorian_Stele_(front).JPG",
+      "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Nestorian_Stele_(front).JPG&width=200",
       "origin": "aramaic",
       "evidence_type": "inscription",
-      "inscription": false
+      "inscription": true,
+      "inscription_note": "The inscription is Aramaic in the East Syriac (Estrangela) script. Line 1 is the Trinitarian invocation heading the stele above the Chinese text. Line 4 (Adam/Jingjing) is a quoted Unicode reading. For lines 2–3 and 5–7 the Syriac columns give editorial reconstructions of the personal names and titles, spelled from well-attested Classical Syriac forms, because the checked public witnesses (Hall 1895; Havret facsimile) preserve the stone's Syriac only as printed or facsimile images and their OCR is unreliable; these reconstructed cells should be verified against the facsimile and are not a diplomatic transcription of the exact letter forms and word order on the stone. Lines 8–14 give the side-edge name lists grouped by Hall's seven columns (Classis I–VII); the English and transliterated names follow Hall 1895, while the Syriac spellings are editorial reconstructions of those names. Name readings vary across editions (for example Yazedbuzid/Iezdebuzid/Yesbuzid and Sabar Jesus/Sabranieshuʿ). Sources: Isaac H. Hall, \"The Syriac Text of the Chinese Nestorian Tablet,\" American Journal of Semitic Languages and Literatures 12 (1895), pp. 119–125; Henri Havret, La Stèle Chrétienne de Si-ngan-fou, facsimile edition.",
+      "inscription_source_url": "https://commons.wikimedia.org/wiki/File:Syriac_text_Nestorian_Stele_781AD.png",
+      "inscription_lines": [
+        {
+          "line_number": 1,
+          "original_script": "ܒܫܡ ܐܒܐ ܘܒܪܐ ܘܪܘܚܐ ܕܩܘܕܫܐ",
+          "transliteration": "b'shem aba w'bra w'ruha d'qudsha",
+          "english_translation": "In the name of the Father, and the Son, and the Holy Spirit."
+        },
+        {
+          "line_number": 2,
+          "original_script": "ܒܫܢܬ ܐܠܦ ܘܬܫܥܝܢ ܘܬܪܬܝܢ ܕܝܘܢܝܐ ܡܪܝ ܝܙܕܒܘܙܝܕ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ ܕܟܘܡܕܢ ܡܕܝܢܬܐ ܡܠܟܝܬܐ",
+          "transliteration": "b'shnat alp w'tish'in w'tarten d'yawnaye mar Yazedbuzid qshisha w'kurapisqupa d'Kumdan medinta malkayta",
+          "english_translation": "In the year of the Greeks 1092 (AD 781), Lord Yazedbuzid, priest and chorepiscopus of Cumdan (Chang'an), the royal city,"
+        },
+        {
+          "line_number": 3,
+          "original_script": "ܒܪ ܡܝܠܣ ܩܫܝܫܐ ܕܒܠܚ ܡܕܝܢܬܐ ܕܬܚܘܪܣܬܢ ܐܩܝܡ ܗܢܐ ܟܐܦܐ",
+          "transliteration": "bar Milas qshisha d'Balkh medinta d'Tehuristan aqim hana kepa",
+          "english_translation": "son of Milas, priest of Balkh, a city of Turkestan, set up this stone tablet, on which are written the dispensation of our Saviour and the preaching of our fathers to the king of the Chinese."
+        },
+        {
+          "line_number": 4,
+          "original_script": "ܐܕܡ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ ܘܦܐܦܫ ܕܨܝܢܝܣܬܐܢ",
+          "transliteration": "Adam qshisha w'kurapisqupa w'papash d'Sinistan",
+          "english_translation": "Adam, priest, chorepiscopus, and Fapshi of China; he is identified with the Chinese author Jingjing."
+        },
+        {
+          "line_number": 5,
+          "original_script": "ܡܪܝ ܣܪܓܝܣ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ",
+          "transliteration": "mar Sargis qshisha w'kurapisqupa",
+          "english_translation": "Mar Sergius, priest and chorepiscopus."
+        },
+        {
+          "line_number": 6,
+          "original_script": "ܣܒܪܝܫܘܥ ܩܫܝܫܐ",
+          "transliteration": "Sabrisho qshisha",
+          "english_translation": "Sabar Jesus (Sabranieshuʿ), priest."
+        },
+        {
+          "line_number": 7,
+          "original_script": "ܓܒܪܐܝܠ ܩܫܝܫܐ ܘܐܪܟܝܕܝܩܘܢ ܘܪܝܫܐ ܕܥܕܬܐ ܕܟܘܡܕܢ ܘܕܣܪܓ",
+          "transliteration": "Gabriel qshisha w'arkidiqon w'risha d'edta d'Kumdan w'd'Sarag",
+          "english_translation": "Gabriel, priest, archdeacon, and head of the church of Cumdan and Sarag."
+        },
+        {
+          "line_number": 8,
+          "original_script": "ܡܪܝ ܝܘܚܢܢ ܐܦܝܣܩܘܦܐ ܂ ܐܝܣܚܩ ܩܫܝܫܐ ܂ ܝܘܐܝܠ ܩܫܝܫܐ ܂ ܡܝܟܐܝܠ ܩܫܝܫܐ ܂ ܓܝܘܪܓܝܣ ܩܫܝܫܐ ܂ ܡܗܕܕ ܓܘܫܢܣܦ ܩܫܝܫܐ ܂ ܡܫܝܚܕܕ ܩܫܝܫܐ ܂ ܐܦܪܝܡ ܩܫܝܫܐ ܂ ܐܒܝ ܩܫܝܫܐ ܂ ܕܘܝܕ ܩܫܝܫܐ ܂ ܡܘܫܐ ܩܫܝܫܐ",
+          "transliteration": "mar Yohannan episqopa; Ishaq qshisha; Yoel qshisha; Michael qshisha; Giwargis qshisha; Mahadad Gushnasp qshisha; Meshihadad qshisha; Ephraim qshisha; Abi qshisha; Dawid qshisha; Moshe qshisha",
+          "english_translation": "Mar John, bishop; Isaac, priest; Joel, priest; Michael, priest; George, priest; Mahadad Gushnasp, priest; Meshihadad (Beloved of Messiah), priest; Ephraim, priest; Abi, priest; David, priest; Moses, priest."
+        },
+        {
+          "line_number": 9,
+          "original_script": "ܒܟܘܣ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܐܠܝܐ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܡܘܫܐ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܥܒܕܝܫܘܥ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܫܡܥܘܢ ܩܫܝܫܐ ܂ ܝܘܚܢܢ ܡܫܡܫܢܐ ܘܝܚܝܕܝܐ",
+          "transliteration": "Bakos qshisha w'ihidaya; Elia qshisha w'ihidaya; Moshe qshisha w'ihidaya; Abdisho qshisha w'ihidaya; Shem'on qshisha; Yohannan mshamshana w'ihidaya",
+          "english_translation": "Bacchus, priest and monk; Elias, priest and monk; Moses, priest and monk; Ebedieshuʿ (Odishoʿ), priest and monk; Simeon, priest of Cabra; John, deacon and monk."
+        },
+        {
+          "line_number": 10,
+          "original_script": "ܐܗܪܘܢ ܂ ܦܛܪܘܣ ܂ ܐܝܘܒ ܂ ܠܘܩܐ ܂ ܡܬܝ ܂ ܝܘܚܢܢ ܂ ܝܫܘܥܐܡܗ ܂ ܝܘܚܢܢ ܂ ܣܒܪܝܫܘܥ ܂ ܝܫܘܥܕܕ ܂ ܠܘܩܐ ܂ ܩܘܢܣܛܢܛܝܢܘܣ ܂ ܢܘܚ",
+          "transliteration": "Aharon; Petros; Iyob; Luqa; Matai; Yohannan; Yeshu'ammeh; Yohannan; Sabrisho; Yeshu'dad; Luqa; Qonstantinos; Nuh",
+          "english_translation": "Aaron; Peter; Job; Luke; Matthew; John; Yeshuʿammeh; John; Sabarieshuʿ; Yeshuʿdad; Luke; Constantine; Noah."
+        },
+        {
+          "line_number": 11,
+          "original_script": "ܐܝܙܕܣܦܣ ܂ ܝܘܚܢܢ ܂ ܐܢܘܫ ܂ ܡܪܝ ܣܪܓܝܣ ܂ ܐܝܣܚܩ ܂ ܝܘܚܢܢ ܂ ܡܪܝ ܣܪܓܝܣ ܂ ܦܘܣܝ ܂ ܫܡܥܘܢ ܂ ܐܝܣܚܩ ܂ ܝܘܚܢܢ",
+          "transliteration": "Izdespas; Yohannan; Enosh; mar Sargis; Ishaq; Yohannan; mar Sargis; Pusi; Shem'on; Ishaq; Yohannan",
+          "english_translation": "Izdespas; John; Enosh; Mar Sergius; Isaac; John; Mar Sergius; Pusi; Simeon; Isaac; John."
+        },
+        {
+          "line_number": 12,
+          "original_script": "ܝܥܩܘܒ ܩܫܝܫܐ ܂ ܡܪܝ ܣܪܓܝܣ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ ܂ ܓܝܓܘܝ ܩܫܝܫܐ ܘܐܪܟܝܕܝܩܘܢ ܕܟܘܡܕܢ ܂ ܦܘܠܘܣ ܩܫܝܫܐ ܂ ܫܡܥܘܢ ܩܫܝܫܐ ܂ ܐܕܡ ܩܫܝܫܐ ܂ ܐܠܝܐ ܩܫܝܫܐ ܂ ܐܝܣܚܩ ܩܫܝܫܐ ܂ ܝܘܚܢܢ ܩܫܝܫܐ ܂ ܝܘܚܢܢ ܩܫܝܫܐ ܂ ܫܡܥܘܢ ܩܫܝܫܐ ܘܩܫܝܫܐ",
+          "transliteration": "Ya'qob qshisha; mar Sargis qshisha w'kurapisqupa; Gigoi qshisha w'arkidiqon d'Kumdan; Paulos qshisha; Shem'on qshisha; Adam qshisha; Elia qshisha; Ishaq qshisha; Yohannan qshisha; Yohannan qshisha; Shem'on qshisha w'qashisha",
+          "english_translation": "James, priest; Mar Sergius, priest and chorepiscopus; Gigoi, priest and archdeacon of Cumdan and Macrina; Paul, priest; Simeon, priest; Adam, priest; Elias, priest; Isaac, priest; John, priest; John, priest; Simeon, priest and elder."
+        },
+        {
+          "line_number": 13,
+          "original_script": "ܝܥܩܘܒ ܐܡܢܐ ܕܥܕܬܐ ܂ ܥܒܕܝܫܘܥ ܂ ܝܫܘܥܕܕ ܂ ܝܥܩܘܒ ܂ ܝܘܚܢܢ ܂ ܫܘܒܚܠܡܪܢ ܂ ܡܪܝ ܣܪܓܝܣ ܂ ܫܡܥܘܢ ܂ ܐܦܪܝܡ ܂ ܙܟܪܝܐ ܂ ܩܘܪܝܩܘܣ ܂ ܒܟܘܣ ܂ ܥܡܢܘܐܝܠ",
+          "transliteration": "Ya'qob amana d'edta; Abdisho; Yeshu'dad; Ya'qob; Yohannan; Shubhalmaran; mar Sargis; Shem'on; Ephraim; Zakarya; Quriaqos; Bakos; Emmanuel",
+          "english_translation": "James, church custodian; Ebedieshuʿ; Yeshuʿdad; James; John; Shubhalmaran (Praise-the-Lord); Mar Sergius; Simeon; Ephraim; Zacharias; Cyriacus; Bacchus; Immanuel."
+        },
+        {
+          "line_number": 14,
+          "original_script": "ܓܒܪܐܝܠ ܂ ܝܘܚܢܢ ܂ ܫܠܝܡܘܢ ܂ ܐܝܣܚܩ ܂ ܝܘܚܢܢ",
+          "transliteration": "Gabriel; Yohannan; Shleimon; Ishaq; Yohannan",
+          "english_translation": "Gabriel; John; Solomon; Isaac; John."
+        }
+      ]
     },
     {
       "id": 718,
@@ -16803,10 +17008,134 @@
       "museum": "Vorderasiatisches Museum Berlin, S 06581",
       "description": "Bar Rakib VIII is an incomplete fragment preserving nine lines. The associated relief shows a bearded man holding a drinking vessel and a fan, with divine symbols above. The inscription expresses Bar Rakib's loyalty to Tiglath-Pileser, described as lord of the four quarters of the earth, and refers to the favor shown to him by the god Rakkab-El. The fragment was recorded in 1891; a verified line-by-line edition is not yet included.",
       "significance": "Combines royal inscriptional language and visual representation to document Bar Rakib's relationship with Assyria and Sam'al's religious-political world.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Relief_from_the_citadel_of_Sam%27al_%28Zincirli%29_in_Turkey%2C_ca._730_BCE%3B_Pergamon_Museum%2C_Berlin_%283%29_%2840208720312%29.jpg/3840px-Relief_from_the_citadel_of_Sam%27al_%28Zincirli%29_in_Turkey%2C_ca._730_BCE%3B_Pergamon_Museum%2C_Berlin_%283%29_%2840208720312%29.jpg",
+      "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Relief_from_the_citadel_of_Sam%27al_%28Zincirli%29_in_Turkey%2C_ca._730_BCE%3B_Pergamon_Museum%2C_Berlin_%283%29_%2840208720312%29.jpg&width=200",
       "polity": "Bit-Gabbar",
       "origin": "aramean",
       "evidence_type": "inscription",
       "inscription": false
+    },
+    {
+      "id": 722,
+      "title": "Salm Stele",
+      "identifier": "AO 5009",
+      "excavation_id": "tayma",
+      "period": "5th century BC",
+      "location": "Tayma, Saudi Arabia",
+      "country": "Saudi Arabia",
+      "place": "Tayma",
+      "location_id": "tayma",
+      "museum": "Louvre Museum, Paris",
+      "description": "The Salm Stele is a sandstone monument bearing a dedicatory Aramaic inscription to the god Salm. It was found at Teima/Tayma in northwestern Arabia and is catalogued by the Louvre as AO 5009. It is a separate object from the Tayma Stele (AO 1505; KAI 228).",
+      "significance": "Documents the cult of Salm and the use of Aramaic in the religious and institutional setting of Persian-period Tayma.",
+      "polity": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Stele_Salm_Louvre_AO5009.jpg",
+      "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Stele_Salm_Louvre_AO5009.jpg&width=330",
+      "image_caption": "Salm Stele with a dedicatory Aramaic inscription, sandstone, 5th century BC, found at Teima/Tayma.",
+      "image_source": "Wikimedia Commons; Marie-Lan Nguyen (User:Jastrow), public domain",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Stele_Salm_Louvre_AO5009.jpg",
+      "inscription_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Corpus_Inscriptionum_Semiticarum_CIS_II_115_%28from_Tayma%29_%28cropped%29.jpg",
+      "inscription_thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Corpus_Inscriptionum_Semiticarum_CIS_II_115_%28from_Tayma%29_%28cropped%29.jpg&width=330",
+      "inscription_image_caption": "Published scan of CIS II 115 from the Tayma corpus; an epigraphic publication image, not a modern photograph of the Salm Stele.",
+      "inscription_image_source": "Wikimedia Commons; scan of the public-domain Corpus Inscriptionum Semiticarum publication",
+      "inscription_image_source_url": "https://commons.wikimedia.org/wiki/File:Corpus_Inscriptionum_Semiticarum_CIS_II_115_(from_Tayma)_(cropped).jpg",
+      "origin": "aramaic",
+      "evidence_type": "inscription",
+      "inscription": false
+    },
+    {
+      "id": 723,
+      "title": "Anthropomorphic Stele (Pergamon Museum)",
+      "location_id": "el-maakir-qaryat-al-kaafa",
+      "period": "4th millennium BC",
+      "location": "El-Maakir-Qaryat al-Kaafa, Saudi Arabia",
+      "country": "Saudi Arabia",
+      "place": "El-Maakir-Qaryat al-Kaafa",
+      "museum": "National Museum, Riyadh; displayed at the Pergamon Museum, Berlin, in the Roads of Arabia exhibition",
+      "description": "This anthropomorphic sandstone stele has a human-like face and eye-like features. The Wikimedia exhibition record identifies it as a 4th-millennium-BC object from El-Maakir-Qaryat al-Kaafa. It is included as early Arabian sculpture, not as an Aramaic inscription or a Tayma stone; the available image record does not provide an object inventory number.",
+      "significance": "Provides evidence for early Arabian anthropomorphic stone sculpture and visual representation before the later Aramaic inscriptional corpus of Tayma.",
+      "polity": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pergamon-Museum_-_Anthropomorphe_Stele_1.jpg",
+      "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Pergamon-Museum_-_Anthropomorphe_Stele_1.jpg&width=330",
+      "image_caption": "Anthropomorphic sandstone stele from El-Maakir-Qaryat al-Kaafa, 4th millennium BC; photographed at the Pergamon Museum during the Roads of Arabia exhibition.",
+      "image_source": "Wikimedia Commons; Wolfgang Sauber (CC BY-SA 3.0)",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Pergamon-Museum_-_Anthropomorphe_Stele_1.jpg",
+      "origin": "arabian",
+      "evidence_type": "sculpture",
+      "inscription": false
+    },
+    {
+      "id": 724,
+      "title": "Bahadirli Boundary Inscription",
+      "identifier": "KAI 278",
+      "location_id": "bahadirli",
+      "period": "5th-4th century BC",
+      "location": "Bahadirli, near Karatepe, Turkey",
+      "country": "Turkey",
+      "place": "Bahadirli",
+      "museum": "Karatepe-Aslantaş Museum",
+      "description": "The Bahadirli Boundary Inscription is an eight-line Aramaic boundary text discovered in Bahadirli, about 6 km north of Karatepe in Cilicia. It marks a boundary associated with KRBYL and KRŠY and invokes Kubaba of PWŠD/R, who is associated in the text with Kastabala. The ancient place-name readings and identifications remain scholarly interpretations.",
+      "significance": "An important Aramaic inscription from Cilicia showing the use of written boundary language, local territorial organization, and the invocation of the goddess Kubaba in a regional religious and political context.",
+      "inscription_note": "The eight-line division follows the published transcription reproduced by Persée. The original-script column preserves the supplied Hebrew-character transcription; it should not be treated as a diplomatic Unicode rendering of the carved stone. The transliteration retains the uncertain slash in PWŠD/R and the supplied place-name readings.",
+      "inscription_lines": [
+        {
+          "line_number": 1,
+          "original_script": "זנה תחום כרביל",
+          "transliteration": "znh tḥwm krbyl",
+          "english_translation": "This is the boundary of KRBYL"
+        },
+        {
+          "line_number": 2,
+          "original_script": "וכרשי קריתא",
+          "transliteration": "wkršy qrytʾ",
+          "english_translation": "and of KRŠY, the city"
+        },
+        {
+          "line_number": 3,
+          "original_script": "זי מהחסן כבבה",
+          "transliteration": "zy mhhḥsn kbbh",
+          "english_translation": "that Kubaba possesses"
+        },
+        {
+          "line_number": 4,
+          "original_script": "זי פושד/ר זי בכשתבלי",
+          "transliteration": "zy pwšd/r zy bkštbly",
+          "english_translation": "of PWŠD/R, who is in Kastabala."
+        },
+        {
+          "line_number": 5,
+          "original_script": "ואיש זי יחגה",
+          "transliteration": "wʾyš zy yḥgh",
+          "english_translation": "And (every) man who goes around"
+        },
+        {
+          "line_number": 6,
+          "original_script": "לתחומא זנה קדם",
+          "transliteration": "ltḥwmʾ znh qdm",
+          "english_translation": "this boundary here in front of"
+        },
+        {
+          "line_number": 7,
+          "original_script": "כבבה זי פושד/ר",
+          "transliteration": "kbbh zy pwšd/r",
+          "english_translation": "Kubaba of PWŠD/R,"
+        },
+        {
+          "line_number": 8,
+          "original_script": "או איש אחרן",
+          "transliteration": "ʾw ʾyš ʾḥrn",
+          "english_translation": "or (any) other (?) man."
+        }
+      ],
+      "polity": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Karatepe_Museum_5214.jpg/960px-Karatepe_Museum_5214.jpg",
+      "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Karatepe_Museum_5214.jpg&width=330",
+      "image_caption": "Aramaic boundary inscription KAI 278, photographed at the Karatepe-Aslantaş Museum; the findspot is Bahadirli, north of Karatepe.",
+      "image_source": "Wikimedia Commons",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Karatepe_Museum_5214.jpg",
+      "origin": "aramaic",
+      "evidence_type": "inscription",
+      "inscription": true
     }
   ]
 }
