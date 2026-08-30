@@ -1,813 +1,4 @@
 {
-  "sections": [
-    {
-      "title": "Scope of Aramean Archaeology",
-      "text": "Aramean archaeology studies cities, settlements, buildings, objects, inscriptions, burials, and landscapes associated with Aramean polities and with later Aramaic-speaking communities. The evidence covers different regions and periods, so an ancient label, language, artifact, or site should not automatically be treated as proof of one continuous ethnic identity."
-    },
-    {
-      "title": "Locations",
-      "text": "Archaeological locations are organized as cities, settlements, and evidence findspots with their own location records. Each location page lists the evidence explicitly associated with that place; uncertain identifications and broad regional findspots are described cautiously."
-    },
-    {
-      "title": "Material and Written Evidence",
-      "text": "Inscriptions, sculptures, architectural remains, papyri, ceramics, mosaics, funerary monuments, and everyday objects provide different kinds of evidence. Each record must be interpreted in relation to its findspot, date, material context, language, and political setting."
-    },
-    {
-      "title": "Historical Change",
-      "text": "Archaeological contexts changed as local kingdoms interacted with Assyria, Babylonia, Persia, Hellenistic kingdoms, Rome, and later regional powers. The catalogue therefore records successive occupations and administrations instead of assigning every layer at a site to one polity."
-    },
-    {
-      "title": "Fieldwork and Interpretation",
-      "text": "Excavation, survey, stratigraphy, dating, conservation, and epigraphic study connect physical remains with historical questions. Archaeological conclusions remain strongest when material evidence, inscriptions, historical sources, and local context are considered together."
-    }
-  ],
-  "locations": [
-    {
-      "id": "damascus",
-      "name": "Damascus",
-      "ancient_name_native": "𐡃𐡌𐡔𐡒",
-      "category": "city",
-      "classification": "Urban center and capital",
-      "site_type": "urban-center",
-      "region": "Southern Levant",
-      "modern_location": "Damascus, Syria",
-      "country": "Syria",
-      "period": "Iron Age, with occupation continuing through later periods",
-      "associated_context": "Aram-Damascus",
-      "description": "Damascus was the political center of Aram-Damascus and one of the principal urban centers of the southern Levant. Much of the ancient city lies beneath the modern city, so the archaeological record is unevenly accessible. Its association with Aram-Damascus is supported by historical and epigraphic evidence; the material record should not be used to assume a single uniform population.",
-      "site": {
-        "period_studied": "Iron Age, with occupation continuing through later periods",
-        "research_focus": "Urban stratigraphy, fortifications, architecture, inscriptions, and changing city organization",
-        "excavation_history": "Archaeological work in Damascus has taken place through excavations, surveys, and architectural investigations in areas accessible around the modern city. The ancient settlement cannot be represented by one continuous excavation campaign because modern occupation limits access to many areas.",
-        "excavation_team": "The current catalogue does not yet provide a complete campaign and director list for Damascus; this fieldwork entry should be expanded when project-level sources are added.",
-        "description": "Damascus was the political center of Aram-Damascus and one of the principal urban centers of the southern Levant. Archaeological work is constrained because much of the ancient city lies beneath the modern city, making the surviving record unevenly accessible.",
-        "historical_significance": "Damascus is central to the history of Aram-Damascus, but its archaeological record reflects successive periods and populations. The city should not be treated as evidence for one uniform identity across its entire history.",
-        "major_findings": "Accessible investigations document urban architecture, fortifications, inscriptions, and material remains connected with the long history of the city. The evidence is spatially uneven and should be combined with historical and epigraphic sources."
-      }
-    },
-    {
-      "id": "hama",
-      "name": "Hama",
-      "ancient_name_native": "𐡇𐡌𐡕",
-      "category": "city",
-      "classification": "Urban center and capital",
-      "site_type": "urban-center",
-      "region": "Central Syria, Orontes valley",
-      "modern_location": "Hama, Syria",
-      "country": "Syria",
-      "period": "Iron Age, especially the 12th-8th centuries BC",
-      "associated_context": "Hamath",
-      "description": "Hama, ancient Hamath, was a long-lived urban center on the Orontes River. The kingdom of Hamath included Luwian and Aramaic cultural and linguistic elements, and its inscriptions reflect that complex history. It is more accurate to describe Hama as an urban center associated with Hamath than to assign the entire site to one uniform identity.",
-      "site": {
-        "period_studied": "Bronze Age through Iron Age and later occupation",
-        "research_focus": "Settlement sequence, urban development, inscriptions, and regional exchange",
-        "excavation_history": "The principal early excavation was the Danish Archaeological Expedition to Hama, conducted from 1931 to 1938. The work was directed by Harald Ingholt and produced a stratified record that remains important for the chronology of western Syria; later research has continued through the study of the expedition archives and finds.",
-        "excavation_team": "The main historical fieldwork was carried out by the Danish Archaeological Expedition under Harald Ingholt, supported by archaeologists, architects, surveyors, and specialists responsible for ceramics, inscriptions, and artefact analysis.",
-        "description": "The Hama mound preserves a long occupational sequence in the Orontes valley. Excavated levels document changing settlement forms, ceramics, architecture, administrative activity, and written evidence from the Bronze Age through the Iron Age and later periods. The site’s evidence reflects a region where Luwian, Aramaic, and other traditions interacted.",
-        "historical_significance": "Hama is valuable because it connects a long-lived urban mound with the political history of Hamath and the wider Orontes valley. Its evidence supports historical reconstruction, but the site cannot be reduced to one language, dynasty, or ethnic identity across all periods.",
-        "major_findings": "The excavations established a sequence from early settlement through the Bronze and Iron Ages and later occupation. They recovered urban architecture, ceramics, inscriptions, and cuneiform tablets, including evidence relevant to administration, religion, and regional exchange."
-      }
-    },
-    {
-      "id": "tell-halaf",
-      "name": "Tell Halaf",
-      "ancient_name_native": "𐤂𐤆𐤍",
-      "category": "city",
-      "classification": "Urban and palatial center",
-      "site_type": "urban-center",
-      "region": "Upper Mesopotamia, Khabur valley",
-      "modern_location": "Al-Hasakah Governorate, Syria",
-      "country": "Syria",
-      "period": "10th-9th centuries BC",
-      "associated_context": "Bit-Bahiani",
-      "description": "Guzana, identified with Tell Halaf, was the principal center of Bit-Bahiani. The site is known for its monumental palace, basalt sculptures, orthostats, and evidence of a complex urban tradition in the Khabur region. These remains document a political and artistic setting without making material culture a simple ethnic marker.",
-      "site": {
-        "period_studied": "10th-9th centuries BC and earlier occupation",
-        "research_focus": "Palace architecture, sculptures, orthostats, and urban organization",
-        "excavation_history": "Max von Oppenheim identified the site in 1899 and directed major German excavations in 1911-1913 and again in 1927-1929. The finds were later studied, reconstructed, and divided between museum collections; more recent scholarship has reassessed the architecture, sculptures, and earlier occupation in their archaeological contexts.",
-        "excavation_team": "The first major campaigns were led by Max von Oppenheim with a German archaeological team. The excavation, conservation, reconstruction, and later study involved specialists in architecture, sculpture, epigraphy, and ancient Near Eastern archaeology.",
-        "description": "The Tell Halaf mound preserves a long sequence of occupation, including the prehistoric tradition later called Halaf and the Iron Age center identified with Guzana. The Iron Age remains include monumental buildings, carved basalt sculpture, orthostats, and evidence for an organized urban and political center in the Khabur region.",
-        "historical_significance": "The remains show how a northern Mesopotamian center developed across different periods. The palace and sculpture are important evidence for political representation and regional interaction, but material style alone does not establish a single continuous ethnic identity.",
-        "major_findings": "The excavations documented an Iron Age palace complex, carved basalt orthostats and sculptures, urban buildings, and material connected with Guzana and Bit-Bahiani. They also established the importance of the site for the study of the prehistoric Halaf tradition, although the prehistoric and Iron Age phases must not be conflated."
-      }
-    },
-    {
-      "id": "zincirli",
-      "name": "Zincirli",
-      "ancient_name_native": "𐤎𐤌𐤏𐤋",
-      "category": "city",
-      "classification": "Fortified urban center and capital",
-      "site_type": "urban-center",
-      "region": "Northern Levant, Amanus region",
-      "modern_location": "Gaziantep Province, Turkey",
-      "country": "Turkey",
-      "period": "10th-8th centuries BC",
-      "associated_context": "Bit-Gabbar / Sam’al",
-      "description": "Sam’al, excavated at Zincirli, was a fortified urban center ruled by the Bit-Gabbar dynasty. Its citadel, gates, sculptures, and inscriptions provide rich evidence for local kingship, administration, language, and religious practice. The site also shows interaction among Aramean, Luwian, Phoenician, and Assyrian traditions.",
-      "site": {
-        "period_studied": "Iron Age occupation, with earlier Bronze Age settlement",
-        "research_focus": "Citadel, gates, palaces, sculptures, inscriptions, and city planning",
-        "excavation_history": "The first major campaigns took place between 1888 and 1902. A German expedition worked on behalf of the German Orient-Comité and the Berlin Museum; Carl Humann participated in the first campaign, followed by Felix von Luschan and Robert Koldewey. The Chicago-Tübingen Expedition later resumed fieldwork and continues to study the settlement and its regional setting.",
-        "excavation_team": "The historical excavations were conducted by German teams led successively by Carl Humann, Felix von Luschan, and Robert Koldewey. Modern research is associated with the Chicago-Tübingen Expedition, a collaborative archaeological and interdisciplinary project.",
-        "description": "Zincirli preserves a fortified settlement with a citadel, lower town, monumental gates, royal buildings, sculptures, and inscriptions. The site’s long sequence allows researchers to compare earlier settlement, Iron Age Sam’al, and the changing political conditions created by interaction with neighboring powers and later Assyrian administration.",
-        "historical_significance": "Sam’al is a major case study for the interaction of Aramean, Luwian, Phoenician, and Assyrian political and cultural traditions. The city’s material record should be read as a changing historical sequence rather than as evidence of one uniform population or cultural system.",
-        "major_findings": "Fieldwork exposed the double fortification system, gates, palatial and administrative buildings, sculptures, inscriptions, and the lower town. Modern excavations have also identified earlier Bronze Age settlement beneath parts of the Iron Age town and have recovered important evidence such as the Katumuwa funerary stele."
-      }
-    },
-    {
-      "id": "tell-ahmar",
-      "name": "Tell Ahmar",
-      "ancient_name_native": "",
-      "category": "city",
-      "classification": "Urban center and capital",
-      "site_type": "urban-center",
-      "region": "Euphrates valley",
-      "modern_location": "Aleppo Governorate, Syria",
-      "country": "Syria",
-      "period": "10th-8th centuries BC",
-      "associated_context": "Bit-Adini and later Assyrian administration",
-      "description": "Til Barsip, identified with Tell Ahmar, was the capital of Bit-Adini on the Euphrates. The settlement continued under Assyrian control, so its remains reflect changing political administrations rather than one period. Its urban and palatial evidence is important for studying interaction between Aramean and Assyrian institutions.",
-      "site": {
-        "period_studied": "Iron Age and Assyrian-period occupation, with earlier settlement",
-        "research_focus": "Palace architecture, wall paintings, inscriptions, and changing administration",
-        "excavation_history": "A French expedition excavated the site from 1929 to 1931 under François Thureau-Dangin. Rescue and renewed archaeological work has also been associated with Guy Bunnens and the University of Melbourne since the late twentieth century, while later scholarship continues to reassess the earlier excavation records and assemblages.",
-        "excavation_team": "The first major excavation was directed by François Thureau-Dangin with a French archaeological team. Later Australian-led work associated with Guy Bunnens expanded the study of the settlement, its stratigraphy, and its material culture.",
-        "description": "Tell Ahmar occupies a strategic position on the Euphrates and is associated with Til Barsip, also known in other periods by related names. Excavated remains include an Iron Age urban center, palatial architecture, wall paintings, inscriptions, administrative structures, and evidence for the transformation of local institutions under Assyrian rule.",
-        "historical_significance": "Til Barsip is especially useful for studying political change along the Euphrates, from local and regional rule to Assyrian provincial administration. The site’s names and political affiliations changed over time, so the archaeological record should not be treated as evidence for one unchanging polity.",
-        "major_findings": "The excavations documented the palace and urban center, painted wall decoration, inscriptions, fortifications, and later Assyrian administrative phases. Earlier occupation and funerary contexts show that the mound’s history began before the Iron Age and continued through successive political administrations."
-      }
-    },
-    {
-      "id": "tell-tayinat",
-      "name": "Tell Tayinat",
-      "ancient_name_native": "",
-      "category": "city",
-      "classification": "Urban center and capital",
-      "site_type": "urban-center",
-      "region": "Amuq plain",
-      "modern_location": "Hatay Province, Turkey",
-      "country": "Turkey",
-      "period": "11th-8th centuries BC",
-      "associated_context": "Pattin/Unqi",
-      "description": "Kunulua, identified with Tell Tayinat, was the capital of Pattin/Unqi in the Amuq plain. The site preserves evidence for a kingdom shaped by Neo-Hittite and Aramean traditions. It should be studied as a politically and culturally mixed urban center rather than assigned to one identity solely from its material remains.",
-      "site": {
-        "period_studied": "Iron Age occupation, with earlier and later settlement",
-        "research_focus": "Palace and temple architecture, administration, and Neo-Hittite-Aramean interaction",
-        "excavation_history": "Large-scale excavations were conducted in 1935-1938, and the Tayinat Archaeological Project resumed systematic fieldwork in 2004. The modern project has combined excavation with survey, conservation, epigraphy, archaeobotany, and other specialist studies.",
-        "excavation_team": "The modern Tayinat Archaeological Project has been directed for many years by Timothy Harrison of the University of Toronto, with assistant directors, field archaeologists, epigraphers, conservators, and environmental and artefact specialists. Earlier work was conducted by a University of Chicago/Oriental Institute expedition.",
-        "description": "Tell Tayinat is a major settlement in the Amuq plain, commonly associated with Kunulua, the center of the Iron Age kingdom of Patina/Unqi. Excavations have documented monumental architecture, administrative spaces, temples, inscriptions, and evidence for later Neo-Assyrian provincial control.",
-        "historical_significance": "The site is important for tracing interaction among local Iron Age kingdoms, Anatolian and Levantine traditions, and the Neo-Assyrian provincial system. The identification of Tell Tayinat with Kunulua is widely used but remains an archaeological and historical reconstruction based on the evidence.",
-        "major_findings": "Excavations have exposed a monumental citadel gate, palace and temple buildings, administrative contexts, inscriptions, and a Neo-Assyrian temple. The 2008-2009 seasons also recovered burned cultic objects and eleven cuneiform tablets or fragments from the temple’s inner sanctum."
-      }
-    },
-    {
-      "id": "bahadirli",
-      "name": "Bahadirli",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Cilicia, southern Anatolia",
-      "modern_location": "Bahadirli, near Karatepe, Osmaniye Province, Turkey",
-      "country": "Turkey",
-      "period": "5th-4th century BC",
-      "associated_context": "Aramaic boundary inscription and the cult of Kubaba",
-      "description": "Bahadirli is the reported findspot of an eight-line Aramaic boundary inscription discovered about 6 km north of Karatepe in Cilicia. The stone is associated with the territorial boundary of KRBYL and KRŠY and invokes Kubaba of PWŠD/R, but the ancient place-name identifications remain interpretive."
-    },
-    {
-      "id": "tell-afis",
-      "name": "Tell Afis",
-      "ancient_name_native": "𐤇𐤆𐤓𐤊",
-      "category": "city",
-      "classification": "Urban center and capital",
-      "site_type": "urban-center",
-      "region": "Northern Syria",
-      "modern_location": "Idlib Governorate, Syria",
-      "country": "Syria",
-      "period": "9th-8th centuries BC",
-      "associated_context": "Lu’ash and Hamath",
-      "description": "Hazrek, commonly associated with Tell Afis, was the center of Lu’ash and was later connected politically with Hamath under King Zakkur. The site and the Zakkur inscription are important for reconstructing political networks in northern Syria, although the relationship between a named polity and every archaeological layer must be assessed separately.",
-      "site": {
-        "period_studied": "Late Chalcolithic through Iron Age occupation",
-        "research_focus": "Urban settlement, regional political networks, and the Lu’ash context",
-        "excavation_history": "The site has been investigated through several campaigns and surveys, including a long-running Italian-led excavation project associated with Stefania Mazzoni. Later conservation, rescue, and museum work also involved University of Florence specialists, including Candida Felli, especially after the interruption and damage affecting archaeological work in Syria.",
-        "excavation_team": "The principal modern project has been directed by Stefania Mazzoni with Italian and Syrian collaboration. Field archaeologists, ceramic specialists, epigraphers, architects, and conservation teams have contributed to the excavation and study of the mound.",
-        "description": "Tell Afis is a large multi-period mound whose occupation extends from the fourth millennium into the first millennium BC. Its Iron Age remains include an acropolis, temples, fortifications, domestic and administrative areas, and artefacts that help reconstruct the political and economic networks of northern Syria.",
-        "historical_significance": "Tell Afis provides evidence for changing urban and political organization in northern Syria. Its association with named Iron Age places is reconstructed through the combined use of archaeology, inscriptions, and regional comparison, so individual identifications remain interpretive rather than automatic.",
-        "major_findings": "Work has revealed a long urban sequence, Iron Age temple and settlement remains, fortifications, and artefacts from the acropolis. The site is also studied in relation to Hazrek and Lu’ash and to the wider historical setting in which the Zakkur Stele was produced; the stele should not be presented as a find made by the modern excavation team at Tell Afis."
-      }
-    },
-    {
-      "id": "tell-rifaat",
-      "name": "Tell Rifaat",
-      "ancient_name_native": "𐡀𐡓𐡐𐡃",
-      "category": "city",
-      "classification": "Urban center and capital",
-      "site_type": "urban-center",
-      "region": "Northern Syria",
-      "modern_location": "Aleppo Governorate, Syria",
-      "country": "Syria",
-      "period": "10th-8th centuries BC",
-      "associated_context": "Bit-Agusi",
-      "description": "Arpad, commonly identified with Tell Rifaat, was the capital of Bit-Agusi. Its political importance is also reflected in the Sefire treaty stelae, which record diplomatic relations involving the kingdom. The identification of ancient political territory with the full extent of the archaeological settlement remains an interpretive reconstruction.",
-      "site": {
-        "period_studied": "10th-8th centuries BC",
-        "research_focus": "Urban settlement, fortifications, political organization, and regional networks",
-        "excavation_history": "Archaeological investigations and surveys at Tell Rifaat have examined the mound, its settlement sequence, and regional setting. A complete campaign chronology is not yet recorded in this catalogue and requires additional project-level source documentation.",
-        "excavation_team": "The current catalogue does not yet provide a complete list of excavation directors or institutions for Tell Rifaat; this information remains to be added from dedicated fieldwork sources.",
-        "description": "Arpad, commonly identified with Tell Rifaat, was the capital of Bit-Agusi. The identification connects the archaeological mound with a major Iron Age polity, but the extent of the ancient political territory remains a historical reconstruction.",
-        "historical_significance": "Arpad is important for reconstructing Iron Age political organization in northern Syria. The identification of Tell Rifaat with ancient Arpad is presented as an interpretation rather than as an automatic equivalence between every layer and the named kingdom.",
-        "major_findings": "The site preserves urban and defensive remains relevant to the study of northern Syrian settlement and the political networks associated with Bit-Agusi. The Sefire treaty stelae are related evidence for the polity but are not treated as finds from Tell Rifaat itself."
-      }
-    },
-    {
-      "id": "sanliurfa",
-      "name": "Şanlıurfa",
-      "ancient_name_native": "ܐܘܪܗܝ",
-      "category": "city",
-      "classification": "Urban center and capital",
-      "site_type": "urban-center",
-      "region": "Upper Mesopotamia",
-      "modern_location": "Şanlıurfa, Turkey",
-      "country": "Turkey",
-      "period": "1st century BC-3rd century AD, especially the Osroene period",
-      "associated_context": "Osroene / Bet-Urhay",
-      "description": "Urhay, known in Greek and Latin sources as Edessa, was the capital of Osroene and a major center of Aramaic and later Syriac cultural production. Its inscriptions, mosaics, and funerary remains document urban life in the Roman-period Near East. This later urban history should be distinguished from the Iron Age kingdoms in the catalogue.",
-      "site": {
-        "period_studied": "1st century BC-3rd century AD, especially the Osroene period",
-        "research_focus": "Urban archaeology, inscriptions, mosaics, tombs, and the development of Aramaic and Syriac communities",
-        "excavation_history": "Archaeological work at and around Şanlıurfa has documented urban, religious, and funerary contexts from the ancient city. Because the modern city overlies much of ancient Edessa, the record combines excavations, rescue work, architectural study, and material evidence from different contexts.",
-        "excavation_team": "The current catalogue does not yet provide a consolidated history of the excavation teams and urban archaeology projects at Edessa; project-specific documentation remains to be added.",
-        "description": "Urhay, known in Greek and Latin sources as Edessa, was the capital of Osroene and a major center of Aramaic and later Syriac cultural production. Its archaeological record is distributed across a modern urban environment and includes inscriptions, mosaics, and funerary remains.",
-        "historical_significance": "Urhay is important for the archaeology of later Aramaic-speaking urban communities and the development of Syriac culture. Its later history must be distinguished from the Iron Age kingdoms represented elsewhere in the catalogue.",
-        "major_findings": "Investigated contexts include inscriptions, mosaics, tombs, architectural remains, and evidence for later Christian and Syriac communities. These findings represent different periods and should not be collapsed into a single archaeological phase."
-      }
-    },
-    {
-      "id": "palmyra",
-      "name": "Palmyra",
-      "ancient_name_native": "𐡶𐡣𐡬𐡥𐡴",
-      "category": "city",
-      "classification": "Oasis city and caravan center",
-      "site_type": "urban-center",
-      "region": "Central Syria",
-      "modern_location": "Palmyra, Syria",
-      "country": "Syria",
-      "period": "1st century BC-3rd century AD",
-      "associated_context": "Palmyrene Aramaic and Roman-period civic culture",
-      "description": "Palmyra was a major oasis city whose inscriptions document Palmyrene Aramaic, civic institutions, trade, and religious life. Its archaeology reflects a multilingual and interconnected urban society; Palmyrene evidence should not be treated as identical to the Iron Age kingdoms of Aram.",
-      "site": {
-        "period_studied": "1st century BC-3rd century AD",
-        "research_focus": "Urban planning, temples, inscriptions, civic institutions, trade, and funerary architecture",
-        "excavation_history": "Excavations, surveys, and conservation projects at Palmyra have investigated the city, its temples, colonnaded streets, domestic areas, and funerary landscapes. The record includes work from different periods and institutions and should be organized through project-specific sources.",
-        "excavation_team": "The current catalogue does not yet provide a complete list of the Syrian and international excavation and conservation projects at Palmyra; that research history remains to be documented separately.",
-        "description": "Palmyra was a major oasis city whose inscriptions document Palmyrene Aramaic, civic institutions, trade, and religious life. Its archaeology reflects a multilingual and interconnected urban society rather than a single uniform cultural system.",
-        "historical_significance": "Palmyra is essential for studying later Aramaic language and culture in a cosmopolitan urban setting. Its evidence belongs to a later period than the Iron Age Aramean kingdoms and should be interpreted within its Palmyrene and Roman contexts.",
-        "major_findings": "Fieldwork has documented monumental temples, civic architecture, streets, houses, tombs, sculptures, and extensive Palmyrene Aramaic inscriptions. These remains provide evidence for civic, religious, commercial, and family life in the Roman-period city."
-      }
-    },
-    {
-      "id": "hatra",
-      "name": "Hatra",
-      "ancient_name_native": "𐣧𐣨𐣫𐣠",
-      "category": "city",
-      "classification": "Fortified urban and religious center",
-      "site_type": "urban-center",
-      "region": "Northern Mesopotamia",
-      "modern_location": "Nineveh Governorate, Iraq",
-      "country": "Iraq",
-      "period": "1st-3rd centuries AD",
-      "associated_context": "Hatran Aramaic and the Hatran kingdom",
-      "description": "Hatra was a fortified city and religious center whose inscriptions are written in Hatran Aramaic. Its monumental sanctuaries and civic buildings document a later Mesopotamian urban tradition and should be distinguished chronologically from the Iron Age Aramean polities.",
-      "site": {
-        "period_studied": "1st-3rd centuries AD",
-        "research_focus": "Fortifications, sanctuaries, civic buildings, sculpture, and Hatran Aramaic inscriptions",
-        "excavation_history": "Archaeological excavations and conservation work at Hatra have examined the fortified city, major sanctuaries, civic buildings, sculptures, and inscriptions. The catalogue requires additional project-level documentation before a complete campaign history can be stated.",
-        "excavation_team": "The current catalogue does not yet provide a complete institutional and director history for the Hatra excavations; this field should be expanded from dedicated archaeological sources.",
-        "description": "Hatra was a fortified city and religious center whose inscriptions are written in Hatran Aramaic. Its monumental sanctuaries and civic buildings document a later Mesopotamian urban tradition distinct from the Iron Age Aramean polities.",
-        "historical_significance": "Hatra is important for the study of a later Aramaic-speaking urban kingdom and for the relationship between local religious traditions and wider Mesopotamian political systems.",
-        "major_findings": "Investigated remains include the city walls, monumental sanctuaries, civic architecture, sculpture, and a large corpus of Hatran Aramaic inscriptions. The evidence documents urban and religious life in the Parthian-period northern Mesopotamian context."
-      }
-    },
-    {
-      "id": "dura-europos",
-      "name": "Dura-Europos",
-      "ancient_name_native": "",
-      "category": "city",
-      "classification": "Fortified frontier city",
-      "site_type": "urban-center",
-      "region": "Middle Euphrates",
-      "modern_location": "Deir ez-Zor Governorate, Syria",
-      "country": "Syria",
-      "period": "3rd century BC-3rd century AD",
-      "associated_context": "Multilingual Aramaic-speaking frontier context",
-      "description": "Dura-Europos was a fortified city on the Euphrates with Parthian and Roman phases. Its inscriptions, documents, religious buildings, and domestic remains show how Aramaic functioned within a multilingual frontier community.",
-      "site": {
-        "period_studied": "Hellenistic, Parthian, and Roman periods",
-        "research_focus": "Fortifications, temples, churches, houses, documents, and funerary contexts",
-        "excavation_history": "Franz Cumont conducted the first major excavations for the French Academy in 1922-1924 and 1926-1927. Yale University joined the project in 1928, and major Yale and French campaigns continued through 1937, with Michael Rostovtzeff playing a central role in the Yale expedition and its publications.",
-        "excavation_team": "The early work was led by Franz Cumont and a French team. The later large-scale campaigns were a collaboration between Yale University and the French Academy, involving Michael Rostovtzeff and specialists in architecture, inscriptions, art history, conservation, and ancient documents.",
-        "description": "Dura-Europos was a fortified city on the Euphrates whose excavated remains preserve civic, military, domestic, religious, and funerary contexts. The city’s inscriptions, documents, paintings, and architecture show how Greek, Roman, Iranian, and local Semitic traditions operated within a changing frontier settlement.",
-        "historical_significance": "Dura-Europos is a comparative site for studying religious plurality, administration, military life, and language use in a frontier city. Its evidence documents coexistence and interaction among communities, but it should not be used to imply that all inhabitants shared one identity or language.",
-        "major_findings": "Excavations uncovered city walls, houses, military buildings, temples, the Mithraeum, a synagogue with painted biblical scenes, and one of the earliest known Christian house churches. Written documents and graffiti in several languages provide unusually detailed evidence for the city’s institutions and communities."
-      }
-    },
-    {
-      "id": "et-tell",
-      "name": "et-Tell",
-      "ancient_name_native": "𐡁𐡉𐡕 𐡑𐡉𐡃𐡀",
-      "category": "settlement",
-      "classification": "Fortified settlement and regional center",
-      "site_type": "settlement",
-      "region": "Southern Levant, Sea of Galilee",
-      "modern_location": "Golan Heights region, Israel",
-      "country": "Israel",
-      "period": "Iron Age, especially the 10th-8th centuries BC",
-      "associated_context": "Geshur",
-      "description": "Bethsaida, identified by many researchers with et-Tell, was a fortified settlement and regional center associated with Geshur. Its gate complex and cultic remains are important for studying settlement organization in the southern Levant. The association is an interpretation, not proof that every population at the site shared one identity.",
-      "site": {
-        "period_studied": "Iron Age and later occupation",
-        "research_focus": "City gate, fortifications, cultic installations, and settlement organization",
-        "excavation_history": "The Bethsaida Excavations Project began work at et-Tell in the late 1980s and has continued through successive seasons. The project has been directed by Rami Arav, first in association with the University of Haifa and later with the University of Nebraska at Omaha, together with an international field team.",
-        "excavation_team": "The principal modern team is the Bethsaida Excavations Project led by Rami Arav. Archaeologists, surveyors, architects, ceramic specialists, and students have worked across the gate, fortification, public, cultic, and domestic areas.",
-        "description": "The et-Tell mound contains substantial Iron Age architecture and later occupation. Excavated areas include fortifications, a city gate complex, a large public or administrative building, cultic installations, domestic areas, and remains from the Roman-period settlement. The identification of et-Tell with Bethsaida is influential but remains part of an ongoing archaeological discussion.",
-        "historical_significance": "The site is important for examining settlement and kingship in the Golan and northern Jordan Valley. Because the identification with Bethsaida and the relationship to Geshur involve interpretation, the page distinguishes excavated remains from the historical labels applied to them.",
-        "major_findings": "Fieldwork has exposed Iron Age city walls, a monumental gate and associated bastions, a possible high-place or cultic area, public architecture, and later Roman-period remains. A cultic stele and other objects contribute to the study of local religious practice, but they do not by themselves prove a single ethnic or political identity."
-      }
-    },
-    {
-      "id": "tell-fekheriye",
-      "name": "Tell Fekheriye",
-      "ancient_name_native": "",
-      "category": "settlement",
-      "classification": "Settlement and administrative center",
-      "site_type": "administrative-center",
-      "region": "Upper Mesopotamia, Khabur valley",
-      "modern_location": "Al-Hasakah Governorate, Syria",
-      "country": "Syria",
-      "period": "9th century BC",
-      "associated_context": "Bit-Bahiani / Guzana",
-      "description": "Tell Fekheriye was a settlement and administrative center in the orbit of Guzana. The bilingual statue of Hadad-yis’i found there is important evidence for the use of Assyrian and Aramaic in the same political environment. The inscription identifies an official and a context; it does not define the ethnicity of the entire settlement.",
-      "site": {
-        "period_studied": "Mittani and Assyrian periods, with earlier and later occupation",
-        "research_focus": "Settlement sequence, administrative architecture, bilingual inscription, and cuneiform tablets",
-        "excavation_history": "Exploratory work and smaller campaigns took place in 1929, 1940, and 1955. The famous bilingual statue and inscription are reported as having been discovered at the site in 1979. A joint German-Syrian project conducted intensive excavation campaigns from 2005 to 2010, including work on administrative buildings and associated artefacts.",
-        "excavation_team": "The site has been investigated through several campaigns involving international and Syrian researchers. The 2005-2010 work is described as a joint German-Syrian project; the available record does not yet provide a complete list of directors or participating institutions.",
-        "description": "Tell Fekheriye is a mound in the Khabur basin with evidence for settlement and administrative activity across multiple periods. Its archaeological record is especially important for the bilingual Hadad-yis'i statue and inscription and for the study of the political environment associated with Guzana and Bit-Bahiani.",
-        "historical_significance": "Tell Fekheriye is important for reconstructing the relationship between Assyrian and Aramaic language use in the Khabur region and for studying the administrative setting associated with Guzana and Bit-Bahiani. The site evidence documents a political and linguistic environment without establishing a uniform identity for every period or population.",
-        "major_findings": "Excavations and earlier investigations documented settlement remains, administrative architecture, ancient artefacts, and the bilingual royal statue and inscription of Hadad-yis'i. The mound has been associated in different hypotheses with ancient names such as Sikkan or Washshukanni, but those identifications remain interpretive and are not treated here as certain."
-      }
-    },
-    {
-      "id": "al-nayrab",
-      "name": "Al-Nayrab",
-      "ancient_name_native": "𐤍𐤓𐤁",
-      "category": "settlement",
-      "classification": "Village or local settlement and funerary context",
-      "site_type": "funerary-site",
-      "region": "Northern Syria",
-      "modern_location": "Near Aleppo, Syria",
-      "country": "Syria",
-      "period": "7th century BC",
-      "associated_context": "Not securely assigned",
-      "description": "Neirab, near Aleppo, is known archaeologically through two funerary stelae with Aramaic inscriptions and representations of priests. The evidence is valuable for studying local religious and funerary practice, but it does not establish a separate kingdom or a single identity for the whole community.",
-      "site": {
-        "period_studied": "7th century BC",
-        "research_focus": "Funerary contexts, local religious practice, and Aramaic inscriptions",
-        "excavation_history": "Investigations at Neirab have focused on the funerary contexts and inscriptional evidence associated with the settlement. The current catalogue does not yet contain a complete campaign history or fieldwork bibliography.",
-        "excavation_team": "The excavation and recovery history of the Neirab funerary material requires additional source documentation before individual teams can be identified here.",
-        "description": "Neirab, near Aleppo, is known archaeologically through funerary stelae with Aramaic inscriptions and representations of priests. The site is included as a local settlement and funerary context, not as evidence for a separate kingdom.",
-        "historical_significance": "Neirab is valuable for studying Aramaic funerary language and religious practice in northern Syria. Its evidence should not be expanded into a claim for a separate Neirab kingdom or uniform community identity.",
-        "major_findings": "The principal archaeological evidence consists of funerary stelae, inscriptions, and representations connected with local religious practice. These remains illuminate a specific community and ritual context rather than a wider political territory."
-      }
-    },
-    {
-      "id": "ein-gev",
-      "name": "Ein Gev",
-      "ancient_name_native": "",
-      "category": "settlement",
-      "classification": "Lakeside settlement",
-      "site_type": "settlement",
-      "region": "Southern Levant, Sea of Galilee",
-      "modern_location": "Northern Israel",
-      "country": "Israel",
-      "period": "Iron Age, including the 9th century BC",
-      "associated_context": "Possible Aramean political presence; attribution remains cautious",
-      "description": "Ein Gev was a lakeside settlement on the eastern shore of the Sea of Galilee. An Aramaic inscription from the site has been used in discussions of Aramean administrative or political activity in the region. The inscription cannot by itself establish continuous Aramean control or a uniform population.",
-      "site": {
-        "period_studied": "Iron Age, including the 9th century BC",
-        "research_focus": "Settlement organization, regional political presence, and Aramaic inscriptional evidence",
-        "excavation_history": "Archaeological excavations and surveys at Ein Gev have investigated the settlement and its regional setting. The fieldwork record requires additional project-level sources for a complete campaign chronology and excavation history.",
-        "excavation_team": "The current catalogue does not yet provide a consolidated list of the Ein Gev excavation teams and institutions; those details remain to be added from dedicated fieldwork sources.",
-        "description": "Ein Gev was a lakeside settlement on the eastern shore of the Sea of Galilee. An Aramaic inscription from the site has been used in discussions of Aramean administrative or political activity, but it cannot by itself establish continuous control or a uniform population.",
-        "historical_significance": "Ein Gev helps place Aramaic political and administrative evidence within the wider regional history of the Galilee and Golan. Its attribution remains cautious because the evidence is limited and belongs to a changing political landscape.",
-        "major_findings": "Investigated contexts include settlement remains and inscriptional evidence relevant to the Iron Age eastern shore of the Sea of Galilee. The Aramaic inscription is treated as evidence for a historical discussion, not as proof of uninterrupted Aramean rule."
-      }
-    },
-    {
-      "id": "arslan-tash",
-      "name": "Arslan Tash",
-      "ancient_name_native": "",
-      "category": "settlement",
-      "classification": "Fortified settlement and provincial center",
-      "site_type": "administrative-center",
-      "region": "Northern Syria, Euphrates region",
-      "modern_location": "Aleppo Governorate, Syria",
-      "country": "Syria",
-      "period": "9th-7th centuries BC",
-      "associated_context": "Bit-Adini, followed by Assyrian administration",
-      "description": "Arslan Tash, ancient Hadatu, was an important settlement in the Euphrates region and became an Assyrian provincial center after the defeat of Bit-Adini. Ivories, inscriptions, and other finds preserve evidence of changing political and administrative systems.",
-      "site": {
-        "period_studied": "9th-7th centuries BC",
-        "research_focus": "Fortifications, palace architecture, ivories, inscriptions, and Assyrian provincial administration",
-        "excavation_history": "Archaeological excavations and surveys at Arslan Tash have investigated the settlement, monumental architecture, ivories, inscriptions, and later provincial contexts. A complete campaign chronology and project bibliography remain to be added to this catalogue.",
-        "excavation_team": "The current catalogue does not yet provide a consolidated record of the excavation directors and institutions at Arslan Tash; project-level source documentation is still required.",
-        "description": "Arslan Tash, ancient Hadatu, was an important settlement in the Euphrates region and became an Assyrian provincial center after the defeat of Bit-Adini. Its material record preserves evidence of changing political and administrative systems.",
-        "historical_significance": "Arslan Tash is important for studying political change along the Euphrates and the transformation of Aramean-associated centers under Assyrian rule. Its archaeological record should be read as a sequence of changing administrations.",
-        "major_findings": "The site is represented by settlement and administrative remains, palace-related material, ivories, inscriptions, and evidence for the transition from Bit-Adini-associated political networks to Assyrian provincial administration."
-      }
-    },
-    {
-      "id": "elephantine",
-      "name": "Elephantine",
-      "ancient_name_native": "",
-      "category": "settlement",
-      "classification": "Island settlement and military colony",
-      "site_type": "settlement",
-      "region": "Upper Egypt",
-      "modern_location": "Aswan, Egypt",
-      "country": "Egypt",
-      "period": "5th century BC",
-      "associated_context": "Aramaic-speaking community under Achaemenid administration",
-      "description": "Elephantine preserves papyri and settlement remains from a Persian-period community that used Aramaic for administration and daily affairs. It is included as an Aramaic archaeological context, not as an Aramean kingdom or a direct continuation of an Iron Age polity.",
-      "site": {
-        "period_studied": "5th century BC",
-        "research_focus": "Settlement archaeology, papyri, administration, religion, and Aramaic-speaking community life",
-        "excavation_history": "Archaeological excavations and study of the island settlement have documented domestic, religious, and administrative contexts alongside the papyri. The current catalogue requires a dedicated campaign history and source bibliography for the fieldwork record.",
-        "excavation_team": "The current catalogue does not yet provide a complete list of the archaeological teams and institutions responsible for the Elephantine excavations; those details remain pending source documentation.",
-        "description": "Elephantine preserves papyri and settlement remains from a Persian-period community that used Aramaic for administration and daily affairs. It is included as an Aramaic archaeological context, not as an Aramean kingdom or a direct continuation of an Iron Age polity.",
-        "historical_significance": "Elephantine is a key site for studying Imperial Aramaic and the daily life of an Aramaic-using community within the Persian Empire. It should not be presented as an Iron Age Aramean political center.",
-        "major_findings": "The archaeological record includes settlement remains, religious contexts, and a major corpus of Aramaic papyri concerning administration, law, religion, and daily life under Achaemenid rule."
-      }
-    },
-    {
-      "id": "tayma",
-      "name": "Tayma Oasis",
-      "ancient_name_native": "",
-      "category": "settlement",
-      "classification": "Oasis settlement and inscription locality",
-      "site_type": "settlement",
-      "region": "Northwestern Arabia",
-      "modern_location": "Tabuk Province, Saudi Arabia",
-      "country": "Saudi Arabia",
-      "period": "5th-4th centuries BC",
-      "associated_context": "Achaemenid-period Aramaic administrative context",
-      "description": "Tayma was an oasis settlement with evidence for long-distance political and commercial connections. Aramaic inscriptions from the Persian period document the language’s use in northwestern Arabia without establishing an Aramean political identity for the oasis.",
-      "site": {
-        "period_studied": "5th-4th centuries BC",
-        "research_focus": "Oasis settlement, inscriptions, long-distance exchange, and Achaemenid-period administration",
-        "excavation_history": "Archaeological excavations, surveys, and conservation work at Tayma have investigated the oasis settlement, its inscriptions, architecture, and long-distance connections. The catalogue does not yet contain a complete campaign history or project bibliography.",
-        "excavation_team": "The current catalogue does not yet provide a complete list of the archaeological teams and institutions working at Tayma; this information remains pending source documentation.",
-        "description": "Tayma was an oasis settlement with evidence for long-distance political and commercial connections. Aramaic inscriptions from the Persian period document the language’s use in northwestern Arabia without establishing an Aramean political identity for the oasis.",
-        "historical_significance": "Tayma demonstrates the wide geographic use of Aramaic in the Achaemenid period. Its evidence belongs to an oasis and administrative context rather than to an Aramean kingdom.",
-        "major_findings": "Investigated evidence includes settlement remains, inscriptions, architectural contexts, and material connected with the oasis’s political and commercial networks during the Persian period."
-      }
-    },
-    {
-      "id": "el-maakir-qaryat-al-kaafa",
-      "name": "El-Maakir / Qaryat al-Kaafa",
-      "category": "site",
-      "classification": "Evidence provenance",
-      "site_type": "evidence-site",
-      "region": "Arabian Peninsula",
-      "modern_location": "Saudi Arabia",
-      "country": "Saudi Arabia",
-      "period": "4th millennium BC",
-      "associated_context": "Early Arabian anthropomorphic stone sculpture",
-      "description": "El-Maakir / Qaryat al-Kaafa is recorded here as the reported provenance of an early anthropomorphic sandstone stele displayed in the Roads of Arabia exhibition. The catalogue follows the provenance given by the Wikimedia image record and does not infer a more precise archaeological context."
-    },
-    {
-      "id": "najran",
-      "name": "Najran",
-      "category": "city",
-      "classification": "Urban center and Christian community",
-      "site_type": "urban-center",
-      "region": "Southern Arabia",
-      "modern_location": "Najran, Saudi Arabia",
-      "country": "Saudi Arabia",
-      "period": "5th-6th centuries AD",
-      "associated_context": "Late antique Syriac Christian community in southern Arabia",
-      "description": "Najran was a major center of Syriac (Miaphysite) Christianity in southern Arabia during the 5th and 6th centuries AD. Its history should be reconstructed through late antique textual, ecclesiastical, and regional evidence; the location record does not by itself establish that every inhabitant shared one language or identity."
-    },
-    {
-      "id": "tel-dan",
-      "name": "Tel Dan",
-      "ancient_name_native": "",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Southern Levant",
-      "modern_location": "Tel Dan, Israel",
-      "country": "Israel",
-      "period": "9th century BC",
-      "associated_context": "Aramaic royal inscription",
-      "description": "Tel Dan is included as a location because the archaeology catalogue records the Tel Dan Stele there. The related evidence record provides the detailed inscription and historical context.",
-      "site": {
-        "period_studied": "Iron Age and later occupation",
-        "research_focus": "Gate complex, cultic area, settlement layers, and the Tel Dan Stele",
-        "excavation_history": "Systematic excavations began in 1966 under Avraham Biran of the Hebrew Union College/Nelson Glueck School of Biblical Archaeology and continued for decades. In 1993, Gila Cook, a member of Biran’s team, discovered the first fragment of the Tel Dan Stele; two additional fragments were found in 1994.",
-        "excavation_team": "The principal long-term project was directed by Avraham Biran and involved the Nelson Glueck School of Biblical Archaeology, field archaeologists, architects, epigraphers, and specialists in the site’s artefacts and environmental evidence. Gila Cook made the initial 1993 stele discovery during the excavation.",
-        "description": "Tel Dan preserves successive settlement layers, monumental gates, fortifications, a cultic area, and evidence for the city’s changing political connections. The site is also the findspot of the Tel Dan Stele, an Aramaic royal inscription recovered from a secondary architectural context.",
-        "historical_significance": "Tel Dan connects archaeology, Aramaic epigraphy, and the political history of the southern Levant. The inscription is important evidence, but its wording, historical referent, and relationship to biblical narratives require careful source criticism.",
-        "major_findings": "Excavations revealed the Iron Age gate complex, cultic installations, settlement layers, architectural remains, and the Tel Dan Stele. The stele is written in Aramaic and is significant for the history of Levantine kingdoms and the discussion of the phrase commonly read as ‘House of David’; its fragments were found reused in a later wall rather than in their original setting."
-      }
-    },
-    {
-      "id": "sefire",
-      "name": "Sefire",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Northern Syria",
-      "modern_location": "Sefire, Syria",
-      "country": "Syria",
-      "period": "c. 750 BC",
-      "associated_context": "Bit-Agusi treaty evidence",
-      "description": "Sefire is included as a location because the archaeology catalogue records treaty stelae from this findspot. The related evidence record provides the detailed textual and historical context."
-    },
-    {
-      "id": "samos",
-      "name": "Samos",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Aegean",
-      "modern_location": "Samos, Greece",
-      "country": "Greece",
-      "period": "c. 840 BC",
-      "associated_context": "Evidence recorded at Samos",
-      "description": "Samos is included as a location because the archaeology catalogue records evidence from this findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "near-aleppo",
-      "name": "Near Aleppo",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Northern Syria",
-      "modern_location": "Near Aleppo, Syria",
-      "country": "Syria",
-      "period": "c. 850 BC",
-      "associated_context": "Aramaic evidence with an imprecise findspot",
-      "description": "Near Aleppo is retained as a geographic findspot because the related evidence record does not identify a more precise archaeological location. The location should not be treated as a confirmed city identification."
-    },
-    {
-      "id": "bukan",
-      "name": "Bukan",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Western Iran",
-      "modern_location": "Bukan, Iran",
-      "country": "Iran",
-      "period": "Late 8th century BC",
-      "associated_context": "Evidence recorded at Bukan",
-      "description": "Bukan is included as a location because the archaeology catalogue records evidence from this findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "assur",
-      "name": "Assur",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Northern Mesopotamia",
-      "modern_location": "Assur, Iraq",
-      "country": "Iraq",
-      "period": "7th century BC",
-      "associated_context": "Evidence recorded at Assur",
-      "description": "Assur is included as a location because the archaeology catalogue records evidence from this ancient city. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "saqqara",
-      "name": "Saqqara",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Lower Egypt",
-      "modern_location": "Saqqara, Egypt",
-      "country": "Egypt",
-      "period": "482 BC",
-      "associated_context": "Aramaic evidence recorded at Saqqara",
-      "description": "Saqqara is included as a location because the archaeology catalogue records evidence from this findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "hermopolis",
-      "name": "Hermopolis",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Upper Egypt",
-      "modern_location": "Hermopolis, Egypt",
-      "country": "Egypt",
-      "period": "5th century BC",
-      "associated_context": "Aramaic evidence recorded at Hermopolis",
-      "description": "Hermopolis is included as a location because the archaeology catalogue records evidence from this findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "sariaydin",
-      "name": "Sarıaydın",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Anatolia",
-      "modern_location": "Sarıaydın, Turkey",
-      "country": "Turkey",
-      "period": "c. 400 BC",
-      "associated_context": "Evidence recorded at Sarıaydın",
-      "description": "Sarıaydın is included as a location because the archaeology catalogue records evidence from this findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "dascylium",
-      "name": "Dascylium",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Northwestern Anatolia",
-      "modern_location": "Dascylium, Turkey",
-      "country": "Turkey",
-      "period": "5th century BC",
-      "associated_context": "Evidence recorded at Dascylium",
-      "description": "Dascylium is included as a location because the archaeology catalogue records evidence from this findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "luristan",
-      "name": "Luristan",
-      "category": "site",
-      "classification": "Regional evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Western Iran",
-      "modern_location": "Luristan, Iran",
-      "country": "Iran",
-      "period": "Various",
-      "associated_context": "Regional Aramaic evidence",
-      "description": "Luristan is included as a regional evidence location because the archaeology catalogue records material from this area rather than a single securely identified site. The related evidence record provides the detailed context."
-    },
-    {
-      "id": "kandahar",
-      "name": "Kandahar",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Southern Afghanistan",
-      "modern_location": "Kandahar, Afghanistan",
-      "country": "Afghanistan",
-      "period": "c. 260 BC",
-      "associated_context": "Bilingual inscription evidence",
-      "description": "Kandahar is included as a location because the archaeology catalogue records a bilingual inscription from this findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "taxila",
-      "name": "Taxila",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Gandhara",
-      "modern_location": "Taxila, Pakistan",
-      "country": "Pakistan",
-      "period": "3rd century BC",
-      "associated_context": "Aramaic inscription evidence",
-      "description": "Taxila is included as a location because the archaeology catalogue records inscription evidence from this findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "pul-i-darunteh",
-      "name": "Pul-i-Darunteh",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Eastern Afghanistan",
-      "modern_location": "Afghanistan",
-      "country": "Afghanistan",
-      "period": "c. 260 BC",
-      "associated_context": "Aramaic inscription evidence",
-      "description": "Pul-i-Darunteh is included as a location because the archaeology catalogue records inscription evidence associated with this Afghan findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "bactria",
-      "name": "Bactria",
-      "category": "site",
-      "classification": "Regional evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Central Asia",
-      "modern_location": "Bactria, Afghanistan",
-      "country": "Afghanistan",
-      "period": "353-324 BC",
-      "associated_context": "Aramaic document evidence",
-      "description": "Bactria is included as a regional evidence location because the archaeology catalogue records documents from this wider historical region. The related evidence record provides the detailed context."
-    },
-    {
-      "id": "laghman",
-      "name": "Laghman",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Eastern Afghanistan",
-      "modern_location": "Laghman, Afghanistan",
-      "country": "Afghanistan",
-      "period": "c. 260 BC",
-      "associated_context": "Aramaic inscription evidence",
-      "description": "Laghman is included as a location because the archaeology catalogue records inscription evidence from this findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "nimrud",
-      "name": "Nimrud",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Northern Mesopotamia",
-      "modern_location": "Nimrud, Iraq",
-      "country": "Iraq",
-      "period": "c. 840 BC",
-      "associated_context": "Aramaic inscription evidence",
-      "description": "Nimrud is included as a location because the archaeology catalogue records evidence from this findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "behistun",
-      "name": "Behistun",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Western Iran",
-      "modern_location": "Behistun, Iran",
-      "country": "Iran",
-      "period": "c. 520 BC",
-      "associated_context": "Aramaic inscription evidence",
-      "description": "Behistun is included as a location because the archaeology catalogue records inscription evidence from this findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "wadi-daliyeh",
-      "name": "Wadi Daliyeh",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Southern Levant",
-      "modern_location": "Wadi Daliyeh, Israel",
-      "country": "Israel",
-      "period": "4th century BC",
-      "associated_context": "Aramaic papyrus evidence",
-      "description": "Wadi Daliyeh is included as a location because the archaeology catalogue records papyrus evidence from this findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "petra",
-      "name": "Petra",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Southern Levant and northern Arabia",
-      "modern_location": "Petra, Jordan / Sinai, Egypt",
-      "country": "Jordan",
-      "period": "2nd century BC - 4th century AD",
-      "associated_context": "Aramaic inscription evidence",
-      "description": "Petra is included as a location because the archaeology catalogue records inscription evidence associated with Petra and the wider Jordan-Sinai region. The related evidence record provides the detailed context."
-    },
-    {
-      "id": "qumran",
-      "name": "Qumran",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Southern Levant",
-      "modern_location": "Qumran, Israel",
-      "country": "Israel",
-      "period": "3rd century BC - 1st century AD",
-      "associated_context": "Aramaic manuscript evidence",
-      "description": "Qumran is included as a location because the archaeology catalogue records Aramaic manuscript evidence from this findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "samaria",
-      "name": "Samaria",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Southern Levant",
-      "modern_location": "Samaria, Israel",
-      "country": "Israel",
-      "period": "4th century BC",
-      "associated_context": "Aramaic papyrus evidence",
-      "description": "Samaria is included as a location because the archaeology catalogue records papyrus evidence from this findspot. The related evidence record provides the detailed historical context."
-    },
-    {
-      "id": "xian",
-      "name": "Xi'an",
-      "category": "site",
-      "classification": "Evidence findspot",
-      "site_type": "evidence-site",
-      "region": "Guanzhong Plain, central China",
-      "modern_location": "Xi'an, Shaanxi, China",
-      "country": "China",
-      "period": "781 AD",
-      "associated_context": "East Syriac Christian and Aramaic inscriptional evidence",
-      "description": "Xi'an is included as a location because the archaeology catalogue records the Xi'an Stele from this findspot. The related evidence record provides the historical and religious context of the Tang-dynasty inscription."
-    }
-  ],
   "evidence": [
     {
       "id": 1,
@@ -998,130 +189,7 @@
       "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=20131205_Istanbul_067.jpg&width=200",
       "origin": "aramean",
       "evidence_type": "inscription",
-      "inscription": true,
-      "inscription_note": "KAI 216 is reported as a twenty-line building inscription. The twenty line slots are preserved here, but the original script and transliteration still require verification against the primary edition. English translations are intentionally blank.",
-      "inscription_lines": [
-        {
-          "line_number": 1,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 2,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 3,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 4,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 5,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 6,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 7,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 8,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 9,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 10,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 11,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 12,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 13,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 14,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 15,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 16,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 17,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 18,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 19,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        },
-        {
-          "line_number": 20,
-          "original_script": "[transcription pending]",
-          "transliteration": "[transliteration pending]",
-          "english_translation": ""
-        }
-      ]
+      "inscription": true
     },
     {
       "id": 10,
@@ -1141,89 +209,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gaziantep_Archaeology_museum_Kuttamuwa_stele_4270.jpg",
       "origin": "aramean",
       "evidence_type": "funerary",
-      "inscription": true,
-      "inscription_note": "The inscription is Aramaic written in the Phoenician alphabet. The 13 line divisions below follow the line breaks reproduced in the Wikipedia article’s transcription of Pardee (2009). The English is a cautious line-by-line segmentation and paraphrase of the article’s continuous translation, not a new critical edition; uncertain divine names and readings are retained.",
-      "inscription_source_url": "https://en.wikipedia.org/wiki/Kuttamuwa_stele",
-      "inscription_lines": [
-        {
-          "line_number": 1,
-          "original_script": "𐤀𐤍𐤊 . 𐤊𐤕𐤌𐤅 . 𐤏𐤁𐤃 [.] 𐤐𐤍𐤌𐤅. [𐤆𐤉] . 𐤒𐤍𐤕 . 𐤋[𐤉] . 𐤍𐤑𐤁 . 𐤁",
-          "transliteration": "ʾnk . ktmw . ʿbd [.] pnmw . [zy] . qnt . l[y] . nṣb . b",
-          "english_translation": "I am KTMW (Kuttamuwa), servant of Panamuwa, who commissioned this stele for myself while I was still..."
-        },
-        {
-          "line_number": 2,
-          "original_script": "𐤇𐤉𐤉 . 𐤅𐤔𐤌𐤕 . 𐤅𐤕𐤄 . 𐤁𐤎𐤉𐤓\\𐤃 . 𐤏𐤋𐤌𐤉 . 𐤅𐤇𐤂𐤂𐤕 . 𐤎",
-          "transliteration": "ḥyy . wšmt . wth . bsyr/d . ʿlmy . wḥggt . s",
-          "english_translation": "...alive and placed it in an eternal chamber; I established a feast in that chamber:"
-        },
-        {
-          "line_number": 3,
-          "original_script": "𐤉𐤓\\𐤃 . 𐤆𐤍 . 𐤔𐤅𐤓 . 𐤋𐤄𐤃𐤃 . 𐤒𐤓\\𐤃𐤐𐤃\\𐤓𐤋 . 𐤅𐤉𐤁𐤋 . 𐤋𐤍𐤂",
-          "transliteration": "yr/d . zn . šwr . lhdd . qr/dpd/rl . wybl . lng",
-          "english_translation": "a bull for Hadad Qarpatalli, a ram for NGD/R ṢWD/RN, and a ram..."
-        },
-        {
-          "line_number": 4,
-          "original_script": "𐤃\\𐤓 . 𐤑𐤅𐤃\\𐤓𐤍 . 𐤅𐤉𐤁𐤋 . 𐤋𐤔𐤌𐤔 . 𐤅𐤉𐤁𐤋 . 𐤋𐤄𐤃𐤃 . 𐤊𐤓𐤌𐤍",
-          "transliteration": "d/r . ṣwd/rn . wybl . lšmš . wybl . lhdd . krmn",
-          "english_translation": "...for Šamš, a ram for Hadad of the Vineyards, and a ram..."
-        },
-        {
-          "line_number": 5,
-          "original_script": "𐤅𐤉𐤁𐤋 . 𐤋𐤊𐤁𐤁𐤅 . 𐤅𐤉𐤁𐤋 . 𐤋𐤍𐤁𐤔𐤉 . 𐤆𐤉 . 𐤁𐤍𐤑𐤁 . 𐤆𐤍 .",
-          "transliteration": "wybl . lkbbw . wybl . lnbšy . zy . bnṣb . zn .",
-          "english_translation": "...for Kubaba, and a ram for my soul (NBŠ), which will be in this stele."
-        },
-        {
-          "line_number": 6,
-          "original_script": "𐤅𐤏𐤕 . 𐤌𐤍 . 𐤌𐤍 . 𐤁𐤍𐤉 . 𐤀𐤅 .",
-          "transliteration": "wʿt . mn . mn . bny . ʾw .",
-          "english_translation": "From now on, whichever of my sons—or..."
-        },
-        {
-          "line_number": 7,
-          "original_script": "𐤌𐤍 𐤁𐤍𐤉 𐤀𐤔 . 𐤅𐤉𐤄𐤉 . 𐤋𐤄 .",
-          "transliteration": "mn bny ʾš . wyhy . lh .",
-          "english_translation": "...whichever son of another person—comes to possess this chamber, let him..."
-        },
-        {
-          "line_number": 8,
-          "original_script": "𐤍𐤎𐤉𐤓\\𐤃 . 𐤆𐤍𐤍 . 𐤅𐤋𐤅 𐤉𐤒𐤇 . 𐤌𐤍",
-          "transliteration": "nsyr/d . znn . wlw yqḥ . mn",
-          "english_translation": "...take for the offering from the best produce of this vineyard..."
-        },
-        {
-          "line_number": 9,
-          "original_script": "𐤇𐤉𐤋 . 𐤊𐤓𐤌 . 𐤆𐤍𐤍 . 𐤔𐤀 .",
-          "transliteration": "ḥyl . krm . znn . šʾ .",
-          "english_translation": "...as a presentation offering, year after year."
-        },
-        {
-          "line_number": 10,
-          "original_script": "𐤉𐤅𐤌𐤍 . 𐤋𐤉𐤅𐤌𐤍 . 𐤅𐤉𐤄",
-          "transliteration": "ywmn . lywmn . wyh",
-          "english_translation": "He must also carry out the slaughter described above..."
-        },
-        {
-          "line_number": 11,
-          "original_script": "𐤓𐤂 . 𐤁𐤍𐤁𐤔𐤉 .",
-          "transliteration": "rg . bnbšy .",
-          "english_translation": "...near my soul..."
-        },
-        {
-          "line_number": 12,
-          "original_script": "𐤅𐤉𐤔𐤅𐤉",
-          "transliteration": "wyšwy",
-          "english_translation": "...and apportion..."
-        },
-        {
-          "line_number": 13,
-          "original_script": "𐤋𐤉. 𐤔𐤒",
-          "transliteration": "ly . šq",
-          "english_translation": "...a leg-cut for me."
-        }
-      ]
+      "inscription": true
     },
     {
       "id": 11,
@@ -1282,15 +268,6 @@
       "location_id": "samos",
       "museum": "Archaeological Museum of Vathi, Samos",
       "description": "The Hazael Horse Frontlet is a bronze ceremonial fitting for a horse, inscribed with the name Hazael of Aram-Damascus. Its discovery at the Heraion on Samos records the presence of an object connected with a Levantine ruler in an Aegean sanctuary, but the inscription alone cannot determine whether the frontlet arrived through diplomacy, exchange, dedication, or later movement.",
-      "inscription_note": "The artifact carries one continuous Phoenician inscription of 36 characters, read from right to left after rotation. The relief divides it visually into sequences of 25 and 11 characters, but the inscription has no word separators; the script and transliteration below are a normalized reconstruction from the published reading and should be treated cautiously.",
-      "inscription_lines": [
-        {
-          "line_number": 1,
-          "original_script": "𐤆𐤍𐤄𐤍𐤕𐤍𐤇𐤃𐤃𐤌𐤍𐤏𐤍𐤒𐤋𐤌𐤓𐤀𐤍𐤇𐤆𐤋𐤁𐤔𐤍𐤕𐤏𐤁𐤓𐤌𐤓𐤀𐤍𐤍𐤄𐤓",
-          "transliteration": "znh ntn hdd mn ʿnq lmrʾn hzl bšnt ʿbr mrʾn nhr",
-          "english_translation": "[This is] what Hadad has given from Unqi to our lord Hazael in the year when our lord had crossed the river."
-        }
-      ],
       "significance": "Evidence of Aramean diplomatic or trade connections reaching the Aegean world.",
       "polity": "Aram-Damascus",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hazael_horse_frontlet_in_the_Archaeological_Museum_of_Vathi_in_Samos.jpg",
@@ -1485,89 +462,7 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Qalichi_glazed_brick.jpg",
       "origin": "aramaic",
       "evidence_type": "inscription",
-      "inscription": true,
-      "inscription_note": "The Qalaichi/Bukan find is reported as a unique 13-line Aramaic inscription. The accessible Qalaichi and Cambridge sources confirm the line count and context but do not publish a verifiable line-by-line original-script edition. The transcription, transliteration, and translation are therefore left pending against the primary publications and facsimile.",
-      "inscription_source_url": "https://doi.org/10.15184/S2978855200904384",
-      "inscription_lines": [
-      {
-        "line_number": 1,
-        "original_script": "זי יהנס אית נצב[א] זנה [מן אשרה]",
-        "transliteration": "zy yhns ʾyt nṣb[ʾ] znh [mn ʾšrh]",
-        "english_translation": "Whoever would drag away this stele [and withhold it]"
-      },
-      {
-        "line_number": 2,
-        "original_script": "בלחמה או בשלם [כ]ל מה מותנא [כ]",
-        "transliteration": "blḥmh ʾw bšlm [k]l mh mwtnʾ [k]",
-        "english_translation": "in war or in peace, any kind of pestilence, [as]"
-      },
-      {
-        "line_number": 3,
-        "original_script": "זי הוה בכל ארקא ישמוה אלהן ב[מ]",
-        "transliteration": "zy hwh bkl ʾrqʾ yšmwh ʾlhn b[m]",
-        "english_translation": "much as there is on the whole earth, may the gods impose on the [coun]try"
-      },
-      {
-        "line_number": 4,
-        "original_script": "ת מלכ[א] הוא ולץ הא לאלהן ולץ",
-        "transliteration": "t mlk[ʾ] hwʾ wlṣ hʾ lʾlhn wlṣ",
-        "english_translation": "of that king. And may he be accursed to the gods and may he be accursed"
-      },
-      {
-        "line_number": 5,
-        "original_script": "הא לחלדי זי בזעתר שבע שורה",
-        "transliteration": "hʾ lḥldy zy bzʿtr šbʿ šwrh",
-        "english_translation": "to Ḫaldi who is in Zaʿter. May seven cows"
-      },
-      {
-        "line_number": 6,
-        "original_script": "יהינען עגל חד ואל ישבע ושב",
-        "transliteration": "yhynqn ʿgl ḥd wʾl yšbʿ wšb",
-        "english_translation": "nurse one calf and may it not be satiated. And may seven"
-      },
-      {
-        "line_number": 7,
-        "original_script": "ע נשן יאפו בתנר חד[ ] ואל ימלא",
-        "transliteration": "ʿ nšn yʾpw btnr ḥd[ ] wʾl ymlʾ",
-        "english_translation": "women bake in one oven and may they not fill"
-      },
-      {
-        "line_number": 8,
-        "original_script": "והי ויאבד מן מתה תנן אשה וקל",
-        "transliteration": "why wyʾbd mn mth tnn ʾšh wql",
-        "english_translation": "it. And may vanish from his country the smoke of a furnace and the sound of"
-      },
-      {
-        "line_number": 9,
-        "original_script": "רחין וארקה תהוי ממלח[ה] ויתמד",
-        "transliteration": "rḥyn wʾrqh thwy mmlḥ[h] wytmd",
-        "english_translation": "a mill. And may his land be salted and may sway back and forth"
-      },
-      {
-        "line_number": 10,
-        "original_script": "דה פרע ראש ומלכא הא זי [יכת]ב",
-        "transliteration": "dh prʿ rʾš wmlkʾ hʾ zy [ykt]b",
-        "english_translation": "in it the crack of an earthquake. And that king who would [write]"
-      },
-      {
-        "line_number": 11,
-        "original_script": "על נצבא זנ[ה] כרסאה יהפכה הד[ד]",
-        "transliteration": "ʿl nṣbʾ zn[h] krsʾh yhpkh hd[d]",
-        "english_translation": "on this stele, may Hadad overturn his throne,"
-      },
-      {
-        "line_number": 12,
-        "original_script": "וחלדי ושבע שנין אל יתן הדד ק[לה]",
-        "transliteration": "wḥldy wšbʿ šnn ʾl ytn hdd q[lh]",
-        "english_translation": "as well as Ḫaldi. And during seven years may Hadad not send thunder"
-      },
-      {
-        "line_number": 13,
-        "original_script": "במתה וימחאהי כל לוץ נצ[בא] זנה",
-        "transliteration": "bmth wymḥʾhy kl lwṣ nṣ[bʾ] znh",
-        "english_translation": "in his country and may the entire curse of this stele smite him."
-      }
-      ]
+      "inscription": true
     },
     {
       "id": 23,
@@ -1697,69 +592,6 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription_note": "The 15 pending line slots follow the published recto/verso line count for TAD A2.4 (10 recto and 5 verso). Original script, transliteration, and English translation are intentionally left blank pending verification against the primary edition.",
-      "inscription_lines": [
-        {
-          "line_number": 1,
-          "original_script": "𐡔𐡋𐡌 𐡁𐡉𐡕 𐡍𐡁𐡅 𐡀𐡋 𐡀𐡇𐡉 𐡐𐡎𐡌𐡉 𐡁𐡓 𐡍𐡁𐡅𐡍𐡕𐡍 𐡌𐡍 𐡀𐡇𐡅𐡊 𐡌𐡊𐡉𐡁𐡍𐡉𐡕",
-          "transliteration": "šlm byt nbw ʾl ʾḥy psmy br nbwntn mn ʾḥwk mkbnyt",
-          "english_translation": "The peace of the temple of Nabu be upon my brother Psami, son of Nabunathan, from your brother Makkibanit."
-        },
-        {
-          "line_number": 2,
-          "original_script": "𐡁𐡓𐡊𐡕𐡊 𐡋𐡐𐡕𐡇 𐡃𐡉 𐡉𐡇𐡆𐡍𐡉 𐡀𐡐𐡉𐡊 𐡁𐡔𐡋𐡌",
-          "transliteration": "brktk lptḥ dy yḥzny ʾpyk bšlm",
-          "english_translation": "I bless you by Ptah, that he may allow me to see your face in peace."
-        },
-        {
-          "line_number": 3,
-          "original_script": "𐡅𐡊𐡏𐡍 𐡇𐡓𐡅𐡆 𐡔𐡋𐡌 𐡄𐡅 𐡕𐡍𐡄 𐡀𐡋 𐡕𐡃𐡇𐡋 𐡋𐡄",
-          "transliteration": "wkʿn ḥrwz šlm hw tnh ʾl tdḥl lh",
-          "english_translation": "And now: Haruz is doing well here; do not worry about him."
-        },
-        {
-          "line_number": 4,
-          "original_script": "𐡊𐡋 𐡌𐡄 𐡃𐡉 𐡕𐡅𐡊𐡋𐡅𐡍 𐡋𐡏𐡁𐡃 𐡋𐡄 𐡀𐡍𐡄 𐡏𐡁𐡃",
-          "transliteration": "kl mh dy twklwn lʿbd lh ʾnh ʿbd",
-          "english_translation": "Whatever you are able to do for him, I am doing."
-        },
-        {
-          "line_number": 5,
-          "original_script": "𐡅𐡊𐡏𐡍 𐡄𐡁𐡅 𐡋𐡉 𐡆𐡉𐡕𐡀 𐡅𐡌𐡔𐡇𐡀 𐡃𐡉 𐡔𐡋𐡇𐡕𐡅𐡍 𐡋𐡉",
-          "transliteration": "wkʿn hbw ly zytʾ wmšḥʾ dy šlḥtwn ly",
-          "english_translation": "And now: give me the olive oil and the oil that you sent for me."
-        },
-        {
-          "line_number": 6,
-          "original_script": "𐡔𐡋𐡌 𐡌𐡌𐡄 𐡀𐡌𐡉 𐡅𐡔𐡋𐡌 𐡊𐡋 𐡁𐡉𐡕𐡀",
-          "transliteration": "šlm mmh ʾmy wšlm kl bytʾ",
-          "english_translation": "Greetings to Mama, my mother, and greetings to the whole household."
-        },
-        {
-          "line_number": 7,
-          "original_script": "𐡔𐡋𐡌 𐡀𐡇𐡉 𐡅𐡁𐡍𐡉 𐡅𐡔𐡋𐡌 𐡊𐡋 𐡔𐡊𐡍𐡉𐡀",
-          "transliteration": "šlm ʾḥy wbny wšlm kl šknyʾ",
-          "english_translation": "Greetings to my brothers and my children, and greetings to all the neighbors."
-        },
-        {
-          "line_number": 8,
-          "original_script": "𐡔𐡋𐡇𐡕 𐡎𐡐𐡓𐡀 𐡆𐡍𐡄 𐡋𐡔𐡋𐡌𐡊𐡅𐡍",
-          "transliteration": "šlḥt sprʾ znh lšlmkwn",
-          "english_translation": "I have sent this letter to inquire of your welfare."
-        },
-        {
-          "line_number": 9,
-          "original_script": "𐡀𐡋 𐡀𐡁𐡉 𐡐𐡎𐡌𐡉 𐡁𐡓 𐡍𐡁𐡅𐡍𐡕𐡍 𐡌𐡍 𐡌𐡊𐡉𐡁𐡍𐡉𐡕",
-          "transliteration": "ʾl ʾby psmy br nbwntn mn mkbnyt",
-          "english_translation": "To my father Psami, son of Nabunathan, from Makkibanit."
-        },
-        {
-          "line_number": 10,
-          "original_script": "𐡉𐡅𐡁𐡋 𐡋𐡎𐡅𐡍",
-          "transliteration": "ywbl lswṇ",
-          "english_translation": "To be delivered to Syene."
-        }
-      ],
       "inscription": true
     },
     {
@@ -1815,20 +647,6 @@
       "discovered_year": 1964,
       "description": "The Luristan Aramaic Inscriptions represent a group of texts reported from the highlands of western Iran and spanning more than one context or date. Their distribution is relevant to the history of Imperial and post-Imperial Aramaic writing, but the broad regional label and varied provenance require the individual inscriptions to be assessed separately.",
       "significance": "Evidence of Aramaic penetration into the Iranian highlands.",
-      "inscription_lines": [
-        {
-          "line_number": 1,
-          "original_script": "זי עבדה פיף־יתני בת אלסטר",
-          "transliteration": "zy ʿbdh pyf-ytny bt ʾlsṭr",
-          "english_translation": "The vessel which Pīf-ittanni daughter of ʾElsatar made"
-        },
-        {
-          "line_number": 2,
-          "original_script": "לעתרמשרנו בר נגש",
-          "transliteration": "l-ʿtrmšrnw br ngš",
-          "english_translation": "for ʿAtarmasornu son of NGŠ."
-        }
-      ],
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/A_spike-butted_axe_from_Luristan%2C_Museum_of_Archaeology_and_Anthropology%2C_Cambridge.jpg",
       "image_caption": "Luristan bronze axe shown as regional context; it is not one of the Aramaic inscriptions in this corpus.",
@@ -1852,57 +670,6 @@
       "museum": "National Museum of Afghanistan",
       "description": "The Kandahar Bilingual Rock Inscription combines Greek and Aramaic in an edict of the Mauryan emperor Ashoka, dated to approximately 260 BC. It adapts imperial ethical and administrative communication for a region at the intersection of South Asian, Iranian, and Hellenistic worlds; it is therefore evidence for multilingual governance rather than an Aramean political monument.",
       "significance": "Demonstrates Aramaic as a language of international communication reaching Central Asia.",
-      "inscription_note": "Aramaic script, transliteration, and English translation supplied for the inscription. Line divisions follow the sense of the supplied text and may differ from the original publication.",
-      "inscription_lines": [
-        {
-          "line_number": 1,
-          "original_script": "𐡔𐡍𐡍 𐡉 𐡐𐡕𐡉𐡕𐡅 𐡏𐡁𐡉𐡃 𐡆𐡉 𐡌𐡓𐡀𐡍 𐡐𐡓𐡉𐡃𐡀𐡓𐡔 𐡌𐡋𐡊𐡀 𐡒𐡔𐡉𐡈𐡀",
-          "transliteration": "šnn y ptytw ‘byd zy mr’n pryd’rš mlk’ qšyṭ’",
-          "english_translation": "Ten years having passed (?). It so happened (?) that our lord, King Priyadarśin, became the institutor of Truth."
-        },
-        {
-          "line_number": 2,
-          "original_script": "𐡌𐡄𐡒𐡔𐡈𐡌𐡍 𐡀𐡃𐡉𐡍 𐡆𐡏𐡉𐡓 𐡌𐡓𐡏𐡀 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡅𐡊𐡋𐡄𐡌 𐡀𐡃𐡅𐡔𐡉𐡀 𐡄𐡅𐡁𐡃𐡅𐡁𐡊𐡋 𐡀𐡓𐡒𐡀 𐡓𐡀𐡌 𐡔𐡕𐡉",
-          "transliteration": "mhqšṭmn ’dyn z‘yr mr‘’ lklhm ’nšn wklhm ’dwšy’ hwbdwbkl ’rq’ r’m šty",
-          "english_translation": "Since then, evil diminished among all men and all misfortunes were caused to disappear; and there was peace as well as joy throughout the whole earth."
-        },
-        {
-          "line_number": 3,
-          "original_script": "𐡅𐡀𐡐 𐡆𐡉 𐡆𐡍𐡄 𐡊𐡌𐡀𐡊𐡋𐡀 𐡋𐡌𐡓𐡀𐡍 𐡌𐡋𐡊𐡀 𐡆𐡏𐡉𐡓𐡒𐡈𐡋𐡍",
-          "transliteration": "w’p zy znh km’kl’ lmr’n mlk’ z‘yrqṭln",
-          "english_translation": "Moreover, there was this concerning food: for our lord the king, only a few animals were killed."
-        },
-        {
-          "line_number": 4,
-          "original_script": "𐡆𐡍𐡄 𐡋𐡌𐡇𐡆𐡄 𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡀𐡕𐡄𐡇𐡎𐡉𐡍𐡍 𐡀𐡆𐡉 𐡍𐡅𐡍𐡉𐡀 𐡀𐡇𐡃𐡍𐡀𐡋𐡊",
-          "transliteration": "znh lmḥzh klhm ’nšn ’thḥsynn ’zy nwny’ ’ḥdn’lk",
-          "english_translation": "Having seen this, all men gave up the slaughter of animals; even those men who catch fish—the fishermen—were subject to prohibition."
-        },
-        {
-          "line_number": 5,
-          "original_script": "𐡀𐡍𐡔𐡍 𐡐𐡕𐡉𐡆𐡁𐡕 𐡊𐡍𐡌 𐡆𐡉 𐡐𐡓𐡁𐡎𐡕 𐡄𐡅𐡉𐡍 𐡀𐡋𐡊",
-          "transliteration": "’nšn ptyzbt knm zy prbst hwyn ’lk",
-          "english_translation": "Similarly, those who were without restraint ceased to be without restraint."
-        },
-        {
-          "line_number": 6,
-          "original_script": "𐡀𐡕𐡄𐡇𐡎𐡉𐡍𐡍 𐡌𐡍𐡐𐡓𐡁𐡎𐡕𐡉 𐡅𐡄𐡅𐡐𐡕𐡉𐡎𐡕𐡉 𐡋𐡀𐡌𐡅𐡄𐡉 𐡅𐡋𐡀𐡁𐡅𐡄𐡉 𐡅𐡋𐡌𐡆𐡉𐡔𐡕𐡉𐡀",
-          "transliteration": "’thḥsynn mnprbsty whwptysty l’mwhy wl’bwhy wlmzyšty’",
-          "english_translation": "And obedience to mother, father, and old men reigned in conformity with the obligations imposed by fate on each person."
-        },
-        {
-          "line_number": 7,
-          "original_script": "𐡀𐡍𐡎𐡍𐡀𐡉𐡊 𐡀𐡎𐡓𐡄𐡉 𐡇𐡋𐡒𐡅𐡕𐡀 𐡅𐡋𐡀 𐡀𐡉𐡕𐡉 𐡃𐡉𐡍𐡀 𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡉𐡀 𐡇𐡎𐡉𐡍𐡆𐡍𐡄 𐡄𐡅𐡕𐡉𐡓",
-          "transliteration": "’nsn’yk ’srhy ḥlqwt’ wl’ ’yty dyn’ lklhm ’nšy’ ḥsynznh hwtyr",
-          "english_translation": "And there was no Judgment for all the pious men."
-        },
-        {
-          "line_number": 8,
-          "original_script": "𐡋𐡊𐡋𐡄𐡌 𐡀𐡍𐡔𐡍 𐡅𐡀𐡅𐡎𐡐 𐡉𐡄𐡅𐡕𐡓",
-          "transliteration": "lklhm ’nšn w’wsp yhwtr",
-          "english_translation": "This, the practice of Law, has been profitable to all men and will be more profitable in future."
-        }
-      ],
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kandahar_Sophytes_Inscription.jpg/1280px-Kandahar_Sophytes_Inscription.jpg",
       "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Kandahar_Sophytes_Inscription.jpg&width=200",
@@ -1927,81 +694,6 @@
       "museum": "Taxila Museum",
       "description": "The Aramaic Inscription of Taxila is a text from the ancient city of Taxila in the northwestern Indian subcontinent, dated here to the third century BC. Its eastern location records the continued use of Aramaic beyond the former Achaemenid heartlands, while its wording and function must be interpreted from the surviving inscription and archaeological context rather than from geographic reach alone.",
       "significance": "Easternmost known Aramaic inscription, showing the language's reach to the Indian subcontinent.",
-      "inscription_note": "The inscription is highly fragmentary. The 12 line divisions below follow the published table; translations are possible interpretations, and ellipses mark missing or uncertain text.",
-      "inscription_lines": [
-        {
-          "line_number": 1,
-          "original_script": "𐡆𐡊𐡓𐡅𐡕𐡀",
-          "transliteration": "zkrwtʾ",
-          "english_translation": "… memorial … (?)"
-        },
-        {
-          "line_number": 2,
-          "original_script": "𐡋 𐡃𐡌𐡉𐡃𐡕𐡉 𐡏𐡋",
-          "transliteration": "l dmydty ʿl",
-          "english_translation": "… for creation(s) upon …; possibly a personal name related to Devadatta."
-        },
-        {
-          "line_number": 3,
-          "original_script": "𐡍𐡂𐡓𐡅𐡕𐡀 𐡏𐡋",
-          "transliteration": "ngrwtʾ ʿl",
-          "english_translation": "… the non-injury upon …"
-        },
-        {
-          "line_number": 4,
-          "original_script": "𐡀𐡓𐡆𐡅𐡔 𐡍𐡂𐡓𐡅𐡕𐡀",
-          "transliteration": "ʾrzwš ngrwtʾ",
-          "english_translation": "Possibly ‘true’ or ‘right’ … the non-injury …"
-        },
-        {
-          "line_number": 5,
-          "original_script": "𐡅 𐡋𐡀𐡁𐡅𐡄𐡉 𐡄𐡅𐡅",
-          "transliteration": "w lʾbwhy hww",
-          "english_translation": "… and to his father …"
-        },
-        {
-          "line_number": 6,
-          "original_script": "𐡄𐡅𐡐𐡕𐡉𐡎𐡕𐡉 𐡆𐡍𐡄",
-          "transliteration": "hwptysty znh",
-          "english_translation": "… good obedience; this …"
-        },
-        {
-          "line_number": 7,
-          "original_script": "𐡆𐡊 𐡁𐡄𐡅𐡅𐡓𐡃𐡄",
-          "transliteration": "zk bhwwrdh",
-          "english_translation": "… that …; possibly ‘good increase’."
-        },
-        {
-          "line_number": 8,
-          "original_script": "𐡄𐡅𐡍𐡔𐡕𐡅𐡍 𐡆𐡉 𐡄𐡅𐡕",
-          "transliteration": "hw nštwn zy hwt",
-          "english_translation": "Possibly ‘this’ or ‘good’ … ‘document’ … which is …"
-        },
-        {
-          "line_number": 9,
-          "original_script": "𐡌𐡓𐡀𐡍 𐡐𐡓𐡉𐡃𐡓",
-          "transliteration": "mrʾn Prydr",
-          "english_translation": "… our lord Priyadasi …"
-        },
-        {
-          "line_number": 10,
-          "original_script": "𐡄𐡋𐡊𐡅𐡕𐡓",
-          "transliteration": "hlkwtr or hlkwtd",
-          "english_translation": "… going …"
-        },
-        {
-          "line_number": 11,
-          "original_script": "𐡅𐡀𐡐 𐡁𐡍𐡅𐡄𐡉",
-          "transliteration": "wʾp bnwhy",
-          "english_translation": "… and also his son(s) …"
-        },
-        {
-          "line_number": 12,
-          "original_script": "𐡋𐡌𐡓𐡀𐡍 𐡐𐡓𐡉𐡃𐡓",
-          "transliteration": "lmrʾn Prydr",
-          "english_translation": "… of our lord Priyadasi …"
-        }
-      ],
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Aramaic_inscription_at_Taxila_Museum.jpg",
       "image_caption": "Aramaic inscription of Taxila (KAI 273), displayed at the Taxila Museum.",
@@ -2024,56 +716,6 @@
       "museum": "In situ",
       "description": "The Pul-i-Darunteh Inscription is an Aramaic rock text from the Jalalabad region, associated with the Mauryan emperor Ashoka and dated here to approximately 260 BC. The surviving reconstruction is presented as an eight-line sequence with original-script and transliteration fields; because the text is fragmentary and the English translations remain unfilled, its wording should not be treated as a complete translation or a secure statement of local identity.",
       "significance": "Further evidence of Aramaic use in the Mauryan Empire's western provinces.",
-      "inscription_lines": [
-        {
-          "line_number": 1,
-          "original_script": "...𐡕𐡀 𐡐𐡈...",
-          "transliteration": "...tʾ pṭ...",
-          "english_translation": "[No?] living [being] is to be fattened [with other living beings?] …"
-        },
-        {
-          "line_number": 2,
-          "original_script": "...𐡅𐡄 𐡋𐡀𐡍𐡔...",
-          "transliteration": "...wh lʾnš...",
-          "english_translation": "… to be for people (that is, existing people) …"
-        },
-        {
-          "line_number": 3,
-          "original_script": "...𐡅𐡉 𐡎𐡄𐡉𐡕𐡉 𐡋𐡀 𐡈...",
-          "transliteration": "...wy shyty lʾ ṭ...",
-          "english_translation": "… to be seen—it is said—not [good] …"
-        },
-        {
-          "line_number": 4,
-          "original_script": "...𐡌𐡎𐡀𐡓𐡕𐡄𐡎 𐡎𐡄𐡉𐡕𐡉 𐡄𐡅...",
-          "transliteration": "...msʾrths shyty hw...",
-          "english_translation": "[… increase] of this object (that is, the practice of Dharma)—it is said—[caused] to increase …"
-        },
-        {
-          "line_number": 5,
-          "original_script": "...𐡇𐡆𐡄 𐡃𐡉𐡇𐡄𐡉𐡕𐡅𐡉 𐡎𐡄𐡉𐡕𐡉...",
-          "transliteration": "...ḥzh dḥhytwy shyty...",
-          "english_translation": "… to see, to be seen—it is said …"
-        },
-        {
-          "line_number": 6,
-          "original_script": "...𐡍𐡐𐡓𐡉𐡎 𐡀𐡁𐡄𐡉𐡎𐡉𐡕𐡎 𐡎𐡄𐡉𐡕𐡉...",
-          "transliteration": "...nprys ʾbhysyts shyty...",
-          "english_translation": "… of the Beloved of the Gods [when] consecrated [for eight years]—it is said …"
-        },
-        {
-          "line_number": 7,
-          "original_script": "...𐡓𐡉𐡔𐡅 𐡎𐡄𐡉𐡕𐡉 𐡔𐡉𐡌𐡅 𐡋𐡌𐡊𐡕𐡁 𐡁𐡏𐡌...",
-          "transliteration": "...ryšw shyty šymw lmktb bʿm...",
-          "english_translation": "… in [outlying] towns—it is said … [all these instructions] were set (or put) to writing on pillars …"
-        },
-        {
-          "line_number": 8,
-          "original_script": "...𐡀𐡇𐡓𐡉𐡍 𐡄𐡅𐡃𐡏𐡍...",
-          "transliteration": "...ʾḥryn hwdʿn...",
-          "english_translation": "… [so that] they would be made known [to] whoever were (or would be) descendants …"
-        }
-      ],
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lampaka_inscription.jpg",
       "image_caption": "Transcription of the Lampaka (Pul-i-Darunteh) Aramaic inscription; this is a modern text reconstruction, not a photograph of the in-situ rock.",
@@ -2117,44 +759,6 @@
       "museum": "In situ",
       "description": "The Laghman Inscription is an Aramaic rock text from the Laghman valley attributed to Ashoka's Mauryan period. Its language and location show how an older imperial written tradition was used in a South Asian setting, while the inscription must be considered alongside the local landscape, the Mauryan political context, and the limits of the surviving reading.",
       "significance": "Part of the Ashokan edicts demonstrating Aramaic's role as a lingua franca in the East.",
-      "inscription_lines": [
-        {
-          "line_number": 1,
-          "original_script": "𐡁𐡔𐡍𐡕 𐡛 𐡗 𐡇𐡆𐡉 𐡗 𐡐𐡓𐡉𐡃𐡓𐡔 𐡌𐡋𐡊𐡀 𐡗 𐡓𐡒 𐡃𐡇𐡀",
-          "transliteration": "bšnt 10 ∣ ḥzy ∣ Prydrš mlkʾ ∣ rq dḥʾ",
-          "english_translation": "In the year 10, behold, the king Priyadasi expelled vanity from among prosperous men,"
-        },
-        {
-          "line_number": 2,
-          "original_script": "𐡌𐡄 𐡌𐡑𐡃 𐡁𐡓𐡉𐡅𐡕 𐡊𐡅𐡓𐡉",
-          "transliteration": "mh mṣd brywt kwry",
-          "english_translation": "friends of that which is vain,"
-        },
-        {
-          "line_number": 3,
-          "original_script": "𐡌𐡍 𐡔𐡓𐡉𐡓𐡉𐡍 𐡃𐡅𐡃𐡉 𐡌𐡄 𐡏𐡁𐡃 𐡓𐡉𐡒 𐡒𐡔𐡕𐡍",
-          "transliteration": "mn šryryn dwdy mh ʿbd ryq qštn",
-          "english_translation": "friends of those who fish fish-creatures."
-        },
-        {
-          "line_number": 4,
-          "original_script": "𐡙 𐡝 𐡆𐡍𐡄 𐡕𐡌𐡄 𐡕𐡃𐡌𐡓 𐡔𐡌𐡄 𐡆𐡍𐡄 𐡀𐡓𐡄𐡀 𐡊𐡍𐡐𐡕𐡉 𐡎𐡄𐡕𐡉",
-          "transliteration": "200 znh rmh Tdmr šmh znh ʾrʾ knpty shty",
-          "english_translation": "At 200 ‘bows’, there is over there the place called Tadmor. This is the KNPTY road, that is to say (the road) of the Garden:"
-        },
-        {
-          "line_number": 5,
-          "original_script": "𐡂𐡍𐡕𐡀 𐡉𐡕𐡓𐡉 𐡝 𐡜 𐡕𐡓𐡕𐡀 𐡕𐡍𐡄 𐡝 𐡏𐡋𐡀 𐡜 𐡜 𐡜 𐡜",
-          "transliteration": "gntʾ ytry 100 20 trtʾ tnh 100 ʿlʾ 20 20 20 20",
-          "english_translation": "More than 120 (‘bows’). At TRT’, here: 100. Above: 80."
-        },
-        {
-          "line_number": 6,
-          "original_script": "𐡏𐡌 𐡅𐡀𐡔𐡅 𐡃𐡉𐡍𐡀",
-          "transliteration": "ʿm Wʾšw dynʾ",
-          "english_translation": "Done with Wasu the judge"
-        }
-      ],
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Aramaic_inscription_of_Laghman.jpg",
       "image_caption": "Aramaic inscription of Laghman, an Aramaic rock inscription from the Laghman Valley in Afghanistan.",
@@ -2176,39 +780,6 @@
       "museum": "Various (Louvre, Damascus Museum, Hermitage)",
       "description": "The Palmyrene Inscriptions are a large corpus of texts in the Palmyrene form of Aramaic, dating from the late Hellenistic and Roman periods. Funerary, dedicatory, civic, and commercial inscriptions record people, institutions, religious practices, and connections across the oasis city and its wider trading world; the corpus belongs to Palmyrene society rather than being a direct record of the Iron Age Aramean kingdoms.",
       "significance": "Largest corpus of Aramaic inscriptions from a single site. Documents Palmyrene society and Aramaic culture in the Roman period.",
-      "inscription_note": "The lines below are a representative Palmyrene dedicatory inscription from the wider corpus. Line divisions follow the sense of the text rather than a publication layout; they should not be read as a complete transcription of every Palmyrene inscription or as a transcription of the pictured Louvre AO 2205 slab.",
-      "inscription_lines": [
-        {
-          "line_number": 1,
-          "original_script": "𐡋𐡆𐡊𐡓 𐡀𐡋𐡄𐡉𐡀 𐡔𐡌𐡄 𐡁𐡓𐡊",
-          "transliteration": "l-zkr ʾlhyʾ šmh brk",
-          "english_translation": "In commemoration of the One whose name is blessed."
-        },
-        {
-          "line_number": 2,
-          "original_script": "𐡏𐡁𐡃 𐡆𐡁𐡃𐡏𐡕𐡄 𐡁𐡓 𐡇𐡂𐡂𐡅",
-          "transliteration": "ʿbd Zabdʿateh br Ḥagagu",
-          "english_translation": "Zabd'ateh, son of Hagagu, made it."
-        },
-        {
-          "line_number": 3,
-          "original_script": "𐡁𐡓 𐡏𐡕𐡄 𐡏𐡋𐡉𐡁𐡏𐡋",
-          "transliteration": "br ʿAteh ʿAlaybʿal",
-          "english_translation": "He was the son of Bar'ateh 'Alayb'al."
-        },
-        {
-          "line_number": 4,
-          "original_script": "𐡌𐡃𐡁𐡇 𐡏𐡈𐡓𐡀 𐡃𐡍𐡄 𐡋𐡇𐡉𐡉",
-          "transliteration": "mdbḥ ʿṭrʾ dnh l-ḥyy",
-          "english_translation": "He made this incense altar for his life,"
-        },
-        {
-          "line_number": 5,
-          "original_script": "𐡅𐡋𐡇𐡉𐡉 𐡁𐡍𐡅𐡄𐡉 𐡅𐡀𐡇𐡅𐡄𐡉 𐡁𐡉𐡓𐡇 𐡍𐡉𐡎𐡍 𐡔𐡍𐡕 453",
-          "transliteration": "w-l-ḥyy bnhwy w-ʾḥwhy b-yrḥ Nysan šnt 453",
-          "english_translation": "and for the lives of his sons and brothers, in the month of Nisan, year 453."
-        }
-      ],
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Inscription_Palmyra_Louvre_AO2205.jpg",
       "image_caption": "Representative Palmyrene funerary inscription on a limestone slab from Palmyra (Louvre AO 2205), dated 4 BC; one artifact within the wider Palmyrene inscription corpus.",
@@ -2349,21 +920,6 @@
       "location_id": "zincirli",
       "museum": "Pergamon Museum, Berlin",
       "description": "Bar-Rakib II (KAI 218) is the short inscription associated with the Berlin relief from Zincirli. It identifies Bar Rakkib, son of Panamu, and invokes Baal Harran; this object is kept separate from Bar-Rakib I (KAI 216), the twenty-line building inscription.",
-      "inscription_note": "The two lines below follow the sense of the published English reading and use a normalized Aramaic-script reconstruction. They are not presented as a diplomatic facsimile; the exact KAI 218 edition and line layout should be checked against the primary publication.",
-      "inscription_lines": [
-        {
-          "line_number": 1,
-          "original_script": "𐡌𐡓𐡉 𐡁𐡏𐡋 𐡇𐡓𐡍",
-          "transliteration": "mry bʿl ḥrn",
-          "english_translation": "My lord is Baal Harran."
-        },
-        {
-          "line_number": 2,
-          "original_script": "𐡀𐡍𐡊 𐡁𐡓 𐡓𐡊𐡁 𐡁𐡓 𐡐𐡍𐡌𐡅",
-          "transliteration": "ʾnk br rkb br pnmw",
-          "english_translation": "I am Bar Rakkib, son of Panamu."
-        }
-      ],
       "significance": "Evidence for Bar-Rakib’s royal identity, religious language, and monumental self-representation.",
       "polity": "Bit-Gabbar",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Relief_of_king_Barrakib_from_Zincirli_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg",
@@ -3703,23 +2259,6 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription_note": "The 14 pending line slots follow the published recto/verso line count for TAD A2.1 (7 recto and 7 verso). Original script, transliteration, and English translation are intentionally left blank pending verification against the primary edition.",
-      "inscription_lines": [
-        {"line_number": 1, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 2, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 3, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 4, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 5, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 6, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 7, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 8, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 9, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 10, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 11, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 12, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 13, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 14, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""}
-      ],
       "inscription": true
     },
     {
@@ -3743,27 +2282,6 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription_note": "The 18 pending line slots follow the published recto/verso line count for TAD A2.2 (17 recto and 1 verso). Original script, transliteration, and English translation are intentionally left blank pending verification against the primary edition.",
-      "inscription_lines": [
-        {"line_number": 1, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 2, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 3, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 4, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 5, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 6, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 7, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 8, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 9, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 10, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 11, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 12, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 13, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 14, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 15, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 16, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 17, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 18, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""}
-      ],
       "inscription": true
     },
     {
@@ -3787,8 +2305,6 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription_note": "The following 10-line text was supplied for this record by the project user. The language is Imperial Aramaic. The original_script values below are a normalized Unicode rendering in the Imperial Aramaic block (U+10840–U+1085F), mechanically mapped from the supplied Hebrew-block transcription; they are not a diplomatic facsimile and should be checked against the primary facsimile. The Temple of Nabu opening, Makkibanit/Psami son of Nabunathan address, Harudj context, and delivery to Syene align with Bresciani-Kamil 1 / TAD A2.3. The supplied 10-line segmentation differs from the DEAPS physical layout of 7 recto and 7 verso lines.",
-      "inscription_lines": [],
       "inscription": false
     },
     {
@@ -3812,19 +2328,6 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription_note": "The 10 pending line slots follow the published recto/verso line count for TAD A2.5 (7 recto and 3 verso). Original script, transliteration, and English translation are intentionally left blank pending verification against the primary edition.",
-      "inscription_lines": [
-        {"line_number": 1, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 2, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 3, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 4, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 5, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 6, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 7, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 8, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 9, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 10, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""}
-      ],
       "inscription": true
     },
     {
@@ -3848,20 +2351,6 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription_note": "The 11 pending line slots follow the published recto/verso line count for TAD A2.6 (7 recto and 4 verso). Original script, transliteration, and English translation are intentionally left blank pending verification against the primary edition.",
-      "inscription_lines": [
-        {"line_number": 1, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 2, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 3, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 4, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 5, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 6, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 7, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 8, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 9, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 10, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 11, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""}
-      ],
       "inscription": true
     },
     {
@@ -3885,14 +2374,6 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription_note": "The 5 pending line slots follow the published recto/verso line count for TAD A2.7 (4 recto and 1 verso). Original script, transliteration, and English translation are intentionally left blank pending verification against the primary edition.",
-      "inscription_lines": [
-        {"line_number": 1, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 2, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 3, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 4, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""},
-        {"line_number": 5, "original_script": "[transcription pending]", "transliteration": "[transliteration pending]", "english_translation": ""}
-      ],
       "inscription": true
     },
     {
@@ -3916,31 +2397,35 @@
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Hermopolis_Aramaic_papyrus_4.png",
       "origin": "aramaic",
       "evidence_type": "document",
-      "inscription_note": "The eighth Hermopolis papyrus is listed in secondary catalogues, but no authoritative TAD A2.8 line division was located in the checked digital editions. The line array is therefore intentionally empty rather than guessed; original script, transliteration, and English translation remain pending verification.",
-      "inscription_lines": [],
       "inscription": true
     },
     {
       "id": 115,
-      "title": "Tayma Stone",
-      "identifier": "KAI 229",
+      "title": "Tayma Inscription",
+      "identifier": "CIS II 114; KAI 229",
       "excavation_id": "tayma",
-      "period": "5th-4th century BC",
+      "period": "c. 5th century BC",
+      "material": "Limestone block",
       "location": "Tayma, Saudi Arabia",
       "country": "Saudi Arabia",
       "place": "Tayma",
       "location_id": "tayma",
       "museum": "Louvre Museum, Paris",
-      "description": "The Tayma Stone catalogued as KAI 229 is one of the separately numbered Aramaic stones from the Persian-period oasis of Tayma. The current image is representative of the Tayma inscription group.",
-      "significance": "Evidence of Aramaic use in the Arabian Peninsula during the Achaemenid period.",
+      "description": "The Tayma Inscription is catalogued as CIS II 114 and KAI 229. It is an Imperial Aramaic inscription from Tayma, dated here to approximately the fifth century BC and engraved on a limestone block. The inscription names Salm-shezeb (Ṣalmšezib), Pet-Osiri (Peṭosiris), and Salm of Hagam.",
+      "significance": "Evidence of Imperial Aramaic religious and personal naming practices at the Persian-period oasis of Tayma.",
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tayma_stones_%28171%29.jpg",
-      "image_caption": "Representative photograph from the Tayma Stones group; object-specific photography is not yet recorded.",
+      "image_caption": "Representative photograph from the Tayma Stones group; Commons labels the file only \"Louvre 2022 01\" and does not identify CIS II 114 / KAI 229 specifically.",
       "image_source": "Wikimedia Commons; User:Onceinawhile (CC BY-SA 4.0)",
       "image_source_url": "https://commons.wikimedia.org/wiki/File:Tayma_stones_(171).jpg",
+      "inscription_image": "https://commons.wikimedia.org/wiki/Special:FilePath/Corpus_Inscriptionum_Semiticarum_CIS_II_114-120_%28from_Tayma%29.jpg",
+      "inscription_thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Corpus_Inscriptionum_Semiticarum_CIS_II_114-120_%28from_Tayma%29.jpg&width=330",
+      "inscription_image_caption": "Public-domain scan from the Corpus Inscriptionum Semiticarum showing the Tayma inscriptions CIS II 114–120; a publication plate, not an object-specific modern photograph of CIS II 114 / KAI 229.",
+      "inscription_image_source": "Wikimedia Commons; scan of the public-domain Corpus Inscriptionum Semiticarum publication",
+      "inscription_image_source_url": "https://commons.wikimedia.org/wiki/File:Corpus_Inscriptionum_Semiticarum_CIS_II_114-120_(from_Tayma).jpg",
       "origin": "aramaic",
       "evidence_type": "inscription",
-      "inscription": false
+      "inscription": true
     },
     {
       "id": 116,
@@ -17185,95 +15670,7 @@
       "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Nestorian_Stele_(front).JPG&width=200",
       "origin": "aramaic",
       "evidence_type": "inscription",
-      "inscription": true,
-      "inscription_note": "The inscription is Aramaic in the East Syriac (Estrangela) script. Line 1 is the Trinitarian invocation heading the stele above the Chinese text. Line 4 (Adam/Jingjing) is a quoted Unicode reading. For lines 2–3 and 5–7 the Syriac columns give editorial reconstructions of the personal names and titles, spelled from well-attested Classical Syriac forms, because the checked public witnesses (Hall 1895; Havret facsimile) preserve the stone's Syriac only as printed or facsimile images and their OCR is unreliable; these reconstructed cells should be verified against the facsimile and are not a diplomatic transcription of the exact letter forms and word order on the stone. Lines 8–14 give the side-edge name lists grouped by Hall's seven columns (Classis I–VII); the English and transliterated names follow Hall 1895, while the Syriac spellings are editorial reconstructions of those names. Name readings vary across editions (for example Yazedbuzid/Iezdebuzid/Yesbuzid and Sabar Jesus/Sabranieshuʿ). Sources: Isaac H. Hall, \"The Syriac Text of the Chinese Nestorian Tablet,\" American Journal of Semitic Languages and Literatures 12 (1895), pp. 119–125; Henri Havret, La Stèle Chrétienne de Si-ngan-fou, facsimile edition.",
-      "inscription_source_url": "https://commons.wikimedia.org/wiki/File:Syriac_text_Nestorian_Stele_781AD.png",
-      "inscription_lines": [
-      {
-        "line_number": 1,
-        "original_script": "ܒܫܡ ܐܒܐ ܘܒܪܐ ܘܪܘܚܐ ܕܩܘܕܫܐ",
-        "transliteration": "b-šem ʾabā w-brā w-rūḥā d-qudšā",
-        "english_translation": "In the name of the Father and the Son and the Holy Spirit."
-      },
-      {
-        "line_number": 2,
-        "original_script": "ܒܫܢܬ ܐܠܦ ܘܬܫܥܝܢ ܘܬܪܬܝܢ ܕܝܘܢܝܐ ܡܪܝ ܝܙܕܒܘܙܝܕ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ ܕܟܘܡܕܢ ܡܕܝܢܬܐ ܡܠܟܝܬܐ",
-        "transliteration": "b-šnat ʾalp w-tešʿīn w-tartēn d-yawnāyē mār Yazdōbūzīd qaššīšā w-kūrāpīsqōpā d-Kūmdān mdīntā malkāytā",
-        "english_translation": "In the year of the Greeks 1092, Lord Yazdōbūzīd, priest and chorepiscopus of Kūmdān the royal city,"
-      },
-      {
-        "line_number": 3,
-        "original_script": "ܒܪ ܡܝܠܣ ܩܫܝܫܐ ܕܒܠܚ ܡܕܝܢܬܐ ܕܬܚܘܪܣܬܢ ܐܩܝܡ ܗܢܐ ܟܐܦܐ",
-        "transliteration": "bar Mīlas qaššīšā d-Balḥ mdīntā d-Taḥūristān ʾaqīm hānā kēpā",
-        "english_translation": "son of Mīlas, priest of Balkh, a city of Tohōristān, set up this stone,"
-      },
-      {
-        "line_number": 4,
-        "original_script": "ܐܕܡ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ ܘܦܐܦܫ ܕܨܝܢܝܣܬܐܢ",
-        "transliteration": "ʾĀdām qaššīšā w-kūrāpīsqōpā w-pāpš d-Ṣīnīstān",
-        "english_translation": "Adam, priest, chorepiscopus and pāpš of Ṣīnīstān."
-      },
-      {
-        "line_number": 5,
-        "original_script": "ܡܪܝ ܣܪܓܝܣ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ",
-        "transliteration": "mār Sargīs qaššīšā w-kūrāpīsqōpā",
-        "english_translation": "Mār Sargīs, priest and chorepiscopus."
-      },
-      {
-        "line_number": 6,
-        "original_script": "ܣܒܪܝܫܘܥ ܩܫܝܫܐ",
-        "transliteration": "Sabrīšōʿ qaššīšā",
-        "english_translation": "Sabrīšōʿ, priest."
-      },
-      {
-        "line_number": 7,
-        "original_script": "ܓܒܪܐܝܠ ܩܫܝܫܐ ܘܐܪܟܝܕܝܩܘܢ ܘܪܝܫܐ ܕܥܕܬܐ ܕܟܘܡܕܢ ܘܕܣܪܓ",
-        "transliteration": "Gabrāʾīl qaššīšā w-ʾarkīdīqōn w-rēšā d-ʿēdtā d-Kūmdān w-d-Sarg",
-        "english_translation": "Gabriel, priest, archdeacon and head of the church of Kūmdān and of Sarg."
-      },
-      {
-        "line_number": 8,
-        "original_script": "ܡܪܝ ܝܘܚܢܢ ܐܦܝܣܩܘܦܐ ܂ ܐܝܣܚܩ ܩܫܝܫܐ ܂ ܝܘܐܝܠ ܩܫܝܫܐ ܂ ܡܝܟܐܝܠ ܩܫܝܫܐ ܂ ܓܝܘܪܓܝܣ ܩܫܝܫܐ ܂ ܡܗܕܕ ܓܘܫܢܣܦ ܩܫܝܫܐ ܂ ܡܫܝܚܕܕ ܩܫܝܫܐ ܂ ܐܦܪܝܡ ܩܫܝܫܐ ܂ ܐܒܝ ܩܫܝܫܐ ܂ ܕܘܝܕ ܩܫܝܫܐ ܂ ܡܘܫܐ ܩܫܝܫܐ",
-        "transliteration": "mār Yōḥannān ʾepīsqōpā · ʾIsḥāq qaššīšā · Yōʾēl qaššīšā · Mīkāʾēl qaššīšā · Gīwargīs qaššīšā · Māhdād Gušnasp qaššīšā · Mšīḥādād qaššīšā · ʾEprēm qaššīšā · ʾAbī qaššīšā · Dawīd qaššīšā · Mōšē qaššīšā",
-        "english_translation": "Mār Yōḥannān, bishop; Isḥāq, priest; Yōʾēl, priest; Mīkāʾēl, priest; Gīwargīs, priest; Māhdād Gušnasp, priest; Mšīḥādād, priest; Eprēm, priest; ʾAbī, priest; Dawīd, priest; Mōšē, priest."
-      },
-      {
-        "line_number": 9,
-        "original_script": "ܒܟܘܣ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܐܠܝܐ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܡܘܫܐ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܥܒܕܝܫܘܥ ܩܫܝܫܐ ܘܝܚܝܕܝܐ ܂ ܫܡܥܘܢ ܩܫܝܫܐ ܂ ܝܘܚܢܢ ܡܫܡܫܢܐ ܘܝܚܝܕܝܐ",
-        "transliteration": "Bakōs qaššīšā w-īḥīdāyā · ʾElīyā qaššīšā w-īḥīdāyā · Mōšē qaššīšā w-īḥīdāyā · ʿAbdīšōʿ qaššīšā w-īḥīdāyā · Šemʿōn qaššīšā · Yōḥannān mšamšānā w-īḥīdāyā",
-        "english_translation": "Bakōs, priest and monk; Elīyā, priest and monk; Mōšē, priest and monk; ʿAbdīšōʿ, priest and monk; Šemʿōn, priest; Yōḥannān, deacon and monk."
-      },
-      {
-        "line_number": 10,
-        "original_script": "ܐܗܪܘܢ ܂ ܦܛܪܘܣ ܂ ܐܝܘܒ ܂ ܠܘܩܐ ܂ ܡܬܝ ܂ ܝܘܚܢܢ ܂ ܝܫܘܥܐܡܗ ܂ ܝܘܚܢܢ ܂ ܣܒܪܝܫܘܥ ܂ ܝܫܘܥܕܕ ܂ ܠܘܩܐ ܂ ܩܘܢܣܛܢܛܝܢܘܣ ܂ ܢܘܚ",
-        "transliteration": "ʾAhārōn · Peṭrōs · ʾIyōb · Lūqā · Mattay · Yōḥannān · Īšōʿammeh · Yōḥannān · Sabrīšōʿ · Īšōʿdād · Lūqā · Qōnstanṭīnōs · Nūḥ",
-        "english_translation": "Aharon; Peter; Job; Luke; Matthew; John; Īšōʿammeh; John; Sabrīšōʿ; Īšōʿdād; Luke; Constantine; Noah."
-      },
-      {
-        "line_number": 11,
-        "original_script": "ܐܝܙܕܣܦܣ ܂ ܝܘܚܢܢ ܂ ܐܢܘܫ ܂ ܡܪܝ ܣܪܓܝܣ ܂ ܐܝܣܚܩ ܂ ܝܘܚܢܢ ܂ ܡܪܝ ܣܪܓܝܣ ܂ ܦܘܣܝ ܂ ܫܡܥܘܢ ܂ ܐܝܣܚܩ ܂ ܝܘܚܢܢ",
-        "transliteration": "ʾIzdespas · Yōḥannān · ʾEnōš · mār Sargīs · ʾIsḥāq · Yōḥannān · mār Sargīs · Pūsī · Šemʿōn · ʾIsḥāq · Yōḥannān",
-        "english_translation": "Izdespas; John; Enosh; Mār Sargīs; Isḥāq; John; Mār Sargīs; Pūsī; Šemʿōn; Isḥāq; John."
-      },
-      {
-        "line_number": 12,
-        "original_script": "ܝܥܩܘܒ ܩܫܝܫܐ ܂ ܡܪܝ ܣܪܓܝܣ ܩܫܝܫܐ ܘܟܘܪܐܦܝܣܩܘܦܐ ܂ ܓܝܓܘܝ ܩܫܝܫܐ ܘܐܪܟܝܕܝܩܘܢ ܕܟܘܡܕܢ ܂ ܦܘܠܘܣ ܩܫܝܫܐ ܂ ܫܡܥܘܢ ܩܫܝܫܐ ܂ ܐܕܡ ܩܫܝܫܐ ܂ ܐܠܝܐ ܩܫܝܫܐ ܂ ܐܝܣܚܩ ܩܫܝܫܐ ܂ ܝܘܚܢܢ ܩܫܝܫܐ ܂ ܝܘܚܢܢ ܩܫܝܫܐ ܂ ܫܡܥܘܢ ܩܫܝܫܐ",
-        "transliteration": "Yaʿqōb qaššīšā · mār Sargīs qaššīšā w-kūrāpīsqōpā · Gīgōy qaššīšā w-ʾarkīdīqōn d-Kūmdān · Pawlōs qaššīšā · Šemʿōn qaššīšā · ʾĀdām qaššīšā · ʾElīyā qaššīšā · ʾIsḥāq qaššīšā · Yōḥannān qaššīšā · Yōḥannān qaššīšā · Šemʿōn qaššīšā",
-        "english_translation": "Yaʿqōb, priest; Mār Sargīs, priest and chorepiscopus; Gīgōy, priest and archdeacon of Kūmdān; Paul, priest; Šemʿōn, priest; Adam, priest; Elīyā, priest; Isḥāq, priest; Yōḥannān, priest; Yōḥannān, priest; Šemʿōn, priest."
-      },
-      {
-        "line_number": 13,
-        "original_script": "ܝܥܩܘܒ ܐܡܢܐ ܕܥܕܬܐ ܂ ܥܒܕܝܫܘܥ ܂ ܝܫܘܥܕܕ ܂ ܝܥܩܘܒ ܂ ܝܘܚܢܢ ܂ ܫܘܒܚܠܡܪܢ ܂ ܡܪܝ ܣܪܓܝܣ ܂ ܫܡܥܘܢ ܂ ܐܦܪܝܡ ܂ ܙܟܪܝܐ ܂ ܩܘܪܝܩܘܣ ܂ ܒܟܘܣ ܂ ܥܡܢܘܐܝܠ",
-        "transliteration": "Yaʿqōb ʾamnā d-ʿēdtā · ʿAbdīšōʿ · Īšōʿdād · Yaʿqōb · Yōḥannān · Šūbḥalmarān · mār Sargīs · Šemʿōn · ʾEprēm · Zakaryā · Qūryāqōs · Bakōs · ʿAmmānūʾēl",
-        "english_translation": "Yaʿqōb, church custodian; ʿAbdīšōʿ; Īšōʿdād; Yaʿqōb; Yōḥannān; Šūbḥalmarān; Mār Sargīs; Šemʿōn; Eprēm; Zakaryā; Qūryāqōs; Bakōs; Emmanuel."
-      },
-      {
-        "line_number": 14,
-        "original_script": "ܓܒܪܐܝܠ ܂ ܝܘܚܢܢ ܂ ܫܠܝܡܘܢ ܂ ܐܝܣܚܩ ܂ ܝܘܚܢܢ",
-        "transliteration": "Gabrāʾīl · Yōḥannān · Šlēmōn · ʾIsḥāq · Yōḥannān",
-        "english_translation": "Gabriel; Yōḥannān; Šlēmōn; Isḥāq; Yōḥannān."
-      }
-    ]
+      "inscription": true
     },
     {
       "id": 718,
@@ -17412,57 +15809,6 @@
       "museum": "Karatepe-Aslantaş Museum",
       "description": "The Bahadirli Boundary Inscription is an eight-line Aramaic boundary text discovered in Bahadirli, about 6 km north of Karatepe in Cilicia. It marks a boundary associated with KRBYL and KRŠY and invokes Kubaba of PWŠD/R, who is associated in the text with Kastabala. The ancient place-name readings and identifications remain scholarly interpretations.",
       "significance": "An important Aramaic inscription from Cilicia showing the use of written boundary language, local territorial organization, and the invocation of the goddess Kubaba in a regional religious and political context.",
-      "inscription_note": "The eight-line division follows the published transcription reproduced by Persée. The original-script column preserves the supplied Hebrew-character transcription; it should not be treated as a diplomatic Unicode rendering of the carved stone. The transliteration retains the uncertain slash in PWŠD/R and the supplied place-name readings.",
-      "inscription_lines": [
-        {
-          "line_number": 1,
-          "original_script": "זנה תחום כרביל",
-          "transliteration": "znh tḥwm krbyl",
-          "english_translation": "This is the boundary of KRBYL"
-        },
-        {
-          "line_number": 2,
-          "original_script": "וכרשי קריתא",
-          "transliteration": "wkršy qrytʾ",
-          "english_translation": "and of KRŠY, the city"
-        },
-        {
-          "line_number": 3,
-          "original_script": "זי מהחסן כבבה",
-          "transliteration": "zy mhhḥsn kbbh",
-          "english_translation": "that Kubaba possesses"
-        },
-        {
-          "line_number": 4,
-          "original_script": "זי פושד/ר זי בכשתבלי",
-          "transliteration": "zy pwšd/r zy bkštbly",
-          "english_translation": "of PWŠD/R, who is in Kastabala."
-        },
-        {
-          "line_number": 5,
-          "original_script": "ואיש זי יחגה",
-          "transliteration": "wʾyš zy yḥgh",
-          "english_translation": "And (every) man who goes around"
-        },
-        {
-          "line_number": 6,
-          "original_script": "לתחומא זנה קדם",
-          "transliteration": "ltḥwmʾ znh qdm",
-          "english_translation": "this boundary here in front of"
-        },
-        {
-          "line_number": 7,
-          "original_script": "כבבה זי פושד/ר",
-          "transliteration": "kbbh zy pwšd/r",
-          "english_translation": "Kubaba of PWŠD/R,"
-        },
-        {
-          "line_number": 8,
-          "original_script": "או איש אחרן",
-          "transliteration": "ʾw ʾyš ʾḥrn",
-          "english_translation": "or (any) other (?) man."
-        }
-      ],
       "polity": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Karatepe_Museum_5214.jpg/960px-Karatepe_Museum_5214.jpg",
       "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Karatepe_Museum_5214.jpg&width=330",
@@ -17472,6 +15818,66 @@
       "origin": "aramaic",
       "evidence_type": "inscription",
       "inscription": true
+    },
+    {
+      "id": 725,
+      "title": "Turin Aramaic Papyrus",
+      "identifier": "CIS II 144; TAD A5.3",
+      "period": "Date uncertain; ancient Egyptian context",
+      "material": "Papyrus",
+      "discovered_year": "1823-1824",
+      "location": "Egypt (exact findspot not recorded)",
+      "country": "Egypt",
+      "place": "Egypt",
+      "museum": "Museo Egizio, Turin",
+      "description": "The Turin Aramaic Papyrus, also known as Papyrus Taurinensis, is a two-line fragment of an Aramaic papyrus found in Egypt by Bernardino Drovetti in 1823-1824. It is identified as CIS II 144 and TAD A5.3 and is held by the Museo Egizio in Turin. The exact archaeological findspot and production date are not recorded here.",
+      "significance": "Notable in the history of Aramaic epigraphy as the first published Aramaic inscription found in Egypt. Its two surviving lines provide limited evidence and should not be generalized into conclusions about all Aramaic-speaking communities in Egypt.",
+      "polity": "",
+      "origin": "aramaic",
+      "evidence_type": "document",
+      "inscription": false
+    },
+    {
+      "id": 726,
+      "title": "Blacas Papyrus",
+      "identifier": "CIS II 145; TAD C1.2",
+      "excavation_id": "saqqara",
+      "period": "Late Ptolemaic period",
+      "material": "Papyrus",
+      "discovered_year": "1825",
+      "location": "Saqqara, Egypt",
+      "country": "Egypt",
+      "place": "Saqqara",
+      "location_id": "saqqara",
+      "museum": "British Library, Oriental Papyrus 106* A and B",
+      "description": "The Blacas Papyrus consists of two surviving fragments of an Aramaic papyrus found at Saqqara in 1825. It is identified as CIS II 145 and TAD C1.2. The fragments were acquired shortly after discovery by Pierre Louis Jean Casimir de Blacas, whose estate sold them to the British Museum in 1866; they are now held by the British Library as Oriental Papyrus 106* A and B. The text was first published by Michelangelo Lanci in 1827, when it was described as a Phoenician-Assyrian text.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Corpus_Inscriptionum_Semiticarum_CIS_II_145_%28a_and_c%29%2C_Blacas_papyri.jpg",
+      "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Corpus_Inscriptionum_Semiticarum_CIS_II_145_%28a_and_c%29%2C_Blacas_papyri.jpg&width=200",
+      "significance": "An important early Aramaic papyrus from Egypt and a key object in the history of Aramaic epigraphy. The mutilated text has received different interpretations, including a possible Egyptian-Jewish tale related to Exodus, but its contents and date should not be treated as certain beyond the late-Ptolemaic palaeographic description.",
+      "polity": "",
+      "origin": "aramaic",
+      "evidence_type": "document",
+      "inscription": false
+    },
+    {
+      "id": 727,
+      "title": "Limyra Bilingual Inscription",
+      "identifier": "CIS II 109; KAI 262",
+      "excavation_id": "limyra",
+      "period": "4th century BC",
+      "material": "Rock-cut tomb inscription",
+      "discovered_year": 1840,
+      "location": "Limyra Necropolis CH V, Tomb 46, Turkey",
+      "country": "Turkey",
+      "place": "Limyra",
+      "location_id": "limyra",
+      "museum": "In situ, Tomb 46, Limyra Necropolis CH V",
+      "description": "The Limyra Bilingual Inscription is a Greek-Aramaic funerary inscription discovered in 1840 and preserved in situ in Tomb 46 of the Limyra Necropolis CH V, about 3 km outside Limyra. The rock-cut tomb has Lycian architectural features; the Aramaic text is carved on the lintel of the left opening, while the Greek text is placed on the frieze above and extends across both doors. The Aramaic inscription is catalogued as KAI 262 and is also represented in CIS II 109.",
+      "significance": "Important evidence for the presence and use of Aramaic in fourth-century-BC Lycia and for multilingual funerary commemoration in southwestern Anatolia. The bilingual monument documents interaction among Greek, Aramaic, and Lycian contexts without by itself establishing a single ethnic identity for the people connected with the tomb.",
+      "polity": "",
+      "origin": "aramaic",
+      "evidence_type": "inscription",
+      "inscription": false
     }
   ]
 }
