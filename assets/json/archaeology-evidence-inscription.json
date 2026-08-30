@@ -226,85 +226,85 @@
     {
       "evidence_id": 22,
       "inscription_lines": [
-        {
-          "line_number": 1,
-          "original_script": "זי יהנס אית נצב[א] זנה [מן אשרה]",
-          "transliteration": "zy yhns ʾyt nṣb[ʾ] znh [mn ʾšrh]",
-          "english_translation": "Whoever would drag away this stele [and withhold it]"
-        },
-        {
-          "line_number": 2,
-          "original_script": "בלחמה או בשלם [כ]ל מה מותנא [כ]",
-          "transliteration": "blḥmh ʾw bšlm [k]l mh mwtnʾ [k]",
-          "english_translation": "in war or in peace, any kind of pestilence, [as]"
-        },
-        {
-          "line_number": 3,
-          "original_script": "זי הוה בכל ארקא ישמוה אלהן ב[מ]",
-          "transliteration": "zy hwh bkl ʾrqʾ yšmwh ʾlhn b[m]",
-          "english_translation": "much as there is on the whole earth, may the gods impose on the [coun]try"
-        },
-        {
-          "line_number": 4,
-          "original_script": "ת מלכ[א] הוא ולץ הא לאלהן ולץ",
-          "transliteration": "t mlk[ʾ] hwʾ wlṣ hʾ lʾlhn wlṣ",
-          "english_translation": "of that king. And may he be accursed to the gods and may he be accursed"
-        },
-        {
-          "line_number": 5,
-          "original_script": "הא לחלדי זי בזעתר שבע שורה",
-          "transliteration": "hʾ lḥldy zy bzʿtr šbʿ šwrh",
-          "english_translation": "to Ḫaldi who is in Zaʿter. May seven cows"
-        },
-        {
-          "line_number": 6,
-          "original_script": "יהינען עגל חד ואל ישבע ושב",
-          "transliteration": "yhynqn ʿgl ḥd wʾl yšbʿ wšb",
-          "english_translation": "nurse one calf and may it not be satiated. And may seven"
-        },
-        {
-          "line_number": 7,
-          "original_script": "ע נשן יאפו בתנר חד[ ] ואל ימלא",
-          "transliteration": "ʿ nšn yʾpw btnr ḥd[ ] wʾl ymlʾ",
-          "english_translation": "women bake in one oven and may they not fill"
-        },
-        {
-          "line_number": 8,
-          "original_script": "והי ויאבד מן מתה תנן אשה וקל",
-          "transliteration": "why wyʾbd mn mth tnn ʾšh wql",
-          "english_translation": "it. And may vanish from his country the smoke of a furnace and the sound of"
-        },
-        {
-          "line_number": 9,
-          "original_script": "רחין וארקה תהוי ממלח[ה] ויתמד",
-          "transliteration": "rḥyn wʾrqh thwy mmlḥ[h] wytmd",
-          "english_translation": "a mill. And may his land be salted and may sway back and forth"
-        },
-        {
-          "line_number": 10,
-          "original_script": "דה פרע ראש ומלכא הא זי [יכת]ב",
-          "transliteration": "dh prʿ rʾš wmlkʾ hʾ zy [ykt]b",
-          "english_translation": "in it the crack of an earthquake. And that king who would [write]"
-        },
-        {
-          "line_number": 11,
-          "original_script": "על נצבא זנ[ה] כרסאה יהפכה הד[ד]",
-          "transliteration": "ʿl nṣbʾ zn[h] krsʾh yhpkh hd[d]",
-          "english_translation": "on this stele, may Hadad overturn his throne,"
-        },
-        {
-          "line_number": 12,
-          "original_script": "וחלדי ושבע שנין אל יתן הדד ק[לה]",
-          "transliteration": "wḥldy wšbʿ šnn ʾl ytn hdd q[lh]",
-          "english_translation": "as well as Ḫaldi. And during seven years may Hadad not send thunder"
-        },
-        {
-          "line_number": 13,
-          "original_script": "במתה וימחאהי כל לוץ נצ[בא] זנה",
-          "transliteration": "bmth wymḥʾhy kl lwṣ nṣ[bʾ] znh",
-          "english_translation": "in his country and may the entire curse of this stele smite him."
-        }
-      ],
+      {
+        "line_number": 1,
+        "original_script": "𐡆𐡉 𐡉𐡄𐡍𐡎 𐡀𐡉𐡕 𐡍𐡑𐡁[𐡀] 𐡆𐡍𐡄 [𐡌𐡍 𐡀𐡔𐡓𐡄]",
+        "transliteration": "zy yhns ʾyt nṣb[ʾ] znh [mn ʾšrh]",
+        "english_translation": "Whoever would drag away this stele [and withhold it]"
+      },
+      {
+        "line_number": 2,
+        "original_script": "𐡁𐡋𐡇𐡌𐡄 𐡀𐡅 𐡁𐡔𐡋𐡌 [𐡊]𐡋 𐡌𐡄 𐡌𐡅𐡕𐡍𐡀 [𐡊]",
+        "transliteration": "blḥmh ʾw bšlm [k]l mh mwtnʾ [k]",
+        "english_translation": "in war or in peace, any kind of pestilence, [as]"
+      },
+      {
+        "line_number": 3,
+        "original_script": "𐡆𐡉 𐡄𐡅𐡄 𐡁𐡊𐡋 𐡀𐡓𐡒𐡀 𐡉𐡔𐡌𐡅𐡄 𐡀𐡋𐡄𐡍 𐡁[𐡌]",
+        "transliteration": "zy hwh bkl ʾrqʾ yšmwh ʾlhn b[m]",
+        "english_translation": "much as there is on the whole earth, may the gods impose on the [coun]try"
+      },
+      {
+        "line_number": 4,
+        "original_script": "𐡕 𐡌𐡋𐡊[𐡀] 𐡄𐡅𐡀 𐡅𐡋𐡑 𐡄𐡀 𐡋𐡀𐡋𐡄𐡍 𐡅𐡋𐡑",
+        "transliteration": "t mlk[ʾ] hwʾ wlṣ hʾ lʾlhn wlṣ",
+        "english_translation": "of that king. And may he be accursed to the gods and may he be accursed"
+      },
+      {
+        "line_number": 5,
+        "original_script": "𐡄𐡀 𐡋𐡇𐡋𐡃𐡉 𐡆𐡉 𐡁𐡆𐡏𐡕𐡓 𐡔𐡁𐡏 𐡔𐡅𐡓𐡄",
+        "transliteration": "hʾ lḥldy zy bzʿtr šbʿ šwrh",
+        "english_translation": "to Ḫaldi who is in Zaʿter. May seven cows"
+      },
+      {
+        "line_number": 6,
+        "original_script": "𐡉𐡄𐡉𐡍𐡏𐡍 𐡏𐡂𐡋 𐡇𐡃 𐡅𐡀𐡋 𐡉𐡔𐡁𐡏 𐡅𐡔𐡁",
+        "transliteration": "yhynqn ʿgl ḥd wʾl yšbʿ wšb",
+        "english_translation": "nurse one calf and may it not be satiated. And may seven"
+      },
+      {
+        "line_number": 7,
+        "original_script": "𐡏 𐡍𐡔𐡍 𐡉𐡀𐡐𐡅 𐡁𐡕𐡍𐡓 𐡇𐡃[ ] 𐡅𐡀𐡋 𐡉𐡌𐡋𐡀",
+        "transliteration": "ʿ nšn yʾpw btnr ḥd[ ] wʾl ymlʾ",
+        "english_translation": "women bake in one oven and may they not fill"
+      },
+      {
+        "line_number": 8,
+        "original_script": "𐡅𐡄𐡉 𐡅𐡉𐡀𐡁𐡃 𐡌𐡍 𐡌𐡕𐡄 𐡕𐡍𐡍 𐡀𐡔𐡄 𐡅𐡒𐡋",
+        "transliteration": "why wyʾbd mn mth tnn ʾšh wql",
+        "english_translation": "it. And may vanish from his country the smoke of a furnace and the sound of"
+      },
+      {
+        "line_number": 9,
+        "original_script": "𐡓𐡇𐡉𐡍 𐡅𐡀𐡓𐡒𐡄 𐡕𐡄𐡅𐡉 𐡌𐡌𐡋𐡇[𐡄] 𐡅𐡉𐡕𐡌𐡃",
+        "transliteration": "rḥyn wʾrqh thwy mmlḥ[h] wytmd",
+        "english_translation": "a mill. And may his land be salted and may sway back and forth"
+      },
+      {
+        "line_number": 10,
+        "original_script": "𐡃𐡄 𐡐𐡓𐡏 𐡓𐡀𐡔 𐡅𐡌𐡋𐡊𐡀 𐡄𐡀 𐡆𐡉 [𐡉𐡊𐡕]𐡁",
+        "transliteration": "dh prʿ rʾš wmlkʾ hʾ zy [ykt]b",
+        "english_translation": "in it the crack of an earthquake. And that king who would [write]"
+      },
+      {
+        "line_number": 11,
+        "original_script": "𐡏𐡋 𐡍𐡑𐡁𐡀 𐡆𐡍[𐡄] 𐡊𐡓𐡎𐡀𐡄 𐡉𐡄𐡐𐡊𐡄 𐡄𐡃[𐡃]",
+        "transliteration": "ʿl nṣbʾ zn[h] krsʾh yhpkh hd[d]",
+        "english_translation": "on this stele, may Hadad overturn his throne,"
+      },
+      {
+        "line_number": 12,
+        "original_script": "𐡅𐡇𐡋𐡃𐡉 𐡅𐡔𐡁𐡏 𐡔𐡍𐡉𐡍 𐡀𐡋 𐡉𐡕𐡍 𐡄𐡃𐡃 𐡒[𐡋𐡄]",
+        "transliteration": "wḥldy wšbʿ šnn ʾl ytn hdd q[lh]",
+        "english_translation": "as well as Ḫaldi. And during seven years may Hadad not send thunder"
+      },
+      {
+        "line_number": 13,
+        "original_script": "𐡁𐡌𐡕𐡄 𐡅𐡉𐡌𐡇𐡀𐡄𐡉 𐡊𐡋 𐡋𐡅𐡑 𐡍𐡑[𐡁𐡀] 𐡆𐡍𐡄",
+        "transliteration": "bmth wymḥʾhy kl lwṣ nṣ[bʾ] znh",
+        "english_translation": "in his country and may the entire curse of this stele smite him."
+      }
+    ],
       "inscription_note": "The Qalaichi/Bukan find is reported as a unique 13-line Aramaic inscription. The accessible Qalaichi and Cambridge sources confirm the line count and context but do not publish a verifiable line-by-line original-script edition. The transcription, transliteration, and translation are therefore left pending against the primary publications and facsimile.",
       "inscription_source_url": "https://doi.org/10.15184/S2978855200904384"
     },
