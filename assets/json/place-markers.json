@@ -350,17 +350,6 @@
     "label": "Sibraim"
   },
   {
-    "name": "Hadrach-Hatarikka",
-    "lat": 35.85,
-    "lng": 36.78,
-    "labelColor": "rgba(0,0,0, .15)",
-    "precision": "broad regional reference; identification debated",
-    "tags": ["region", "ancient"],
-    "settlementType": "region",
-    "symbolSize": 30,
-    "label": "Hadrach"
-  },
-  {
     "name": "Nerab-Al-Nayrab",
     "lat": 36.1733,
     "lng": 37.2189,

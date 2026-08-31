@@ -1234,6 +1234,19 @@
         }
       ],
       "inscription_note": "The eight-line division follows the published transcription reproduced by Persée. The original-script column preserves the supplied Hebrew-character transcription; it should not be treated as a diplomatic Unicode rendering of the carved stone. The transliteration retains the uncertain slash in PWŠD/R and the supplied place-name readings."
+    },
+    {
+      "evidence_id": 728,
+      "inscription_lines": [
+        {
+          "line_number": 1,
+          "original_script": "𐡋𐡁𐡓𐡓𐡊𐡁 𐡁𐡓 𐡐𐡍𐡌𐡅",
+          "transliteration": "lbrrkb br pnmw",
+          "english_translation": "Belonging to Bar Rakib, son of Panammu."
+        }
+      ],
+      "inscription_note": "Public object descriptions identify the name Bar-rakib, son of Panammu, but a verified object-specific transcription, transliteration, and published line layout for BM 134918 have not been confirmed; those fields remain pending.",
+      "inscription_source_url": "https://artsandculture.google.com/asset/silver-ingot/RAH6TCzY0tKinA"
     }
   ]
 }

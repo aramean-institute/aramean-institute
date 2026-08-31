@@ -99,6 +99,7 @@
       "significance": "One of the earliest known Aramaic inscriptions and key evidence for early Aramaic script development.",
       "polity": "Bit-Bahiani",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Tell_Fekheriyeh_statue.jpg",
+      "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Tell_Fekheriyeh_statue.jpg&width=200",
       "origin": "aramean",
       "evidence_type": "inscription",
       "inscription": false
@@ -141,6 +142,7 @@
       "significance": "Key source for the Samalian dialect and Aramean religious practices.",
       "polity": "Bit-Gabbar",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pergamon_Museum_Hadad_statue_from_Sam%27al_aka_Zincirli_7968.jpg",
+      "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Pergamon_Museum_Hadad_statue_from_Sam%27al_aka_Zincirli_7968.jpg&width=200",
       "origin": "aramean",
       "evidence_type": "inscription",
       "inscription": false
@@ -207,6 +209,7 @@
       "significance": "Unique evidence for Aramean beliefs about the afterlife and soul.",
       "polity": "Bit-Gabbar",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gaziantep_Archaeology_museum_Kuttamuwa_stele_4270.jpg",
+      "thumbnail": "https://commons.wikimedia.org/w/thumb.php?f=Gaziantep_Archaeology_museum_Kuttamuwa_stele_4270.jpg&width=250",
       "origin": "aramean",
       "evidence_type": "funerary",
       "inscription": true
@@ -15879,6 +15882,31 @@
       "origin": "aramaic",
       "evidence_type": "inscription",
       "inscription": false
+    },
+    {
+      "id": 728,
+      "title": "Bar Rakib Silver Ingot",
+      "identifier": "BM 134918",
+      "excavation_id": "zincirli",
+      "period": "8th century BC",
+      "material": "Silver",
+      "location": "Zincirli, Turkey",
+      "country": "Turkey",
+      "place": "Zincirli",
+      "location_id": "zincirli",
+      "museum": "British Museum",
+      "description": "The Bar Rakib silver ingot is an inscribed silver object bearing the name Bar Rakib, son of Panammu, the king of Sam'al. It was found with two other silver ingots during the German excavations at Zincirli and is now held by the British Museum as BM 134918. The inscription may indicate that the silver was sent to Bar-Rakib or that it was his property; its wording does not by itself establish which interpretation is correct.",
+      "significance": "Important evidence for the use of Aramaic in an economic and royal-material context at Sam'al. The object connects a royal name with precious-metal circulation and the multilingual political environment of Zincirli without proving a single ownership or administrative function.",
+      "polity": "Bit-Gabbar",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bar-rakib.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bar-rakib.jpg/330px-Bar-rakib.jpg",
+      "image_caption": "Eighth-century-BC silver ingot inscribed with the name of Bar-Rakib, son of Panammu, associated with Sam'al.",
+      "image_source": "Wikimedia Commons",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Bar-rakib.jpg",
+      "inscription_note": "Public object descriptions identify the name Bar-rakib, son of Panammu, but a verified object-specific transcription, transliteration, and published line layout for BM 134918 have not been confirmed; those fields remain pending in the linked inscription record.",
+      "origin": "aramean",
+      "evidence_type": "artifact",
+      "inscription": true
     }
   ]
 }
