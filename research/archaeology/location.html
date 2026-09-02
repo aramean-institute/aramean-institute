@@ -3,7 +3,7 @@
 <title>Archaeological Location</title>
 
 <section class="pauto" relative bindquery="id:id" data-src="/assets/json/archaeology-locations.json" data-filterkey="locations"
-  data-filteritem="id:'{id}'">
+  data-filter="id:[{id}]">
   <h1 data-get="name">Archaeological Location</h1>
   <nav class="pointer" margintop="0.5rem" aria-label="Breadcrumb" screen-xxs="hide" screen-xl="show">
     <ol padding="0">
@@ -52,7 +52,7 @@
 
     <h2 id="related-evidence" margin="2rem 0">Related evidence</h2>
     <div data-src="/assets/json/archaeology-evidence.json" data-iterate="evidence" bindquery="id:id" data-sort="title"
-      data-sortorder="asc" data-filterkey="evidence" data-filteritem="location_id:'{id}'"
+      data-sortorder="asc" data-filterkey="evidence" data-filteritem="location_id:{id}"
       data-onempty="show:#no-evidence" class="box cards border-" role="list" radius="0.5rem" flex gap="1rem">
       <figure role="listitem" gap="2rem" screen-xxs="flexdirection:[column];padding:[1rem]"
         screen-lg="flexdirection:[row];padding:[0]">

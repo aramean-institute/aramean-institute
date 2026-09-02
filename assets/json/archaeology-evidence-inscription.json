@@ -1247,6 +1247,50 @@
       ],
       "inscription_note": "Public object descriptions identify the name Bar-rakib, son of Panammu, but a verified object-specific transcription, transliteration, and published line layout for BM 134918 have not been confirmed; those fields remain pending.",
       "inscription_source_url": "https://artsandculture.google.com/asset/silver-ingot/RAH6TCzY0tKinA"
+    },
+    {
+      "evidence_id": 729,
+      "inscription_lines": [
+        {
+          "line_number": 1,
+          "original_script": "[transcription pending]",
+          "transliteration": "[transliteration pending]",
+          "english_translation": "The inscription is a dedication by Ahital to his father Baneith."
+        }
+      ],
+      "inscription_note": "The supplied public description identifies the text as a dedication by Ahital to his father Baneith, but a verified object-specific transcription, transliteration, and published line layout for AO 4824 / KAI 268 have not been confirmed. The English field is a concise catalogue summary, not a line-by-line translation.",
+      "inscription_source_url": "https://en.wikipedia.org/wiki/Serapeum_Offering_Table"
+    },
+    {
+      "evidence_id": 30,
+      "inscription_lines": [
+        {
+          "line_number": 1,
+          "original_script": "𐡀𐡋𐡄 𐡑𐡋𐡌𐡄 𐡆𐡉 𐡀𐡋𐡍𐡐 𐡁𐡓 𐡀𐡔𐡉",
+          "transliteration": "ʾLH ṢLMH ZY ʾLNP BR ʾŠY",
+          "english_translation": "These are the images of Elnap, son of ʾŠY."
+        },
+        {
+          "line_number": 2,
+          "original_script": "𐡄𐡅 𐡏𐡁𐡃 𐡋𐡍𐡐𐡔𐡄 𐡄𐡅𐡌𐡉𐡕𐡊",
+          "transliteration": "HW ʿBD LNPŠH HWMYTK",
+          "english_translation": "He made this for his funerary monument; I adjure you"
+        },
+        {
+          "line_number": 3,
+          "original_script": "𐡁𐡋 𐡅𐡍𐡁𐡅 𐡆𐡉 𐡀𐡓𐡇𐡀 𐡆𐡍𐡄",
+          "transliteration": "BL WNBW ZY ʾRḤʾ ZNH",
+          "english_translation": "by Bel and Nabu, whoever passes along this way,"
+        },
+        {
+          "line_number": 4,
+          "original_script": "𐡉𐡄𐡅𐡄 𐡏𐡃𐡄 𐡀𐡉𐡔 𐡀𐡋 𐡉𐡏𐡌𐡋",
+          "transliteration": "YHWH ʿDH ʾYŠ ʾL YʿML",
+          "english_translation": "let no one do harm [to the tomb]."
+        }
+      ],
+      "inscription_note": "The four-line transliteration and English rendering follow the public Daskyleion steles description and should be checked against the primary editions. The inscription has been interpreted as sepulchral, while earlier readings differed. The original-script cells are a normalized Unicode Imperial Aramaic rendering segmented to match the four-line transliteration; they are not a diplomatic facsimile of the stone.",
+      "inscription_source_url": "https://en.wikipedia.org/wiki/Daskyleion_steles"
     }
   ]
 }
