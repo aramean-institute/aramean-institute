@@ -102,22 +102,22 @@
     "related": [
       {
         "label": "Aram-Damascus",
-        "href": "research/geography/ancient/polity.html?name=Aram-Damascus",
+        "href": "research/geography/ancient/place.html?name=Aram-Damascus",
         "description": "Approximate Damascus and Barada reference."
       },
       {
         "label": "Hamath",
-        "href": "research/geography/ancient/polity.html?name=Hamath",
+        "href": "research/geography/ancient/place.html?name=Hamath",
         "description": "Orontes valley polity profile."
       },
       {
         "label": "Bit-Bahiani",
-        "href": "research/geography/ancient/polity.html?name=Bit-Bahiani",
+        "href": "research/geography/ancient/place.html?name=Bit-Bahiani",
         "description": "Khabur basin reference."
       },
       {
         "label": "Bit-Adini",
-        "href": "research/geography/ancient/polity.html?name=Bit-Adini",
+        "href": "research/geography/ancient/place.html?name=Bit-Adini",
         "description": "Euphrates valley reference."
       }
     ],
@@ -161,17 +161,17 @@
       },
       {
         "label": "Bit-Bahiani",
-        "href": "research/geography/ancient/polity.html?name=Bit-Bahiani",
+        "href": "research/geography/ancient/place.html?name=Bit-Bahiani",
         "description": "Khabur basin reference."
       },
       {
         "label": "Bet-Urhay",
-        "href": "research/geography/ancient/polity.html?name=Bet-Urhay",
+        "href": "research/geography/ancient/place.html?name=Bet-Urhay",
         "description": "Urhay/Edessa and Upper Mesopotamia."
       },
       {
         "label": "Bit-Yakini",
-        "href": "research/geography/ancient/polity.html?name=Bit-Yakini",
+        "href": "research/geography/ancient/place.html?name=Bit-Yakini",
         "description": "Southern Babylonian marshland reference."
       }
     ],
@@ -211,17 +211,17 @@
       },
       {
         "label": "Bit-Bahiani",
-        "href": "research/geography/ancient/polity.html?name=Bit-Bahiani",
+        "href": "research/geography/ancient/place.html?name=Bit-Bahiani",
         "description": "Khabur basin."
       },
       {
         "label": "Bet-Urhay",
-        "href": "research/geography/ancient/polity.html?name=Bet-Urhay",
+        "href": "research/geography/ancient/place.html?name=Bet-Urhay",
         "description": "Upper Mesopotamian urban reference."
       },
       {
         "label": "Bit-Dakkuri",
-        "href": "research/geography/ancient/polity.html?name=Bit-Dakkuri",
+        "href": "research/geography/ancient/place.html?name=Bit-Dakkuri",
         "description": "Central Babylonian reference."
       }
     ],
@@ -260,12 +260,12 @@
     "related": [
       {
         "label": "Aram-Zobah",
-        "href": "research/geography/ancient/polity.html?name=Zobah",
+        "href": "research/geography/ancient/place.html?name=Zobah",
         "description": "Beqaa Valley regional reconstruction."
       },
       {
         "label": "Beth-Rehob",
-        "href": "research/geography/ancient/polity.html?name=Beth-Rehob",
+        "href": "research/geography/ancient/place.html?name=Beth-Rehob",
         "description": "Upper Jordan and southern Beqaa reference."
       },
       {
@@ -310,12 +310,12 @@
       },
       {
         "label": "Geshur",
-        "href": "research/geography/ancient/polity.html?name=Geshur",
+        "href": "research/geography/ancient/place.html?name=Geshur",
         "description": "Approximate Golan and Sea of Galilee polity reference."
       },
       {
         "label": "Maacah",
-        "href": "research/geography/ancient/polity.html?name=Maacah",
+        "href": "research/geography/ancient/place.html?name=Maacah",
         "description": "Mount Hermon and southern Levant reference."
       }
     ],

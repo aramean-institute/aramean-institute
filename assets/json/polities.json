@@ -1,6 +1,8 @@
 {
   "Aram-Damascus": {
     "name": "Aram-Damasq",
+    "title": "Aram-Damasq",
+    "type": "Ancient polity",
     "region": "Aram Taḥtāyā",
     "capital": "Damasq",
     "modern_location": "Syria",
@@ -14,8 +16,6 @@
     "geography": {
       "description": "Centered on Damascus in modern Syria, Aram-Damascus is associated with the Barada River and a southern-Levantine setting; the mapped point is an approximate reference.",
       "short_description": "Aram-Damascus centered on Damascus and the Barada River in southern Syria and the southern Levant.",
-      "lat": 33.5138,
-      "lng": 36.2765,
       "waterways": [
         "Barada River"
       ],
@@ -27,6 +27,8 @@
   },
   "Zobah": {
     "name": "Aram-Zobah",
+    "title": "Aram-Zobah",
+    "type": "Ancient polity",
     "region": "Aram Taḥtāyā",
     "capital": "Unknown (possibly in the Beqaa Valley)",
     "modern_location": "Lebanon/Syria",
@@ -40,8 +42,6 @@
     "geography": {
       "description": "Aram-Zobah is conventionally placed in the Beqaa Valley region between the Lebanon and Anti-Lebanon mountains, near the Litani River; its capital and extent remain uncertain.",
       "short_description": "Aram-Zobah is conventionally placed in the Beqaa Valley between the Lebanon and Anti-Lebanon mountains near the Litani River.",
-      "lat": 34.2,
-      "lng": 36.5,
       "waterways": [
         "Litani River"
       ],
@@ -54,6 +54,8 @@
   },
   "Beth-Rehob": {
     "name": "Aram-Beth Rehob",
+    "title": "Aram-Beth Rehob",
+    "type": "Ancient polity",
     "region": "Aram Taḥtāyā",
     "capital": "Beth Rehob (location debated)",
     "modern_location": "Southern Lebanon / Northern Israel",
@@ -67,8 +69,6 @@
     "geography": {
       "description": "Beth-Rehob is commonly placed in the upper Jordan Valley or southern Beqaa region, near the Jordan River; its location and extent remain debated.",
       "short_description": "Beth-Rehob is commonly placed near the Jordan River in the upper Jordan Valley or southern Beqaa region.",
-      "lat": 33.0,
-      "lng": 35.6,
       "waterways": [
         "Jordan River"
       ],
@@ -81,6 +81,8 @@
   },
   "Maacah": {
     "name": "Aram-Maacah",
+    "title": "Aram-Maacah",
+    "type": "Ancient polity",
     "region": "Aram Taḥtāyā",
     "capital": "Abel-Beth-Maacah (possibly)",
     "modern_location": "Golan Heights / Southern Lebanon",
@@ -94,8 +96,6 @@
     "geography": {
       "description": "Aram-Maacah is associated with the Golan Heights and Mount Hermon area, near the Jordan River; its center and extent are uncertain.",
       "short_description": "Aram-Maacah is associated with the Golan Heights and Mount Hermon near the Jordan River.",
-      "lat": 33.1,
-      "lng": 36.2,
       "waterways": [
         "Jordan River"
       ],
@@ -108,6 +108,8 @@
   },
   "Geshur": {
     "name": "Geshur",
+    "title": "Geshur",
+    "type": "Ancient polity",
     "region": "Aram Taḥtāyā",
     "capital": "Et-Tell (possibly)",
     "modern_location": "Golan Heights, Israel/Syria",
@@ -121,8 +123,6 @@
     "geography": {
       "description": "Geshur is associated with the Golan Heights east of the Sea of Galilee, near the Jordan River and Sea of Galilee; Et-Tell is a possible center.",
       "short_description": "Geshur occupied the Golan Heights east of the Sea of Galilee near the Jordan River.",
-      "lat": 32.8,
-      "lng": 35.8,
       "waterways": [
         "Jordan River",
         "Sea of Galilee"
@@ -136,6 +136,8 @@
   },
   "Tob": {
     "name": "Tob",
+    "title": "Tob",
+    "type": "Ancient polity",
     "region": "Aram Taḥtāyā",
     "capital": "Unknown",
     "modern_location": "Northern Jordan / Southern Syria",
@@ -149,8 +151,6 @@
     "geography": {
       "description": "Tob is associated with a Transjordan setting near the Yarmouk River, but its exact location and extent remain debated.",
       "short_description": "Tob is associated with the Transjordan near the Yarmouk River, though its exact extent remains debated.",
-      "lat": 32.4,
-      "lng": 35.9,
       "waterways": [
         "Yarmouk River"
       ],
@@ -162,6 +162,8 @@
   },
   "Hamath": {
     "name": "Hamath",
+    "title": "Hamath",
+    "type": "Ancient polity",
     "region": "Aram ʿElyā",
     "capital": "Hama (modern Hama, Syria)",
     "modern_location": "Syria",
@@ -175,8 +177,6 @@
     "geography": {
       "description": "Hamath was centered at Hama on the Orontes River in central Syria; its mapped location is a regional reference near Luash, Bit-Agusi, and Aram-Damascus.",
       "short_description": "Hamath centered on Hama along the Orontes River in central Syria.",
-      "lat": 35.133333,
-      "lng": 36.75,
       "waterways": [
         "Orontes River"
       ],
@@ -189,6 +189,8 @@
   },
   "Luash": {
     "name": "Lu'ash",
+    "title": "Lu'ash",
+    "type": "Ancient polity",
     "region": "Aram ʿElyā",
     "capital": "Hazrek (Tell Afis)",
     "modern_location": "Syria (Idlib region)",
@@ -202,8 +204,6 @@
     "geography": {
       "description": "Luash is associated with Hazrek at Tell Afis in northern Syria's Idlib region, within the Orontes corridor; its relationship to Hamath changed over time.",
       "short_description": "Luash is associated with Hazrek at Tell Afis in the Orontes corridor of northern Syria.",
-      "lat": 35.905,
-      "lng": 36.798611,
       "waterways": [
         "Orontes River"
       ],
@@ -216,6 +216,8 @@
   },
   "Bit-Agusi": {
     "name": "Bit-Agusi",
+    "title": "Bit-Agusi",
+    "type": "Ancient polity",
     "region": "Aram ʿElyā",
     "capital": "Arpad (Tell Rifaat)",
     "modern_location": "Syria (north of Aleppo)",
@@ -229,8 +231,6 @@
     "geography": {
       "description": "Bit-Agusi was centered at Arpad (Tell Rifaat) north of Aleppo, near the Quweiq River; its mapped point is a regional reference for northern Syria.",
       "short_description": "Bit-Agusi centered on Arpad north of Aleppo near the Quweiq River in northern Syria.",
-      "lat": 36.4725,
-      "lng": 37.094722,
       "waterways": [
         "Quweiq River"
       ],
@@ -244,6 +244,8 @@
   },
   "Bit-Adini": {
     "name": "Bit-Adini",
+    "title": "Bit-Adini",
+    "type": "Ancient polity",
     "region": "Aram ʿElyā",
     "capital": "Til Barsip (Tell Ahmar)",
     "modern_location": "Syria (Euphrates region)",
@@ -257,8 +259,6 @@
     "geography": {
       "description": "Bit-Adini occupied territory on both banks of the Euphrates below Carchemish, centered at Til Barsip (Tell Ahmar); its mapped point is a regional reference.",
       "short_description": "Bit-Adini occupied both banks of the Euphrates below Carchemish, centered at Til Barsip.",
-      "lat": 36.7014,
-      "lng": 38.0865,
       "waterways": [
         "Euphrates River"
       ],
@@ -271,6 +271,8 @@
   },
   "Bit-Gabbar": {
     "name": "Bit-Gabbar",
+    "title": "Bit-Gabbar",
+    "type": "Ancient polity",
     "region": "Aram ʿElyā",
     "capital": "Sam'al (Zincirli)",
     "modern_location": "Turkey (Gaziantep Province)",
@@ -284,8 +286,6 @@
     "geography": {
       "description": "Bit-Gabbar was centered on Sam'al at Zincirli in southeastern Anatolia, near the Karasu River; its mapped point is a regional reference among northern Syrian and Anatolian polities.",
       "short_description": "Bit-Gabbar centered on Sam'al at Zincirli near the Karasu River in southeastern Anatolia.",
-      "lat": 37.1036,
-      "lng": 36.6786,
       "waterways": [
         "Karasu River"
       ],
@@ -298,6 +298,8 @@
   },
   "Pattin-Unqi": {
     "name": "ʿUmqā",
+    "title": "ʿUmqā",
+    "type": "Ancient polity",
     "etymology": "The name ʿUmqā is associated with the Aramaic root ʿ-m-q, meaning ‘deep’ or ‘depth’. It may refer to the low-lying Amuq plain or its geographical setting. This interpretation does not by itself establish the polity’s ethnic identity or prove how every ancient source named the region.",
     "region": "Aram ʿElyā",
     "capital": "Kunulua (Tell Tayinat)",
@@ -312,8 +314,6 @@
     "geography": {
       "description": "Pattin-Unqi was centered on Kunulua at Tell Tayinat in the Amuq Plain of southeastern Turkey, within the Orontes corridor; its cultural boundaries remain complex.",
       "short_description": "Pattin-Unqi centered on Kunulua in the Amuq Plain along the Orontes corridor of southeastern Turkey.",
-      "lat": 36.2475,
-      "lng": 36.376389,
       "waterways": [
         "Orontes River"
       ],
@@ -326,6 +326,8 @@
   },
   "Hatallu": {
     "name": "Hatallu",
+    "title": "Hatallu",
+    "type": "Ancient polity",
     "region": "Aram ʿElyā",
     "capital": "Unknown",
     "modern_location": "Turkey (southeastern Anatolia)",
@@ -339,8 +341,6 @@
     "geography": {
       "description": "Hatallu is represented as a poorly located polity in southeastern Anatolia, near Bit-Gabbar and Bit-Zamani; its mapped point is a broad approximation.",
       "short_description": "Hatallu is a poorly located polity in southeastern Anatolia near Bit-Gabbar and Bit-Zamani.",
-      "lat": 38.0,
-      "lng": 37.1,
       "waterways": [],
       "neighbors": [
         "Bit-Gabbar",
@@ -350,6 +350,8 @@
   },
   "Bit-Bahiani": {
     "name": "Bit-Bahiani",
+    "title": "Bit-Bahiani",
+    "type": "Ancient polity",
     "region": "Aram Nahrin",
     "capital": "Guzana (Tell Halaf)",
     "modern_location": "Syria (Al-Hasakah)",
@@ -363,8 +365,6 @@
     "geography": {
       "description": "Bit-Bahiani was centered on Guzana at Tell Halaf along the Khabur River in upper Mesopotamia; its mapped point is a regional reference among neighboring polities.",
       "short_description": "Bit-Bahiani centered on Guzana at Tell Halaf along the Khabur River in upper Mesopotamia.",
-      "lat": 36.826785,
-      "lng": 40.03967,
       "waterways": [
         "Khabur River"
       ],
@@ -378,6 +378,8 @@
   },
   "Bit-Zamani": {
     "name": "Bit-Zamani",
+    "title": "Bit-Zamani",
+    "type": "Ancient polity",
     "region": "Aram Nahrin",
     "capital": "Amida (modern Diyarbakır, possibly)",
     "modern_location": "Turkey (Diyarbakır region)",
@@ -391,8 +393,6 @@
     "geography": {
       "description": "Bit-Zamani is associated with the upper Tigris near Diyarbakır in southeastern Turkey; Amida is a possible center and the mapped point is approximate.",
       "short_description": "Bit-Zamani is associated with the upper Tigris near Diyarbakır in southeastern Turkey.",
-      "lat": 37.915315,
-      "lng": 40.240872,
       "waterways": [
         "Tigris River"
       ],
@@ -405,6 +405,8 @@
   },
   "Bit-Halupe": {
     "name": "Bit-Halupe",
+    "title": "Bit-Halupe",
+    "type": "Ancient polity",
     "region": "Aram Nahrin",
     "capital": "Unknown (on the Khabur River)",
     "modern_location": "Syria (Khabur region)",
@@ -418,8 +420,6 @@
     "geography": {
       "description": "Bit-Halupe is placed along the Khabur River in northeastern Syria, near Bit-Bahiani, Bit-Hadipe, and Laqe; its mapped point is a regional approximation.",
       "short_description": "Bit-Halupe lay along the Khabur River in northeastern Syria near Bit-Bahiani, Bit-Hadipe, and Laqe.",
-      "lat": 36.4,
-      "lng": 40.5,
       "waterways": [
         "Khabur River"
       ],
@@ -432,6 +432,8 @@
   },
   "Bit-Hadipe": {
     "name": "Bit-Hadipe",
+    "title": "Bit-Hadipe",
+    "type": "Ancient polity",
     "region": "Aram Nahrin",
     "capital": "Unknown",
     "modern_location": "Syria/Turkey (upper Mesopotamia)",
@@ -445,8 +447,6 @@
     "geography": {
       "description": "Bit-Hadipe is associated with the upper Mesopotamian Khabur corridor near Bit-Bahiani, Bit-Halupe, and Laqe; its center remains uncertain.",
       "short_description": "Bit-Hadipe is associated with the upper Mesopotamian Khabur corridor near Bit-Bahiani, Bit-Halupe, and Laqe.",
-      "lat": 36.3,
-      "lng": 40.2,
       "waterways": [
         "Khabur River"
       ],
@@ -459,6 +459,8 @@
   },
   "Laqe": {
     "name": "Laqe",
+    "title": "Laqe",
+    "type": "Ancient polity",
     "region": "Aram Nahrin",
     "capital": "Unknown (Middle Euphrates)",
     "modern_location": "Syria (Middle Euphrates)",
@@ -472,8 +474,6 @@
     "geography": {
       "description": "Laqe is associated with a Middle Euphrates corridor, near Bit-Halupe, Bit-Hadipe, Suhu, and Hindanu; its designation may describe both a group and a region.",
       "short_description": "Laqe is associated with the Middle Euphrates near Bit-Halupe, Bit-Hadipe, Suhu, and Hindanu.",
-      "lat": 34.7,
-      "lng": 40.7,
       "waterways": [
         "Euphrates River"
       ],
@@ -487,6 +487,8 @@
   },
   "Suhu": {
     "name": "Suhu",
+    "title": "Suhu",
+    "type": "Ancient polity",
     "region": "Aram Nahrin",
     "capital": "Unknown (Middle Euphrates)",
     "modern_location": "Iraq/Syria (Middle Euphrates)",
@@ -500,8 +502,6 @@
     "geography": {
       "description": "Suhu occupied a Middle Euphrates corridor between Laqe and Hindanu; its mapped location is a regional reference within a zone of mixed communities.",
       "short_description": "Suhu occupied a Middle Euphrates corridor between Laqe and Hindanu.",
-      "lat": 34.3722,
-      "lng": 41.9875,
       "waterways": [
         "Euphrates River"
       ],
@@ -513,6 +513,8 @@
   },
   "Hindanu": {
     "name": "Hindanu",
+    "title": "Hindanu",
+    "type": "Ancient polity",
     "region": "Aram Nahrin",
     "capital": "Hindanu (on the Middle Euphrates)",
     "modern_location": "Iraq (Middle Euphrates)",
@@ -526,8 +528,6 @@
     "geography": {
       "description": "Hindanu is associated with a Middle Euphrates location near Laqe, Suhu, and Bit-Yakini; its recorded position is a regional route reference.",
       "short_description": "Hindanu is associated with the Middle Euphrates near Laqe, Suhu, and Bit-Yakini.",
-      "lat": 34.0,
-      "lng": 42.5,
       "waterways": [
         "Euphrates River"
       ],
@@ -540,6 +540,8 @@
   },
   "Bit-Yakini": {
     "name": "Bit-Yakini",
+    "title": "Bit-Yakini",
+    "type": "Ancient polity",
     "region": "Bet Aramaye",
     "capital": "Dur-Yakini (location uncertain)",
     "modern_location": "Iraq (southern marshlands)",
@@ -553,8 +555,6 @@
     "geography": {
       "description": "Bit-Yakini is associated with the southern Babylonian marshlands and the Tigris-Euphrates zone; Dur-Yakini and the polity's exact extent remain uncertain.",
       "short_description": "Bit-Yakini is associated with the southern Babylonian marshlands in the Tigris-Euphrates zone.",
-      "lat": 31.3,
-      "lng": 46.0,
       "waterways": [
         "Euphrates River",
         "Tigris River"
@@ -569,6 +569,8 @@
   },
   "Bit-Dakkuri": {
     "name": "Bit-Dakkuri",
+    "title": "Bit-Dakkuri",
+    "type": "Ancient polity",
     "region": "Bet Aramaye",
     "capital": "Unknown (near Borsippa)",
     "modern_location": "Iraq (central Babylonia)",
@@ -582,8 +584,6 @@
     "geography": {
       "description": "Bit-Dakkuri is associated with central Babylonia near Borsippa and the Euphrates River; its mapped point is a broad regional reference.",
       "short_description": "Bit-Dakkuri is associated with central Babylonia near Borsippa and the Euphrates River.",
-      "lat": 32.5,
-      "lng": 44.4,
       "waterways": [
         "Euphrates River"
       ],
@@ -596,6 +596,8 @@
   },
   "Bit-Amukani": {
     "name": "Bit-Amukani",
+    "title": "Bit-Amukani",
+    "type": "Ancient polity",
     "region": "Bet Aramaye",
     "capital": "Unknown (between Nippur and Uruk)",
     "modern_location": "Iraq (central-southern Babylonia)",
@@ -609,8 +611,6 @@
     "geography": {
       "description": "Bit-Amukani is associated with southern Babylonia between Nippur and Uruk, near the Euphrates River; its territory is a broad historical-geographic reconstruction.",
       "short_description": "Bit-Amukani is associated with southern Babylonia between Nippur and Uruk near the Euphrates River.",
-      "lat": 31.75,
-      "lng": 45.4,
       "waterways": [
         "Euphrates River"
       ],
@@ -624,6 +624,8 @@
   },
   "Bit-Shilani": {
     "name": "Bit-Shilani",
+    "title": "Bit-Shilani",
+    "type": "Ancient polity",
     "region": "Bet Aramaye",
     "capital": "Unknown",
     "modern_location": "Iraq (Babylonia)",
@@ -637,8 +639,6 @@
     "geography": {
       "description": "Bit-Shilani is represented within a broad Babylonian setting near the Euphrates and Bit-Amukani; its center and extent are unknown.",
       "short_description": "Bit-Shilani is placed in a broad Babylonian setting near the Euphrates and Bit-Amukani.",
-      "lat": 33.7,
-      "lng": 44.5,
       "waterways": [
         "Euphrates River"
       ],
@@ -650,6 +650,8 @@
   },
   "Bit-Saalli": {
     "name": "Bit-Sa'alli",
+    "title": "Bit-Sa'alli",
+    "type": "Ancient polity",
     "region": "Bet Aramaye",
     "capital": "Unknown",
     "modern_location": "Iraq (Babylonia)",
@@ -663,8 +665,6 @@
     "geography": {
       "description": "Bit-Saalli is represented within a broad Babylonian setting near the Tigris River, between Bit-Shilani, Bit-Amukani, and Gambulu; its center is unknown.",
       "short_description": "Bit-Saalli is placed in a broad Babylonian setting near the Tigris between Bit-Shilani, Bit-Amukani, and Gambulu.",
-      "lat": 33.0,
-      "lng": 45.0,
       "waterways": [
         "Tigris River"
       ],
@@ -677,6 +677,8 @@
   },
   "Gambulu": {
     "name": "Gambulu",
+    "title": "Gambulu",
+    "type": "Ancient polity",
     "region": "Bet Aramaye",
     "capital": "Unknown (eastern Babylonia)",
     "modern_location": "Iraq (eastern Babylonia, near Elam)",
@@ -690,8 +692,6 @@
     "geography": {
       "description": "Gambulu is associated with eastern Babylonia near the Elamite border and the Tigris River; its mapped point is a broad regional reference.",
       "short_description": "Gambulu is associated with eastern Babylonia near the Elamite border and the Tigris River.",
-      "lat": 33.7,
-      "lng": 46.0,
       "waterways": [
         "Tigris River"
       ],
@@ -704,6 +704,8 @@
   },
   "Litau": {
     "name": "Litau",
+    "title": "Litau",
+    "type": "Ancient polity",
     "region": "Bet Aramaye",
     "capital": "Unknown",
     "modern_location": "Iraq (Babylonia)",
@@ -717,8 +719,6 @@
     "geography": {
       "description": "Litau is represented within a broad Babylonian setting near the Euphrates, between Bit-Dakkuri and Bit-Amukani; its center is unknown.",
       "short_description": "Litau is placed in a broad Babylonian setting near the Euphrates between Bit-Dakkuri and Bit-Amukani.",
-      "lat": 32.8,
-      "lng": 45.4,
       "waterways": [
         "Euphrates River"
       ],
@@ -730,6 +730,8 @@
   },
   "Puqudu": {
     "name": "Puqudu",
+    "title": "Puqudu",
+    "type": "Ancient polity",
     "region": "Bet Aramaye",
     "capital": "Unknown (near Uruk and the Tigris)",
     "modern_location": "Iraq (eastern/southern Babylonia)",
@@ -743,8 +745,6 @@
     "geography": {
       "description": "Puqudu is associated with eastern Babylonia along the Tigris near Uruk and the Elamite border; its mapped point is a broad regional reference.",
       "short_description": "Puqudu is associated with eastern Babylonia along the Tigris near Uruk and the Elamite border.",
-      "lat": 32.5,
-      "lng": 46.3,
       "waterways": [
         "Tigris River"
       ],
@@ -757,6 +757,8 @@
   },
   "Itua": {
     "name": "Itu'a",
+    "title": "Itu'a",
+    "type": "Ancient polity",
     "region": "Bet Aramaye",
     "capital": "Unknown",
     "modern_location": "Iraq (Babylonia)",
@@ -770,8 +772,6 @@
     "geography": {
       "description": "Itua is represented within a broad Babylonian setting near the Tigris and Puqudu, Railu, and Gambulu; its territory remains poorly understood.",
       "short_description": "Itua is placed in a broad Babylonian setting near the Tigris and the neighboring polities Puqudu, Railu, and Gambulu.",
-      "lat": 32.8,
-      "lng": 45.4,
       "waterways": [
         "Tigris River"
       ],
@@ -784,6 +784,8 @@
   },
   "Railu": {
     "name": "Ra'ilu",
+    "title": "Ra'ilu",
+    "type": "Ancient polity",
     "region": "Bet Aramaye",
     "capital": "Unknown",
     "modern_location": "Iraq (Babylonia)",
@@ -797,8 +799,6 @@
     "geography": {
       "description": "Railu is represented within a broad Babylonian setting near the Tigris and Puqudu, Itua, and Gambulu; its center is unknown.",
       "short_description": "Railu is placed in a broad Babylonian setting near the Tigris and Puqudu, Itua, and Gambulu.",
-      "lat": 33.0,
-      "lng": 45.8,
       "waterways": [
         "Tigris River"
       ],
@@ -811,6 +811,8 @@
   },
   "Bet-Urhay": {
     "name": "Bet-Urhay",
+    "title": "Bet-Urhay",
+    "type": "Ancient polity",
     "region": "Aram Nahrin",
     "capital": "Urhay (Edessa)",
     "modern_location": "Turkey (Şanlıurfa)",
@@ -824,8 +826,6 @@
     "geography": {
       "description": "Bet-Urhay refers to Urhay/Edessa in Upper Mesopotamia, associated with the Balikh River and the Osroene-period urban center; the mapped point identifies the city rather than a wider territory.",
       "short_description": "Bet-Urhay refers to Urhay/Edessa in Upper Mesopotamia near the Balikh River and the Osroene-period urban center.",
-      "lat": 37.16708,
-      "lng": 38.793919,
       "waterways": [
         "Balikh River"
       ],
@@ -834,203 +834,6 @@
         "Bit-Zamani",
         "Bit-Halupe"
       ]
-    }
-  },
-  "map": {
-    "Aram-Damascus": {
-      "lat": 33.5138,
-      "lng": 36.2765,
-      "precision": "regional approximation"
-    },
-    "Zobah": {
-      "lat": 34.2,
-      "lng": 36.5,
-      "precision": "broad regional approximation"
-    },
-    "Beth-Rehob": {
-      "lat": 33.0,
-      "lng": 35.6,
-      "precision": "broad regional approximation"
-    },
-    "Maacah": {
-      "lat": 33.1,
-      "lng": 36.2,
-      "precision": "broad regional approximation"
-    },
-    "Geshur": {
-      "lat": 32.8,
-      "lng": 35.8,
-      "precision": "broad regional approximation"
-    },
-    "Tob": {
-      "lat": 32.4,
-      "lng": 35.9,
-      "precision": "broad regional approximation"
-    },
-    "Hamath": {
-      "lat": 35.133333,
-      "lng": 36.75,
-      "precision": "regional approximation"
-    },
-    "Luash": {
-      "lat": 35.905,
-      "lng": 36.798611,
-      "precision": "regional approximation"
-    },
-    "Bit-Agusi": {
-      "lat": 36.4725,
-      "lng": 37.094722,
-      "precision": "regional approximation"
-    },
-    "Bit-Adini": {
-      "lat": 36.7014,
-      "lng": 38.0865,
-      "precision": "regional approximation"
-    },
-    "Bit-Gabbar": {
-      "lat": 37.1036,
-      "lng": 36.6786,
-      "precision": "regional approximation"
-    },
-    "Pattin-Unqi": {
-      "lat": 36.2475,
-      "lng": 36.376389,
-      "precision": "regional approximation"
-    },
-    "Hatallu": {
-      "lat": 38.0,
-      "lng": 37.1,
-      "precision": "broad regional approximation"
-    },
-    "Bit-Bahiani": {
-      "lat": 36.826785,
-      "lng": 40.03967,
-      "precision": "regional approximation"
-    },
-    "Bit-Zamani": {
-      "lat": 37.915315,
-      "lng": 40.240872,
-      "precision": "regional approximation"
-    },
-    "Bit-Halupe": {
-      "lat": 36.4,
-      "lng": 40.5,
-      "precision": "broad regional approximation"
-    },
-    "Bit-Hadipe": {
-      "lat": 36.3,
-      "lng": 40.2,
-      "precision": "broad regional approximation"
-    },
-    "Laqe": {
-      "lat": 34.7,
-      "lng": 40.7,
-      "precision": "broad regional approximation"
-    },
-    "Suhu": {
-      "lat": 34.3722,
-      "lng": 41.9875,
-      "precision": "broad regional approximation"
-    },
-    "Hindanu": {
-      "lat": 34.0,
-      "lng": 42.5,
-      "precision": "broad regional approximation"
-    },
-    "Bet-Urhay": {
-      "lat": 37.16708,
-      "lng": 38.793919,
-      "precision": "regional approximation"
-    },
-    "Bit-Yakini": {
-      "lat": 31.3,
-      "lng": 46.0,
-      "precision": "broad regional approximation"
-    },
-    "Bit-Dakkuri": {
-      "lat": 32.5,
-      "lng": 44.4,
-      "precision": "broad regional approximation"
-    },
-    "Bit-Amukani": {
-      "lat": 31.75,
-      "lng": 45.4,
-      "precision": "broad regional approximation"
-    },
-    "Bit-Shilani": {
-      "lat": 33.7,
-      "lng": 44.5,
-      "precision": "broad regional approximation"
-    },
-    "Bit-Saalli": {
-      "lat": 33.0,
-      "lng": 45.0,
-      "precision": "broad regional approximation"
-    },
-    "Gambulu": {
-      "lat": 33.7,
-      "lng": 46.0,
-      "precision": "broad regional approximation"
-    },
-    "Litau": {
-      "lat": 32.8,
-      "lng": 45.4,
-      "precision": "broad regional approximation"
-    },
-    "Puqudu": {
-      "lat": 32.5,
-      "lng": 46.3,
-      "precision": "broad regional approximation"
-    },
-    "Itua": {
-      "lat": 32.8,
-      "lng": 45.4,
-      "precision": "broad regional approximation"
-    },
-    "Railu": {
-      "lat": 33.0,
-      "lng": 45.8,
-      "precision": "broad regional approximation"
-    },
-    "Adile": {
-      "lat": 36.3,
-      "lng": 40.2,
-      "precision": "disputed broad regional approximation"
-    },
-    "Bit-Kapsi": {
-      "lat": 36.3,
-      "lng": 40.2,
-      "precision": "disputed broad regional approximation"
-    },
-    "Gibre": {
-      "lat": 36.3,
-      "lng": 40.2,
-      "precision": "disputed broad regional approximation"
-    },
-    "Gurumu": {
-      "lat": 36.3,
-      "lng": 40.2,
-      "precision": "disputed broad regional approximation"
-    },
-    "Hagaranu": {
-      "lat": 36.3,
-      "lng": 40.2,
-      "precision": "disputed broad regional approximation"
-    },
-    "Nabatu": {
-      "lat": 36.3,
-      "lng": 40.2,
-      "precision": "disputed broad regional approximation"
-    },
-    "Ruua": {
-      "lat": 36.3,
-      "lng": 40.2,
-      "precision": "disputed broad regional approximation"
-    },
-    "Ubidu": {
-      "lat": 36.3,
-      "lng": 40.2,
-      "precision": "disputed broad regional approximation"
     }
   }
 }
