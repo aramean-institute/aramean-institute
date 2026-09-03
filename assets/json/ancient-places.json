@@ -1569,5 +1569,51 @@
     "related": [],
     "published": "2026-08-16",
     "updated": "2026-08-16"
+  },
+  "Paddan-Aram": {
+    "title": "Paddan Aram",
+    "category": "Textual ancient region",
+    "type": "Biblical geographic region; exact extent uncertain",
+    "region": "Aram Nahrin / Upper Mesopotamia",
+    "modern_location": "Broad Harran and upper Euphrates region; exact extent uncertain",
+    "period": "Biblical textual tradition; historical setting debated",
+    "geography": {
+      "description": "Paddan-Aram is a geographic name in the biblical traditions, commonly associated with northern Mesopotamia around Harran and the upper Euphrates. It is treated here as a textual regional reference rather than as a securely bounded kingdom, city, or archaeological site.",
+      "precision": "broad biblical-geography reference only; association with northern Mesopotamia is common, but the extent and exact location remain debated"
+    },
+    "sections": [
+      {
+        "heading": "Textual Regional Setting",
+        "body": "Paddan-Aram appears in biblical narratives as a northern Mesopotamian setting associated with the ancestral and family traditions surrounding Harran. The name should be read as a textual geographic designation whose historical geography is reconstructed from literary context rather than from a surveyed boundary."
+      },
+      {
+        "heading": "Relation to Harran and Aram Nahrin",
+        "body": "The proposed association with Harran places Paddan-Aram within the wider Upper Mesopotamian landscape of the Balikh, Euphrates, and northern Syrian corridors. This regional relationship does not establish that Paddan-Aram was identical with Harran, Aram Nahrin, or any one ancient polity."
+      },
+      {
+        "heading": "Geographic Uncertainty",
+        "body": "Paddan-Aram has no securely identified archaeological center or fixed territorial boundary in the present catalogue. The marker indicates a broad reference zone only and should not be used to infer a political extent, a uniform population, or a single historical identity."
+      }
+    ],
+    "note": "Paddan-Aram is presented as a cautious biblical geographic region associated with northern Mesopotamia and the Harran area. Its name, extent, and relationship to later regional labels remain subject to source-critical interpretation.",
+    "related": [
+      {
+        "label": "Harran",
+        "href": "research/geography/ancient/place.html?name=Harran",
+        "description": "Upper Mesopotamian city and plain commonly associated with the proposed Paddan-Aram setting."
+      },
+      {
+        "label": "Nahor",
+        "href": "research/geography/ancient/place.html?name=Nahor",
+        "description": "Textual Upper Mesopotamian place-name in the wider Harran regional discussion."
+      },
+      {
+        "label": "Aram Nahrin",
+        "href": "research/geography/occupied/region.html?name=Beth-Nahrain",
+        "description": "Broader Two Rivers geographic framework; not an exact identification of Paddan-Aram."
+      }
+    ],
+    "published": "2026-08-30",
+    "updated": "2026-08-30"
   }
 }

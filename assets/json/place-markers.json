@@ -512,20 +512,6 @@
     "label": "Kir"
   },
   {
-    "name": "Rehob-Beth-Rehob",
-    "lat": 33.0,
-    "lng": 35.6,
-    "symbol": "circle",
-    "color": "#0072B2",
-    "borderColor": "#ffeaa7",
-    "precision": "broad regional reference only; Beth-Rehob is commonly placed near the upper Jordan Valley or southern Beqaa, but its location remains debated",
-    "tags": ["region", "ancient"],
-    "settlementType": "city",
-    "labelSize": "11px",
-    "symbolSize": 6,
-    "label": "Beth-Rehob"
-  },
-  {
     "name": "Aphiq-Fiq",
     "lat": 32.7789,
     "lng": 35.7006,
@@ -901,18 +887,6 @@
     "label": "Aram-Damasq"
   },
   {
-    "name": "Aram-Zobah",
-    "lat": 34.2,
-    "lng": 36.5,
-    "labelColor": "rgba(0,0,0, .15)",
-    "labelSize": "13px",
-    "precision": "approximate polity-center reference only; Aram-Zobah was an ancient Aramean-associated polity, but its extent and exact location remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "Levant"],
-    "settlementType": "region",
-    "symbolSize": 30,
-    "label": "Aram-Zobah"
-  },
-  {
     "name": "Hamath",
     "lat": 35.133333,
     "lng": 36.75,
@@ -934,17 +908,6 @@
     "tags": ["region", "ancient", "polity", "Aramean-associated", "Upper-Mesopotamia"],
     "settlementType": "region",
     "label": "Laqe"
-  },
-  {
-    "name": "Aram-Maacah",
-    "lat": 33.1,
-    "lng": 36.2,
-    "labelColor": "rgba(0,0,0, .15)",
-    "labelSize": "13px",
-    "precision": "approximate regional reference only; Aram-Maacah was an ancient Aramean-associated polity near the Golan Heights and Mount Hermon, but its center and extent remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "Levant"],
-    "settlementType": "region",
-    "label": "Aram-Maacah"
   },
   {
     "name": "Tob",
@@ -1058,5 +1021,21 @@
     "tags": ["region", "historic-heartland", "modern-geography", "Upper-Mesopotamia", "Turkey"],
     "settlementType": "region",
     "label": "Tur Abdin"
-  }
+  },
+  {"name":"Bet-Urhay","lat":37.16708,"lng":38.793919,"labelColor":"rgba(0,0,0, .15)","precision":"approximate polity-center reference only; Bet-Urhay is associated with Urhay/Edessa, but its extent and relationship to the later city remain debated; no boundaries shown","tags":["region","ancient","polity","Upper-Mesopotamia"],"settlementType":"region","label":"Bet-Urhay"},
+  {"name":"Beth-Rehob","lat":33.0,"lng":35.6,"labelColor":"rgba(0,0,0, .15)","precision":"broad regional reference only; Beth-Rehob is commonly placed near the upper Jordan Valley or southern Beqaa, but its center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Levant"],"settlementType":"region","label":"Beth-Rehob"},
+  {"name":"Bit-Amukani","lat":31.75,"lng":45.4,"labelColor":"rgba(0,0,0, .15)","precision":"broad southern-Babylonian regional proxy only; Bit-Amukani is associated with the Euphrates between Nippur and Uruk, but its center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Bit-Amukani"},
+  {"name":"Bit-Dakkuri","lat":32.5,"lng":44.4,"labelColor":"rgba(0,0,0, .15)","precision":"broad central-Babylonian regional proxy only; Bit-Dakkuri is associated with the Euphrates near Borsippa, but its center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Bit-Dakkuri"},
+  {"name":"Bit-Hadipe","lat":36.3,"lng":40.2,"labelColor":"rgba(0,0,0, .15)","precision":"broad upper-Mesopotamian regional proxy only; Bit-Hadipe is associated with the Khabur corridor, but its center and extent remain uncertain; no boundaries shown","tags":["region","ancient","polity","Khabur"],"settlementType":"region","label":"Bit-Hadipe"},
+  {"name":"Bit-Saalli","lat":33.0,"lng":45.0,"labelColor":"rgba(0,0,0, .15)","precision":"broad Babylonian regional proxy only; Bit-Saalli is associated with the Tigris and eastern Babylonia, but its center and extent remain uncertain; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Bit-Saalli"},
+  {"name":"Bit-Shilani","lat":33.7,"lng":44.5,"labelColor":"rgba(0,0,0, .15)","precision":"broad Babylonian regional proxy only; Bit-Shilani is associated with the Euphrates and central Babylonia, but its center and extent remain uncertain; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Bit-Shilani"},
+  {"name":"Bit-Yakini","lat":31.3,"lng":46.0,"labelColor":"rgba(0,0,0, .15)","precision":"broad southern-Babylonian regional proxy only; Bit-Yakini is associated with the Tigris-Euphrates marshlands, but its center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Bit-Yakini"},
+  {"name":"Gambulu","lat":33.7,"lng":46.0,"labelColor":"rgba(0,0,0, .15)","precision":"broad eastern-Babylonian regional proxy only; Gambulu is associated with the Tigris and the Elamite border, but its center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Gambulu"},
+  {"name":"Hatallu","lat":38.0,"lng":37.1,"labelColor":"rgba(0,0,0, .15)","precision":"broad southeastern-Anatolian regional proxy only; Hatallu is poorly located in the available record and its center and extent remain uncertain; no boundaries shown","tags":["region","ancient","polity","Aram-Elya"],"settlementType":"region","label":"Hatallu"},
+  {"name":"Litau","lat":32.8,"lng":45.4,"labelColor":"rgba(0,0,0, .15)","precision":"broad Babylonian regional proxy only; Litau is associated with the Euphrates and the Bet Aramaye setting, but its center and extent remain uncertain; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Litau"},
+  {"name":"Maacah","lat":33.1,"lng":36.2,"labelColor":"rgba(0,0,0, .15)","precision":"broad southern-Levantine regional proxy only; Aram-Maacah is associated with the Golan Heights and Mount Hermon, but its center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Levant"],"settlementType":"region","label":"Aram-Maacah"},
+  {"name":"Pattin-Unqi","lat":36.2475,"lng":36.3764,"labelColor":"rgba(0,0,0, .15)","precision":"approximate Amuq-plain polity-center reference only; Pattin/Unqi was associated with Kunulua, but its extent and cultural boundaries remain debated; no boundaries shown","tags":["region","ancient","polity","Amuq"],"settlementType":"region","label":"ʿUmqā"},
+  {"name":"Puqudu","lat":32.5,"lng":46.3,"labelColor":"rgba(0,0,0, .15)","precision":"broad eastern-Babylonian regional proxy only; Puqudu is associated with the Tigris and the Elamite border, but its center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Puqudu"},
+  {"name":"Railu","lat":33.0,"lng":45.8,"labelColor":"rgba(0,0,0, .15)","precision":"broad Babylonian regional proxy only; Ra'ilu is associated with the Bet Aramaye setting, but its center and extent remain uncertain; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Ra'ilu"},
+  {"name":"Zobah","lat":34.2,"lng":36.5,"labelColor":"rgba(0,0,0, .15)","precision":"broad Beqaa and southern-Levantine regional proxy only; Aram-Zobah's center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Levant","biblical-geography"],"settlementType":"region","label":"Aram-Zobah"}
 ]
