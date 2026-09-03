@@ -1,5 +1,5 @@
 <section class="h100 bcred white dac">
-  <nav class="slider tshade1 dc gap05-" data-iterate="articles" data-src="assets/json/articles.json">
+  <nav class="slider tshade1 dc gap05-" data-iterate="articles" data-src="assets/json/articles.json" data-limit="6">
     <div class="sl" skip><a><i class="icon64 bcblack02 d0">&#706;</i></a></div>
     <input type="radio" name="slider" data-set="id:id" id="slide{id}" onifdata-set="([{id}]:[1])/setattr:[checked]">
     <label data-set="id:id" for="slide{id}" class="footer icon24 pb1">&#9679;</label>
@@ -25,7 +25,7 @@
     <h2 class="tac" margintop="0.5rem" marginbottom="1rem">Publications</h2>
     <div screen-xxs="gridcolumns:[1fr]" screen-lg="gridcolumns:[1fr 1fr]" screen-xl="gridcolumns:[1fr 1fr 1fr]"
       screen-wide="gridcolumns:[1fr 1fr 1fr 1fr]" radius="0.5rem" screen-xxs="gap:[0]" screen-lg="gap:[0.5rem]"
-      class="box cards m1- bcwhite- border- bo0- tac" data-src="assets/json/articles.json" data-iterate="articles">
+      class="box cards m1- bcwhite- border- bo0- tac" data-src="assets/json/articles.json" data-limit="6" data-iterate="articles">
       <figure class="shade0" bgcolor="white" padding="1.25rem">
         <a data-set="link:link" href="{link}">
           <img data-set="t:thumbnail"
