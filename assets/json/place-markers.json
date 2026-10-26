@@ -7,7 +7,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; modern Altınbaşak mound",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -21,7 +24,10 @@
     "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; identification uncertain",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "town",
     "labelSize": "10px",
     "symbolSize": 5,
@@ -35,7 +41,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Urfa citadel/city center",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -49,7 +58,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; Gidara/Raqamatu identification and modern location uncertain",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -63,7 +75,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact archaeological-site reference; Tell Halaf mound",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -77,7 +92,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact archaeological-site reference; Tell Ahmar mound",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -91,7 +109,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; ancient city center / Umayyad Mosque area",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -105,7 +126,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Citadel mound of Hama",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -119,7 +143,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Tell Rifaat mound",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -133,7 +160,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Zincirli Höyük mound",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -147,7 +177,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Tell Tayinat mound",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -161,7 +194,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Tell Afis mound",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -175,7 +211,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Diyarbakır Fortress/citadel",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -189,7 +228,10 @@
     "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; modern Ribleh/ancient tell",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "town",
     "labelSize": "10px",
     "symbolSize": 5,
@@ -203,7 +245,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact archaeological-site reference; Arslan Tash mound",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "10px",
     "symbolSize": 5,
@@ -217,7 +262,10 @@
     "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; ancient island/bank site at Anah",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "town",
     "labelSize": "10px",
     "symbolSize": 5,
@@ -231,7 +279,10 @@
     "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "exact archaeological-site reference; et-Tell site",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "town",
     "labelSize": "10px",
     "symbolSize": 5,
@@ -245,7 +296,10 @@
     "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "exact archaeological-site reference; Tell Fekheriye mound (Sikkan)",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "town",
     "labelSize": "10px",
     "symbolSize": 5,
@@ -259,7 +313,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Tell Aran mound",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -273,7 +330,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Manbij urban center",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -287,7 +347,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Nusaybin historical center",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -301,7 +364,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Citadel of Aleppo",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -315,7 +381,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Palmyra archaeological ruins",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -329,7 +398,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Tell Qarqur mound",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -343,7 +415,13 @@
     "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "illustrative central-Syrian proxy only; Sibraim is named in Ezekiel 47:16 between Damascus and Hamath, but its identification and exact location remain uncertain",
-    "tags": ["place", "ancient", "biblical-textual", "Aramean-associated", "Central-Syria"],
+    "tags": [
+      "place",
+      "ancient",
+      "biblical-textual",
+      "Aramean-associated",
+      "Central-Syria"
+    ],
     "settlementType": "town",
     "labelSize": "10px",
     "symbolSize": 5,
@@ -357,7 +435,10 @@
     "color": "#009E73",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; al-Nayrab site",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "village",
     "labelSize": "10px",
     "symbolSize": 4,
@@ -371,7 +452,10 @@
     "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; As-Safira tell site",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "town",
     "labelSize": "10px",
     "symbolSize": 5,
@@ -385,7 +469,10 @@
     "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "approximate site reference near Sajur River confluence (Tell Qetne)",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "town",
     "labelSize": "10px",
     "symbolSize": 5,
@@ -399,7 +486,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact archaeological-site reference; Tell Abil el-Qameh",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -413,7 +503,12 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact archaeological-site reference; Tell Ramith mound",
-    "tags": ["place", "ancient", "fortress", "border-site"],
+    "tags": [
+      "place",
+      "ancient",
+      "fortress",
+      "border-site"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -427,7 +522,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; exact location in Beqaa Valley uncertain",
-    "tags": ["region", "ancient"],
+    "tags": [
+      "region",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -441,7 +539,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; Suru/Tell Fiden identification and exact site coordinate remain uncertain",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -455,7 +556,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact archaeological-site reference; Tell Ashara (Terqa/Sirqu)",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -469,7 +573,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact archaeological-site reference; Karkamış citadel mound",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -483,7 +590,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate modern reference; ancient Helbon and modern Halbun identification and anti-Lebanon setting should be treated cautiously",
-    "tags": ["region", "ancient"],
+    "tags": [
+      "region",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -496,7 +606,10 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "14px",
     "precision": "broad regional reference only; Geshur's political center and extent remain uncertain; et-Tell/Bethsaida is a possible associated center",
-    "tags": ["region", "ancient"],
+    "tags": [
+      "region",
+      "ancient"
+    ],
     "settlementType": "region",
     "label": "Geshur"
   },
@@ -507,7 +620,12 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "14px",
     "precision": "illustrative proxy near the proposed Ihi Dekirah/Hīt area; other proposals place Kir in eastern Mesopotamia, Susiana, or ancient Armenia; the biblical location remains uncertain; no boundaries shown",
-    "tags": ["region", "ancient", "biblical-geography", "Aramean-associated"],
+    "tags": [
+      "region",
+      "ancient",
+      "biblical-geography",
+      "Aramean-associated"
+    ],
     "settlementType": "region",
     "label": "Kir"
   },
@@ -519,7 +637,10 @@
     "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Fiq village site / Tell Sorag",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "town",
     "labelSize": "10px",
     "symbolSize": 5,
@@ -533,7 +654,10 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "broad regional reference only; Kun/Chun and Berothai/Berothah identification and exact location uncertain; associated with Aram-Zobah",
-    "tags": ["region", "ancient"],
+    "tags": [
+      "region",
+      "ancient"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -547,7 +671,10 @@
     "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Tell Qarnine mound in Orontes Valley",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "town",
     "labelSize": "10px",
     "symbolSize": 5,
@@ -561,7 +688,10 @@
     "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Tell Abda mound in Khabur basin",
-    "tags": ["place", "ancient"],
+    "tags": [
+      "place",
+      "ancient"
+    ],
     "settlementType": "town",
     "labelSize": "10px",
     "symbolSize": 5,
@@ -575,7 +705,15 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact archaeological-site reference; Tell el-Mishrife mound",
-    "tags": ["place", "ancient", "city", "archaeological-site", "Bronze-Age", "pre-Aramean", "Syria"],
+    "tags": [
+      "place",
+      "ancient",
+      "city",
+      "archaeological-site",
+      "Bronze-Age",
+      "pre-Aramean",
+      "Syria"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -589,7 +727,14 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "approximate Seleucia-Ctesiphon urban-region reference; offset to distinguish from Ctesiphon core",
-    "tags": ["place", "ancient", "textual", "Beth-Aramaye", "Lower-Mesopotamia", "Iraq"],
+    "tags": [
+      "place",
+      "ancient",
+      "textual",
+      "Beth-Aramaye",
+      "Lower-Mesopotamia",
+      "Iraq"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -603,7 +748,14 @@
     "color": "#009E73",
     "borderColor": "#ffeaa7",
     "precision": "broad Seleucia-Ctesiphon regional reference; offset to distinguish from Ctesiphon core",
-    "tags": ["place", "ancient", "textual", "Beth-Aramaye", "Lower-Mesopotamia", "Iraq"],
+    "tags": [
+      "place",
+      "ancient",
+      "textual",
+      "Beth-Aramaye",
+      "Lower-Mesopotamia",
+      "Iraq"
+    ],
     "settlementType": "village",
     "labelSize": "10px",
     "symbolSize": 4,
@@ -617,7 +769,14 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "broad Wasit-al-Kut regional reference; exact Kashkar identification uncertain",
-    "tags": ["place", "ancient", "bishopric", "Beth-Aramaye", "Central-Mesopotamia", "Iraq"],
+    "tags": [
+      "place",
+      "ancient",
+      "bishopric",
+      "Beth-Aramaye",
+      "Central-Mesopotamia",
+      "Iraq"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -631,7 +790,15 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; al-Hira archaeological site south of Kufa",
-    "tags": ["place", "ancient", "city", "bishopric", "Beth-Aramaye", "Lower-Mesopotamia", "Iraq"],
+    "tags": [
+      "place",
+      "ancient",
+      "city",
+      "bishopric",
+      "Beth-Aramaye",
+      "Lower-Mesopotamia",
+      "Iraq"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -645,7 +812,15 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; Tell al-Anbar ruins near Saqlawiyah",
-    "tags": ["place", "ancient", "city", "bishopric", "Beth-Aramaye", "Middle-Euphrates", "Iraq"],
+    "tags": [
+      "place",
+      "ancient",
+      "city",
+      "bishopric",
+      "Beth-Aramaye",
+      "Middle-Euphrates",
+      "Iraq"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -656,7 +831,14 @@
     "lat": 33.12,
     "lng": 45.94,
     "precision": "broad Badra-Tell al-Aqr reference; Beth Daraye identification and boundaries debated",
-    "tags": ["region", "district", "bishopric", "Beth-Aramaye", "Central-Mesopotamia", "Iraq"],
+    "tags": [
+      "region",
+      "district",
+      "bishopric",
+      "Beth-Aramaye",
+      "Central-Mesopotamia",
+      "Iraq"
+    ],
     "settlementType": "region",
     "label": "Beth-Daraye",
     "labelColor": "rgba(0,0,0, .15)"
@@ -667,7 +849,14 @@
     "lng": 45.2,
     "borderColor": "transparent",
     "precision": "broad central Iraq reference only; Zawabi location uncertain",
-    "tags": ["region", "district", "bishopric", "Beth-Aramaye", "Central-Mesopotamia", "Iraq"],
+    "tags": [
+      "region",
+      "district",
+      "bishopric",
+      "Beth-Aramaye",
+      "Central-Mesopotamia",
+      "Iraq"
+    ],
     "settlementType": "region",
     "label": "Beth-Zawabe",
     "labelColor": "rgba(0,0,0, .15)"
@@ -680,7 +869,14 @@
     "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "exact archaeological-site reference; Veh-Ardashir / Kokhe church site south of Ctesiphon",
-    "tags": ["place", "ancient", "settlement", "Beth-Aramaye", "Lower-Mesopotamia", "Iraq"],
+    "tags": [
+      "place",
+      "ancient",
+      "settlement",
+      "Beth-Aramaye",
+      "Lower-Mesopotamia",
+      "Iraq"
+    ],
     "settlementType": "town",
     "labelSize": "10px",
     "symbolSize": 5,
@@ -694,7 +890,13 @@
     "color": "grey",
     "borderColor": "#ffeaa7",
     "precision": "territorial offset proxy relative to Guzana/Bit-Bahiani center",
-    "tags": ["place", "ancient", "Aramean-associated", "Guzana", "Bit-Bahiani"],
+    "tags": [
+      "place",
+      "ancient",
+      "Aramean-associated",
+      "Guzana",
+      "Bit-Bahiani"
+    ],
     "settlementType": "hamlet",
     "labelSize": "10px",
     "symbolSize": 4,
@@ -710,7 +912,12 @@
     "color": "grey",
     "borderColor": "#ffeaa7",
     "precision": "territorial proxy offset; exact site unknown; associated with Aramaic 'kapru'",
-    "tags": ["place", "ancient", "Aramean-associated", "Aramaic-name"],
+    "tags": [
+      "place",
+      "ancient",
+      "Aramean-associated",
+      "Aramaic-name"
+    ],
     "settlementType": "hamlet",
     "labelSize": "10px",
     "symbolSize": 4,
@@ -726,7 +933,12 @@
     "color": "gray",
     "borderColor": "#ffeaa7",
     "precision": "territorial proxy offset; exact site unknown; Bēt element indicates estate/house",
-    "tags": ["place", "ancient", "Aramean-associated", "Aramaic-name"],
+    "tags": [
+      "place",
+      "ancient",
+      "Aramean-associated",
+      "Aramaic-name"
+    ],
     "settlementType": "hamlet",
     "labelSize": "10px",
     "symbolSize": 4,
@@ -742,7 +954,13 @@
     "color": "#0072B2",
     "borderColor": "#ffeaa7",
     "precision": "exact place reference; modern Dabiq tell in northern Syria",
-    "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "Neo-Assyrian-annals"],
+    "tags": [
+      "place",
+      "ancient",
+      "Aramean-associated",
+      "Bit-Adini",
+      "Neo-Assyrian-annals"
+    ],
     "settlementType": "city",
     "labelSize": "11px",
     "symbolSize": 6,
@@ -756,7 +974,13 @@
     "color": "#009E73",
     "borderColor": "#ffeaa7",
     "precision": "territorial proxy offset in Bit-Adini; exact site unknown",
-    "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "Neo-Assyrian-annals"],
+    "tags": [
+      "place",
+      "ancient",
+      "Aramean-associated",
+      "Bit-Adini",
+      "Neo-Assyrian-annals"
+    ],
     "settlementType": "village",
     "labelSize": "10px",
     "symbolSize": 4,
@@ -770,7 +994,13 @@
     "color": "#009E73",
     "borderColor": "#ffeaa7",
     "precision": "territorial proxy offset in Bit-Adini; exact site unknown",
-    "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "Neo-Assyrian-annals"],
+    "tags": [
+      "place",
+      "ancient",
+      "Aramean-associated",
+      "Bit-Adini",
+      "Neo-Assyrian-annals"
+    ],
     "settlementType": "village",
     "labelSize": "10px",
     "symbolSize": 4,
@@ -784,7 +1014,13 @@
     "color": "#009E73",
     "borderColor": "#ffeaa7",
     "precision": "territorial proxy offset in Bit-Adini; exact site unknown",
-    "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "Neo-Assyrian-annals"],
+    "tags": [
+      "place",
+      "ancient",
+      "Aramean-associated",
+      "Bit-Adini",
+      "Neo-Assyrian-annals"
+    ],
     "settlementType": "village",
     "labelSize": "10px",
     "symbolSize": 4,
@@ -798,7 +1034,14 @@
     "color": "#D55E00",
     "borderColor": "#ffeaa7",
     "precision": "territorial proxy offset in Bit-Adini; fortified stronghold, exact site unknown",
-    "tags": ["place", "ancient", "Aramean-associated", "Bit-Adini", "fortified-stronghold", "Neo-Assyrian-annals"],
+    "tags": [
+      "place",
+      "ancient",
+      "Aramean-associated",
+      "Bit-Adini",
+      "fortified-stronghold",
+      "Neo-Assyrian-annals"
+    ],
     "settlementType": "town",
     "labelSize": "10px",
     "symbolSize": 5,
@@ -811,7 +1054,14 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "14px",
     "precision": "proposed Magarisu/modern Al-Hasakah proxy only; Bit-Yahiri is text-attested in the Upper Mesopotamian/Khabur region, but its exact location and extent remain uncertain; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "Upper-Mesopotamia", "Khabur"],
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aramean-associated",
+      "Upper-Mesopotamia",
+      "Khabur"
+    ],
     "settlementType": "region",
     "symbolSize": 30,
     "label": "Bit-Yahiri"
@@ -823,7 +1073,14 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "14px",
     "precision": "broad lower-Khabur/Middle-Euphrates proxy near the proposed Suru-Tell Fiden center; Bit-Halupe is associated with the Khabur-Euphrates corridor, but its boundaries and the Suru/Tell Fiden identification remain uncertain; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "Lower-Khabur", "Middle-Euphrates"],
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aramean-associated",
+      "Lower-Khabur",
+      "Middle-Euphrates"
+    ],
     "settlementType": "region",
     "symbolSize": 30,
     "label": "Bit-Halupe"
@@ -835,7 +1092,13 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "14px",
     "precision": "approximate polity-center reference only; Bit-Zamani was an ancient polity associated with the Aramean political landscape, but its extent and exact location remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "Upper-Mesopotamia"],
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aramean-associated",
+      "Upper-Mesopotamia"
+    ],
     "settlementType": "region",
     "symbolSize": 30,
     "label": "Bit-Zamani"
@@ -847,7 +1110,13 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "14px",
     "precision": "approximate polity-center reference only; Bit-Bahiani was an ancient Aramean-associated polity, but its extent and exact location remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "Upper-Mesopotamia"],
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aramean-associated",
+      "Upper-Mesopotamia"
+    ],
     "settlementType": "region",
     "label": "Bit-Bahiani"
   },
@@ -858,7 +1127,15 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "14px",
     "precision": "approximate polity-center reference only; Beth-Eden is a biblical toponym commonly identified with Bit-Adini, an ancient Aramean-associated polity near the Euphrates, but its extent and exact location remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "biblical-geography", "Beth-Eden", "Upper-Mesopotamia"],
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aramean-associated",
+      "biblical-geography",
+      "Beth-Eden",
+      "Upper-Mesopotamia"
+    ],
     "settlementType": "region",
     "label": "Bit-Adini"
   },
@@ -869,7 +1146,13 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "14px",
     "precision": "approximate polity-center reference only; Bit-Agusi was an ancient Aramean-associated polity in northern Syria, but its extent and exact location remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "northern-Syria"],
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aramean-associated",
+      "northern-Syria"
+    ],
     "settlementType": "region",
     "symbolSize": 30,
     "label": "Bit-Agusi"
@@ -881,7 +1164,13 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "13px",
     "precision": "approximate political-center reference only; Aram-Damascus denotes an ancient Aramean kingdom associated with Damascus, but its extent and exact location remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "Levant"],
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aramean-associated",
+      "Levant"
+    ],
     "settlementType": "region",
     "symbolSize": 30,
     "label": "Aram-Damasq"
@@ -893,7 +1182,14 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "13px",
     "precision": "approximate polity-center reference only; Hamath was an ancient Aramean-associated kingdom centered on Hamath, but its extent and exact location remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "Levant", "Syria"],
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aramean-associated",
+      "Levant",
+      "Syria"
+    ],
     "settlementType": "region",
     "symbolSize": 30,
     "label": "Hamath"
@@ -905,7 +1201,13 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "13px",
     "precision": "approximate polity-center reference only; Laqe was an ancient polity associated with the Aramean political landscape, but its extent and exact location remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "Upper-Mesopotamia"],
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aramean-associated",
+      "Upper-Mesopotamia"
+    ],
     "settlementType": "region",
     "label": "Laqe"
   },
@@ -916,7 +1218,13 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "13px",
     "precision": "approximate regional reference only; Tob was an ancient Aramean-associated Transjordan region near the Yarmouk, but its center and extent remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "Transjordan"],
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aramean-associated",
+      "Transjordan"
+    ],
     "settlementType": "region",
     "label": "Tob"
   },
@@ -927,7 +1235,13 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "13px",
     "precision": "approximate polity-center reference only; Bit-Gabbar was centered on Sam'al at Zincirli and is associated with the Aramean political landscape, but its extent remains debated; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "southeastern-Anatolia"],
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aramean-associated",
+      "southeastern-Anatolia"
+    ],
     "settlementType": "region",
     "symbolSize": 30,
     "label": "Bit-Gabbar"
@@ -939,7 +1253,13 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "13px",
     "precision": "approximate polity-center reference only; Luash was associated with Hazrek/Tell Afis in the Orontes corridor, while its political relationship with Hamath changed over time; extent and affiliation remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "northern-Syria"],
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aramean-associated",
+      "northern-Syria"
+    ],
     "settlementType": "region",
     "symbolSize": 30,
     "label": "Luash"
@@ -951,7 +1271,13 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "14px",
     "precision": "approximate regional reference only; Suhu was a Middle Euphrates polity in a zone of mixed communities and is associated with the Aramean political landscape, but its extent and affiliation remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "Middle-Euphrates"],
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aramean-associated",
+      "Middle-Euphrates"
+    ],
     "settlementType": "region",
     "label": "Suhu"
   },
@@ -962,7 +1288,13 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "13px",
     "precision": "approximate regional reference only; Hindanu was a Middle Euphrates polity associated with the Aramean political landscape, but its center, extent, and affiliation remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "polity", "Aramean-associated", "Middle-Euphrates"],
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aramean-associated",
+      "Middle-Euphrates"
+    ],
     "settlementType": "region",
     "label": "Hindanu"
   },
@@ -973,7 +1305,12 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "14px",
     "precision": "broad biblical-geography reference only; Paddan Aram is commonly associated with northern Mesopotamia around Harran and the upper Euphrates, in the wider zone near Tur Abdin but not identical to it; its extent and exact location remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "biblical-geography", "Upper-Mesopotamia"],
+    "tags": [
+      "region",
+      "ancient",
+      "biblical-geography",
+      "Upper-Mesopotamia"
+    ],
     "settlementType": "region",
     "label": "Paddan Aram"
   },
@@ -984,7 +1321,12 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "15px",
     "precision": "broad northern-Mesopotamian proxy only; Aram Nahrin/Aram-Naharaim refers to Aram between the Euphrates and Tigris, and the point is shifted east within that broad zone; its historical extent and exact center remain debated; no boundaries shown",
-    "tags": ["region", "ancient", "biblical-geography", "Upper-Mesopotamia"],
+    "tags": [
+      "region",
+      "ancient",
+      "biblical-geography",
+      "Upper-Mesopotamia"
+    ],
     "settlementType": "region",
     "label": "Aram Nahrin"
   },
@@ -995,7 +1337,13 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "15px",
     "precision": "broad ancient regional reference only; Aram is a historical-geographic term whose extent varies by source and period; no boundaries shown",
-    "tags": ["region", "ancient", "historical-geography", "Levant", "Syria"],
+    "tags": [
+      "region",
+      "ancient",
+      "historical-geography",
+      "Levant",
+      "Syria"
+    ],
     "settlementType": "region",
     "label": "Aram"
   },
@@ -1006,7 +1354,12 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "15px",
     "precision": "broad historical-geographic reference only; Bet Aramaye refers to an Aramaic-associated region in Lower Mesopotamia, but its extent and exact location remain debated; no boundaries shown",
-    "tags": ["region", "Beth-Aramaye", "Lower-Mesopotamia", "Iraq"],
+    "tags": [
+      "region",
+      "Beth-Aramaye",
+      "Lower-Mesopotamia",
+      "Iraq"
+    ],
     "settlementType": "region",
     "label": "Bet Aramaye"
   },
@@ -1018,24 +1371,268 @@
     "labelColor": "rgba(0,0,0, .15)",
     "labelSize": "14px",
     "precision": "broad regional reference only; approximate point at 37.45° N, 41.1° E; regional range approximately 37.4°–37.5° N and 40.7°–41.5° E; no boundaries shown",
-    "tags": ["region", "historic-heartland", "modern-geography", "Upper-Mesopotamia", "Turkey"],
+    "tags": [
+      "region",
+      "historic-heartland",
+      "modern-geography",
+      "Upper-Mesopotamia",
+      "Turkey"
+    ],
     "settlementType": "region",
     "label": "Tur Abdin"
   },
-  {"name":"Bet-Urhay","lat":37.16708,"lng":38.793919,"labelColor":"rgba(0,0,0, .15)","precision":"approximate polity-center reference only; Bet-Urhay is associated with Urhay/Edessa, but its extent and relationship to the later city remain debated; no boundaries shown","tags":["region","ancient","polity","Upper-Mesopotamia"],"settlementType":"region","label":"Bet-Urhay"},
-  {"name":"Beth-Rehob","lat":33.0,"lng":35.6,"labelColor":"rgba(0,0,0, .15)","precision":"broad regional reference only; Beth-Rehob is commonly placed near the upper Jordan Valley or southern Beqaa, but its center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Levant"],"settlementType":"region","label":"Beth-Rehob"},
-  {"name":"Bit-Amukani","lat":31.75,"lng":45.4,"labelColor":"rgba(0,0,0, .15)","precision":"broad southern-Babylonian regional proxy only; Bit-Amukani is associated with the Euphrates between Nippur and Uruk, but its center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Bit-Amukani"},
-  {"name":"Bit-Dakkuri","lat":32.5,"lng":44.4,"labelColor":"rgba(0,0,0, .15)","precision":"broad central-Babylonian regional proxy only; Bit-Dakkuri is associated with the Euphrates near Borsippa, but its center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Bit-Dakkuri"},
-  {"name":"Bit-Hadipe","lat":36.3,"lng":40.2,"labelColor":"rgba(0,0,0, .15)","precision":"broad upper-Mesopotamian regional proxy only; Bit-Hadipe is associated with the Khabur corridor, but its center and extent remain uncertain; no boundaries shown","tags":["region","ancient","polity","Khabur"],"settlementType":"region","label":"Bit-Hadipe"},
-  {"name":"Bit-Saalli","lat":33.0,"lng":45.0,"labelColor":"rgba(0,0,0, .15)","precision":"broad Babylonian regional proxy only; Bit-Saalli is associated with the Tigris and eastern Babylonia, but its center and extent remain uncertain; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Bit-Saalli"},
-  {"name":"Bit-Shilani","lat":33.7,"lng":44.5,"labelColor":"rgba(0,0,0, .15)","precision":"broad Babylonian regional proxy only; Bit-Shilani is associated with the Euphrates and central Babylonia, but its center and extent remain uncertain; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Bit-Shilani"},
-  {"name":"Bit-Yakini","lat":31.3,"lng":46.0,"labelColor":"rgba(0,0,0, .15)","precision":"broad southern-Babylonian regional proxy only; Bit-Yakini is associated with the Tigris-Euphrates marshlands, but its center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Bit-Yakini"},
-  {"name":"Gambulu","lat":33.7,"lng":46.0,"labelColor":"rgba(0,0,0, .15)","precision":"broad eastern-Babylonian regional proxy only; Gambulu is associated with the Tigris and the Elamite border, but its center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Gambulu"},
-  {"name":"Hatallu","lat":38.0,"lng":37.1,"labelColor":"rgba(0,0,0, .15)","precision":"broad southeastern-Anatolian regional proxy only; Hatallu is poorly located in the available record and its center and extent remain uncertain; no boundaries shown","tags":["region","ancient","polity","Aram-Elya"],"settlementType":"region","label":"Hatallu"},
-  {"name":"Litau","lat":32.8,"lng":45.4,"labelColor":"rgba(0,0,0, .15)","precision":"broad Babylonian regional proxy only; Litau is associated with the Euphrates and the Bet Aramaye setting, but its center and extent remain uncertain; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Litau"},
-  {"name":"Maacah","lat":33.1,"lng":36.2,"labelColor":"rgba(0,0,0, .15)","precision":"broad southern-Levantine regional proxy only; Aram-Maacah is associated with the Golan Heights and Mount Hermon, but its center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Levant"],"settlementType":"region","label":"Aram-Maacah"},
-  {"name":"Pattin-Unqi","lat":36.2475,"lng":36.3764,"labelColor":"rgba(0,0,0, .15)","precision":"approximate Amuq-plain polity-center reference only; Pattin/Unqi was associated with Kunulua, but its extent and cultural boundaries remain debated; no boundaries shown","tags":["region","ancient","polity","Amuq"],"settlementType":"region","label":"ʿUmqā"},
-  {"name":"Puqudu","lat":32.5,"lng":46.3,"labelColor":"rgba(0,0,0, .15)","precision":"broad eastern-Babylonian regional proxy only; Puqudu is associated with the Tigris and the Elamite border, but its center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Puqudu"},
-  {"name":"Railu","lat":33.0,"lng":45.8,"labelColor":"rgba(0,0,0, .15)","precision":"broad Babylonian regional proxy only; Ra'ilu is associated with the Bet Aramaye setting, but its center and extent remain uncertain; no boundaries shown","tags":["region","ancient","polity","Bet-Aramaye"],"settlementType":"region","label":"Ra'ilu"},
-  {"name":"Zobah","lat":34.2,"lng":36.5,"labelColor":"rgba(0,0,0, .15)","precision":"broad Beqaa and southern-Levantine regional proxy only; Aram-Zobah's center and extent remain debated; no boundaries shown","tags":["region","ancient","polity","Levant","biblical-geography"],"settlementType":"region","label":"Aram-Zobah"}
+  {
+    "name": "Bet-Urhay",
+    "lat": 37.16708,
+    "lng": 38.793919,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "approximate polity-center reference only; Bet-Urhay is associated with Urhay/Edessa, but its extent and relationship to the later city remain debated; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Upper-Mesopotamia"
+    ],
+    "settlementType": "region",
+    "label": "Bet-Urhay"
+  },
+  {
+    "name": "Beth-Rehob",
+    "lat": 33.0,
+    "lng": 35.6,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad regional reference only; Beth-Rehob is commonly placed near the upper Jordan Valley or southern Beqaa, but its center and extent remain debated; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Levant"
+    ],
+    "settlementType": "region",
+    "label": "Beth-Rehob"
+  },
+  {
+    "name": "Bit-Amukani",
+    "lat": 31.75,
+    "lng": 45.4,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad southern-Babylonian regional proxy only; Bit-Amukani is associated with the Euphrates between Nippur and Uruk, but its center and extent remain debated; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Bet-Aramaye"
+    ],
+    "settlementType": "region",
+    "label": "Bit-Amukani"
+  },
+  {
+    "name": "Bit-Dakkuri",
+    "lat": 32.5,
+    "lng": 44.4,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad central-Babylonian regional proxy only; Bit-Dakkuri is associated with the Euphrates near Borsippa, but its center and extent remain debated; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Bet-Aramaye"
+    ],
+    "settlementType": "region",
+    "label": "Bit-Dakkuri"
+  },
+  {
+    "name": "Bit-Hadipe",
+    "lat": 36.3,
+    "lng": 40.2,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad upper-Mesopotamian regional proxy only; Bit-Hadipe is associated with the Khabur corridor, but its center and extent remain uncertain; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Khabur"
+    ],
+    "settlementType": "region",
+    "label": "Bit-Hadipe"
+  },
+  {
+    "name": "Bit-Saalli",
+    "lat": 33.0,
+    "lng": 45.0,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad Babylonian regional proxy only; Bit-Saalli is associated with the Tigris and eastern Babylonia, but its center and extent remain uncertain; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Bet-Aramaye"
+    ],
+    "settlementType": "region",
+    "label": "Bit-Saalli"
+  },
+  {
+    "name": "Bit-Asalli",
+    "lat": 36.6667,
+    "lng": 39.3333,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad regional reference only; Iron Age Aramean territory between Harran and Guzana",
+    "tags": [
+      "region",
+      "ancient"
+    ],
+    "settlementType": "region",
+    "label": "Bit-Asalli"
+  },
+  {
+    "name": "Bit-Shilani",
+    "lat": 33.7,
+    "lng": 44.5,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad Babylonian regional proxy only; Bit-Shilani is associated with the Euphrates and central Babylonia, but its center and extent remain uncertain; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Bet-Aramaye"
+    ],
+    "settlementType": "region",
+    "label": "Bit-Shilani"
+  },
+  {
+    "name": "Bit-Yakini",
+    "lat": 31.3,
+    "lng": 46.0,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad southern-Babylonian regional proxy only; Bit-Yakini is associated with the Tigris-Euphrates marshlands, but its center and extent remain debated; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Bet-Aramaye"
+    ],
+    "settlementType": "region",
+    "label": "Bit-Yakini"
+  },
+  {
+    "name": "Gambulu",
+    "lat": 33.7,
+    "lng": 46.0,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad eastern-Babylonian regional proxy only; Gambulu is associated with the Tigris and the Elamite border, but its center and extent remain debated; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Bet-Aramaye"
+    ],
+    "settlementType": "region",
+    "label": "Gambulu"
+  },
+  {
+    "name": "Hatallu",
+    "lat": 38.0,
+    "lng": 37.1,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad southeastern-Anatolian regional proxy only; Hatallu is poorly located in the available record and its center and extent remain uncertain; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Aram-Elya"
+    ],
+    "settlementType": "region",
+    "label": "Hatallu"
+  },
+  {
+    "name": "Litau",
+    "lat": 32.8,
+    "lng": 45.4,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad Babylonian regional proxy only; Litau is associated with the Euphrates and the Bet Aramaye setting, but its center and extent remain uncertain; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Bet-Aramaye"
+    ],
+    "settlementType": "region",
+    "label": "Litau"
+  },
+  {
+    "name": "Maacah",
+    "lat": 33.1,
+    "lng": 36.2,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad southern-Levantine regional proxy only; Aram-Maacah is associated with the Golan Heights and Mount Hermon, but its center and extent remain debated; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Levant"
+    ],
+    "settlementType": "region",
+    "label": "Aram-Maacah"
+  },
+  {
+    "name": "Pattin-Unqi",
+    "lat": 36.2475,
+    "lng": 36.3764,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "approximate Amuq-plain polity-center reference only; Pattin/Unqi was associated with Kunulua, but its extent and cultural boundaries remain debated; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Amuq"
+    ],
+    "settlementType": "region",
+    "label": "ʿUmqā"
+  },
+  {
+    "name": "Puqudu",
+    "lat": 32.5,
+    "lng": 46.3,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad eastern-Babylonian regional proxy only; Puqudu is associated with the Tigris and the Elamite border, but its center and extent remain debated; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Bet-Aramaye"
+    ],
+    "settlementType": "region",
+    "label": "Puqudu"
+  },
+  {
+    "name": "Railu",
+    "lat": 33.0,
+    "lng": 45.8,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad Babylonian regional proxy only; Ra'ilu is associated with the Bet Aramaye setting, but its center and extent remain uncertain; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Bet-Aramaye"
+    ],
+    "settlementType": "region",
+    "label": "Ra'ilu"
+  },
+  {
+    "name": "Zobah",
+    "lat": 34.2,
+    "lng": 36.5,
+    "labelColor": "rgba(0,0,0, .15)",
+    "precision": "broad Beqaa and southern-Levantine regional proxy only; Aram-Zobah's center and extent remain debated; no boundaries shown",
+    "tags": [
+      "region",
+      "ancient",
+      "polity",
+      "Levant",
+      "biblical-geography"
+    ],
+    "settlementType": "region",
+    "label": "Aram-Zobah"
+  }
 ]
